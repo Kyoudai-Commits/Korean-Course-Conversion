@@ -1,0 +1,218 @@
+Hello, I'm Sangsoo Jeong.
+In this chapter, let's learn about light and color.
+This time, let's talk about the theoretical content of light and color.
+Light and color are inseparable.
+Because there's light, there's also color.
+Even the same object takes on red under red light, and blue under blue light.
+It also varies depending on the material.
+Light and color should always be in a relationship that influences each other.
+For example, let's take a figure bathed in sunset light, cut out the person, and paste them into a clear photo.
+They'd be floating there, all yellow and red.
+After adjusting the color to fit the environment, it at least looks more in place.
+This is how lighting environment affects color.
+In a drawing, light must follow a certain rule.
+When we draw, we set up the light.
+If you've set up the light, you have to maintain that setting.
+For instance, if light comes from the right on the face, it can't come from the left on the body.
+I've seen many cases where people ignore this and draw from memory, so the face ends up with a familiar light applied, while the body doesn't match, creating a sense of disconnect between them.
+Unless it's a special situation, always keep it unified.
+You might think, what's the point of saying something so obvious? Surprisingly, a lot of people don't follow this well.
+I drew a simple example here.
+It's a drawing where light falls on a nose.
+Many people like this lighting setup.
+The light is coming down almost vertically.
+Did you sense the problem?
+The problem with this picture is that the light wasn't used consistently.
+It's the result of combining a familiar face coloring and a familiar body coloring without a standard for light.
+Even if it looks okay for now, my drawing skill will stay stuck here, and I won't be able to move forward.
+There's a big difference between drawing with knowledge and drawing without it.
+First, you need to understand why the light hits the nose this way.
+It's a case where the light falls nearly vertically, and while the light is blocked by the hair, only the nose, which sticks out the most on the face, receives the light.
+This kind of distinct shadow boundary can't appear on the neck.
+For a shadow like this to form, the light would have to come in at an angle like this.
+In that case, there's no way the nose would get that stripped-down, empty feeling.
+The body below it is the same too.
+It's the same light setup as the shadow I drew on the neck.
+So the body is using a different light setup than the face.
+I've redrawn this picture to match the light setup.
+Even if this picture doesn't look hugely wrong, you can feel a certain disconnect somewhere.
+Especially as the rendering progresses, it will get more pronounced.
+Rather than this kind of habitual coloring, sometimes you need to be a bit calculated.
+So you can draw under a variety of lighting conditions.
+Objects have their own color and value.
+Let's call it inherent value.
+You have to keep this inherent value well.
+You've probably drawn a cylinder at school or an academy.
+They teach you that if darkness and brightness go from 0 to 10, you should cram in everything from 0 to 10.
+That's not a good way to learn shading.
+They're just trying to get you accustomed to extreme exercises of dark and light with a pencil, and to gradients.
+If we apply that to our drawings, we get very bad pictures.
+It becomes a picture with strong contrast even though it's not metal.
+Keep the inherent value well: dark materials go dark, medium materials go medium.
+Bright materials stay relatively bright. That's the rule.
+It's extremely important.
+You should always color while thinking about this inherent value.
+It means that skin should be brighter than jeans, and a t-shirt should always look brighter than skin.
+Light can also strengthen or weaken color.
+For instance, if a warm-colored object receives warm-colored light, that color is reinforced.
+Conversely, if a blue object receives warm light, the blue will look dulled.
+You can easily observe this under a sunset sky.
+The side receiving the red sunset light will glow yellow and red, and the opposite side will receive the blue sky light, creating bluish shadow and shade.
+The same goes for a clear daytime.
+A surface receiving bright, pure white light will have its color come alive vividly, while a dark surface and shadows that don't will pick up the reflected blue sky color and other surrounding colors.
+Let's recall why shadows are blue outdoors.
+In a snowfield, you can observe this phenomenon more clearly.
+Under a clear blue sky, the shadows on a snowfield are blue, influenced by the sky.
+Under an overcast sky, the shadows take on a muted color due to the influence of the cloud light.
+Let's check with a drawing.
+This is a drawing assuming a clear sky.
+So, a drawing using a bright, slightly warm sun light and a blue fill light.
+This is a drawing assuming an overcast sky.
+Together with the object's own desaturated colors, the reflected light is also desaturated, so a low-saturation picture was completed overall.
+I tend to mainly use the qualities of sunlight in my drawings.
+Because it's the light most familiar to people.
+Let's always remember the comfort that comes from familiarity.
+On a clear day, the boundaries of shadows are distinct.
+Because sunlight travels in a straight line.
+Dark areas touching the sky receive the blue sky light and take on a blue tint.
+Bright areas are so strongly lit by the sun that the blue reflected light can't exert itself.
+To explain overcast days compared to clear days: first, the sun, the light source, gets scattered as it passes through the clouds.
+Because of the light scattered by the clouds, the shadow boundaries become blurry and soft.
+Because the light splits up and reaches everything evenly.
+Since the blue sky light can't pass through the clouds, no blue reflected light forms either.
+There are clear pros and cons: it has less impact than a strong lighting setup, but it's easier on the eyes, and there's its own melancholic atmosphere.
+I tend not to use scattered light like on overcast days, because my taste favors clear and intense light.
+When I work on concept art, I usually set up a strong light coming from one side and a reflected light on the opposite side.
+The advantage of this is that the light becomes rich.
+The more places light reaches, the more I can bring out the volume of each element.
+I sometimes use backlight too.
+For concept art that doubles as mood painting, I use it when I want to give the character a sense of pressure.
+When using backlight in concept art, the strong light comes from behind the character, but even then I place a soft light in front so it doesn't get too dark.
+Light can be expressed in various ways depending on which material it reflects off of.
+Basically, light from a light source at an angle of incidence reaches our eyes along an angle of reflection based on the normal.
+The normal is the line drawn perpendicular to the object.
+If the angle of incidence changes, the angle of reflection changes too.
+The rougher the material, the more diffuse reflection occurs.
+Let me explain with examples.
+The line drawn perpendicular to the surface is called the normal, right?
+Based on this normal, the light bends, and if the surface is this rough, the light scatters.
+You can see this in various materials, and you can see it in skin, leather, and rough metal too.
+Skin looks smooth on the outside, but under a microscope the surface is bumpy.
+In most materials around us, diffuse reflection occurs.
+The light doesn't concentrate but scatters, so the contrast is relatively low.
+Conversely, if the surface is smooth, the place the light reflects is concentrated, so the contrast looks strong.
+Smooth metal or plastic, for example.
+If the surface is smooth, it's easy to pinpoint the highlight.
+If the surface is rough, it's hard to pinpoint the highlight.
+The same goes for curved surfaces.
+Depending on the surface material, that is, the roughness of the surface, the rendering has to differ.
+It's like how celebrities have a glow on their face, but someone like me with dull skin doesn't.
+Another important thing is total internal reflection.
+It's a physics term, and it's hard.
+The gist is that as the angle of incidence gets bigger, the reflectance gets higher.
+As you can see, the bigger the angle of incidence, the higher the reflectance.
+Beyond a certain angle, it totally reflects.
+Let's do an experiment in a place with a fluorescent light.
+There's a cute duck behind a transparent plastic sheet.
+I took this photo under a fluorescent light.
+The fluorescent light passes through the plastic and you can see the duck.
+But what if you move the position to increase the angle of reflection?
+The reflectance of the plastic rises, so the fluorescent light can't pass through and is totally reflected.
+The duck has disappeared.
+The reason you can see pebbles on the bottom through the clear water near the bank, but the farther you look, the more the trees, mountains, and sky around you are reflected, is also because of total internal reflection.
+This can be used very effectively in drawings, so it's good to draw with it in mind.
+I brought a photo where total internal reflection is clearly visible.
+As you can see, on the near side, light passes through the water, reaches the pebbles, and reflects back, so we can see the pebbles.
+But the farther you look, the bigger the angle of incidence of the light gets.
+Light doesn't pass through the water but reflects, and the water surface becomes a mirror.
+Light varies depending on the situation.
+Let's study the light we can observe around us in our own way and apply it to our drawings.
+I told you color is inseparable from light.
+Light has color too.
+In illustration, you usually unify it into one color family.
+Depending on the color of the light, you cover the whole thing with the same color family.
+It makes the picture feel stable and lets you focus on the elements in the picture.
+You can also deliberately make a color pop. If there's a part that pops, the gaze naturally goes there.
+Use it when you want to focus attention.
+In concept art, you should refrain from giving color to the light.
+Because 3D modelers hate it.
+Light and color exist in the background too.
+Usually you use a lot of white for the background, but sometimes you cover it with black or gray.
+Here, the brightness of the character must also change according to this background color.
+On a white background, bright, scattered reflected light generally washes over everything, so it gets brighter.
+On a dark background, there's relatively less scattered reflected light, so it doesn't wash over.
+I moved a picture drawn on a white background to a dark background.
+It feels a bit like it's floating.
+Conversely, I moved a picture drawn on a black background to a white background.
+It's become too dark.
+Even a meaningless plain background affects the character, so draw keeping that in mind.
+When I design, I set the colors broadly, about two tones.
+I set a main color and a supporting color.
+Set it broadly first, then break it down finely.
+I prefer about a 7 to 3 ratio: the main color is 7 and the supporting color is 3.
+There are lots of good references around.
+For example, a white t-shirt with jeans, gold and red, black and gold, and red and black, and so on.
+There are familiar and effective two-tone color schemes.
+I use value contrast in these two-tone colors, but I don't use complementary contrast much.
+Because I think complementary contrast is a color contrast you don't often see in reality.
+You can draw good pictures well enough without using many colors.
+Because of that, I use complements sparingly, as a point color.
+I don't use blue much either.
+I've mainly designed medieval-style games.
+They say blue pigment was expensive back then.
+So people back then wore a lot of warm-colored clothing.
+The East is the same too.
+Even today, aside from jeans, I almost never wear blue clothes.
+I recommend using colors that are familiar to our eyes.
+So it feels real.
+But if you use this in reverse, it's good for designing something that doesn't feel real.
+That's one of the reasons you see a lot of blue in the sci-fi genre.
+Ah.
+When drawing skin, I draw with a lot of awareness of the surrounding environment.
+If the background is dark, it means there's little light scattering around, so I draw the shadows dark.
+If the background is bright, it's because the light is scattering.
+I also mix a bright color of the same family into the shadows of the skin.
+An object's color is influenced by light, so you shouldn't memorize color codes and color with them.
+You always have to think organically and draw.
+If the light is strong, the boundary between the lit and shadow areas can come alive in red.
+That's called subsurface scattering.
+Our skin is semi-translucent.
+It's said our reflectance is only about thirty percent.
+Most of the light gets absorbed.
+If the light is strong, the light absorbed in the skin reflects from within.
+Then it comes back out, and at that point it carries the color of the blood.
+This creates this phenomenon.
+It also serves to soften the edge of the skin.
+Thin parts like ears or fingers can also look translucent.
+Let's talk more about reflected light.
+I said that light of the same family reinforces color.
+Observe the color of a finger in the surroundings.
+The reflected light from the face washes onto the finger, raising its saturation.
+This phenomenon isn't limited to skin; it can appear on anything, like clothes or accessories.
+The brighter the object, the more it's influenced by its surroundings.
+Let's look at a photo.
+Here you can see the blue reflected light washing over from the sky.
+The arm is the same too.
+Even though it's the same darkness, you can see this part is relatively less blue than this part.
+I explained total internal reflection before.
+If you draw the cross-section of the arm, it's like this, and the blue reflected light comes in this way.
+Because the angle of incidence is large.
+Clothes are the same too.
+This part is bluer than this part.
+And the red light reflected from the flower pattern on the clothes is washing over even the blue.
+Inside the neck, no blue reflected light washes in.
+Because it's blocked by the neck.
+The inside of the legs is the same too.
+The light scattered by the clothes makes it a bit brighter than the arm.
+If you observe these phenomena well and apply them to your drawing, you can draw more realistically.
+Light and color should be approached theoretically and resolved emotionally.
+Based on theoretical study, practice realistic light and color, and on top of that, add your own taste as you find even more beautiful light and color.
+I think the eye is important in digital drawing.
+In hand-drawn work you can't make various attempts in one picture, but digital drawing makes that possible.
+That's a blessing.
+As long as you have an eye, through many coloring attempts and software adjustments, you'll be able to find the optimal light and color.
+Take in a lot of your surroundings in daily life.
+And I hope you'll store them in the reference warehouse in your head.
+Then the light and color of my drawings will become rich too.
+This time, we looked at the theoretical content of light and color.
+Next time, we'll look at how to easily apply this light and color to a picture.

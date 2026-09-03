@@ -1,0 +1,234 @@
+Hello, I'm Sangsoo Jeong.
+This time, let's learn about various correction methods.
+When and why do we use correction?
+When I'm stuck on a picture because I don't like it, I sometimes use the correction function.
+If you look at a picture for a long time while drawing, it becomes so familiar that it's hard to figure out whether there are problems or whether there's a better direction.
+So I tell people to look at the picture again the next day, next week, next month.
+When you look at the picture again when it's somewhat forgotten, you can view it from a more objective perspective.
+You can see a similar effect when you do correction.
+Because the feel of the picture changes noticeably depending on the degree of correction.
+I think this correction function is where the advantage of digital painting is maximized.
+Correction is more effective in illustration than concept art, but it can be applied to concept art too, so let's study it.
+First, let's learn about the area selection method for correction.
+When you want to change a specific part or color, it's convenient if the layers are divided.
+Using the layer functions we learned in the shortcut explanation time, you can easily correct it.
+But what if the layers are merged into one like this?
+If you want to select only a specific area within a layer.
+You can use various area selection tools.
+You can use the lasso tool or the magic wand tool I mentioned earlier.
+But the method I often use is this color range selection function.
+If you open the color range window, it changes to an eyedropper-shaped cursor like this.
+Click the color you want to select in the picture.
+Here, adjusting the tolerance lets you set how similar colors to the one you selected a moment ago are also selected.
+For the range, you can set the range of selection based on the position you clicked a moment ago.
+Changing the selection area preview like this makes it easier to view.
+There are pros and cons to this.
+First, to talk about the downside: it's hard to select only the area you want.
+Because it pulls in all colors of a similar family.
+You can adjust it somewhat with the tolerance.
+The advantage is that, since it selects all similar colors, you can correct while maintaining unity.
+After selecting like this, you duplicate the selection area, then do the correction.
+You keep the original.
+Let me do a correction as an example.
+Only the selected area can be corrected like this.
+After selecting like this, you can correct in various ways.
+Let me go through the corrections I often use, one by one.
+First, let's closely look at the curve correction I've used often in previous chapters.
+Let's first look at the graph.
+Here there's a part labeled input.
+This input axis represents the brightness and darkness of the original state, and this output axis represents the brightness and darkness after correction.
+For example, assuming the axis range is 0 to 255, if you raise the middle part like this, it means the brightness of the part corresponding to 127 in the input appears changed to 196 in the output.
+I only raised the middle part here, but you can see the other parts come up along with it.
+In this way, this graph is always transformed into the shape of a curve, so it's called curve correction.
+And these bar graphs represent the value distribution of the picture.
+This picture is mostly midtones overall, so the graphs are centered like this.
+Let me also look at it with another picture.
+This picture's contrast is distributed on the high side overall.
+Here, there are relatively many midtones and dark tones.
+That's because the scales, which take up a large area here, are in the midtones and dark tones.
+And I don't touch these two endpoints much.
+Forcibly unifying the value loses a lot of information.
+For example, after raising this left endpoint up.
+If you press OK and turn the curve correction on again, you can see that all the information in the dark area on this left side is lost.
+However, I sometimes use it when drawing backgrounds.
+To give a sense of atmospheric perspective, I remove the darkest area so the darkest part of the background doesn't get darker than the darkest part of the character.
+In this way, you can correct RGB all at once, or you can correct them separately.
+For example, if I leave it on red and do curve correction, I can only adjust the red tone.
+If I raise only the middle part, only the midtones become red.
+For this curve correction, I usually use an S-curve correction.
+You can keep the midtones and make the bright tones brighter and the dark parts darker, to raise the contrast.
+A correction like raising the middle like a mountain, like this.
+I sometimes use that too.
+Keeping the overall contrast but bringing out the midtones so the picture has stability.
+Besides this, there are various value correction methods like brightness and contrast, and levels, but I recommend curve correction, which is intuitive and can make detailed corrections.
+Next is hue and saturation correction.
+The shortcut is Control and U.
+When you open this correction window, the familiar HSV sliders appear, and with these you correct the layer or the selected area within the layer.
+If you move the hue slider, it corrects based on the current hue.
+For example, this red line, if you move it to the right.
+It changes to yellow, green, and then blue in order.
+If you check the colorize button here and try it, it changes based on the hue in the slider.
+It's good to use it together with the area selection function we learned before.
+Shall we try it?
+Let me change this red color to a different color.
+Open the color range window, click this part.
+Adjust the tolerance, and press OK.
+Duplicate the layer, press Control and U, and adjust the slider.
+You can easily change the color, right?
+Since I don't want to change the skin color, I'll erase it.
+I also sometimes use the color balance function.
+It's Control and B.
+You can correct the highlights, midtones, and shadows separately.
+Shall we try it?
+If you click the highlights like this and move the slider, it corrects mainly the bright parts.
+Conversely, if you click the shadows and try it, it corrects mainly the dark areas, right?
+This can be used effectively on the pictures with the lighting setup I said I use often: warm key light, cool fill light, or reflected light.
+Move the slider toward warm colors like yellow and red for the bright areas, and toward cool colors like cyan and blue for the dark areas.
+If you do that, the bright parts, that is, the parts receiving the key light, get their warm tone alive, and the dark parts receive the blue reflected light.
+And the cool tone comes alive.
+Next is the color lookup function.
+There's no shortcut, so you click to use it.
+I don't know why it's called the color lookup function.
+It's a function I learned when I worked on Riot's splash art.
+A lot of people use photo filter apps, right?
+You can think of it as a similar function.
+It's better for illustration work than character key art.
+Anyway, if you look at the top item here, there are various presets.
+Let me change it.
+There are various feels.
+I'm a bit drawn to this feel.
+But using it as-is is too much and clumsy.
+When that happens, there's a function we can use.
+That's turning it into a correction layer.
+If you click the circle button in the layers panel here, there's the same color lookup button.
+Click this.
+If you select the same preset, you can see it changes.
+Since it's been turned into a layer, through opacity adjustment.
+You can give a difference in degree.
+So natural correction is possible.
+Since you can also do masking, even more natural correction becomes possible.
+If you look at the square part of this layers panel, it's all white, which means the correction property of this layer is applied to all areas.
+If you activate the brush, select black or a gray of your desired density from the color picker, and paint.
+You can see the darkened part is excluded from the correction.
+Conversely, the whitened part is re-applied with the correction.
+Using an airbrush would be natural, right?
+Other corrections can likewise be turned into layers.
+Here, if you hold Alt and hover the cursor between the correction layer and a layer, this icon appears.
+If you click at that time, the correction is applied only to that layer below.
+Let me try it with another picture.
+If I want to apply this correction layer only to this layer below, hold Alt and click between the layers.
+Group the layers, and likewise hold Alt.
+If you click between the correction layer and the group file, the correction is applied only to the grouped layers.
+I hope you'll use these functions well and operate the correction functions smartly.
+Besides these Photoshop correction functions, there are also ways to add light with a brush, and so on.
+You paint using brushes like an airbrush.
+You can use a standard layer like this.
+Or you can use various layer properties to give a light feeling.
+Naturally, you'd paint the parts that should shine.
+This also isn't good if you paint it just anywhere like this.
+It's good to use it only on the parts you want to emphasize.
+Like this.
+How should you do correction?
+The purpose of these correction functions is to bring out the points of the picture you've expressed.
+If this high-density metal is the point, it's good to correct it so this part stands out better and looks shiny.
+And you can also try changing this intense red to be more vivid.
+Then let me organize the purpose of correction.
+One, for clarity and gaze concentration on the part that will be the point.
+Two, to separate object from object.
+Three, for varied colors.
+For number one, gaze concentration on the part that will be the point, the number one correction is an extension of the concentrate and release work.
+Naturally, you'd want to make the concentrated part stand out.
+Usually, I make one layer and add light with an airbrush, doing a lot of that work.
+It's especially effective on these metals.
+If the light is strong, you can also do this correction on the skin.
+Also, the atmosphere reflects light too.
+Usually, on the part you want to emphasize.
+I design it so light reaches it.
+If you broadly apply it with an airbrush on the side the light comes from, like this.
+You can get the effect of making the light feeling rich.
+You can even more bring out the part you want to emphasize.
+I use an airbrush for these tasks too.
+But I mainly use this soft texture brush here.
+Because with an airbrush, the brush mark doesn't remain, so it can be a bit boring at times.
+For number two, separating object from object. This is also one of the parts I consider important when drawing.
+On a flat canvas, the overlap between objects like this can be an element that somewhat reduces the three-dimensionality.
+I draw to avoid overlapping as much as possible, but obsessively avoiding overlap when placing them is also strange.
+I mean, a character can't be keeping their arms spread out.
+In cases where the arm overlaps like this, I do this.
+I separate the layer of the arm.
+And add light to the below naturally.
+This part here is the same too.
+Even though it's a black cape, using a blue mist, I took action so the body's silhouette comes alive.
+The overlapping part of the weapon and the hat above it was likewise painted with a blue airbrush to correct it.
+The separation between objects is important.
+You can do it with design, or with posing.
+If objects unavoidably overlap, you have to separate them with post-correction like this.
+For number three, varied colors. This is what I think is Photoshop's most amazing ability.
+Even if I habitually draw using only this area here, by using the correction function I can create color values in areas I didn't use.
+I can easily create colors I didn't have.
+Imagine you discover a piece of clothing with a design you really like at a clothing store.
+But the color you like is discontinued.
+You'd turn around.
+You also try dyeing at the hair salon.
+I bleached multiple times and dyed it, but I didn't get the color I wanted.
+By the time the hair was as damaged as it was going to get, they told me I couldn't re-dye it.
+But in digital drawing, you can freely change colors for free, without limit.
+Until you get the color you want.
+Whether it'll be pretty to other people is a question after that.
+Just because I dye my hair like a celebrity doesn't mean I'll become as cool as a celebrity.
+So the base is important.
+That's the reason I tell beginners to refrain from using the correction function when doing practice or copy-study.
+Now let's look at a real-world example.
+What kind of correction did this picture get?
+In illustration, the family of colors is important, I said.
+This picture unifies this blue tone, and does a correction that separates only the point-colored skin and the purple marbles.
+As a result, the overall tone is unified and the point elements could stand out more.
+This picture uses backlight, and I wanted to create a very strong highlight through the effect of total internal reflection.
+Especially on this hair and shoulder area.
+As a result, I could concentrate the gaze toward the face.
+And this picture wasn't originally planned with this pink tint from the start.
+Originally, since it's a gumiho, I dressed it in white traditional clothes.
+And receiving yellow moonlight, it was a picture that was overall yellow and bright in feeling.
+Since the fox was white, the clothes white, the skin white, and the hair white, the picture really looked boring.
+The picture from that time isn't saved, so I'm sorry I can't show it to you.
+Anyway, thinking like that, I couldn't go further, and I started touching the correction function.
+As I fiddled with the correction here and there, the colors became varied, and I began to see a path.
+Then I drew a few more days and finished it.
+In this way, the correction function can also be used in the middle stage of a picture.
+As a side note, this picture is a picture I drew when I was twenty-four, and after nine years, I've retouched it a bit now.
+As you can see, I balanced the left and right with a transform.
+And slightly improved the clarity.
+When I was twenty-four, I drew without glasses.
+It's fun to see the difference caused by glasses.
+And I said you should bring out the point elements even more.
+Through the color correction explained this time, I made the overall pink tone stand out even more.
+Through various modifications and corrections, I think the picture became a bit more stable.
+What do you think?
+Then how can this picture be corrected?
+Because I focused on drawing elements I hadn't drawn often, the planning wasn't thorough, so I don't like it.
+I should at least use correction to bring the picture to life a bit.
+If it were me, here, to bring out the point panels.
+Add light and raise the background contrast.
+And separate it from the character.
+And bring out the blue tone of the darkness and shadows.
+And mix a bit of warm color into the light-receiving side.
+So I could add interest to the uniform white tone that could look boring.
+We've learned about various correction functions and methods.
+These correction functions are like seasoning that makes a well-drawn picture look even better.
+As commercial artists, we need to make our pictures sell a bit better.
+If you're an active illustrator, you should work hard to get even one more like.
+Correction functions play the role of turning an eighty-point picture into an eighty-two.
+But used wrongly, an eighty-point picture could become a seventy.
+Also, correcting a fifty-point picture can't turn it into a ninety.
+The purpose of correction is to make a picture a bit more pleasing.
+The base has to be good for correction to shine too.
+I compared the correction function to black bean sauce over fried rice.
+These days, it's hard to find really delicious fried rice.
+It's called oil rice.
+Since I like Chinese food, I eat it often.
+It's a fried rice of oil-soaked rice topped with black bean sauce, sold for nine thousand won, and it really feels like betrayal sometimes.
+It's less of a cost for ingredients and quick to make, which is good, but you can't build a regular customer.
+Really well-made fried rice is delicious even just eating the rice.
+I should work hard to draw the base picture beautifully, without relying on the correction function.
+This time, we talked about various correction methods and how to use them.
+Next time, let's talk about using various Photoshop functions.

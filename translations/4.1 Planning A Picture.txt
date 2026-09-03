@@ -1,0 +1,139 @@
+Hello, I'm Sangsoo Jeong.
+This chapter, before actually drawing a character concept art, let's briefly plan the design, talk about how to gather references, then proceed to the sketch.
+We need to decide what to draw before we draw.
+If it's company work or an outsourced job, you'd receive a document.
+Sometimes there's a detailed setting and story that'd remind you of a character from a grand novel, and other times they just toss you a few simple keyword words.
+Even preparing a game key art portfolio and simply deciding which character to draw can be considered part of character planning.
+If you're vaguely wondering what to draw, this process will help.
+What's contained in a character planning document?
+Let me imagine a very simple document.
+Usually, we assume drawing a character concept key art.
+Since this class only deals with humans, let's assume drawing a human.
+You'd be divided into male and female.
+And the age group would be written, and the occupation would be written.
+And the era would be written.
+What era they lived in, what class they were, how they were living.
+Really simple, right?
+Surprisingly, sometimes you don't even get a document like this.
+With a document like this, you get lost as to what on earth to draw.
+So we need to expand this short planning.
+Let me see how to go about it.
+When I worked at a company, I usually received brief instructions before work.
+For example, this picture was drawn on the instruction to draw a wild warrior character with a sense of weight.
+And this picture was drawn on the instruction to draw a filler with the keyword of a medieval nun, contrasting with the warrior.
+Both of these works were drawn when I was a twenty-six year old, three-year veteran, still a novice.
+I remember going through a lot of trial and error, working clumsily.
+I'm going to use that as an example.
+It's not a planning document, it's a sentence.
+I had my own ideas, changing the planning sentence of this picture.
+Since the motif is a nun, religious coloring shows through, but using a real religion is sensitive, so that won't work.
+Since it's a nun concept, let me draw it all black.
+It's a filler, so it'll be holding a staff.
+Thinking of religious items here, I thought of intricately crafted accessories or a staff, and so on.
+Since I drew it with only fragmented ideas, without considering that I was drawing a game character, I remember making a huge number of corrections as I drew.
+There are various elements to consider when drawing, but since this work, I've been picking out the silhouette.
+Why is that?
+While working as usual, there was something the producer requested importantly, and that was the variance between characters.
+Another thing was.
+That it should be clearly visible when the characters are scaled down small in the game.
+So since the warrior character was overall dark, I changed the healer character, which was also overall black, to white.
+And to make it visible within the game, it wears a cape.
+In game concept art, the contrast between characters is extremely important.
+Many of you play mobile games, right?
+Because characters are crammed into a small screen, for distinction, the variance between jobs needs to be strongly felt.
+And it needs to be visible.
+Among the elements that can clearly distinguish the individuality of characters within a small screen are silhouette, value, and hue.
+Among these, the one that catches the eye the most is the silhouette.
+Simply put, you need an effective big mass.
+Because of that, when I work on character design now, I put the character's variance, that is, the silhouette focused on big masses, as the top priority.
+I said you have to start big and finish fine.
+A silhouette set in a big outline sparks a variety of inspirations.
+That's why I do simplified sketches focused on the silhouette.
+I'm not talking about the silhouette of a human body, or anything like that.
+Let me give an example.
+This warrior character shows overall a massive quality that goes beyond the category of human.
+That worked effectively in the game too, allowing it to appear as a sturdy tank-type warrior character.
+This healer character was drawn with a glamorous body overall, but honestly, at this level it doesn't show effectively in the game.
+So I added a cape to create volume.
+For this ranged dealer character, which has a relatively slim and normal body type, where did the silhouette come from?
+First, I equipped thick protective gear on the legs to reinforce the silhouette.
+But that wasn't enough.
+I was able to bring out the mass with a huge gatling gun.
+Is it enough to just add mass mindlessly?
+How should you add mass?
+Just as contrast between characters is important, contrast within a character is important too.
+My colleagues and I would call it concentrate and release.
+It's a good phrase to keep in mind when designing.
+For details too, concentrate where you should concentrate, and naturally release the rest.
+Likewise, for the silhouette, concentrate where you should, and release the rest.
+Shall we look at an example of concentrating and releasing in the silhouette?
+The warrior character has a body where a relatively massive upper body stands out.
+Because of that, the lower body got a silhouette only enough to naturally support that upper body.
+The filler is the same.
+Since the cape takes care of the mass, I made the body fitted.
+The ranged dealer character also has the weapon taking care of the mass, so the body.
+The body could be relatively fitted.
+It's good to do this kind of variance from the planning stage.
+Next, the thing to think about is keywords.
+If I briefly organize the necessary contents of a planning document, it comes together like this.
+Gender, age, class, era, value, hue, silhouette, body type, what to concentrate on, and keywords.
+For personal work, it'd be fun to add a brief background story or the character's personality.
+And the work instruction for this healer concept art can be organized like this.
+It was an instruction to draw a woman.
+And I set the age arbitrarily.
+Because it was an instruction to draw a healer.
+And it was a game with a medieval fantasy setting.
+It had the keyword of a nun.
+How can you fill in the remaining blanks?
+Usually, when you receive a planning document at a company, or get a verbal design request, they often give you settings from which you can infer the keyword.
+For example, like this picture, draw a healer with a nun concept, or put armor on a rose concept, and so on.
+Sometimes they give even more detailed settings.
+Like, in the beginning there were a god race and a demon race, and so on and so on. We have to use this keyword and branch out in various ways to design.
+It's called drawing a mind map.
+Taking various words derived from the keyword as motifs.
+If you design that way, the design will be more consistent and convincing.
+You don't need to over-branch.
+Just as when we draw pictures or design, we establish a big frame then do detailed work, a big keyword and a few elements to support it are enough.
+Let me draw a mind map and establish the direction of the design.
+Freely write down related words, like spreading branches.
+Sometimes you form the design in your head.
+Or search the keyword on Google or Pinterest to get inspiration.
+The simpler the keywords, the better.
+I pursue simple designs.
+If the keywords are simple, the design is simple too.
+For example, this healer picture started with the keyword nun, and through a mind map a few supporting keywords were drawn out, and working with those allowed the design to take concrete form.
+Let me add these keywords to the planning too.
+This blue part is the planning added through the mind map.
+Nothing special, right?
+That's good.
+The design can become simpler.
+Like this, by drawing out keywords through a mind map and going into work, the design becomes more organized and you can reach a quicker conclusion.
+It's also easier to find references.
+By varying the supporting keywords, you can also pull out various options.
+With this method, in later chapters, we'll plan the game concept art options.
+This time, I want to draw a character with a futuristic design, based on a healer style that was popular among my drawings.
+Like this healer character, it'll likely be a character wearing a cape or coat.
+I want to do a clean design without any disorder.
+First, I'll draw a woman.
+The reason is simple.
+Because more than half of consumers prefer female characters, and more than half of my classmates probably prefer watching a female character being drawn.
+I say this many times, but we have to remember we're doing commercial art.
+For age, likewise, I'll draw a young woman.
+Around twenty to thirtyish.
+Because it's what consumers prefer, and it's less boring when it's refreshing.
+For occupation, I'll go with the magic class.
+This is my taste.
+When I play games, I mainly play magic-class characters.
+Especially, I prefer games with big, beautiful meteors.
+For the era, let me go with a futuristic fantasy setting.
+I want to try an era I haven't drawn much, and colors I haven't used much.
+So for the use and hue, since it's a bright futuristic setting, I'll base it on a blue tone, per my own judgment.
+For the silhouette, likewise.
+I plan to bring it out with a cape or coat.
+For the keyword, as I said, a clean and simple design.
+For the supporting keywords, as a result of going through a mind map, we set them to polygons, transparency, and light.
+Let's start working with this planning.
+This way, by drawing up a brief planning and going into the work, the references to find are specified, quick envisioning is possible, and you can draw the picture systematically.
+Especially the silhouette and hue keywords will be the key points of the design.
+This time, we had a time to make our own brief planning for a character concept.
+Next time, let's talk about how to gather and use references based on the planning.

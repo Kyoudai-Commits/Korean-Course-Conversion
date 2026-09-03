@@ -1,0 +1,815 @@
+1
+00:00:05,530 --> 00:00:06,220
+Hello.
+
+2
+00:00:06,354 --> 00:00:10,460
+This time, we'll look at setting up your working environment.
+
+3
+00:00:10,464 --> 00:00:13,820
+First, I only use Photoshop in my class.
+
+4
+00:00:13,821 --> 00:00:20,940
+There are lots of drawing programs, but the main reason I use Photoshop is that it's versatile and especially well-suited for coloring.
+
+5
+00:00:21,820 --> 00:00:23,020
+Its correction features are great too.
+
+6
+00:00:23,820 --> 00:00:33,900
+When you buy Photoshop, Adobe offers several plans, and there's one called Photoshop Single App that I think a lot of people buy.
+
+7
+00:00:34,765 --> 00:00:37,720
+I got tricked into buying that at first too.
+
+8
+00:00:37,721 --> 00:00:47,000
+The apps included differ by plan, but since we only need Photoshop, you should just buy the Photography plan, which is about eleven thousand won a month.
+
+9
+00:00:47,001 --> 00:00:50,360
+I'm using version Creative Cloud 2022.
+
+10
+00:00:50,361 --> 00:00:57,320
+With a version that's too old, I can't properly use the brushes I use, so I'd recommend updating.
+
+11
+00:00:57,720 --> 00:01:00,200
+For the tool, I use a tablet.
+
+12
+00:01:00,201 --> 00:01:02,520
+Up until two years ago I used an Intuos 3.
+
+13
+00:01:03,200 --> 00:01:07,280
+I bought it when I first started drawing and used it for about ten years.
+
+14
+00:01:07,281 --> 00:01:14,480
+I thought about replacing it if it broke, but I used it as a cutting board and handled it roughly, and it was so sturdy it never broke.
+
+15
+00:01:14,481 --> 00:01:15,481
+It wasn't a vertical one, by the way.
+
+16
+00:01:16,054 --> 00:01:18,160
+Now I use an Intuos Pro.
+
+17
+00:01:18,694 --> 00:01:22,560
+The pressure levels are higher, so I can make more precise pressure adjustments.
+
+18
+00:01:22,561 --> 00:01:28,800
+These days I draw with a relaxed hand, so the Intuos Pro, which has higher pressure levels, suits me well.
+
+19
+00:01:29,654 --> 00:01:37,380
+If you end up getting hired by a company, they almost always issue you a Wacom tablet, so it's good to get used to one, and I'd recommend it.
+
+20
+00:01:38,259 --> 00:01:42,180
+For monitors, I use the Dell UltraSharp series.
+
+21
+00:01:42,419 --> 00:01:44,420
+It's a dual-monitor setup.
+
+22
+00:01:44,421 --> 00:01:48,980
+If you're doing digital drawing, having at least dual monitors is essential.
+
+23
+00:01:48,980 --> 00:01:55,860
+For the sub monitor, if you rotate it vertically using the pivot feature, it helps when drawing tall concept art.
+
+24
+00:01:59,924 --> 00:02:02,830
+Here's my Photoshop screen layout.
+
+25
+00:02:02,831 --> 00:02:04,670
+I use the Korean version.
+
+26
+00:02:04,670 --> 00:02:08,669
+The navigator isn't strictly necessary, but I habitually keep it on.
+
+27
+00:02:08,670 --> 00:02:12,311
+I also habitually zoom in and out by clicking with the mouse.
+
+28
+00:02:13,150 --> 00:02:17,710
+The feature I think is important is this color picker, which uses HSB sliders.
+
+29
+00:02:18,224 --> 00:02:22,190
+From top to bottom, you can adjust hue, saturation, and value.
+
+30
+00:02:22,484 --> 00:02:26,990
+This color picker is effective for the relative use of color I'll explain later.
+
+31
+00:02:28,110 --> 00:02:35,630
+Then there's the layers panel. Since the navigator and color picker don't take up much space, I make the layers panel the biggest.
+
+32
+00:02:37,015 --> 00:02:40,000
+Next is the History panel.
+
+33
+00:02:40,001 --> 00:02:47,200
+It's good for comparing a picture before and after, and it lets you go back in time without pressing Control and Z many times.
+
+34
+00:02:47,201 --> 00:02:57,280
+If you check the box at the front, your work history is saved, and when you use the History brush, it recalls the saved state over the area you brush.
+
+35
+00:02:57,330 --> 00:03:00,400
+This is something I use often, so do get familiar with it.
+
+36
+00:03:00,401 --> 00:03:02,320
+Then there's the brushes panel.
+
+37
+00:03:02,321 --> 00:03:06,000
+I've set mine so it just shows the brush stroke shapes.
+
+38
+00:03:06,344 --> 00:03:08,500
+The reason is that it lets me see all the brushes at a glance.
+
+39
+00:03:08,850 --> 00:03:12,061
+You can configure it whichever way is comfortable for you.
+
+40
+00:03:13,335 --> 00:03:21,120
+If you press Arrange, or use the New Window key, you can duplicate the picture you're working on and display it.
+
+41
+00:03:21,121 --> 00:03:27,801
+I resize the duplicated window so I can see the whole picture, and put it on my second monitor.
+
+42
+00:03:28,840 --> 00:03:36,161
+And if you press the Flip Horizontal button, you can mirror just that window horizontally.
+
+43
+00:03:36,810 --> 00:03:42,851
+If you test it, you can see it updates in real time.
+
+44
+00:03:44,495 --> 00:03:49,841
+Since it's important to see the whole picture, I always keep this up while I work.
+
+45
+00:03:54,280 --> 00:03:56,920
+Now let's look at keyboard shortcuts.
+
+46
+00:03:56,921 --> 00:04:00,680
+These are shortcuts you probably already know, but let me quickly go through them.
+
+47
+00:04:01,240 --> 00:04:03,000
+First, B is the brush tool.
+
+48
+00:04:04,520 --> 00:04:06,680
+E is the eraser tool.
+
+49
+00:04:07,855 --> 00:04:12,760
+The left bracket key reduces the size of the brush or eraser.
+
+50
+00:04:13,935 --> 00:04:17,720
+The right bracket key increases it, and vice versa.
+
+51
+00:04:17,820 --> 00:04:24,881
+For the eyedropper, with the brush selected, hold Alt and click on a color area.
+
+52
+00:04:25,685 --> 00:04:28,871
+That way you can also pick a color from anywhere on the canvas.
+
+53
+00:04:28,910 --> 00:04:30,670
+Next is the Lasso tool.
+
+54
+00:04:32,245 --> 00:04:35,630
+It's also called the lasso tool, and you use it with the L key.
+
+55
+00:04:37,175 --> 00:04:43,680
+If you hold Shift, it adds to your selection; if you hold Alt, it subtracts instead.
+
+56
+00:04:45,560 --> 00:04:53,290
+Press Shift and L to activate the Polygonal Lasso tool, which lets you select jagged regions.
+
+57
+00:04:53,291 --> 00:04:57,571
+Press Shift and L once more to activate the Magnetic Lasso tool.
+
+58
+00:04:59,530 --> 00:05:02,810
+Next, M is the Marquee tool, the rectangular marquee.
+
+59
+00:05:02,860 --> 00:05:05,971
+As the name says, it selects in a rectangular shape.
+
+60
+00:05:06,570 --> 00:05:10,570
+Then when you press Control and T, the Free Transform tool activates.
+
+61
+00:05:12,040 --> 00:05:15,240
+If you right-click, you'll find all sorts of options.
+
+62
+00:05:15,241 --> 00:05:16,840
+It's good to try them out one by one.
+
+63
+00:05:19,715 --> 00:05:20,670
+Like this.
+
+64
+00:05:20,671 --> 00:05:23,390
+You can adjust it this way and that.
+
+65
+00:05:23,415 --> 00:05:27,870
+In particular, there's a feature called Warp that I use a lot.
+
+66
+00:05:31,150 --> 00:05:33,950
+You can flip it horizontally.
+
+67
+00:05:33,951 --> 00:05:35,390
+You can also flip it vertically.
+
+68
+00:05:39,555 --> 00:05:40,750
+And it can rotate too.
+
+69
+00:05:41,550 --> 00:05:46,510
+If you hold R and drag, the screen rotates.
+
+70
+00:05:47,765 --> 00:05:51,310
+Press the Escape key to return to normal.
+
+71
+00:05:51,360 --> 00:05:54,910
+If you hold the spacebar and drag, the screen moves.
+
+72
+00:05:56,570 --> 00:05:59,880
+The slash key locks the layer.
+
+73
+00:05:59,881 --> 00:06:03,880
+See how the padlock icon toggles on and off here?
+
+74
+00:06:03,960 --> 00:06:09,400
+When this icon is active, you can only paint within that layer.
+
+75
+00:06:09,401 --> 00:06:11,480
+It's similar to the mask feature, right?
+
+76
+00:06:11,481 --> 00:06:12,920
+It's something I use often.
+
+77
+00:06:15,020 --> 00:06:17,820
+Control and J duplicates the layer.
+
+78
+00:06:17,821 --> 00:06:18,940
+See, it's been duplicated.
+
+79
+00:06:21,640 --> 00:06:23,800
+Control and E is the key to merge layers.
+
+80
+00:06:24,250 --> 00:06:29,160
+Select two or more layers and press Control and E and they merge into one.
+
+81
+00:06:31,185 --> 00:06:34,970
+There's also a feature to select just the objects inside a layer.
+
+82
+00:06:34,971 --> 00:06:39,770
+Hold Control and click the layer thumbnail in the layers panel.
+
+83
+00:06:39,771 --> 00:06:42,771
+Then only the objects in that layer get selected.
+
+84
+00:06:43,505 --> 00:06:45,690
+I use this a lot too.
+
+85
+00:06:48,300 --> 00:06:54,620
+After making a selection, press Control and J to copy just the selected area into a new layer.
+
+86
+00:06:56,365 --> 00:07:00,770
+After selecting, press Control, Shift, and J to cut and paste.
+
+87
+00:07:02,220 --> 00:07:03,900
+It disappears from the lower layer, see.
+
+88
+00:07:04,650 --> 00:07:06,460
+It's moved to a new layer.
+
+89
+00:07:08,240 --> 00:07:17,040
+If you want to copy multiple layers within a selection at once, press Control, Shift, and C, and only the selected region is copied.
+
+90
+00:07:18,330 --> 00:07:23,660
+When you paste, you can see the entire selected area copied, regardless of the layers.
+
+91
+00:07:25,640 --> 00:07:30,120
+Since I use layer functions flexibly and often, it's good to learn them.
+
+92
+00:07:32,130 --> 00:07:34,860
+F5 brings up the brush settings panel.
+
+93
+00:07:35,100 --> 00:07:41,381
+If it's grayed out, select the brush or eraser tool and it becomes active.
+
+94
+00:07:42,030 --> 00:07:44,910
+Control and S is the save shortcut.
+
+95
+00:07:44,911 --> 00:07:50,430
+It saves the current work to the current file name, overwriting it.
+
+96
+00:07:50,615 --> 00:07:54,520
+If you press Alt, Control, and S, you can save in many different formats.
+
+97
+00:07:59,665 --> 00:08:00,730
+This is the Mixer Brush tool.
+
+98
+00:08:01,320 --> 00:08:03,370
+I use it a lot when blending colors.
+
+99
+00:08:03,371 --> 00:08:07,091
+Originally C was the crop shortcut, but I reassigned it myself.
+
+100
+00:08:07,505 --> 00:08:12,291
+To change it, go to Edit, then Keyboard Shortcuts.
+
+101
+00:08:13,260 --> 00:08:14,460
+Then click on the tool.
+
+102
+00:08:15,745 --> 00:08:16,940
+Scroll down and you'll see the Mixer Brush tool.
+
+103
+00:08:18,835 --> 00:08:26,220
+Click it, type C, and press Accept.
+
+104
+00:08:28,375 --> 00:08:33,280
+And since C was originally assigned to crop, scroll back up.
+
+105
+00:08:35,955 --> 00:08:40,021
+Delete all the shortcut keys for the crop-related functions.
+
+106
+00:08:43,880 --> 00:08:46,840
+The flip-horizontal shortcut is really important.
+
+107
+00:08:48,240 --> 00:08:52,000
+Even though it's a very important key, it has no default shortcut.
+
+108
+00:08:52,001 --> 00:08:55,440
+That's why I assigned it to Control and G.
+
+109
+00:08:55,441 --> 00:08:56,720
+The way to do it is: Edit, then Keyboard Shortcuts, then Application Menus.
+
+110
+00:08:57,985 --> 00:09:10,640
+Click on the Image menu and scroll down, and there's Flip Canvas Horizontal.
+
+111
+00:09:11,205 --> 00:09:16,880
+Click it, type Control and G, and press Accept.
+
+112
+00:09:18,960 --> 00:09:21,920
+The flip-horizontal function is one I use all the time.
+
+113
+00:09:21,921 --> 00:09:25,760
+They say the two hemispheres of the brain are used differently.
+
+114
+00:09:25,761 --> 00:09:33,040
+Because you focus on one side, the picture can look off when flipped, and this lets you get rid of that effect.
+
+115
+00:09:33,041 --> 00:09:38,160
+By flipping a picture you've grown used to, it lets you see it from a fresh perspective.
+
+116
+00:09:38,161 --> 00:09:40,960
+I use very few shortcuts, personally.
+
+117
+00:09:40,961 --> 00:09:44,560
+Maybe because I hated studying so much, I really dislike memorizing things.
+
+118
+00:09:45,440 --> 00:09:47,760
+I didn't memorize the other features because I hardly use them.
+
+119
+00:09:48,209 --> 00:09:54,201
+To put it nicely, the shortcuts I use are like my compact, real-world shortcut set.
+
+120
+00:09:57,500 --> 00:10:00,711
+There are a couple of things to set up in Preferences.
+
+121
+00:10:01,155 --> 00:10:04,030
+Go to the File Handling tab in Preferences.
+
+122
+00:10:05,370 --> 00:10:11,500
+Check Automatically Save Recovery Information Every and set the interval.
+
+123
+00:10:11,505 --> 00:10:13,580
+I have mine set to ten minutes.
+
+124
+00:10:13,581 --> 00:10:23,900
+This way, if Photoshop suddenly crashes or your computer turns off, when you relaunch Photoshop it loads the most recent recovery file saved every ten minutes.
+
+125
+00:10:23,901 --> 00:10:24,901
+It's like insurance.
+
+126
+00:10:25,505 --> 00:10:27,180
+Everyone should have a little insurance, right?
+
+127
+00:10:28,920 --> 00:10:37,651
+Then go to the Performance tab and set the History States to anywhere from 100 to 300, depending on your computer's performance.
+
+128
+00:10:39,150 --> 00:10:42,110
+That increases the amount of work history that gets stored.
+
+129
+00:10:42,270 --> 00:10:47,470
+So if you make a mistake or don't like the picture, you can go further back in time, right?
+
+130
+00:10:47,471 --> 00:10:49,150
+Next is the Scratch Disks.
+
+131
+00:10:50,415 --> 00:10:56,360
+SSDs or HDDs help play a role similar to flash memory.
+
+132
+00:10:56,361 --> 00:11:00,001
+I check all the storage devices I own.
+
+133
+00:11:05,235 --> 00:11:09,580
+The first is the brush I mainly use for line drawing.
+
+134
+00:11:09,581 --> 00:11:12,780
+I'll draw a pear as an example.
+
+135
+00:11:12,781 --> 00:11:14,620
+It's a brush with a pencil feel.
+
+136
+00:11:14,621 --> 00:11:16,460
+I also use it when coloring.
+
+137
+00:11:17,400 --> 00:11:20,741
+This picture was drawn mainly with this brush.
+
+138
+00:11:43,930 --> 00:11:47,610
+The next brush is a round brush with a texture applied to it.
+
+139
+00:11:47,960 --> 00:11:49,450
+I use it for broad strokes.
+
+140
+00:12:08,310 --> 00:12:12,920
+The third brush is the same as the previous one, but with a smaller texture size.
+
+141
+00:12:46,560 --> 00:12:52,080
+The fourth brush is the third brush with only the color jitter removed.
+
+142
+00:12:52,081 --> 00:12:54,080
+Can you see the difference?
+
+143
+00:12:54,160 --> 00:12:55,680
+Honestly, there's not much difference.
+
+144
+00:12:55,681 --> 00:13:00,320
+These second, third, and fourth brushes are like brothers.
+
+145
+00:13:00,321 --> 00:13:03,401
+I use them interchangeably for similar purposes.
+
+146
+00:13:22,255 --> 00:13:25,841
+The fifth brush is just a brush, nothing special.
+
+147
+00:13:28,380 --> 00:13:32,151
+The sixth brush is one I used a lot in the past.
+
+148
+00:13:33,180 --> 00:13:36,990
+This picture was drawn mainly with this brush.
+
+149
+00:13:38,110 --> 00:13:40,110
+You can see the brush grain, right?
+
+150
+00:13:40,111 --> 00:13:45,150
+Since it's a brush with a fixed grain direction, I use it while rotating it like this.
+
+151
+00:13:46,865 --> 00:13:50,330
+Used this way, it gives a charcoal drawing feel.
+
+152
+00:13:50,331 --> 00:13:53,971
+It's not as much as before, but I still use it sometimes.
+
+153
+00:14:06,945 --> 00:14:09,260
+Next is the airbrush.
+
+154
+00:14:09,261 --> 00:14:13,180
+Since it's such a well-known and much-used brush, I'll skip explaining it.
+
+155
+00:14:28,190 --> 00:14:31,911
+The eighth brush is a relatively soft brush.
+
+156
+00:14:33,075 --> 00:14:35,020
+I use it as a stand-in for the airbrush.
+
+157
+00:14:36,380 --> 00:14:39,860
+It has a slight texture so it's not boring.
+
+158
+00:14:42,650 --> 00:14:46,341
+The ninth brush is one I sometimes use when coloring.
+
+159
+00:14:46,810 --> 00:14:52,501
+I mainly use it as a Mixer Brush, and it has a nice soft spreading feel.
+
+160
+00:15:21,210 --> 00:15:26,170
+The tenth brush is a very rough-feeling brush.
+
+161
+00:15:26,171 --> 00:15:30,970
+I don't use it much; it's best for local areas.
+
+162
+00:15:30,971 --> 00:15:34,170
+If you use this kind of brush a lot, your picture gets messy.
+
+163
+00:16:01,375 --> 00:16:04,691
+The eleventh brush also has a textured feel.
+
+164
+00:16:04,730 --> 00:16:06,330
+I use it very rarely.
+
+165
+00:16:41,800 --> 00:16:46,540
+The twelfth brush is one I briefly used for sketching in the past.
+
+166
+00:16:46,541 --> 00:16:49,861
+Now that I use the first brush, I don't use it much.
+
+167
+00:16:54,815 --> 00:17:00,380
+The thirteenth brush is a type that blends color well, so it's good for coloring.
+
+168
+00:17:00,381 --> 00:17:04,380
+It has texture, but among textured brushes it's relatively soft.
+
+169
+00:17:34,244 --> 00:17:38,080
+The fourteenth brush is an airbrush with texture applied.
+
+170
+00:17:38,694 --> 00:17:40,320
+I use this one very rarely too.
+
+171
+00:17:55,419 --> 00:17:58,300
+Next is an explanation of the Mixer Brush tool.
+
+172
+00:17:58,380 --> 00:18:01,340
+I changed its shortcut to C.
+
+173
+00:18:01,341 --> 00:18:05,100
+The tool is different, but the brush is the same.
+
+174
+00:18:05,101 --> 00:18:08,060
+I mainly use this ninth brush.
+
+175
+00:18:08,064 --> 00:18:13,260
+It blends the color picked by the eyedropper with the color on the canvas.
+
+176
+00:18:13,261 --> 00:18:17,660
+Depending on the brush, it blends strongly or weakly.
+
+177
+00:18:17,660 --> 00:18:19,660
+It's good to try it in various ways.
+
+178
+00:18:21,259 --> 00:18:25,500
+Let me continue the apple a bit more using various brushes.
+
+179
+00:18:25,660 --> 00:18:32,780
+About seventy percent of my use is the brushes in the first row, and about thirty percent is the second row.
+
+180
+00:18:32,781 --> 00:18:35,740
+I hardly use the third row.
+
+181
+00:18:35,741 --> 00:18:40,860
+You might covet the brushes I use, but finding the brushes that suit you comes first.
+
+182
+00:18:42,229 --> 00:18:43,800
+Honestly, brushes are just a helper.
+
+183
+00:18:44,839 --> 00:18:48,081
+You should be able to draw a picture with the default brushes alone.
+
+184
+00:18:49,080 --> 00:18:56,170
+But if using various brushes has helped you find the joy of drawing, then I'm fine with that.
+
+185
+00:19:00,464 --> 00:19:02,970
+What's your working environment like?
+
+186
+00:19:02,970 --> 00:19:08,490
+I'm currently a freelancer, so I work at home, and I have a separate work room.
+
+187
+00:19:08,491 --> 00:19:12,570
+I really dislike someone talking next to me or watching me when I work.
+
+188
+00:19:13,159 --> 00:19:16,490
+I'm used to working in a secluded space.
+
+189
+00:19:16,491 --> 00:19:21,930
+If you prefer working in a secluded space like me, you'll run into issues when you work at a company.
+
+190
+00:19:21,931 --> 00:19:28,890
+At the company, I sat in a corner seat and wallpapered my desk with IKEA wood grain to keep myself separated from the surroundings.
+
+191
+00:19:29,665 --> 00:19:31,980
+That was only possible thanks to my boss's consideration.
+
+192
+00:19:32,544 --> 00:19:35,100
+Now I can do it because I'm a freelancer.
+
+193
+00:19:35,101 --> 00:19:38,901
+I was lucky, but I can't say I overcame the need for isolation.
+
+194
+00:19:38,939 --> 00:19:45,020
+If you're thinking of getting hired, you need to get used to working in shared spaces.
+
+195
+00:19:45,021 --> 00:19:53,580
+It'd be good to go to a studio where you can work with other people, or try live streaming on Discord or YouTube.
+
+196
+00:19:53,581 --> 00:19:56,981
+When I work, I sometimes watch videos or listen to music.
+
+197
+00:19:57,689 --> 00:20:01,690
+When the early stages require creative thinking, I don't watch or listen.
+
+198
+00:20:01,691 --> 00:20:07,731
+During the later rendering work, which has become repetitive labor by now, I watch or listen to stave off boredom.
+
+199
+00:20:09,179 --> 00:20:13,950
+Without coffee I feel anxious, and I always keep snacks stocked.
+
+200
+00:20:13,951 --> 00:20:17,390
+These days I sometimes work with my puppy beside me.
+
+201
+00:20:17,390 --> 00:20:22,110
+I think good drawing comes from a psychologically safe working environment.
+
+202
+00:20:22,909 --> 00:20:26,830
+Within the given situation, try to build the working environment that suits you best.
+
+203
+00:20:29,110 --> 00:20:34,520
+This time, we looked at setting up your working environment and how to manage brushes.
+
+204
+00:20:34,521 --> 00:20:39,480
+Next chapter, we'll look at trendy and efficient figure drawing.

@@ -1,0 +1,72 @@
+Hello, I'm Sangsoo Jeong.
+This time, before you start taking the class, I'd like to go over what you should prepare, and talk about what you'll be learning going forward.
+Drawing is an incredibly efficient medium for conveying meaning.
+You can pack in all sorts of meaning without having to explain everything in words.
+Content is being created and piling up on the internet at a tremendous pace, even right now.
+It could be writing, videos, drawings, or photos.
+Among all of that, the power of an image to make you stop scrolling, even as the page flies by, is remarkable.
+It can make you feel a wide range of emotions in just half a second.
+In this course, I'll be sharing my own know-how, the drawing skills and theories that go into making images even more attractive, so they can stop your scroll for half a second longer.
+First, let me explain what you'll need.
+My class uses Photoshop and a tablet.
+I use a Wacom Intuos Pro and Photoshop Creative Cloud 2022.
+If you don't have the same version, the screen might look a little different, so please keep that in mind.
+Other drawing tools like Clip Studio Paint, or tablet PCs like the iPad, won't let you follow along with exactly what I'm doing, but since this is a class for intermediate artists who already have some understanding of drawing, I hope you'll apply the principles and process know-how I explain to your own workflow, without being tied to a specific tool.
+For those of you aiming to get hired by a game company, companies usually provide Photoshop, so learning to work in Photoshop here is something I'd recommend as well.
+Now let me take a quick look at the curriculum.
+In the Welcome chapter, I briefly introduce myself and what we'll be covering.
+In Chapter 1, I talk about the role of concept art and illustration, what's important in drawing, and the methods and mindset for studying it.
+I'll also walk through my own working process along with references, explain its advantages, and take some time to win you over.
+We'll also look at my Photoshop setup and how I operate my brushes.
+I'll explain the working environment I've set up and the shortcuts I mainly use.
+I'll also share the brushes I use often and how to manage them.
+We'll go over that.
+Chapter 2 covers efficient and trendy figure drawing.
+Rather than textbook material, I'll focus on what you can apply right away: realistic-form-based sketching, simplifying sketches, and a staged coloring process. I'll show you how to draw the body with a sense of three-dimensionality, and how perspective and composition can turn a picture that's technically accurate but somehow boring into one that looks good.
+Chapter 3 covers light and color.
+Along with the theory of light and color, we'll practice how to actually handle light, and do a demonstration of applying light to a picture.
+Chapter 4 starts the concept art.
+We'll do brief planning and learn how to use references.
+Based on that plan, we'll proceed with sketching and design.
+In Chapter 5 we'll do the coloring on top of the sketch.
+Through live demonstrations, I'll open up my working process and know-how: line drawing, lighting, coloring methods, design, and so on. And I'll explain it so you get a lot out of each step.
+Chapter 6 covers more advanced coloring.
+We'll look at how to add shadows, which is essential for realistic pictures, how to express different materials, and I'll show you the finishing process together.
+In Chapter 7, I talk about the different ways to color-correct a picture, and how to use Photoshop features to bring a picture to life, along with my own personal tricks.
+Chapter 8 is about mindset when it comes to drawing.
+I talk about overcoming slumps, talent, how to survive as a professional, and practical working tips.
+Digital drawing, especially concept art, is such a red ocean that there are tons of artists competing fiercely.
+HR managers say there are plenty of applicants, but no one to actually hire.
+Do you need some extraordinary special weapon that sets you apart?
+For example, your own unique designs, your own color sense? No, that's not it.
+Companies don't want pictures with flashy designs and flashy colors.
+They want someone who can draw pictures and designs that can blend right into the team.
+A design and color that's inoffensive and unremarkable is the best.
+Ordinariness can be your weapon.
+It's very simple, but it's hard.
+I like to compare drawing, concept art in particular, to fried rice at a Chinese restaurant.
+It's a very plain, simple dish: you get the oil fragrant, then stir-fry egg, vegetables, and rice.
+But depending on the chef's skill, the taste varies enormously.
+To survive among the countless Chinese restaurants, what do you need to do?
+Do you have to make your own unique fried rice?
+Should you mix in raisins?
+Should you mix in blue food coloring?
+That's not what customers want.
+When they order fried rice, they have an expected taste and look.
+Should you make really good black bean sauce?
+The black bean sauce you put on top of the fried rice can be compared to Photoshop's correction features.
+Even if the fried rice isn't great, it lets you eat it masked by the sauce's flavor.
+But no one calls that well-made fried rice.
+So what does it actually take to make really good fried rice?
+I think it's fresh ingredients, the wrist technique and wok-tossing that comes from practice, precise flame control and salt balance, and a little bit of the chef's own secret.
+Drawing is exactly the same.
+In drawing, what matters is accurate form, volume, lighting control, the way color changes with light, optimal composition and gesture, and the brushwork that comes from long practice, all of which exist to communicate design and story.
+These are what we call the fundamentals.
+I'm confident that solid fundamentals, regardless of your style, will greatly raise your value.
+The sauce and the decoration are a matter of taste after that.
+Once you have the basic recipe, you can make fried rice no matter what.
+But the fried rice that turns a restaurant into a famous one is clearly different.
+I want to give you a recipe that can help everyone, from beginner cooks to restaurant owners who have no customers and are struggling.
+We're going to set off on a journey toward drawing delicious pictures.
+This time, we looked at the purpose and meaning of this class.
+Next time, I'll talk about how to study.

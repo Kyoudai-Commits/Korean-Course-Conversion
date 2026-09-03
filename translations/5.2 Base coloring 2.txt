@@ -1,0 +1,129 @@
+Hello, I'm Sangsoo Jeong.
+Last time, we got this far with the first-pass coloring.
+Before proceeding further, let me briefly cover the glazing coloring method from Chapter 3, part 3, as a review.
+First, for comparison, I'll shrink the picture I drew last time and put it up next to me.
+Then I'll color it with glazing from the start.
+First, let me lay down the base color as a single color.
+Then, after rendering it in grayscale, I'll composite the base color layer using the layer property.
+I said inherent value is important.
+Before dividing the value steps, let me set the inherent value first.
+Since there's already a base color set, setting the inherent value isn't hard.
+It's easier to just convert the base color to grayscale, but for the sake of learning, I painted it like this.
+Now I'll render it in grayscale.
+I've done about five minutes.
+Now let me raise the base color layer by changing its property to color.
+The clothing seems too dark, so I'll brighten the grayscale layer of the clothing a bit.
+How is it?
+The first-pass coloring finished too simply.
+The advantage of this glazing coloring method is that you can work fast.
+However, there's the difficulty of having to keep the inherent value, so for beginners it may not be very effective.
+Let me compare by breaking the inherent value.
+I'll unify the inherent value of all layers using curve adjustment.
+How is it?
+The value's all broken now.
+If you decide to color with glazing, you have to work with the mindset of keeping that inherent value at least.
+This time, let me do the painting a bit more finely.
+First, I'll bring up the duplicate view and put it to the side.
+I'm tidying up the details of the clothing.
+Even with the same color clothing, if you bring out this kind of thickness like this, it can look like a different material.
+With a slight touch, the cloth-material clothing has turned into a material with a bit of cushion.
+Since I split the layers, I could paint easily.
+There are pros and cons.
+I'm the type who merges layers as it gets to the later stages.
+But since I've split them well, I'll try to paint as much as possible without merging.
+I need to paint well aligned with the curvature of the body.
+I'll also work on the face rendering, which I had applied carelessly.
+Rather than trying to draw a pretty face, I tend to try to draw an accurate face.
+Because I can't ignore the appeal that comes from realistic facial anatomy.
+Have you heard of the uncanny valley effect?
+It's the phenomenon where as an object becomes more similar to a person, liking rises, but from a certain point it starts to look strange and unpleasant.
+For example, dolls or humanoid robots are likable, but clumsily human-like zombies or ghosts look unpleasant.
+In realistic-style drawing, realistic human depiction is very, very important.
+In the past, when drawing a smiling face, I didn't draw the nasolabial folds, or other things.
+Because I thought nasolabial folds are usually a factor that lowers the beauty.
+But drawing like that, the face somehow looked unpleasant and strange.
+These days, drawing with attention to human anatomy, I express all those parts too.
+I keep rendering.
+A sci-fi style.
+Since it's a sci-fi style design, I plan to make the clothing a material with a very slight reflectance.
+That's why I'm giving it contrast.
+Shall we re-examine why the left part is brighter than the right part?
+If you took Chapter 3, you'd have noticed right away.
+I've drawn a simple top-down view of this character.
+The light is coming from this side.
+The left part receives more light and reflects more toward me, so I drew it brighter.
+Because I usually sketch very briefly, after drawing to this extent, I delete the sketch layer and work.
+But this time, since it's a sketch with a fair amount of detail rendering, it's a waste to get rid of it.
+I'll composite it into each color layer.
+We learned the layer shortcut in Chapter 3.
+I won't mention it separately.
+For each color layer, I select the object and copy just that part of the sketch and merge it in.
+Honestly, there's not much difference between deleting the sketch layer and merging it like this.
+Because for the minimal rendering for 3D modeling, leftover sketch lines aren't a flaw.
+And in illustration, since every part of the picture gets painted over in the end, the sketch lines naturally disappear.
+The more you paint over, the more the sketch lines disappear and the picture looks more realistic.
+It's good to save as you work, in the middle.
+I've already made four files from this picture.
+Once after sketching, once after overhauling the sketch, once at the first-pass coloring last time, and this is the file for the current picture.
+It also has the meaning of backup, but saving in the middle like this lets you compare and analyze.
+A picture doesn't always only go forward.
+It can go sideways, or even backward.
+If you only keep looking at this picture, you have no way of knowing whether you're going sideways or backward.
+So you need a point of comparison.
+Compare with the picture I drew a few hours ago, or yesterday's picture, and bring back the parts where the previous picture was better, keep what to keep, and improve it.
+Likewise, I also leave multiple face layers.
+If I'm happily drawing along, then compare with the previous one and think the earlier face was better, I can easily revert to it.
+I keep rendering.
+These are things I've explained many times, so I don't have much to say.
+As a side note, people usually say I speed up the video except for the parts I'm talking about during demos.
+But before filming the class, I did a survey, and there were many comments wanting to watch a video without speeding up.
+I'm not super fast with my hands, and I have a lot of trial and error while drawing, so if I film with no speeding up, it's too boring from the viewer's perspective.
+So I thought a lot, and figured maybe I could compromise with about a two or three times speed.
+I work on the face rendering in between too.
+It's important to render the whole thing evenly.
+I draw trying various brushes too.
+As you use various brushes, you'll figure out the brush that suits each situation.
+You'll find that brush very naturally.
+While you should be able to draw with just one default brush, that's the basic idea, and there's no need to use just one brush.
+It's good to use them flexibly.
+I remember in the past, coveting other people's brushes and collecting them.
+I thought if I used that artist's brush, I could draw like that artist.
+But that's not the case.
+Going into a famous chef's kitchen and cooking doesn't make my food as delicious as a first-rate chef's food.
+In the end, whatever brush I use, pictures at my level come out.
+Then what standard should I use to collect brushes?
+As I said before, the brush that suits me is good, of course.
+Draw with a new brush, and if it feels good, if it feels like the picture is coming out well, collect that brush.
+It's not really that the picture comes out well because of the brush, but so you can keep going with that good feeling.
+To talk more about brushes, everyone exerts a different amount of hand strength when gripping a pen.
+In the past, when I was a job seeker, I used a very weak pressure level, so I drew exerting a lot of hand strength.
+It was to the point my fingers were crushed.
+Since I was young, I didn't know better, but now I've set it up so that even a little force produces a thick line.
+I recommend holding the pen lightly and using it, if only for the sake of your wrists.
+If needed, I add to the sketch as I paint.
+I explained this many times.
+These sketch lines will be erased as I paint, so you don't have to worry about them.
+Honestly, even if sketch lines remain, they have their own charm.
+Due to the nature of digital drawing, it's easy to draw pictures without human touch, and you can think of it as a bit of humanity.
+These days, I tend to leave more sketch lines.
+It has charm as a picture.
+Painting a large area like this is quite a hassle.
+Too much touch can also look messy.
+Among the provided brushes, soft brushes can show their power at this time.
+It's good to set the direction of the folds with line drawing, then layer it in with a soft brush.
+When drawing folds in clothing, grasp the meeting points and let them fall naturally in the direction of gravity.
+This is easier said than done; drawing naturally is really hard.
+At this time, the best thing is copy-study.
+For example, if you hit a wall drawing clothing folds in this picture, find a photo of someone wearing a gown and draw it.
+After simply grasping the characteristics of the folds, come back to my picture and apply them.
+In my working method, I never draw with the reference up next to me.
+Copy-study is something you do separately.
+I'll also clean up the boundaries.
+When I draw, I think it's important to cleanly separate the boundaries between surfaces.
+Line drawing makes that easy.
+Even without lines, it's good to split the boundaries sharply.
+This is how I finished the first-pass work.
+From now on, it won't differ much from what the finished picture will look like.
+This is the start of boring work.
+They say you draw a picture with your glutes.
+Let me plant my glutes firmly and I'll see you next time.

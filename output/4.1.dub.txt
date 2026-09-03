@@ -1,0 +1,139 @@
+[00:00:06,114 | 00:00:08,270 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:08,271 | 00:00:19,150 | 11s] This chapter, before actually drawing a character concept art, let's briefly plan the design, talk about how to gather references, then proceed to the sketch.
+[00:00:19,369 | 00:00:23,070 | 4s] We need to decide what to draw before we draw.
+[00:00:23,930 | 00:00:27,911 | 4s] If it's company work or an outsourced job, you'd receive a document.
+[00:00:28,035 | 00:00:38,580 | 11s] Sometimes there's a detailed setting and story that'd remind you of a character from a grand novel, and other times they just toss you a few simple keyword words.
+[00:00:38,581 | 00:00:47,341 | 9s] Even preparing a game key art portfolio and simply deciding which character to draw can be considered part of character planning.
+[00:00:47,865 | 00:00:53,460 | 6s] If you're vaguely wondering what to draw, this process will help.
+[00:00:53,540 | 00:00:56,500 | 3s] What's contained in a character planning document?
+[00:00:56,501 | 00:00:59,380 | 3s] Let me imagine a very simple document.
+[00:00:59,381 | 00:01:02,781 | 3s] Usually, we assume drawing a character concept key art.
+[00:01:03,150 | 00:01:08,510 | 5s] Since this class only deals with humans, let's assume drawing a human.
+[00:01:08,510 | 00:01:10,590 | 2s] You'd be divided into male and female.
+[00:01:10,591 | 00:01:13,911 | 3s] And the age group would be written, and the occupation would be written.
+[00:01:14,189 | 00:01:16,430 | 2s] And the era would be written.
+[00:01:16,431 | 00:01:21,870 | 5s] What era they lived in, what class they were, how they were living.
+[00:01:21,871 | 00:01:22,871 | 1s] Really simple, right?
+[00:01:23,074 | 00:01:26,430 | 3s] Surprisingly, sometimes you don't even get a document like this.
+[00:01:26,431 | 00:01:29,790 | 3s] With a document like this, you get lost as to what on earth to draw.
+[00:01:29,791 | 00:01:34,350 | 5s] So we need to expand this short planning.
+[00:01:34,351 | 00:01:36,270 | 2s] Let me see how to go about it.
+[00:01:40,704 | 00:01:46,860 | 6s] When I worked at a company, I usually received brief instructions before work.
+[00:01:46,940 | 00:01:53,260 | 6s] For example, this picture was drawn on the instruction to draw a wild warrior character with a sense of weight.
+[00:01:53,474 | 00:02:01,020 | 8s] And this picture was drawn on the instruction to draw a filler with the keyword of a medieval nun, contrasting with the warrior.
+[00:02:01,021 | 00:02:06,220 | 5s] Both of these works were drawn when I was a twenty-six year old, three-year veteran, still a novice.
+[00:02:06,221 | 00:02:09,419 | 3s] I remember going through a lot of trial and error, working clumsily.
+[00:02:10,094 | 00:02:13,130 | 3s] I'm going to use that as an example.
+[00:02:13,131 | 00:02:15,370 | 2s] It's not a planning document, it's a sentence.
+[00:02:15,371 | 00:02:19,610 | 4s] I had my own ideas, changing the planning sentence of this picture.
+[00:02:19,611 | 00:02:27,130 | 8s] Since the motif is a nun, religious coloring shows through, but using a real religion is sensitive, so that won't work.
+[00:02:27,131 | 00:02:29,770 | 3s] Since it's a nun concept, let me draw it all black.
+[00:02:29,771 | 00:02:32,410 | 3s] It's a filler, so it'll be holding a staff.
+[00:02:32,411 | 00:02:38,570 | 6s] Thinking of religious items here, I thought of intricately crafted accessories or a staff, and so on.
+[00:02:39,470 | 00:02:48,400 | 9s] Since I drew it with only fragmented ideas, without considering that I was drawing a game character, I remember making a huge number of corrections as I drew.
+[00:02:48,401 | 00:02:55,840 | 7s] There are various elements to consider when drawing, but since this work, I've been picking out the silhouette.
+[00:02:56,514 | 00:02:58,000 | 1s] Why is that?
+[00:02:58,001 | 00:03:06,080 | 8s] While working as usual, there was something the producer requested importantly, and that was the variance between characters.
+[00:03:06,081 | 00:03:07,081 | 1s] Another thing was.
+[00:03:07,230 | 00:03:11,600 | 4s] That it should be clearly visible when the characters are scaled down small in the game.
+[00:03:12,564 | 00:03:21,200 | 9s] So since the warrior character was overall dark, I changed the healer character, which was also overall black, to white.
+[00:03:21,815 | 00:03:25,440 | 4s] And to make it visible within the game, it wears a cape.
+[00:03:26,785 | 00:03:31,420 | 5s] In game concept art, the contrast between characters is extremely important.
+[00:03:31,421 | 00:03:33,100 | 2s] Many of you play mobile games, right?
+[00:03:33,820 | 00:03:41,340 | 8s] Because characters are crammed into a small screen, for distinction, the variance between jobs needs to be strongly felt.
+[00:03:41,341 | 00:03:43,420 | 2s] And it needs to be visible.
+[00:03:43,421 | 00:03:52,220 | 9s] Among the elements that can clearly distinguish the individuality of characters within a small screen are silhouette, value, and hue.
+[00:03:52,221 | 00:03:55,621 | 3s] Among these, the one that catches the eye the most is the silhouette.
+[00:03:56,000 | 00:03:59,680 | 4s] Simply put, you need an effective big mass.
+[00:03:59,681 | 00:04:09,360 | 10s] Because of that, when I work on character design now, I put the character's variance, that is, the silhouette focused on big masses, as the top priority.
+[00:04:09,361 | 00:04:14,000 | 5s] I said you have to start big and finish fine.
+[00:04:14,001 | 00:04:18,480 | 4s] A silhouette set in a big outline sparks a variety of inspirations.
+[00:04:18,481 | 00:04:22,240 | 4s] That's why I do simplified sketches focused on the silhouette.
+[00:04:22,320 | 00:04:24,560 | 2s] I'm not talking about the silhouette of a human body, or anything like that.
+[00:04:24,715 | 00:04:25,860 | 1s] Let me give an example.
+[00:04:26,400 | 00:04:31,940 | 6s] This warrior character shows overall a massive quality that goes beyond the category of human.
+[00:04:31,941 | 00:04:38,301 | 6s] That worked effectively in the game too, allowing it to appear as a sturdy tank-type warrior character.
+[00:04:38,400 | 00:04:45,940 | 8s] This healer character was drawn with a glamorous body overall, but honestly, at this level it doesn't show effectively in the game.
+[00:04:45,941 | 00:04:49,700 | 4s] So I added a cape to create volume.
+[00:04:49,701 | 00:04:57,201 | 8s] For this ranged dealer character, which has a relatively slim and normal body type, where did the silhouette come from?
+[00:04:57,590 | 00:05:02,120 | 5s] First, I equipped thick protective gear on the legs to reinforce the silhouette.
+[00:05:02,121 | 00:05:04,040 | 2s] But that wasn't enough.
+[00:05:04,041 | 00:05:07,960 | 4s] I was able to bring out the mass with a huge gatling gun.
+[00:05:07,961 | 00:05:10,520 | 3s] Is it enough to just add mass mindlessly?
+[00:05:10,521 | 00:05:13,080 | 3s] How should you add mass?
+[00:05:13,210 | 00:05:17,800 | 5s] Just as contrast between characters is important, contrast within a character is important too.
+[00:05:17,801 | 00:05:21,360 | 4s] My colleagues and I would call it concentrate and release.
+[00:05:21,750 | 00:05:25,160 | 3s] It's a good phrase to keep in mind when designing.
+[00:05:25,161 | 00:05:30,120 | 5s] For details too, concentrate where you should concentrate, and naturally release the rest.
+[00:05:30,121 | 00:05:36,040 | 6s] Likewise, for the silhouette, concentrate where you should, and release the rest.
+[00:05:36,041 | 00:05:40,280 | 4s] Shall we look at an example of concentrating and releasing in the silhouette?
+[00:05:40,281 | 00:05:45,320 | 5s] The warrior character has a body where a relatively massive upper body stands out.
+[00:05:45,321 | 00:05:50,760 | 5s] Because of that, the lower body got a silhouette only enough to naturally support that upper body.
+[00:05:52,700 | 00:05:53,950 | 1s] The filler is the same.
+[00:05:54,110 | 00:05:58,430 | 4s] Since the cape takes care of the mass, I made the body fitted.
+[00:05:59,670 | 00:06:04,520 | 5s] The ranged dealer character also has the weapon taking care of the mass, so the body.
+[00:06:17,610 | 00:06:20,860 | 3s] The body could be relatively fitted.
+[00:06:21,425 | 00:06:25,900 | 4s] It's good to do this kind of variance from the planning stage.
+[00:06:29,469 | 00:06:33,440 | 4s] Next, the thing to think about is keywords.
+[00:06:33,441 | 00:06:38,560 | 5s] If I briefly organize the necessary contents of a planning document, it comes together like this.
+[00:06:39,200 | 00:06:49,600 | 10s] Gender, age, class, era, value, hue, silhouette, body type, what to concentrate on, and keywords.
+[00:06:49,601 | 00:06:56,681 | 7s] For personal work, it'd be fun to add a brief background story or the character's personality.
+[00:06:57,520 | 00:07:04,480 | 7s] And the work instruction for this healer concept art can be organized like this.
+[00:07:04,481 | 00:07:06,560 | 2s] It was an instruction to draw a woman.
+[00:07:06,561 | 00:07:09,200 | 3s] And I set the age arbitrarily.
+[00:07:09,201 | 00:07:12,320 | 3s] Because it was an instruction to draw a healer.
+[00:07:12,321 | 00:07:15,120 | 3s] And it was a game with a medieval fantasy setting.
+[00:07:15,121 | 00:07:17,280 | 2s] It had the keyword of a nun.
+[00:07:17,281 | 00:07:20,400 | 3s] How can you fill in the remaining blanks?
+[00:07:20,401 | 00:07:28,000 | 8s] Usually, when you receive a planning document at a company, or get a verbal design request, they often give you settings from which you can infer the keyword.
+[00:07:28,705 | 00:07:38,940 | 10s] For example, like this picture, draw a healer with a nun concept, or put armor on a rose concept, and so on.
+[00:07:38,941 | 00:07:41,820 | 3s] Sometimes they give even more detailed settings.
+[00:07:41,821 | 00:07:51,221 | 9s] Like, in the beginning there were a god race and a demon race, and so on and so on. We have to use this keyword and branch out in various ways to design.
+[00:07:51,340 | 00:07:53,340 | 2s] It's called drawing a mind map.
+[00:07:53,341 | 00:07:57,180 | 4s] Taking various words derived from the keyword as motifs.
+[00:07:57,395 | 00:08:02,300 | 5s] If you design that way, the design will be more consistent and convincing.
+[00:08:02,380 | 00:08:04,700 | 2s] You don't need to over-branch.
+[00:08:04,701 | 00:08:14,860 | 10s] Just as when we draw pictures or design, we establish a big frame then do detailed work, a big keyword and a few elements to support it are enough.
+[00:08:14,861 | 00:08:18,700 | 4s] Let me draw a mind map and establish the direction of the design.
+[00:08:18,701 | 00:08:22,620 | 4s] Freely write down related words, like spreading branches.
+[00:08:22,621 | 00:08:25,100 | 2s] Sometimes you form the design in your head.
+[00:08:25,555 | 00:08:30,060 | 5s] Or search the keyword on Google or Pinterest to get inspiration.
+[00:08:31,315 | 00:08:33,820 | 3s] The simpler the keywords, the better.
+[00:08:33,821 | 00:08:36,220 | 2s] I pursue simple designs.
+[00:08:36,221 | 00:08:40,021 | 4s] If the keywords are simple, the design is simple too.
+[00:08:40,670 | 00:08:51,520 | 11s] For example, this healer picture started with the keyword nun, and through a mind map a few supporting keywords were drawn out, and working with those allowed the design to take concrete form.
+[00:08:51,521 | 00:08:54,240 | 3s] Let me add these keywords to the planning too.
+[00:08:54,241 | 00:08:57,600 | 3s] This blue part is the planning added through the mind map.
+[00:08:57,710 | 00:08:59,200 | 1s] Nothing special, right?
+[00:08:59,201 | 00:09:00,160 | 1s] That's good.
+[00:09:00,161 | 00:09:02,240 | 2s] The design can become simpler.
+[00:09:02,241 | 00:09:09,280 | 7s] Like this, by drawing out keywords through a mind map and going into work, the design becomes more organized and you can reach a quicker conclusion.
+[00:09:09,940 | 00:09:11,620 | 2s] It's also easier to find references.
+[00:09:11,621 | 00:09:16,260 | 5s] By varying the supporting keywords, you can also pull out various options.
+[00:09:16,261 | 00:09:22,020 | 6s] With this method, in later chapters, we'll plan the game concept art options.
+[00:09:22,021 | 00:09:28,660 | 7s] This time, I want to draw a character with a futuristic design, based on a healer style that was popular among my drawings.
+[00:09:28,740 | 00:09:33,060 | 4s] Like this healer character, it'll likely be a character wearing a cape or coat.
+[00:09:33,061 | 00:09:36,740 | 4s] I want to do a clean design without any disorder.
+[00:09:36,741 | 00:09:38,740 | 2s] First, I'll draw a woman.
+[00:09:39,360 | 00:09:40,800 | 1s] The reason is simple.
+[00:09:40,801 | 00:09:51,840 | 11s] Because more than half of consumers prefer female characters, and more than half of my classmates probably prefer watching a female character being drawn.
+[00:09:51,841 | 00:09:56,000 | 4s] I say this many times, but we have to remember we're doing commercial art.
+[00:09:56,001 | 00:09:59,520 | 4s] For age, likewise, I'll draw a young woman.
+[00:09:59,521 | 00:10:01,360 | 2s] Around twenty to thirtyish.
+[00:10:01,361 | 00:10:04,880 | 4s] Because it's what consumers prefer, and it's less boring when it's refreshing.
+[00:10:04,881 | 00:10:06,880 | 2s] For occupation, I'll go with the magic class.
+[00:10:07,595 | 00:10:09,220 | 2s] This is my taste.
+[00:10:09,221 | 00:10:12,980 | 4s] When I play games, I mainly play magic-class characters.
+[00:10:12,981 | 00:10:15,780 | 3s] Especially, I prefer games with big, beautiful meteors.
+[00:10:16,180 | 00:10:20,740 | 5s] For the era, let me go with a futuristic fantasy setting.
+[00:10:21,490 | 00:10:26,180 | 5s] I want to try an era I haven't drawn much, and colors I haven't used much.
+[00:10:26,181 | 00:10:34,660 | 8s] So for the use and hue, since it's a bright futuristic setting, I'll base it on a blue tone, per my own judgment.
+[00:10:34,661 | 00:10:36,020 | 1s] For the silhouette, likewise.
+[00:10:36,500 | 00:10:39,860 | 3s] I plan to bring it out with a cape or coat.
+[00:10:39,861 | 00:10:45,300 | 5s] For the keyword, as I said, a clean and simple design.
+[00:10:45,301 | 00:10:52,580 | 7s] For the supporting keywords, as a result of going through a mind map, we set them to polygons, transparency, and light.
+[00:10:52,900 | 00:10:55,620 | 3s] Let's start working with this planning.
+[00:10:55,865 | 00:11:06,100 | 10s] This way, by drawing up a brief planning and going into the work, the references to find are specified, quick envisioning is possible, and you can draw the picture systematically.
+[00:11:06,960 | 00:11:13,520 | 7s] Especially the silhouette and hue keywords will be the key points of the design.
+[00:11:14,885 | 00:11:21,120 | 6s] This time, we had a time to make our own brief planning for a character concept.
+[00:11:21,121 | 00:11:27,721 | 7s] Next time, let's talk about how to gather and use references based on the planning.

@@ -1,0 +1,73 @@
+Hello, I'm Sangsoo Jeong.
+This time too, let's continue coloring this picture.
+Do you remember the clothing detail from when I sketched the prototype version?
+It's this part here.
+I didn't express it in the sketch of the current picture, because I wanted to draw it after confirming the clothing folds to some extent.
+Now that the fold areas are somewhat expressed, let me render that planned detail.
+Since it's a diamond shape, I'll draw a grid in a diamond pattern.
+Naturally, considering the folds.
+It'd be good to be accurate, but it's hard.
+I'm trying to draw it accurately too.
+It's not easy.
+I'm fudging it moderately.
+I don't like the left part, so I'm redrawing it.
+The grid size was smaller than the right side.
+This is truly boring labor.
+But what can you do?
+You can't only draw fun things.
+I've always done this detail work.
+It's so boring I could die, but once it's done I feel proud and the picture quality improves, so I can't give up.
+Since the folds are more wrinkled than the right side, it's hard.
+I'm at the point where I don't even know if I'm doing this right while drawing.
+Well, what can you do?
+I just express it within my ability.
+At times like this, I also want to learn 3D properly.
+I think it'd be convenient to pick it out in 3D and retouch it.
+Since I drew the big grid, let me draw the small grid inside.
+If you draw it finely from the start, it's hard to establish the form.
+Remember: draw big, then draw finely.
+That's such a good phrase.
+You can apply it anywhere.
+Let me separate the areas, as I did in the sketch.
+I'll use the straight-line lasso tool.
+I created a new layer, poured color, and masked it.
+I plan to make this masked part a semi-transparent material.
+I was happy that this boring work was almost over.
+Not being able to imagine some incident that was to come.
+After cutting out this masked part and moving it to a new layer, I adjusted the opacity to make it semi-transparent.
+You can see the leg line that was hidden too.
+Then, through a curve adjustment, I changed it to be a bit darker, so I changed the inherent value.
+Nothing special, right?
+This is how amazing Photoshop is, everyone.
+Now let me also render the panel part that I had hidden.
+I paint the highlight on the surface angles where a highlight would form.
+I also express the thickness.
+I should consider the reflected light, and if there's a need for a highlight on the edges, draw it too.
+This kind of light calculation would be accurate if done in 3D, I think.
+But I think there's also appeal that comes from the clumsiness.
+Because of the video filming, I had too many programs open, so it seems my computer broke down.
+Photoshop crashed.
+Since I normally use the auto-recovery save every ten minutes, I thought I'd lose at most ten minutes, and turned Photoshop back on.
+But there was no recovery save.
+It was despairing.
+It seems I probably messed with the settings while explaining the Photoshop features.
+I turned it on to see how far I'd drawn and saved, and the really annoying part had gone away.
+I put everything down, went and ate a piece of tiramisu.
+My mental state was shattered, and I wanted to just melt away, but I have to work according to schedule.
+It seems something like this happens every quarter.
+Always back up and save, two and three times over.
+Fortunately, there was the recorded video, so I used it to recover.
+Of all things, that had to go away, so I endured the urge to curse.
+Look, I held back.
+My mouth isn't moving.
+The occasionally moving mouth is a yawn.
+Yawn.
+After all the twists and turns, I completed the recovery.
+It seems my computer did that to create an episode for me.
+How impressive.
+Once I get paid, I should change my computer first.
+I'll wrap up this chapter here.
+Once you lose your work like this, the energy drains out of you.
+In the next chapter, I'll talk about and demo all sorts of methods to raise a picture's completion.
+You'll be seeing this picture again.
+Great work.

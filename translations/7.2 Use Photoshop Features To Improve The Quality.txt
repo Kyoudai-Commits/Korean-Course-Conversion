@@ -1,0 +1,280 @@
+Hello, I'm Sangsoo Jeong.
+This time, let's learn about how to use Photoshop functions.
+You can think of it as a continuation of last time.
+First, let me go through the functions I often use, one by one.
+First, there's the blur effect function.
+There are various blur effect functions, but in concept art I don't use them much.
+The one I use most is this Gaussian blur effect.
+It's a simple function, so it's easy to use.
+You can blur the background to give a depth-of-field effect like this.
+Also, after duplicating an object like this, apply a Gaussian blur effect.
+And change the layer property.
+You can easily give a glow effect.
+And the motion blur effect too.
+It's a function I sometimes use.
+It gives a blur effect in a set direction.
+You can give an afterimage effect to something moving fast or a cape fluttering.
+The radial blur effect, I use occasionally too.
+If you actually use it, you get the feel for it.
+It's similar to motion blur, but blurs radially around the center like this.
+It's good when you want to give the effect of light spreading out in all directions from one place.
+And there's the liquify that many people use.
+Let me take a look at it.
+Since many people use it, I'll briefly go over it.
+You can push things like this, or restore them.
+You can smooth out the parts you modified like this.
+And you can change them too.
+You can also rotate it like a vortex shape like this.
+You can make it concave or convex.
+This liquify is what I think of as Photoshop's secret weapon of a function.
+But this secret weapon is like a double-edged sword, you know.
+Should I say that using the secret weapon also deals a blow to me?
+This function is so good and convenient that I've seen many cases of people making pictures with it.
+These Photoshop functions should be used only to the extent of giving a little help to my picture.
+If you think you can't draw without this function, can't finish, or the result is terrible if it's absent, then you should think that you've been studying drawing wrong.
+If you think that as long as the result is good, that's fine, I won't stop you.
+Anyway, even when using these functions, you need to grasp the human form or the shape of the object well to use them accurately.
+If you fiddle around here and there without a firm idea of how to fix it, it's easy to lose the sense of whether it's really doing well or not.
+At least when studying, let's set aside this liquify for a while, and if there's a part of the picture that needs fixing, practice by erasing and redrawing it.
+I keep getting the urge to teach, which is a bit uncomfortable for me, too.
+What can I do?
+I'm the instructor, you know.
+Anyway, this liquify has a fun feature.
+If you draw a face properly, and thankfully Photoshop recognizes it as a face, there's a feature you can use.
+You can move eye size, eye level, width, tilt, and nose height like this, right?
+The width of the mouth, smile.
+It's really strange.
+Lips, lip width, height, and so on, you can adjust them in this much detail.
+I don't use it, but it's fun.
+It feels like customizing in a game, I'd say.
+I'd like to introduce a feature I've recently discovered and use a lot.
+It's this filter gallery.
+Students and aspiring artists, press the back button.
+If you use this at the completion stage of a picture, the filter shows a lot.
+But if you use it in the middle and retouch, you can bring in only the good feel of the filter and use it naturally in my own style.
+Let me click each one like this.
+How do these feel to you?
+For something like this, the look changes drastically, and the clothing takes on a metal feel.
+What I often use is this poster edges filter.
+Lines form at each boundary like this, making the picture very sharp.
+The contrast becomes very strong too.
+The picture looks a bit sturdier.
+It's a filter I use a lot these days.
+Rather than using it as-is.
+Duplicate the layer, apply the filter.
+Lower the opacity to about twenty percent, merge, and it can be applied subtly.
+From this state, continue drawing the picture.
+Let me see an example.
+After applying this filter gallery to this picture and lowering the opacity.
+Let me compare.
+A picture that had been drawn a bit blurry has become sharp and well defined.
+So I thought the feel got better.
+In this way, using the filter gallery to find a new feel is also fun.
+Just boil it a bit more like this and it'll be complete.
+There are various other functions too.
+Shall we go through them one by one?
+For something like this, bring out the brush-mark feel.
+And apply it.
+If I emphasize it once more, if you use the filter gallery like this, you must mix in my painting style through retouching.
+So it's good to use it in the early-to-mid stage rather than the final stage of a picture.
+We looked at Photoshop functions as seasoning that turns an eighty-point picture into an eighty-five.
+This is unrelated to the basic stuff, so please take it as a careful reference.
+Let's also learn about a method to increase the sharpness of a picture.
+If you go to the filter sharpen effect, there are various sharpen effect functions.
+You can use the function that the program automatically sharpens like this, but it's hard to create the sharpness I want.
+For the sharpness I want, I use this unsharp mask.
+To briefly explain the principle of sharpening a picture: the boundaries between objects with large value differences, that is, for example, the boundary between this hand and the coat, or the boundary between the coat and background, you could say.
+It increases the contrast of these boundaries to make them more distinct.
+Let me look at the unsharp mask.
+Here, this amount determines how much to increase the contrast.
+If you set it to a hundred percent, the dark pixels of the boundary are a hundred percent darker, and the bright pixels are a hundred percent brighter.
+Meaning it gives a hundred percent contrast.
+The radius is.
+It sets the radius of this boundary.
+That is, it determines how many pixels around the boundary to apply it to.
+If you raise this to the maximum, it creates the effect of adjusting the whole picture's levels.
+This threshold is the value that sets the tolerance of the boundary.
+A boundary with a value difference lower than the level value set here won't get this sharpen effect.
+The lower this value, the more the sharpen effect will apply to all parts that appear to be boundaries.
+Let's set aside such hard-to-understand content. I usually use an amount of about fifty to a hundred percent, a radius of one to five pixels, and a threshold of about one to ten levels.
+Adjusting it like this and comparing, you can see the picture gets a bit sharper.
+You can also do it another way.
+The method I'll introduce from now is better.
+Duplicate the picture, filter, other.
+Click high pass.
+Then adjust the radius value to the point where the outline is visible.
+Press OK, then change the layer property to overlay.
+If you try it, you can see it gets sharper.
+Since it's been made into a layer, you can adjust the sharpness through opacity.
+Also, you can adjust it while changing the layer property.
+You can sharpen a pattern reference that isn't sharp, like this.
+When you draw concept art or illustration, you often have to draw patterns.
+Patterns often easily raise the density of a picture.
+There are various ways to insert patterns.
+There's the method of drawing directly onto the clothing, the method of compositing photo references, and the method of drawing a pattern and compositing it.
+The method of drawing directly onto the clothing was introduced in the clothing chapter when we drew the clothing's grid pattern.
+It's a method used when drawing simple patterns, and its advantage is that, compared to the other methods, it can be drawn naturally to match my art style and the clothing folds.
+The downside is that for complex patterns, you need huge time and effort.
+The method of compositing a photo is the fastest, but you have to find the pattern you want, and there are copyright issues too.
+Depending on the photo, you may need to make it into a pattern.
+The method of drawing a pattern and compositing it has the advantage of cutting time compared to directly drawing it on the clothing.
+You can draw the pattern you want.
+However, drawing the pattern takes considerable time.
+And if you can't composite it to match the folds, the naturalness somewhat decreases.
+Let me briefly go through each one.
+The method of drawing directly onto the clothing was explained in Chapter 5.
+I draw the pattern really honestly.
+Establish the big lines.
+Then go into the detail.
+The advantage of this is naturalness, but the downside is it takes too long.
+Here you also have to do the coloring.
+For photo composition, you bring in a pattern photo you want like this, correct it, then composite it.
+Usually pattern references only exist in part like this, so you need to make it into a pattern and widen it.
+Let me duplicate it once and widen it.
+All sorts of seams don't connect.
+Let me learn how to make them connect.
+First, you have to analyze this pattern.
+Here, at the very top.
+The cut-off part.
+Let me figure out where on the lower part this corresponds to.
+When I duplicate the layer and overlap them.
+I'll change the layer property to see it well.
+Placing it here, where the pattern overlaps and connects.
+It's here, right?
+Then, after holding Control.
+If you click the layer, the overlapping part gets selected.
+Turn off the layer, and you can see this selected part. I'll erase it here.
+And if you connect it, it naturally connects.
+For the vertical, do it the same way.
+This completes the pattern reference.
+After connecting it all the way, you just composite it.
+Shall we do one more?
+This time, let's try a bit harder reference.
+A pattern shot like this often doesn't connect when you put them together.
+There's this value difference too. The top is bright and the bottom is dark.
+After grasping the pattern, let's extract only the part we need.
+Looking at it, this and this are the same pattern.
+And this and this are also the same pattern.
+Well, this and this are also the same.
+Since a pattern is a repetition of the same design, that means.
+We only need about this much of the pattern.
+Cut this part out.
+Copy it, flip it, and paste it.
+Then a left-right identical pattern is complete, right?
+And here too, cut the middle the same way.
+And this, here and here are the same pattern.
+So we don't need half of it.
+The cut-off part here is around here.
+The flower shape.
+It's the same here below. I'll remove this part.
+This completes the pattern.
+Copy, flip again, and paste.
+If you connect this pattern, you can confirm it connects naturally.
+In this way, you can complete a pattern reference.
+Let me extract from an even harder photo.
+Rotate it to about ninety degrees for working.
+Check the cut-off part.
+I'll cut the top here.
+Looking at where this cut-off part corresponds below.
+It's around here.
+I'll cut here too.
+And.
+Cut here too.
+We don't need this here, right?
+And since this is left-right symmetric, I'll cut again based on here.
+Then in the end, only this part remains as what's needed.
+Right, let me duplicate only this and check once.
+You can see it connects naturally.
+For the part that doesn't connect.
+Erase it the same way.
+This way, it connects naturally.
+And if there's a value difference like this and it doesn't connect.
+You can just brighten it with the dodge tool.
+It connects naturally.
+This is how easily you can make a pattern reference.
+Now let me apply the pattern reference I made to the clothing.
+When inserting a pattern, to avoid breaking the inherent value and color of the clothing, I mainly use this high pass function.
+Click it.
+It strips away the pattern's color, leaving only the raised and recessed feel, so it can be applied more naturally.
+After correcting with the high pass function, composite it with a property like overlay.
+Soft light is fine too.
+These small continuous patterns aren't hard.
+Just paste it.
+In Chapter 6, part 1 I explained the card-section example.
+A free-spirited pattern like this doesn't show much misalignment even if it doesn't match the folds or perspective.
+So when drawing concept art, I sometimes just paste it flat like this.
+When drawing an illustration, it's a bit more complex.
+If you want to be ambitious, you draw these patterns one by one to match the folds.
+Or, draw a grid like this.
+There's also a method of inserting them one by one.
+Cut to match the grid shape.
+Cut using the lasso like this, then insert with the warp function.
+Doing it like this, you wonder what you're doing.
+So it's good to use the method appropriate to each occasion.
+When you need to draw directly on clothing or draw a pattern to make, the deliberation really grows.
+If the pattern is too complex, it's hard to draw in.
+Especially patterns that go on local areas, you can't even see what pattern it is anyway, so you wonder whether I should put in this much effort.
+When drawing weapons, you especially draw a lot of patterns.
+I want to introduce a method of drawing patterns that I've enjoyed using, that's easy, and effective.
+These are weapons I've drawn.
+There are various weapons like this, but if you look closely, you can see they use some of the same patterns.
+Let me try drawing this.
+First, let me draw it as a band shape.
+You can use it in the same place, like in a dream.
+Draw the big lines like this.
+Then split it.
+It's simple.
+You just keep splitting it.
+And since I'll use it as a repeating pattern, I'll cut out only the needed part.
+I'll only draw this part and connect it.
+If I duplicate and flip it, it'll split once more, right?
+Just keep subdividing it like this.
+You don't have to think of the pattern shape as hard.
+Usually people draw a lot of patterns using natural things like leaves or bird wings.
+I'll try drawing a pattern using a leaf.
+Just draw it as if you're filling in the empty spaces.
+Here, this goes in.
+Copy and paste it.
+And here, this will go in.
+Likewise, copy and paste it.
+If you prepare a pattern drawn like this, you can use it in various places.
+It's also easy when painting.
+Just paint part of it.
+And connect it in the border, since you just need to do that.
+If you do that.
+Not hard, right?
+While I'm at it, let me change it to metal and draw it.
+I think it'll feel like this.
+The reason the inside is darker is.
+When metal gets old like this, grime builds up inside.
+Especially the part touching this pattern will accumulate a lot of grime.
+So the boundary of this pattern becomes dark and dirty.
+An easier way to do this is to duplicate this pattern.
+Use the Gaussian blur we learned earlier.
+Then just paint it darker.
+If you do this.
+The boundary of the pattern becomes darker.
+After that, just render it.
+It's not hard.
+Because you only paint this part partially.
+Duplicate the needed part and connect it.
+Not hard, right?
+After rendering like this.
+Just apply it and paste it into the picture.
+If you make a lot of these and collect them, it'll be convenient when drawing.
+When drawing patterns or weapons, you can use the symmetry function.
+Click the butterfly button here.
+If you click the vertical line here, a vertical line appears like this.
+If you paint with a brush here, you can draw a left-right symmetric picture like this.
+Well, it's good when drawing weapons or patterns like this.
+You can easily draw this kind of complex pattern too.
+It'd be good to draw something like this and put it in the center of the cape's back, or somewhere like that.
+When drawing a face straight-on, you absolutely must not use this symmetry function.
+A person's face isn't left-right symmetric.
+Even though it isn't symmetric, it's natural.
+People usually prefer a natural feel over an artificial-feeling face.
+And it doesn't help improve my drawing skill at all.
+Drawing while appropriately balancing it with my own hand is much better.
+We've learned about various Photoshop functions and how to use them.
+I hope you'll use these functions appropriately and smartly to raise the completion of your pictures.
+Next time, let's talk about other tips I can share.

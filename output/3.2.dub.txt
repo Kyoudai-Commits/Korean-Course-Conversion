@@ -1,0 +1,129 @@
+[00:00:05,469 | 00:00:07,790 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:07,791 | 00:00:17,911 | 10s] This time, based on what we learned in Chapter 3, part 1, let's set up lighting and learn about the methods and principles of applying it to a drawing.
+[00:00:20,860 | 00:00:23,870 | 3s] This time, we'll go through it with a hands-on exercise.
+[00:00:23,871 | 00:00:27,390 | 4s] First, let's set up properties like the position and color of the light source.
+[00:00:27,391 | 00:00:30,270 | 3s] We'll set up a light source using the qualities of nature.
+[00:00:30,271 | 00:00:34,350 | 4s] I'll set two light sources at this diagonal.
+[00:00:34,351 | 00:00:36,670 | 2s] It's a warm light close to white.
+[00:00:36,671 | 00:00:40,910 | 4s] And to bring out the three-dimensionality even more, I'll use a blue reflected light on the opposite side.
+[00:00:41,765 | 00:00:44,190 | 2s] So the color and light aren't too strong.
+[00:00:44,191 | 00:00:50,391 | 6s] In reality, sky light doesn't come up from below like this, but for a pictorial expression, I'll set it up this way.
+[00:00:50,895 | 00:00:54,410 | 4s] Applying this to a drawing three-dimensionally is hard.
+[00:00:54,411 | 00:00:57,050 | 3s] When I was a beginner, I was lost too.
+[00:00:57,051 | 00:00:59,130 | 2s] First, let's draw a cube.
+[00:00:59,855 | 00:01:04,410 | 5s] Based on the light I set, let's color the cube.
+[00:01:04,411 | 00:01:08,970 | 5s] It's good to use a material that has a moderate amount of diffuse reflection.
+[00:01:09,050 | 00:01:11,050 | 2s] Think of plaster of paris.
+[00:01:11,051 | 00:01:15,610 | 5s] When I ask students to draw a cube, they all draw it well.
+[00:01:15,611 | 00:01:17,930 | 2s] But what if there are several cubes?
+[00:01:18,550 | 00:01:21,370 | 3s] If there are many, can you draw them accurately?
+[00:01:21,371 | 00:01:24,850 | 3s] I drew several cubes like this.
+[00:01:25,134 | 00:01:27,530 | 2s] Now I need to color them.
+[00:01:27,531 | 00:01:31,610 | 4s] Shall we learn the principle of coloring accurately according to light?
+[00:01:31,611 | 00:01:35,690 | 4s] I drew several cubes from the side, in two dimensions.
+[00:01:36,309 | 00:01:40,090 | 4s] Since it's two-dimensional, they appear as rectangles.
+[00:01:40,091 | 00:01:44,490 | 4s] Then let's set the position of the observer and the position of the light source.
+[00:01:45,979 | 00:01:49,950 | 4s] Usually I set it to sunlight and draw, in many cases.
+[00:01:49,951 | 00:01:54,750 | 5s] If it's sunlight, you can't mark the light source's position in two dimensions.
+[00:01:54,830 | 00:01:57,790 | 3s] Because it's a hundred and fifty million kilometers away.
+[00:01:57,791 | 00:02:01,070 | 3s] But you can draw the direction the light comes from.
+[00:02:01,445 | 00:02:06,110 | 5s] Because the sun is far, the light comes at a uniform angle.
+[00:02:06,111 | 00:02:11,390 | 5s] Let's set it so it comes uniformly at a forty-five degree angle like this.
+[00:02:11,391 | 00:02:17,290 | 6s] Then let's think about where the light ray hits the box and reflects back.
+[00:02:17,291 | 00:02:32,010 | 15s] As we learned in Chapter 3, part 1, the line drawn perpendicular to the surface is called the normal. An incoming light ray, entering at an angle of incidence based on this normal, comes out as a reflected ray at an angle of reflection equal to the angle of incidence.
+[00:02:32,011 | 00:02:33,610 | 2s] Like this.
+[00:02:33,611 | 00:02:41,091 | 7s] However, since it's a material that undergoes diffuse reflection, I've arbitrarily represented the reflected ray as a circular shape.
+[00:02:42,654 | 00:02:44,570 | 2s] Let me call this a ray circle.
+[00:02:45,265 | 00:02:52,170 | 7s] The closer to the reflected ray, the stronger the light, and the farther, the weaker the light.
+[00:02:52,171 | 00:02:59,491 | 7s] Using the position where this ray circle reaches the observer, you can determine the brightness of the object.
+[00:02:59,614 | 00:03:04,010 | 4s] The closer it is to this warm color, the stronger the light the observer feels.
+[00:03:04,490 | 00:03:09,850 | 5s] You might want to consider total internal reflection too, but let's keep it simple like this.
+[00:03:09,851 | 00:03:14,951 | 5s] At this time, if the reflected ray reaches the observer directly, it becomes a highlight.
+[00:03:15,475 | 00:03:16,475 | 1s] At the very top.
+[00:03:17,614 | 00:03:21,080 | 3s] The front of the cube becomes the highlight.
+[00:03:21,081 | 00:03:25,361 | 4s] The rest doesn't get a highlight.
+[00:03:26,970 | 00:03:35,820 | 9s] If you move this ray circle around and compare, you can see the light getting weaker as you go down.
+[00:03:35,821 | 00:03:37,980 | 2s] Let's compare the top face too.
+[00:03:37,981 | 00:03:43,500 | 6s] For these three cubes on top, the observer wouldn't see the top face, right?
+[00:03:43,501 | 00:03:45,260 | 2s] Let's look at the fourth cube.
+[00:03:50,734 | 00:03:53,800 | 3s] The light hits around here in the ray circle.
+[00:03:55,070 | 00:04:04,480 | 9s] You can see the bottom cube is brighter than the one above it, because the observer's position is closer to the reflected ray.
+[00:04:04,481 | 00:04:15,320 | 11s] If we turn this into three dimensions, it gets a bit more complex, but the principle is the same, so let's recall the above and try to draw as accurately as possible.
+[00:04:15,321 | 00:04:19,041 | 4s] Once you've practiced, change the cube to a sphere and draw it.
+[00:04:19,725 | 00:04:24,120 | 4s] Unlike the cube, you can mark a highlight on every part of a sphere.
+[00:04:25,630 | 00:04:37,400 | 12s] If you draw this accurately, you'll see the highlight position gets higher the lower and closer the sphere is.
+[00:04:39,875 | 00:04:48,311 | 8s] What if, instead of sunlight coming from very far away, we switch to a nearby artificial light?
+[00:04:49,500 | 00:04:52,830 | 3s] The light can come like this.
+[00:04:52,831 | 00:04:56,551 | 4s] The position of the highlight has become more fickle.
+[00:04:59,230 | 00:05:07,641 | 8s] Light varies with intensity and angle, but you should remember it also varies with the position of the light source.
+[00:05:11,080 | 00:05:16,360 | 5s] Let's practice applying various lights to this sphere.
+[00:05:16,361 | 00:05:19,320 | 3s] Let's also look at materials.
+[00:05:19,321 | 00:05:24,280 | 5s] I've been asked a lot how to draw metal.
+[00:05:24,281 | 00:05:27,601 | 3s] Among them, especially metal with a smooth material.
+[00:05:27,805 | 00:05:32,520 | 5s] It doesn't leave the light theory we've learned so far.
+[00:05:32,521 | 00:05:38,920 | 6s] Smooth metal has a high reflectance and a relatively even surface, so it reflects surrounding objects.
+[00:05:39,575 | 00:05:40,640 | 1s] It's said to be reflected.
+[00:05:41,100 | 00:05:46,720 | 6s] Since we're people who know a certain amount about light, we'll say it reflects.
+[00:05:46,721 | 00:05:53,200 | 6s] Starting from the surrounding environment, the light reflected off the metal enters our eyes.
+[00:05:53,201 | 00:05:57,920 | 5s] Because of that, when drawing metal, you have to consider the surroundings too.
+[00:05:57,921 | 00:05:59,440 | 2s] First, let's draw a cylinder.
+[00:05:59,790 | 00:06:03,360 | 4s] Then let's set it up as if there's something around it.
+[00:06:03,361 | 00:06:06,840 | 3s] Let's assume the background is a blue world.
+[00:06:07,315 | 00:06:10,140 | 3s] First, there's the observer right in front.
+[00:06:10,141 | 00:06:12,780 | 3s] Let's place objects around it, without much meaning.
+[00:06:12,785 | 00:06:14,460 | 2s] Like this.
+[00:06:14,461 | 00:06:16,060 | 2s] If you look at this from above.
+[00:06:17,285 | 00:06:19,600 | 2s] It would look like this.
+[00:06:19,601 | 00:06:25,520 | 6s] I drew lines considering the angle of incidence and reflection for the light coming off the object.
+[00:06:25,521 | 00:06:29,161 | 4s] The fruit reflects off the cylinder and enters the observer's eyes.
+[00:06:29,870 | 00:06:32,960 | 3s] The observer, of course, gets reflected too.
+[00:06:32,961 | 00:06:34,800 | 2s] The lighting gets reflected as well.
+[00:06:36,990 | 00:06:39,440 | 2s] The mailbox gets reflected too.
+[00:06:39,441 | 00:06:43,760 | 4s] The reflected area comes out like this.
+[00:06:43,761 | 00:06:47,040 | 3s] It's become narrower than the object itself, surprisingly.
+[00:06:48,005 | 00:06:54,160 | 6s] That's why objects appear compressed left and right on a cylindrical metal surface.
+[00:06:54,161 | 00:06:55,161 | 1s] Like this.
+[00:06:57,270 | 00:07:02,440 | 5s] Let's return to three dimensions and draw the objects reflected in the cylinder.
+[00:07:03,160 | 00:07:05,320 | 2s] Stretching out the reflected surfaces.
+[00:07:06,705 | 00:07:10,010 | 3s] At this time, I'll draw without considering the Y-axis.
+[00:07:10,011 | 00:07:15,930 | 6s] Since we're not drawing a mirror, we have to mix in the metal's own color.
+[00:07:15,931 | 00:07:17,930 | 2s] I've arbitrarily mixed in a brass color.
+[00:07:19,990 | 00:07:25,840 | 6s] For the part where the light comes in, keep the bright light, and for realism, blend it naturally.
+[00:07:28,570 | 00:07:32,740 | 4s] This is the basic principle of drawing metal.
+[00:07:34,460 | 00:07:37,150 | 3s] Other materials aren't much different.
+[00:07:37,151 | 00:07:46,430 | 9s] Depending on the polish of the surface, it can reflect honestly like a mirror or smooth metal, or it can reflect only a small part, like paper or skin.
+[00:07:46,431 | 00:07:55,390 | 9s] For example, on a smooth surface, the area where light reflects is limited, but on a rough surface like this, it can appear wide.
+[00:07:55,470 | 00:08:02,510 | 7s] Spreading wide means the light energy can't concentrate in one place and scatters, so only some reaches our eyes.
+[00:08:02,610 | 00:08:06,450 | 4s] Which means the contrast of highlights, etc., also decreases.
+[00:08:06,451 | 00:08:09,090 | 3s] Let's practice the same way with various materials.
+[00:08:09,890 | 00:08:16,110 | 6s] Once you master this, you can confidently apply light to the characters we draw too.
+[00:08:19,770 | 00:08:27,020 | 7s] This is a drawing of a person, drawn by someone who doesn't understand light well, assuming the light comes down vertically.
+[00:08:27,021 | 00:08:28,220 | 1s] What is wrong?
+[00:08:30,650 | 00:08:34,299 | 4s] People who took this chapter properly will have noticed.
+[00:08:34,300 | 00:08:45,660 | 11s] The problem with this picture is that, without considering light theory, it just brightened every part facing upward, on the assumption light comes down vertically from above.
+[00:08:47,055 | 00:08:50,360 | 3s] Let's look at the side view in two dimensions.
+[00:08:50,361 | 00:08:53,921 | 4s] I've marked the points where the highlight should align.
+[00:08:54,710 | 00:08:56,520 | 2s] Shall we find the highlight?
+[00:08:56,521 | 00:08:59,560 | 3s] It's located a bit more toward the front than you'd think.
+[00:08:59,561 | 00:09:04,540 | 5s] And this chest area is blocked from light by the head.
+[00:09:06,595 | 00:09:10,910 | 4s] If you color it properly again, it looks like this.
+[00:09:10,911 | 00:09:19,070 | 8s] Coloring done with habitual and one-sided thinking builds up from the small things and makes the picture look amateurish.
+[00:09:19,071 | 00:09:24,990 | 6s] People who don't understand light often can't render recessed areas properly.
+[00:09:24,991 | 00:09:34,270 | 9s] For example, when drawing a face, people often don't know why a highlight is placed in the recessed area between the nose and the eyes.
+[00:09:34,271 | 00:09:41,630 | 7s] Highlights also form like this within recessed clothing folds.
+[00:09:41,631 | 00:09:45,630 | 4s] If you understand light, you can know the reason.
+[00:09:45,631 | 00:09:50,350 | 5s] I've shown the recessed shape in two dimensions.
+[00:09:50,351 | 00:09:57,790 | 7s] Check the position of the light, and draw the reflected ray according to the angle of incidence.
+[00:09:57,791 | 00:10:01,470 | 4s] Find where the highlight forms.
+[00:10:01,471 | 00:10:04,951 | 3s] A highlight definitely forms in the recessed area too.
+[00:10:05,420 | 00:10:10,430 | 5s] If you draw this in three dimensions, it would look like this.
+[00:10:10,431 | 00:10:18,270 | 8s] Not just raised areas, but recessed areas like this, if you understand light, you can consider them properly and draw them.
+[00:10:18,271 | 00:10:23,310 | 5s] Are these light theories important in concept art and illustration, you ask?
+[00:10:23,390 | 00:10:27,950 | 5s] Realistic light management might not be of great importance to some.
+[00:10:27,951 | 00:10:31,671 | 4s] There's a difference between knowing you're omitting it and omitting it without knowing.
+[00:10:31,950 | 00:10:33,630 | 2s] However, I've always tried to express things realistically.
+[00:10:33,690 | 00:10:38,730 | 5s] And that's what I've been teaching you.
+[00:10:38,810 | 00:10:47,370 | 9s] Just as you have to understand facial anatomy to draw character design through omission and exaggeration, I think light is the same.
+[00:10:47,371 | 00:10:55,770 | 8s] I hope you'll build on realistic light as a foundation and develop it into various styles through omission and exaggeration.
+[00:10:55,771 | 00:11:02,890 | 7s] Based on what we learned this time, next time let's place shapes with light settings on a character sketch.
+[00:11:03,305 | 00:11:06,811 | 4s] And we'll have a time to apply and color it.

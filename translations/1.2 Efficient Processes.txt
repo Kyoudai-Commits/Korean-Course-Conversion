@@ -1,0 +1,58 @@
+Hello.
+I'm Sangsoo Jeong.
+This time, I'd like to talk about what I consider an efficient working process.
+How do you all start a picture?
+Like a lot of people, I start with line drawing.
+Some of you probably start with the so-called "avoid line art" approach, painting shapes directly.
+As I said in Chapter 1, part 1, line drawing is important.
+I firmly believe that just because you're aiming for a realistic or semi-realistic style, you should never neglect line drawing.
+Even painters who do traditional painting, like oil or watercolor, mostly start a picture with line drawing. Just because the sketch doesn't show in the finished piece doesn't mean you should skip it and go straight to painting shapes because it's faster.
+Here, line drawing doesn't mean cleanly inking the lines.
+I like to do a brief sketch like this, then draw the picture. I recommend this method to you.
+Line drawing acts as a navigator for the picture.
+When you set a navigator and drive, line drawing lets you make fewer mistakes and draw something that actually looks like a real picture.
+And if you go down the wrong path, you can draw a new line to correct your direction.
+I usually do a brief sketch focused on form and silhouette.
+Then I lay down a base color and try out the color.
+When you've split things into layers, it's fun to test different colors.
+After that, along with an overall light setup, I start roughly describing the form.
+Once it's progressed a certain amount, I reduce the layers to a minimum and get into the rendering.
+This is my basic first-pass working process, and I repeat it whenever I add things like weapons, outfits, or accessories.
+At this first-pass stage, without the detail, you get the sense of volume and the overall mood.
+If you shrink it down at this point, it doesn't look much different from the finished piece.
+The difference in final quality is decided right here.
+The reason this is efficient is that you can quickly nail the silhouette and mood without worrying about fine details.
+If you do this first pass well, adding detail later feels less burdensome.
+Because the foundation is solid.
+And it's easy to fix if the detail you've stacked up doesn't sit right.
+Imagine sketching and working on every detail all at once: accessories, patterns, weapons, everything.
+It's hard to get the overall volume, and hard to fix things.
+The design, which you should keep flexibly adjusting and refining as you work, gets trapped inside the sketch.
+If the work is commission-based, whether company work, freelance, or commissions, this becomes an even bigger problem.
+Because you often have to adjust the picture to fit the client's design.
+If you do a solid base first pass, you can branch out in many directions, so the burden is much lighter.
+In concept art, a first pass that lets you branch in many directions has lots of benefits.
+You can quickly show a design mood with the first pass alone.
+You can try out lots of design options, like playing from selection.
+If the job needs variations, it also cuts down your working time.
+Design with accurate form and volume communicates well.
+So how much should you sketch?
+I'll cover that in a later chapter, but let me touch on it briefly.
+I usually do a very simple sketch.
+The minimum sketch needed to support the form.
+Sometimes I don't even draw the eyes, nose, or mouth.
+But that's only to save time. I recommend sketching a bit more precisely, even if it's brief.
+I'm not talking about detail in the sketch itself.
+In my process, detail is added in the later stages.
+The sketch focuses on accurate form and silhouette rather than detail.
+Start big, finish detailed.
+That's a statement that runs through the whole process.
+Rendering body muscles, you also start from the big and move to the small.
+Start with a big brush and finish with a small brush.
+You decide the big framework of the design and then think about fine detail.
+Catch the big flow first, then draw the fine bits.
+Always remember.
+Start big, finish detailed.
+That will make your work efficient.
+This time, we talked about an efficient working process.
+Next time, before we get into the real work, we'll look at setting up your working environment and the brushes I use.

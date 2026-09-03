@@ -1,0 +1,161 @@
+Hello, I'm Sangsoo Jeong.
+This time, let's learn about how to find detail in a picture and finishing.
+In a picture, detail refers to small design elements.
+For example, high-density patterns, or density expressed by using various materials and colors.
+Also, beyond design, elements for the overall completion of a picture can be called detail.
+For example, the design of lighting or the flow of the gaze, the placement of contrast, facial expression, hand gesture, pose.
+A tidy outline, an appropriate crop, and so on.
+This can be expressed as high density, this can be expressed as a well-done design, and this can be expressed as a good finish.
+Among these, this one is early-stage work, so I'll set it aside and look at the other two.
+So far, I've emphasized drawing big and drawing finely.
+I taught that you should render by big masses and then do detail work.
+This detail rendering can raise the density of the picture.
+First, let's learn about the density of a picture.
+Why do I think density is important?
+If the overall look or mood of a picture draws the consumer's gaze, then high-density rendering can keep the gaze in the picture a bit longer.
+However, raising density should also be done well.
+How can you do it?
+When designing, we learned to concentrate and release.
+The parts where you need to give density aren't much different.
+That's why design and density are always connected.
+Density makes the gaze concentrate.
+If the picture is high-density overall, there'd be too many places for the eyes to rest here and there.
+You'd get tired easily and want to scroll down quickly.
+Then the answer is out.
+In character key art, you can think of giving density to the parts where you concentrate the design.
+First, let me look at the parts in my pictures where I attended to density.
+In these pictures, I gave density to the helmet here.
+The gaze can concentrate toward the face.
+These aren't designs I created, but the reason I wanted to use these designs in my picture is this density that concentrates on the face.
+The time taken to draw this detail part exceeds thirty percent of the whole process.
+I wouldn't waste time for no reason.
+If you imagine this detail gone, the picture would lose its power.
+Since it's a concept art class, let's look at it with concept art.
+This character is a game character for which we agreed to concentrate the detail and silhouette on the lower body.
+This character especially concentrates density toward the pelvis here.
+You can see the rest has just enough detail to naturally support it.
+This character has detail extremely concentrated on the neck and shoulders.
+In fact, this character was designed this way because only the upper body would appear in the game.
+In this way, depending on the purpose, the parts where you need to tighten density can differ.
+Here, this character is the same too. It uses yellow metal only on the neck and shoulder area to give a point and density.
+As you can see, this character also concentrates all the upper-body detail.
+Density should be established by setting the scope of concentrate and release like this, then working on it.
+You can concentrate density this way, in various ways.
+It can be done by size, by density, or by color difference.
+How much to concentrate and how much to release varies by situation, but the one thing you must keep is that you shouldn't give density evenly across the whole thing.
+Let's look at a bad example.
+The sizes shouldn't be uniform.
+You shouldn't give density everywhere.
+Point colors shouldn't pop out in every place.
+This is not just for clothing design, but also for illustration composition.
+This class is a concept art class, but let me briefly talk about illustration too.
+This gumiho illustration naturally concentrated all the density in the center, to direct the gaze to the character.
+By creating a flow that spreads out from the center, the gaze can naturally concentrate.
+The objects at the outside blend into the background, so they don't steal the gaze much.
+This picture is the same too.
+It's overall blue-toned, but only the skin is shown in a complement color, concentrating the gaze.
+The purple of these marbles could also be a point color, but I painted it so it doesn't pop out too much toward the outside.
+This Widowmaker painting is the same principle.
+When I decided to sit this character in this chair, and first considered the color and design, the most important factor was that I mustn't disperse the gaze.
+What are the concentrated and released parts of this character?
+I didn't design it, but if I analyze it, first would be this skin tone and the purple top tone.
+The red lens of the visor here could be a point too.
+Anyway, the point elements of the upper body are mostly concentrated, and I also wanted the gaze to go to the face.
+The released part is the dark part.
+It's the dark clothing parts and the coat part like this.
+So I likewise put this dark grayish color on the chair too.
+As a result, the gaze concentrates only toward this character's skin here, and I designed it so the gaze can flow naturally like a gradient.
+In this process, the red lens of the visor doesn't help the gaze concentrate, so I drew it to have as little presence as possible.
+This picture collides various colors and value contrasts.
+Reducing contrast toward the outside.
+Concentrating the gaze on this side.
+And through various designs.
+Creating this flow of gaze.
+If the belt of this uniform were hanging down, say.
+It'd become an element that breaks the flow.
+It wouldn't be good.
+Anyway, in this way, you can create density with light too.
+This picture is the design of illustrator Okku, drawn in my own style.
+Looking at this picture, it uses the characteristics of backlight, that is, total internal reflection, to draw out the concentration of the gaze.
+We learned about total internal reflection.
+In this way, density brings about concentration of the gaze, and concentration of the gaze lets you appreciate the picture longer and makes it stay in the viewer's memory for a long time.
+We've learned about the importance and method of density, so let's learn how to work it.
+I said I first start by simply grasping the masses.
+I have a plan for density, but I haven't drawn it yet.
+Because I think it's good to create the masses, then carve them out.
+You don't hang a picture frame before applying the wallpaper.
+You don't apply eyeshadow before base makeup.
+After grasping the masses, I draw the details or patterns with lines.
+You can also paste photos, but I don't like that.
+For the method of pasting photos, take a matte painting lecture.
+Anyway, since I've decided to draw, it'll be the start of another boring task.
+This is a pattern based on historical accuracy, so it was less difficult, but if you try to create something original, the pain begins.
+At this time, we can reference photo materials.
+What's really important here is that I told you not to put up references from the start.
+You need to have a plan for the pattern to some extent.
+That, like, what nuance I'll draw the pattern in.
+For example.
+If you want to draw a dragon statue like this, first draw it as much as you can within your ability.
+After that, look up dragon statues.
+It's not like you find some random pattern, think it looks cool, put it up and copy it.
+After drawing the sketch lines, lay down the base color broadly like this.
+Then you'd render the value.
+And do correction too.
+Complete it through the process of adding and refining detail.
+The time this pattern-insertion work takes is important and difficult, accounting for thirty to fifty percent of the whole process.
+It's important to plant your glutes firmly and draw with patience.
+Even if you render the released parts less, it's good to render the parts you decided to give density to, clearly and cleanly.
+Now let's also talk about finishing a picture.
+If you worked hard on a picture but the finish is sloppy, that's not good, right?
+Correction helps with finishing.
+We'll cover correction in a later chapter.
+How do you crop?
+In the case of concept art, most pictures are tall, top to bottom.
+I tend to cut the top and bottom as much as possible.
+So the character looks big when displayed on a monitor.
+That said, you shouldn't crop so much that you leave no breathing room.
+In illustration, you often focus on the grid lines divided by threes.
+An image with transparency in the background, so-called cutout, we call it.
+It's a word derived from Japanese.
+If you need to use a cutout image like this, you need to cleanly tidy the image's outline and remove brush marks.
+Try changing the background to black and a clear primary color family.
+It's good to check.
+Let's also talk about resizing a picture.
+For ease of work, you usually work at a large size.
+But resizing is sometimes necessary.
+When uploading to the web, being forcibly resized is unavoidable, but when sending your work to someone else, it's good to limit the height so the picture appears on screen without resizing.
+Because in a viewer, if it's forcibly resized, the quality breaks.
+So I usually resize to match the screen resolution.
+When I worked at a company, the staff were issued 2560 by 1440 resolution monitors, so I set the height below 1440.
+Then, when I open the file, I can see the picture clearly without resizing.
+When saving a picture, you can use various extensions, but commonly used are JPEG and PNG.
+PNG has no loss compared to JPEG.
+Unless it's a special case, this PNG has a larger file size, but I want to save as close to the original as possible.
+If you want to use transparency, you should save as PNG.
+If the picture needs to reduce file size for the web.
+This JPEG isn't a bad choice either.
+And regardless of file size, if you want to save the original without compression, save as BMP.
+The explanation got long.
+Based on what we've learned, let's begin finishing the picture.
+I'll intensively render the face and shoulder areas where I was trying to reduce density.
+Simply, you just need to invest as much as half the time you've drawn so far.
+I said I spend thirty to fifty percent of the whole process on density rendering.
+Of course, it's boring.
+But you can think that, for my own worth, this amount of time investment is well worth doing.
+I drew this picture about five hours, so wouldn't sketching like this... well, drawing it a couple more hours be fine?
+I wanted to do it while watching YouTube, but I held back.
+Drawing while filming isn't easy.
+Honestly, I don't like the picture.
+Normally I'd redraw it, but since I've already filmed this video, I can't help it.
+I want to revisit the concept and design of this picture later and redraw it thoroughly.
+I accidentally failed to film about twenty minutes of video, but anyway I did the rendering this way.
+Rendering is a battle against time.
+I've rendered up to this point, but that's not to say there's no more room to draw.
+In concept art, honestly, this level is enough.
+Because you can explain the detailed design in a design sheet.
+When you work at a company or do this kind of commercial work, there come times when you have to stop detailed rendering at the right moment.
+Even if my artistic mindset rises up and makes me want to render even harder.
+In a work context, the schedule is more important.
+You need to allocate time well and work.
+This time, we learned about the meaning of detail.
+Next time, let's learn about various correction methods for a picture.

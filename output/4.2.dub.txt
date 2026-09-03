@@ -1,0 +1,129 @@
+[00:00:03,475 | 00:00:05,420 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:05,421 | 00:00:13,420 | 8s] This time, before starting character concept work, let's talk about how to gather and use references.
+[00:00:13,580 | 00:00:20,421 | 7s] I'll let you know upfront that this lecture contains more of my subjective thoughts than any other.
+[00:00:23,805 | 00:00:27,160 | 3s] Last time, we decided what to draw.
+[00:00:27,161 | 00:00:29,160 | 2s] Then we need to find references.
+[00:00:29,694 | 00:00:33,560 | 4s] References differ depending on what I need.
+[00:00:33,640 | 00:00:46,360 | 13s] Back when I was a job seeker or a newbie, I focused on drawing realistically, and even when drawing character concepts, I used to only look for face photos, hand photos, body photos, and such.
+[00:00:46,685 | 00:00:49,560 | 3s] Looking back now, that was a very wrong idea.
+[00:00:49,561 | 00:00:53,560 | 4s] A concept artist's main goal isn't to draw well like a photo.
+[00:00:53,865 | 00:00:56,260 | 2s] It's to design well.
+[00:00:56,261 | 00:01:00,740 | 4s] Depicting something realistically is only to maximize communication.
+[00:01:00,741 | 00:01:11,220 | 10s] But even while using references this wrongly, there's something I kept, and still keep to this day: using photos as much as possible for reference.
+[00:01:11,221 | 00:01:18,100 | 7s] A drawing is a reconstruction of someone's story, and it contains that person's own original design or thoughts.
+[00:01:18,100 | 00:01:22,141 | 4s] It's someone else's conclusion, and it can't be mine.
+[00:01:22,334 | 00:01:30,040 | 8s] In realistic-style drawing, if I have something I want to say through the picture, there's no need to follow an answer composed by someone else.
+[00:01:30,041 | 00:01:32,360 | 2s] Because there's the best answer key of all, a photo.
+[00:01:32,630 | 00:01:39,160 | 7s] A picture of mine derived from someone else's picture is highly likely to become a second version of A, a second version of B.
+[00:01:39,240 | 00:01:42,280 | 3s] When this gets worse, it becomes what's called plagiarism.
+[00:01:42,281 | 00:01:50,520 | 8s] Even if it's not plagiarism per se, there are cases where you don't know better, reference someone else's picture, and follow it, then both you and your picture end up looking shabby.
+[00:01:50,859 | 00:02:08,380 | 18s] For example, you think you're referencing for historical accuracy, and you draw based on someone's picture, but it turns out to be something the person made up. Or, there are several pictures with a certain design and pose, and you reference and follow them, but it turns out to be some group's identity. That kind of case.
+[00:02:08,381 | 00:02:15,260 | 7s] While designs in photos are also designs composed by someone else, they have less room for variation than pictures.
+[00:02:15,261 | 00:02:18,860 | 4s] It's the idea that designs derived from reality are actually often many.
+[00:02:20,350 | 00:02:27,040 | 7s] Elements based on reality, like the human body or light, must be drawn using only photo references.
+[00:02:27,041 | 00:02:34,720 | 8s] Even subconsciously, I've basically never seen someone who imitated another's style and surpassed the imitated picture or the artist.
+[00:02:34,721 | 00:02:35,920 | 1s] In the end, they become a follower.
+[00:02:36,190 | 00:02:44,800 | 9s] This might sound like an old-timer's talk, but to not stay in the third tier and at least reach the second tier, it's right to refrain from imitation of pictures.
+[00:02:44,801 | 00:02:48,281 | 3s] Also, imitating a design can be a legal issue.
+[00:02:48,480 | 00:02:53,600 | 5s] Especially when you think someone's picture is cool and copy the whole framework directly.
+[00:02:54,560 | 00:02:58,080 | 4s] You can be inspired by other people's pictures.
+[00:02:58,081 | 00:03:05,760 | 8s] However, if you're going to draw using references, I'd hope those references are always photos.
+[00:03:05,761 | 00:03:08,240 | 2s] Enjoy looking at pictures a lot in your daily life.
+[00:03:08,241 | 00:03:12,320 | 4s] I often look at clothing malls or fashion show photos.
+[00:03:12,614 | 00:03:18,860 | 6s] They're plenty enough to appreciate good clothing silhouettes, body shapes, realistic composition, and color.
+[00:03:18,861 | 00:03:32,140 | 13s] These designs too are designs composed by someone else, but if they're not overly adapted forms of clothing, and are familiar designs, and you only reference a few elements, you can filter and use them enough.
+[00:03:32,220 | 00:03:42,540 | 10s] For example, reference the color scheme of an accessory and apply it to a top and bottom, or apply the silhouette of European-style clothing to an Eastern-style clothing design.
+[00:03:43,180 | 00:03:45,420 | 2s] Just because the picture I'm drawing is fantasy.
+[00:03:46,015 | 00:03:48,600 | 3s] There's no need to search for references hard.
+[00:03:48,601 | 00:03:52,280 | 4s] In realistic-style drawing, it's good to use things that actually exist.
+[00:03:52,281 | 00:04:00,600 | 8s] Something completely original is highly likely to be unfamiliar to the public and feels off-putting, so it's not very effective in commercial art.
+[00:04:00,601 | 00:04:07,160 | 7s] At the beginner-intermediate stage, rather than creating something new, focus on packaging familiar things well.
+[00:04:07,161 | 00:04:15,080 | 8s] First, at the rough sketch and rough coloring stage, do a rough design on a silhouette we commonly see or are familiar with.
+[00:04:15,510 | 00:04:25,240 | 10s] When drawing fantasy armor or futuristic clothes, rough work while thinking of armor that actually existed or modern clothes.
+[00:04:25,320 | 00:04:32,920 | 8s] Since you can gradually modify it from there, actively search for and collect real materials.
+[00:04:32,921 | 00:04:39,960 | 7s] While gathering references like this, I've gotten inspirations, and though not complete, they've been taking shape in my head.
+[00:04:39,961 | 00:04:43,521 | 4s] Drawing is done with the hand, but you should draw with the head.
+[00:04:43,745 | 00:04:48,060 | 4s] It's not cool for the hand to go first and the head to think later.
+[00:04:48,061 | 00:04:53,180 | 5s] Pro creators have a solid form in their head, and the hand just expresses it.
+[00:04:53,181 | 00:04:54,940 | 2s] It's called drawing what's in your head, like printing.
+[00:04:54,941 | 00:04:57,020 | 2s] I'm still finding it hard, but I'm working on it.
+[00:05:00,375 | 00:05:09,040 | 9s] Likewise, designing and drawing by relying only on the references I've collected, without having built up a form in my head, isn't good either.
+[00:05:09,041 | 00:05:12,480 | 3s] That's like having the references up on the monitor next to the picture while you work.
+[00:05:12,775 | 00:05:14,480 | 2s] You have to create something.
+[00:05:14,481 | 00:05:20,000 | 6s] In this case, the process of using references as a springboard and developing into creative imagination is hard.
+[00:05:20,001 | 00:05:22,320 | 2s] Reference use should be limited.
+[00:05:22,375 | 00:05:30,521 | 8s] If you draw with the reference up, at first you only consult it a little, but eventually you end up fifty, seventy percent similar.
+[00:05:30,650 | 00:05:35,500 | 5s] There's a high chance of it becoming a piece with ambiguous direction, neither yours nor theirs.
+[00:05:35,635 | 00:05:41,580 | 6s] That said, you also can't draw it eighty or ninety percent the same so the big framework becomes similar.
+[00:05:41,581 | 00:05:45,820 | 4s] Taking the entire framework of something isn't what we call referencing.
+[00:05:46,075 | 00:05:50,540 | 4s] Also, putting up several references and consulting them little by little is strange.
+[00:05:50,541 | 00:05:57,340 | 7s] I've really seen a lot of rookie concept artists get pushed around by and enslaved to the many references they put up.
+[00:05:58,465 | 00:06:02,780 | 4s] As I keep saying, as creators we have to think flexibly.
+[00:06:02,781 | 00:06:07,900 | 5s] Design and style have no fixed answer, so you shouldn't put the reference up like an answer key and draw.
+[00:06:07,901 | 00:06:11,980 | 4s] Concept art finds freshness in small differences.
+[00:06:11,981 | 00:06:17,100 | 5s] The reference you put up will be an element that hinders your new inspiration.
+[00:06:17,101 | 00:06:21,420 | 4s] You have to see with your eyes, understand with your head, and convey with your hands.
+[00:06:21,421 | 00:06:26,140 | 5s] You must not move it from your eyes to your hand without going through your head.
+[00:06:26,141 | 00:06:33,820 | 8s] However, if the picture I'm drawing needs to match historical accuracy or be close to it, then I have no choice but to draw with the reference up.
+[00:06:33,821 | 00:06:37,820 | 4s] Honestly, it's not a task that requires creativity, so let's leave it out of the discussion.
+[00:06:37,821 | 00:06:43,541 | 6s] Just reference the material for historical accuracy of the design, and put differentiation in the pose or composition.
+[00:06:46,225 | 00:06:48,730 | 3s] So now let's gather references.
+[00:06:48,731 | 00:06:59,450 | 11s] Based on the brief planning document from last time, using words like coat, cape, polygons, transparency, light, and so on, I've gathered various references.
+[00:06:59,451 | 00:07:03,850 | 4s] For references, in my case, I search on Google or Pinterest.
+[00:07:03,851 | 00:07:11,290 | 7s] First, for the references needed for the work, I search the keyword on Google, download them to one place, and appreciate them.
+[00:07:11,291 | 00:07:14,970 | 4s] Honestly, even photos unrelated to the keyword give me small shocks.
+[00:07:14,971 | 00:07:17,210 | 2s] If I like them, I download them.
+[00:07:17,211 | 00:07:19,210 | 2s] They also give new inspiration.
+[00:07:19,211 | 00:07:24,010 | 5s] Pinterest has overwhelmingly more picture references than photo references.
+[00:07:24,011 | 00:07:27,690 | 4s] So I don't look at it much during reference gathering before work.
+[00:07:27,691 | 00:07:31,290 | 4s] Instead, I appreciate Pinterest a lot in daily life.
+[00:07:31,291 | 00:07:35,130 | 4s] I also appreciate ArtStation a lot in daily life and get inspiration there.
+[00:07:38,640 | 00:07:43,680 | 5s] Let me try to take in as much as I can from these photo references I searched on Google.
+[00:07:44,240 | 00:07:47,360 | 3s] I appreciate them without skimping on time.
+[00:07:47,361 | 00:07:50,560 | 3s] I allocate relatively a lot of time to this.
+[00:07:50,640 | 00:07:51,640 | 1s] It's a warm-up.
+[00:07:51,840 | 00:07:53,680 | 2s] You have to get yourself fired up.
+[00:07:54,645 | 00:08:06,080 | 11s] Compared to when I rush into the work without this time, pressed for time, it's much better for the work itself when I spend enough time appreciating references and organizing my thoughts before starting.
+[00:08:06,640 | 00:08:09,360 | 3s] And the satisfaction with the process was better too.
+[00:08:09,361 | 00:08:13,920 | 5s] While appreciating references, sometimes I close my eyes and envision the design.
+[00:08:13,921 | 00:08:21,440 | 8s] It's great when you think, I want to get this down on the canvas quickly, I want to draw fast.
+[00:08:23,230 | 00:08:26,800 | 4s] Once you have a rough concept, start the work.
+[00:08:26,801 | 00:08:32,000 | 5s] Do the silhouette-focused sketch and rough coloring from last time.
+[00:08:32,001 | 00:08:38,960 | 7s] Once the details are set, even without references, you can draw well enough with just the concept in your head.
+[00:08:38,961 | 00:08:49,360 | 10s] At this time, rather than short-term memory, which is recalling the collected references while working, the long-term memories of things you've seen, felt, and been impressed by in life are more helpful.
+[00:08:49,361 | 00:08:51,760 | 2s] That's why you should appreciate a lot in daily life.
+[00:08:56,150 | 00:09:01,400 | 5s] Once the design is set and the later detailed rendering begins, I take out the references again.
+[00:09:01,401 | 00:09:03,880 | 2s] At this time, I put them up next to me and work.
+[00:09:03,881 | 00:09:05,320 | 1s] By photo references, I mean.
+[00:09:05,321 | 00:09:08,920 | 4s] At this time, the photo references just have the meaning of quality boost.
+[00:09:08,921 | 00:09:12,920 | 4s] Reference for material or reference for fine patterns, that's it.
+[00:09:12,921 | 00:09:16,440 | 4s] For a medieval fantasy, you can reference medieval patterns.
+[00:09:16,441 | 00:09:19,320 | 3s] For an Eastern-style picture, you can reference Eastern patterns.
+[00:09:19,560 | 00:09:23,601 | 4s] Photo references for material make the drawing more realistic.
+[00:09:24,285 | 00:09:31,800 | 8s] This latter-half reference use for materials is mainly done when doing illustration, and isn't strictly necessary for concept art.
+[00:09:31,801 | 00:09:38,200 | 6s] But if you have time to spare, I think you can be greedy for artistic quality.
+[00:09:38,201 | 00:09:43,240 | 5s] At this time, even if you use the references for ten minutes, the framework I've set won't shake.
+[00:09:43,241 | 00:09:45,080 | 2s] And it must not shake.
+[00:09:45,081 | 00:09:51,800 | 7s] In conclusion, from the moment you pick up the pen to the moment the picture ends, you should be able to complete the picture without looking at references.
+[00:09:52,125 | 00:09:54,920 | 3s] A flexible mind is your value.
+[00:09:54,921 | 00:09:56,840 | 2s] Not the references you've gathered in abundance.
+[00:09:58,480 | 00:10:00,160 | 2s] It can be hard at first.
+[00:10:00,161 | 00:10:02,800 | 3s] Please practice slowly and steadily.
+[00:10:02,801 | 00:10:07,280 | 4s] If you always drew faces with a celebrity's face next to you, try drawing without it.
+[00:10:07,500 | 00:10:11,120 | 4s] If you drew the human body with a reference up, try drawing without it.
+[00:10:11,121 | 00:10:17,840 | 7s] Slowly look at the body reference, turn it off, draw, then turn it on to compare and check.
+[00:10:17,841 | 00:10:18,880 | 1s] It's simple.
+[00:10:18,881 | 00:10:23,680 | 5s] If you absolutely must look at a reference, at least turn it off for as long as you're holding the pen.
+[00:10:23,681 | 00:10:26,480 | 3s] If you need to look at the reference again, put the pen down and look.
+[00:10:26,785 | 00:10:38,741 | 12s] Even if your performance drops for now because you don't look at the reference while drawing, even if it's a hard and lonely job without a reference beside you, I hope you'll keep this up and expect a quick rise in skill.
+[00:10:39,990 | 00:10:44,840 | 5s] At the start of the class, I said we'd set off on a journey to draw delicious pictures.
+[00:10:44,841 | 00:10:53,880 | 9s] I think there's a difference in value between a cook who just follows a recipe someone else put up on a stand, and a cook who confidently draws out the taste.
+[00:10:54,180 | 00:10:55,640 | 1s] You have to become a famous-restaurant chef.
+[00:10:56,179 | 00:10:59,640 | 3s] A cook who can't even fry a dumpling without a recipe is just sad.
+[00:10:59,641 | 00:11:03,640 | 4s] This time became like a lecture containing my subjective thoughts.
+[00:11:03,641 | 00:11:09,880 | 6s] They might be my old-timer thoughts, but these are stories I thought you'd want to ponder at least once.
+[00:11:10,020 | 00:11:11,060 | 1s] That's why I did it.
+[00:11:11,061 | 00:11:12,900 | 2s] Thank you for listening.
+[00:11:12,901 | 00:11:17,540 | 5s] As I say many times, I won't force my thoughts on you.
+[00:11:17,810 | 00:11:20,660 | 3s] I hope you'll think actively.
+[00:11:20,661 | 00:11:25,220 | 5s] Next time, let's proceed with the sketch, the first step of concept art practice.

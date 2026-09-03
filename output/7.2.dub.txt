@@ -1,0 +1,280 @@
+[00:00:03,585 | 00:00:05,740 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:05,741 | 00:00:10,860 | 5s] This time, let's learn about how to use Photoshop functions.
+[00:00:10,861 | 00:00:14,261 | 3s] You can think of it as a continuation of last time.
+[00:00:18,615 | 00:00:23,120 | 5s] First, let me go through the functions I often use, one by one.
+[00:00:23,121 | 00:00:26,720 | 4s] First, there's the blur effect function.
+[00:00:26,721 | 00:00:32,521 | 6s] There are various blur effect functions, but in concept art I don't use them much.
+[00:00:33,210 | 00:00:37,100 | 4s] The one I use most is this Gaussian blur effect.
+[00:00:37,101 | 00:00:40,380 | 3s] It's a simple function, so it's easy to use.
+[00:00:40,381 | 00:00:45,020 | 5s] You can blur the background to give a depth-of-field effect like this.
+[00:00:48,705 | 00:00:52,700 | 4s] Also, after duplicating an object like this, apply a Gaussian blur effect.
+[00:00:54,060 | 00:01:01,260 | 7s] And change the layer property.
+[00:01:03,470 | 00:01:10,590 | 7s] You can easily give a glow effect.
+[00:01:10,591 | 00:01:12,350 | 2s] And the motion blur effect too.
+[00:01:13,614 | 00:01:16,680 | 3s] It's a function I sometimes use.
+[00:01:16,681 | 00:01:18,760 | 2s] It gives a blur effect in a set direction.
+[00:01:29,474 | 00:01:34,190 | 5s] You can give an afterimage effect to something moving fast or a cape fluttering.
+[00:01:37,369 | 00:01:43,340 | 6s] The radial blur effect, I use occasionally too.
+[00:01:43,341 | 00:01:45,340 | 2s] If you actually use it, you get the feel for it.
+[00:01:47,960 | 00:01:54,051 | 6s] It's similar to motion blur, but blurs radially around the center like this.
+[00:01:57,949 | 00:02:01,840 | 4s] It's good when you want to give the effect of light spreading out in all directions from one place.
+[00:02:06,649 | 00:02:09,500 | 3s] And there's the liquify that many people use.
+[00:02:11,070 | 00:02:12,070 | 1s] Let me take a look at it.
+[00:02:14,484 | 00:02:18,041 | 4s] Since many people use it, I'll briefly go over it.
+[00:02:21,390 | 00:02:27,591 | 6s] You can push things like this, or restore them.
+[00:02:31,095 | 00:02:34,480 | 3s] You can smooth out the parts you modified like this.
+[00:02:35,984 | 00:02:39,450 | 3s] And you can change them too.
+[00:02:39,451 | 00:02:42,211 | 3s] You can also rotate it like a vortex shape like this.
+[00:02:50,990 | 00:02:58,990 | 8s] You can make it concave or convex.
+[00:02:59,070 | 00:03:03,790 | 5s] This liquify is what I think of as Photoshop's secret weapon of a function.
+[00:03:03,791 | 00:03:06,270 | 2s] But this secret weapon is like a double-edged sword, you know.
+[00:03:07,100 | 00:03:10,750 | 4s] Should I say that using the secret weapon also deals a blow to me?
+[00:03:10,751 | 00:03:17,271 | 7s] This function is so good and convenient that I've seen many cases of people making pictures with it.
+[00:03:19,670 | 00:03:26,520 | 7s] These Photoshop functions should be used only to the extent of giving a little help to my picture.
+[00:03:26,600 | 00:03:39,000 | 12s] If you think you can't draw without this function, can't finish, or the result is terrible if it's absent, then you should think that you've been studying drawing wrong.
+[00:03:39,001 | 00:03:44,520 | 6s] If you think that as long as the result is good, that's fine, I won't stop you.
+[00:03:44,521 | 00:03:53,241 | 9s] Anyway, even when using these functions, you need to grasp the human form or the shape of the object well to use them accurately.
+[00:03:54,355 | 00:04:04,540 | 10s] If you fiddle around here and there without a firm idea of how to fix it, it's easy to lose the sense of whether it's really doing well or not.
+[00:04:04,541 | 00:04:14,140 | 10s] At least when studying, let's set aside this liquify for a while, and if there's a part of the picture that needs fixing, practice by erasing and redrawing it.
+[00:04:15,825 | 00:04:19,529 | 4s] I keep getting the urge to teach, which is a bit uncomfortable for me, too.
+[00:04:19,530 | 00:04:20,089 | 1s] What can I do?
+[00:04:20,090 | 00:04:22,490 | 2s] I'm the instructor, you know.
+[00:04:22,491 | 00:04:26,131 | 4s] Anyway, this liquify has a fun feature.
+[00:04:28,380 | 00:04:36,350 | 8s] If you draw a face properly, and thankfully Photoshop recognizes it as a face, there's a feature you can use.
+[00:04:36,430 | 00:04:48,070 | 12s] You can move eye size, eye level, width, tilt, and nose height like this, right?
+[00:04:49,980 | 00:04:53,550 | 4s] The width of the mouth, smile.
+[00:04:55,395 | 00:04:56,140 | 1s] It's really strange.
+[00:04:56,141 | 00:05:04,460 | 8s] Lips, lip width, height, and so on, you can adjust them in this much detail.
+[00:05:09,210 | 00:05:10,940 | 2s] I don't use it, but it's fun.
+[00:05:10,941 | 00:05:14,341 | 3s] It feels like customizing in a game, I'd say.
+[00:05:18,520 | 00:05:22,650 | 4s] I'd like to introduce a feature I've recently discovered and use a lot.
+[00:05:22,651 | 00:05:25,210 | 3s] It's this filter gallery.
+[00:05:25,370 | 00:05:28,690 | 3s] Students and aspiring artists, press the back button.
+[00:05:29,055 | 00:05:33,850 | 5s] If you use this at the completion stage of a picture, the filter shows a lot.
+[00:05:37,080 | 00:05:45,050 | 8s] But if you use it in the middle and retouch, you can bring in only the good feel of the filter and use it naturally in my own style.
+[00:05:46,395 | 00:05:48,320 | 2s] Let me click each one like this.
+[00:05:52,165 | 00:05:53,520 | 1s] How do these feel to you?
+[00:05:57,910 | 00:06:03,800 | 6s] For something like this, the look changes drastically, and the clothing takes on a metal feel.
+[00:06:03,801 | 00:06:06,881 | 3s] What I often use is this poster edges filter.
+[00:06:08,030 | 00:06:12,000 | 4s] Lines form at each boundary like this, making the picture very sharp.
+[00:06:14,040 | 00:06:15,930 | 2s] The contrast becomes very strong too.
+[00:06:15,931 | 00:06:17,530 | 2s] The picture looks a bit sturdier.
+[00:06:17,531 | 00:06:20,010 | 2s] It's a filter I use a lot these days.
+[00:06:20,011 | 00:06:21,770 | 2s] Rather than using it as-is.
+[00:06:30,390 | 00:06:33,240 | 3s] Duplicate the layer, apply the filter.
+[00:06:36,990 | 00:06:44,361 | 7s] Lower the opacity to about twenty percent, merge, and it can be applied subtly.
+[00:06:44,950 | 00:06:47,000 | 2s] From this state, continue drawing the picture.
+[00:06:48,285 | 00:06:49,640 | 1s] Let me see an example.
+[00:06:53,015 | 00:06:58,780 | 6s] After applying this filter gallery to this picture and lowering the opacity.
+[00:07:02,245 | 00:07:04,880 | 3s] Let me compare.
+[00:07:04,960 | 00:07:09,440 | 4s] A picture that had been drawn a bit blurry has become sharp and well defined.
+[00:07:09,441 | 00:07:13,120 | 4s] So I thought the feel got better.
+[00:07:13,121 | 00:07:17,840 | 5s] In this way, using the filter gallery to find a new feel is also fun.
+[00:07:21,795 | 00:07:24,750 | 3s] Just boil it a bit more like this and it'll be complete.
+[00:07:27,160 | 00:07:30,410 | 3s] There are various other functions too.
+[00:07:31,430 | 00:07:32,730 | 1s] Shall we go through them one by one?
+[00:07:41,390 | 00:07:45,110 | 4s] For something like this, bring out the brush-mark feel.
+[00:07:46,590 | 00:07:49,040 | 2s] And apply it.
+[00:07:49,041 | 00:07:59,481 | 10s] If I emphasize it once more, if you use the filter gallery like this, you must mix in my painting style through retouching.
+[00:08:01,445 | 00:08:05,920 | 4s] So it's good to use it in the early-to-mid stage rather than the final stage of a picture.
+[00:08:09,925 | 00:08:17,200 | 7s] We looked at Photoshop functions as seasoning that turns an eighty-point picture into an eighty-five.
+[00:08:18,465 | 00:08:22,700 | 4s] This is unrelated to the basic stuff, so please take it as a careful reference.
+[00:08:27,055 | 00:08:31,160 | 4s] Let's also learn about a method to increase the sharpness of a picture.
+[00:08:31,161 | 00:08:36,840 | 6s] If you go to the filter sharpen effect, there are various sharpen effect functions.
+[00:08:38,300 | 00:08:46,670 | 8s] You can use the function that the program automatically sharpens like this, but it's hard to create the sharpness I want.
+[00:08:47,990 | 00:08:54,920 | 7s] For the sharpness I want, I use this unsharp mask.
+[00:08:54,921 | 00:09:11,720 | 17s] To briefly explain the principle of sharpening a picture: the boundaries between objects with large value differences, that is, for example, the boundary between this hand and the coat, or the boundary between the coat and background, you could say.
+[00:09:11,721 | 00:09:16,120 | 4s] It increases the contrast of these boundaries to make them more distinct.
+[00:09:17,245 | 00:09:20,840 | 4s] Let me look at the unsharp mask.
+[00:09:20,841 | 00:09:24,721 | 4s] Here, this amount determines how much to increase the contrast.
+[00:09:26,620 | 00:09:36,990 | 10s] If you set it to a hundred percent, the dark pixels of the boundary are a hundred percent darker, and the bright pixels are a hundred percent brighter.
+[00:09:39,375 | 00:09:42,120 | 3s] Meaning it gives a hundred percent contrast.
+[00:09:43,565 | 00:09:44,565 | 1s] The radius is.
+[00:09:45,685 | 00:09:49,230 | 4s] It sets the radius of this boundary.
+[00:09:49,231 | 00:09:54,590 | 5s] That is, it determines how many pixels around the boundary to apply it to.
+[00:09:57,155 | 00:10:01,870 | 5s] If you raise this to the maximum, it creates the effect of adjusting the whole picture's levels.
+[00:10:04,405 | 00:10:09,031 | 5s] This threshold is the value that sets the tolerance of the boundary.
+[00:10:09,890 | 00:10:17,281 | 7s] A boundary with a value difference lower than the level value set here won't get this sharpen effect.
+[00:10:18,360 | 00:10:24,330 | 6s] The lower this value, the more the sharpen effect will apply to all parts that appear to be boundaries.
+[00:10:26,750 | 00:10:40,640 | 14s] Let's set aside such hard-to-understand content. I usually use an amount of about fifty to a hundred percent, a radius of one to five pixels, and a threshold of about one to ten levels.
+[00:10:41,955 | 00:10:47,870 | 6s] Adjusting it like this and comparing, you can see the picture gets a bit sharper.
+[00:10:51,190 | 00:10:53,640 | 2s] You can also do it another way.
+[00:10:53,641 | 00:10:56,801 | 3s] The method I'll introduce from now is better.
+[00:10:57,765 | 00:11:02,320 | 5s] Duplicate the picture, filter, other.
+[00:11:03,745 | 00:11:05,180 | 1s] Click high pass.
+[00:11:06,300 | 00:11:12,220 | 6s] Then adjust the radius value to the point where the outline is visible.
+[00:11:15,000 | 00:11:20,051 | 5s] Press OK, then change the layer property to overlay.
+[00:11:21,795 | 00:11:25,511 | 4s] If you try it, you can see it gets sharper.
+[00:11:26,639 | 00:11:32,240 | 6s] Since it's been made into a layer, you can adjust the sharpness through opacity.
+[00:11:36,250 | 00:11:41,461 | 5s] Also, you can adjust it while changing the layer property.
+[00:11:48,615 | 00:11:53,120 | 5s] You can sharpen a pattern reference that isn't sharp, like this.
+[00:12:04,510 | 00:12:09,550 | 5s] When you draw concept art or illustration, you often have to draw patterns.
+[00:12:09,551 | 00:12:13,550 | 4s] Patterns often easily raise the density of a picture.
+[00:12:13,551 | 00:12:16,711 | 3s] There are various ways to insert patterns.
+[00:12:18,140 | 00:12:26,750 | 9s] There's the method of drawing directly onto the clothing, the method of compositing photo references, and the method of drawing a pattern and compositing it.
+[00:12:26,751 | 00:12:32,510 | 6s] The method of drawing directly onto the clothing was introduced in the clothing chapter when we drew the clothing's grid pattern.
+[00:12:33,285 | 00:12:45,870 | 13s] It's a method used when drawing simple patterns, and its advantage is that, compared to the other methods, it can be drawn naturally to match my art style and the clothing folds.
+[00:12:45,871 | 00:12:50,830 | 5s] The downside is that for complex patterns, you need huge time and effort.
+[00:12:53,125 | 00:13:02,560 | 9s] The method of compositing a photo is the fastest, but you have to find the pattern you want, and there are copyright issues too.
+[00:13:02,561 | 00:13:06,640 | 4s] Depending on the photo, you may need to make it into a pattern.
+[00:13:06,641 | 00:13:14,240 | 8s] The method of drawing a pattern and compositing it has the advantage of cutting time compared to directly drawing it on the clothing.
+[00:13:14,241 | 00:13:17,520 | 3s] You can draw the pattern you want.
+[00:13:17,521 | 00:13:21,240 | 4s] However, drawing the pattern takes considerable time.
+[00:13:21,605 | 00:13:25,600 | 4s] And if you can't composite it to match the folds, the naturalness somewhat decreases.
+[00:13:27,375 | 00:13:30,440 | 3s] Let me briefly go through each one.
+[00:13:30,441 | 00:13:33,960 | 4s] The method of drawing directly onto the clothing was explained in Chapter 5.
+[00:13:36,360 | 00:13:42,680 | 6s] I draw the pattern really honestly.
+[00:13:42,681 | 00:13:43,960 | 1s] Establish the big lines.
+[00:13:45,470 | 00:13:47,760 | 2s] Then go into the detail.
+[00:14:19,820 | 00:14:24,720 | 5s] The advantage of this is naturalness, but the downside is it takes too long.
+[00:14:32,865 | 00:14:34,460 | 2s] Here you also have to do the coloring.
+[00:14:37,580 | 00:14:44,140 | 7s] For photo composition, you bring in a pattern photo you want like this, correct it, then composite it.
+[00:14:44,141 | 00:14:51,140 | 7s] Usually pattern references only exist in part like this, so you need to make it into a pattern and widen it.
+[00:14:51,610 | 00:14:53,740 | 2s] Let me duplicate it once and widen it.
+[00:14:58,910 | 00:15:03,440 | 5s] All sorts of seams don't connect.
+[00:15:03,520 | 00:15:06,480 | 3s] Let me learn how to make them connect.
+[00:15:06,481 | 00:15:09,520 | 3s] First, you have to analyze this pattern.
+[00:15:09,521 | 00:15:10,521 | 1s] Here, at the very top.
+[00:15:12,865 | 00:15:13,865 | 1s] The cut-off part.
+[00:15:43,235 | 00:15:47,301 | 4s] Let me figure out where on the lower part this corresponds to.
+[00:15:48,890 | 00:15:52,060 | 3s] When I duplicate the layer and overlap them.
+[00:15:57,445 | 00:16:02,041 | 5s] I'll change the layer property to see it well.
+[00:16:04,485 | 00:16:08,121 | 4s] Placing it here, where the pattern overlaps and connects.
+[00:16:09,630 | 00:16:10,630 | 1s] It's here, right?
+[00:16:11,710 | 00:16:13,440 | 2s] Then, after holding Control.
+[00:16:15,095 | 00:16:18,841 | 4s] If you click the layer, the overlapping part gets selected.
+[00:16:20,975 | 00:16:25,240 | 4s] Turn off the layer, and you can see this selected part. I'll erase it here.
+[00:16:26,990 | 00:16:33,070 | 6s] And if you connect it, it naturally connects.
+[00:16:59,509 | 00:17:00,510 | 1s] For the vertical, do it the same way.
+[00:17:00,511 | 00:17:02,590 | 2s] This completes the pattern reference.
+[00:17:05,749 | 00:17:09,079 | 3s] After connecting it all the way, you just composite it.
+[00:17:15,069 | 00:17:16,319 | 1s] Shall we do one more?
+[00:17:16,320 | 00:17:19,359 | 3s] This time, let's try a bit harder reference.
+[00:17:19,360 | 00:17:24,720 | 5s] A pattern shot like this often doesn't connect when you put them together.
+[00:17:28,219 | 00:17:35,070 | 7s] There's this value difference too. The top is bright and the bottom is dark.
+[00:17:35,070 | 00:17:39,630 | 5s] After grasping the pattern, let's extract only the part we need.
+[00:17:41,269 | 00:17:47,121 | 6s] Looking at it, this and this are the same pattern.
+[00:17:48,594 | 00:17:53,100 | 5s] And this and this are also the same pattern.
+[00:17:54,964 | 00:17:58,110 | 3s] Well, this and this are also the same.
+[00:17:58,111 | 00:18:02,110 | 4s] Since a pattern is a repetition of the same design, that means.
+[00:18:15,909 | 00:18:16,910 | 1s] We only need about this much of the pattern.
+[00:18:16,911 | 00:18:17,911 | 1s] Cut this part out.
+[00:18:21,340 | 00:18:23,790 | 2s] Copy it, flip it, and paste it.
+[00:18:26,084 | 00:18:29,710 | 4s] Then a left-right identical pattern is complete, right?
+[00:18:29,711 | 00:18:33,991 | 4s] And here too, cut the middle the same way.
+[00:18:46,654 | 00:18:51,130 | 4s] And this, here and here are the same pattern.
+[00:18:51,374 | 00:18:52,810 | 1s] So we don't need half of it.
+[00:18:55,899 | 00:19:00,350 | 4s] The cut-off part here is around here.
+[00:19:01,420 | 00:19:02,420 | 1s] The flower shape.
+[00:19:03,504 | 00:19:08,211 | 5s] It's the same here below. I'll remove this part.
+[00:19:09,689 | 00:19:12,780 | 3s] This completes the pattern.
+[00:19:12,780 | 00:19:16,620 | 4s] Copy, flip again, and paste.
+[00:19:18,709 | 00:19:24,840 | 6s] If you connect this pattern, you can confirm it connects naturally.
+[00:19:31,524 | 00:19:35,200 | 4s] In this way, you can complete a pattern reference.
+[00:19:35,201 | 00:19:38,880 | 4s] Let me extract from an even harder photo.
+[00:19:38,881 | 00:19:40,800 | 2s] Rotate it to about ninety degrees for working.
+[00:19:52,514 | 00:19:54,110 | 2s] Check the cut-off part.
+[00:19:56,169 | 00:19:57,550 | 1s] I'll cut the top here.
+[00:20:02,429 | 00:20:05,881 | 3s] Looking at where this cut-off part corresponds below.
+[00:20:07,549 | 00:20:09,520 | 2s] It's around here.
+[00:20:09,521 | 00:20:10,521 | 1s] I'll cut here too.
+[00:20:10,960 | 00:20:11,960 | 1s] And.
+[00:20:13,584 | 00:20:16,620 | 3s] Cut here too.
+[00:20:16,621 | 00:20:17,621 | 1s] We don't need this here, right?
+[00:20:19,709 | 00:20:24,160 | 4s] And since this is left-right symmetric, I'll cut again based on here.
+[00:20:26,169 | 00:20:30,821 | 5s] Then in the end, only this part remains as what's needed.
+[00:20:32,739 | 00:20:39,351 | 7s] Right, let me duplicate only this and check once.
+[00:20:46,280 | 00:20:51,960 | 6s] You can see it connects naturally.
+[00:20:52,040 | 00:20:53,400 | 1s] For the part that doesn't connect.
+[00:20:55,799 | 00:20:58,970 | 3s] Erase it the same way.
+[00:21:01,149 | 00:21:05,641 | 4s] This way, it connects naturally.
+[00:21:08,484 | 00:21:12,800 | 4s] And if there's a value difference like this and it doesn't connect.
+[00:21:14,649 | 00:21:18,060 | 3s] You can just brighten it with the dodge tool.
+[00:21:38,309 | 00:21:39,310 | 1s] It connects naturally.
+[00:21:39,311 | 00:21:42,151 | 3s] This is how easily you can make a pattern reference.
+[00:21:43,239 | 00:21:47,720 | 4s] Now let me apply the pattern reference I made to the clothing.
+[00:21:47,721 | 00:21:57,480 | 10s] When inserting a pattern, to avoid breaking the inherent value and color of the clothing, I mainly use this high pass function.
+[00:21:59,029 | 00:22:01,240 | 2s] Click it.
+[00:22:01,241 | 00:22:10,001 | 9s] It strips away the pattern's color, leaving only the raised and recessed feel, so it can be applied more naturally.
+[00:22:15,100 | 00:22:23,751 | 9s] After correcting with the high pass function, composite it with a property like overlay.
+[00:22:38,014 | 00:22:41,690 | 4s] Soft light is fine too.
+[00:22:41,691 | 00:22:45,210 | 4s] These small continuous patterns aren't hard.
+[00:22:45,259 | 00:22:47,610 | 2s] Just paste it.
+[00:22:47,611 | 00:22:50,890 | 3s] In Chapter 6, part 1 I explained the card-section example.
+[00:22:51,614 | 00:22:57,290 | 6s] A free-spirited pattern like this doesn't show much misalignment even if it doesn't match the folds or perspective.
+[00:22:58,549 | 00:23:03,320 | 5s] So when drawing concept art, I sometimes just paste it flat like this.
+[00:23:04,919 | 00:23:08,170 | 3s] When drawing an illustration, it's a bit more complex.
+[00:23:08,171 | 00:23:12,970 | 5s] If you want to be ambitious, you draw these patterns one by one to match the folds.
+[00:23:14,594 | 00:23:18,030 | 3s] Or, draw a grid like this.
+[00:23:20,669 | 00:23:23,760 | 3s] There's also a method of inserting them one by one.
+[00:23:23,761 | 00:23:25,600 | 2s] Cut to match the grid shape.
+[00:23:30,709 | 00:23:43,400 | 13s] Cut using the lasso like this, then insert with the warp function.
+[00:24:03,204 | 00:24:05,840 | 3s] Doing it like this, you wonder what you're doing.
+[00:24:06,694 | 00:24:10,560 | 4s] So it's good to use the method appropriate to each occasion.
+[00:24:12,569 | 00:24:19,020 | 6s] When you need to draw directly on clothing or draw a pattern to make, the deliberation really grows.
+[00:24:19,021 | 00:24:22,620 | 4s] If the pattern is too complex, it's hard to draw in.
+[00:24:22,621 | 00:24:30,860 | 8s] Especially patterns that go on local areas, you can't even see what pattern it is anyway, so you wonder whether I should put in this much effort.
+[00:24:30,861 | 00:24:34,380 | 4s] When drawing weapons, you especially draw a lot of patterns.
+[00:24:34,381 | 00:24:40,340 | 6s] I want to introduce a method of drawing patterns that I've enjoyed using, that's easy, and effective.
+[00:24:41,609 | 00:24:43,530 | 2s] These are weapons I've drawn.
+[00:24:43,531 | 00:24:52,250 | 9s] There are various weapons like this, but if you look closely, you can see they use some of the same patterns.
+[00:24:54,649 | 00:24:56,380 | 2s] Let me try drawing this.
+[00:25:00,864 | 00:25:03,580 | 3s] First, let me draw it as a band shape.
+[00:25:14,320 | 00:25:19,840 | 6s] You can use it in the same place, like in a dream.
+[00:25:19,841 | 00:25:21,280 | 1s] Draw the big lines like this.
+[00:25:23,280 | 00:25:30,560 | 7s] Then split it.
+[00:25:30,560 | 00:25:32,480 | 2s] It's simple.
+[00:25:32,640 | 00:25:34,320 | 2s] You just keep splitting it.
+[00:25:34,479 | 00:25:39,680 | 5s] And since I'll use it as a repeating pattern, I'll cut out only the needed part.
+[00:26:07,240 | 00:26:13,160 | 6s] I'll only draw this part and connect it.
+[00:26:13,161 | 00:26:17,720 | 5s] If I duplicate and flip it, it'll split once more, right?
+[00:26:17,899 | 00:26:19,800 | 2s] Just keep subdividing it like this.
+[00:26:21,370 | 00:26:24,981 | 4s] You don't have to think of the pattern shape as hard.
+[00:26:30,380 | 00:26:38,940 | 9s] Usually people draw a lot of patterns using natural things like leaves or bird wings.
+[00:26:46,914 | 00:26:49,991 | 3s] I'll try drawing a pattern using a leaf.
+[00:27:05,024 | 00:27:09,340 | 4s] Just draw it as if you're filling in the empty spaces.
+[00:28:08,764 | 00:28:10,920 | 2s] Here, this goes in.
+[00:28:10,921 | 00:28:12,760 | 2s] Copy and paste it.
+[00:28:30,839 | 00:28:33,320 | 2s] And here, this will go in.
+[00:28:33,321 | 00:28:35,960 | 3s] Likewise, copy and paste it.
+[00:29:41,444 | 00:29:46,720 | 5s] If you prepare a pattern drawn like this, you can use it in various places.
+[00:29:48,434 | 00:29:51,420 | 3s] It's also easy when painting.
+[00:29:51,421 | 00:29:52,780 | 1s] Just paint part of it.
+[00:29:58,594 | 00:30:00,430 | 2s] And connect it in the border, since you just need to do that.
+[00:30:26,590 | 00:30:27,590 | 1s] If you do that.
+[00:31:27,794 | 00:31:29,470 | 2s] Not hard, right?
+[00:31:29,471 | 00:31:34,071 | 5s] While I'm at it, let me change it to metal and draw it.
+[00:31:50,239 | 00:31:52,240 | 2s] I think it'll feel like this.
+[00:31:52,241 | 00:31:54,800 | 3s] The reason the inside is darker is.
+[00:31:56,919 | 00:32:00,211 | 3s] When metal gets old like this, grime builds up inside.
+[00:32:02,484 | 00:32:06,441 | 4s] Especially the part touching this pattern will accumulate a lot of grime.
+[00:32:10,429 | 00:32:14,921 | 4s] So the boundary of this pattern becomes dark and dirty.
+[00:32:21,800 | 00:32:28,481 | 7s] An easier way to do this is to duplicate this pattern.
+[00:32:29,979 | 00:32:34,950 | 5s] Use the Gaussian blur we learned earlier.
+[00:32:42,440 | 00:32:50,440 | 8s] Then just paint it darker.
+[00:32:50,441 | 00:32:51,441 | 1s] If you do this.
+[00:33:05,459 | 00:33:06,460 | 1s] The boundary of the pattern becomes darker.
+[00:33:06,461 | 00:33:08,140 | 2s] After that, just render it.
+[00:33:12,355 | 00:33:13,310 | 1s] It's not hard.
+[00:33:13,310 | 00:33:15,790 | 2s] Because you only paint this part partially.
+[00:33:52,049 | 00:33:53,100 | 1s] Duplicate the needed part and connect it.
+[00:34:33,390 | 00:34:34,440 | 1s] Not hard, right?
+[00:34:34,441 | 00:34:35,719 | 1s] After rendering like this.
+[00:34:36,949 | 00:34:42,961 | 6s] Just apply it and paste it into the picture.
+[00:34:53,049 | 00:34:56,821 | 4s] If you make a lot of these and collect them, it'll be convenient when drawing.
+[00:35:01,395 | 00:35:05,340 | 4s] When drawing patterns or weapons, you can use the symmetry function.
+[00:35:05,420 | 00:35:07,100 | 2s] Click the butterfly button here.
+[00:35:08,414 | 00:35:12,261 | 4s] If you click the vertical line here, a vertical line appears like this.
+[00:35:13,589 | 00:35:18,040 | 4s] If you paint with a brush here, you can draw a left-right symmetric picture like this.
+[00:35:23,870 | 00:35:32,871 | 9s] Well, it's good when drawing weapons or patterns like this.
+[00:35:42,084 | 00:35:50,640 | 9s] You can easily draw this kind of complex pattern too.
+[00:35:56,509 | 00:36:03,200 | 7s] It'd be good to draw something like this and put it in the center of the cape's back, or somewhere like that.
+[00:36:09,240 | 00:36:14,090 | 5s] When drawing a face straight-on, you absolutely must not use this symmetry function.
+[00:36:15,710 | 00:36:18,880 | 3s] A person's face isn't left-right symmetric.
+[00:36:18,881 | 00:36:22,480 | 4s] Even though it isn't symmetric, it's natural.
+[00:36:22,481 | 00:36:29,440 | 7s] People usually prefer a natural feel over an artificial-feeling face.
+[00:36:29,441 | 00:36:33,640 | 4s] And it doesn't help improve my drawing skill at all.
+[00:36:34,845 | 00:36:39,400 | 5s] Drawing while appropriately balancing it with my own hand is much better.
+[00:36:41,370 | 00:36:45,900 | 5s] We've learned about various Photoshop functions and how to use them.
+[00:36:45,901 | 00:36:53,180 | 7s] I hope you'll use these functions appropriately and smartly to raise the completion of your pictures.
+[00:36:53,181 | 00:36:57,740 | 5s] Next time, let's talk about other tips I can share.

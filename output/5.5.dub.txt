@@ -1,0 +1,73 @@
+[00:00:05,209 | 00:00:07,260 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:07,714 | 00:00:11,700 | 4s] This time too, let's continue coloring this picture.
+[00:00:13,309 | 00:00:18,400 | 5s] Do you remember the clothing detail from when I sketched the prototype version?
+[00:00:18,401 | 00:00:19,401 | 1s] It's this part here.
+[00:00:20,790 | 00:00:26,961 | 6s] I didn't express it in the sketch of the current picture, because I wanted to draw it after confirming the clothing folds to some extent.
+[00:00:28,350 | 00:00:32,880 | 5s] Now that the fold areas are somewhat expressed, let me render that planned detail.
+[00:00:35,895 | 00:00:40,521 | 5s] Since it's a diamond shape, I'll draw a grid in a diamond pattern.
+[00:00:41,980 | 00:00:46,830 | 5s] Naturally, considering the folds.
+[00:00:46,831 | 00:00:49,630 | 3s] It'd be good to be accurate, but it's hard.
+[00:00:49,631 | 00:00:52,910 | 3s] I'm trying to draw it accurately too.
+[00:00:52,911 | 00:00:54,430 | 2s] It's not easy.
+[00:00:54,431 | 00:00:56,590 | 2s] I'm fudging it moderately.
+[00:01:33,664 | 00:01:37,180 | 4s] I don't like the left part, so I'm redrawing it.
+[00:01:37,180 | 00:01:40,820 | 4s] The grid size was smaller than the right side.
+[00:01:44,889 | 00:01:47,260 | 2s] This is truly boring labor.
+[00:01:47,261 | 00:01:48,220 | 1s] But what can you do?
+[00:01:48,269 | 00:01:51,180 | 3s] You can't only draw fun things.
+[00:01:51,181 | 00:01:54,460 | 3s] I've always done this detail work.
+[00:01:54,461 | 00:02:01,660 | 7s] It's so boring I could die, but once it's done I feel proud and the picture quality improves, so I can't give up.
+[00:02:04,889 | 00:02:08,860 | 4s] Since the folds are more wrinkled than the right side, it's hard.
+[00:02:08,861 | 00:02:12,300 | 3s] I'm at the point where I don't even know if I'm doing this right while drawing.
+[00:02:12,301 | 00:02:13,020 | 1s] Well, what can you do?
+[00:02:13,021 | 00:02:14,860 | 2s] I just express it within my ability.
+[00:02:15,900 | 00:02:19,660 | 4s] At times like this, I also want to learn 3D properly.
+[00:02:19,661 | 00:02:23,301 | 4s] I think it'd be convenient to pick it out in 3D and retouch it.
+[00:02:32,700 | 00:02:38,140 | 5s] Since I drew the big grid, let me draw the small grid inside.
+[00:02:38,141 | 00:02:41,381 | 3s] If you draw it finely from the start, it's hard to establish the form.
+[00:02:42,329 | 00:02:46,140 | 4s] Remember: draw big, then draw finely.
+[00:02:46,141 | 00:02:47,180 | 1s] That's such a good phrase.
+[00:02:47,181 | 00:02:49,180 | 2s] You can apply it anywhere.
+[00:02:53,950 | 00:02:58,281 | 4s] Let me separate the areas, as I did in the sketch.
+[00:03:03,739 | 00:03:06,750 | 3s] I'll use the straight-line lasso tool.
+[00:03:06,751 | 00:03:10,590 | 4s] I created a new layer, poured color, and masked it.
+[00:03:18,624 | 00:03:22,581 | 4s] I plan to make this masked part a semi-transparent material.
+[00:03:25,950 | 00:03:29,481 | 4s] I was happy that this boring work was almost over.
+[00:03:30,269 | 00:03:33,961 | 4s] Not being able to imagine some incident that was to come.
+[00:03:43,215 | 00:03:50,241 | 7s] After cutting out this masked part and moving it to a new layer, I adjusted the opacity to make it semi-transparent.
+[00:03:51,480 | 00:03:54,570 | 3s] You can see the leg line that was hidden too.
+[00:03:54,571 | 00:03:59,770 | 5s] Then, through a curve adjustment, I changed it to be a bit darker, so I changed the inherent value.
+[00:04:00,989 | 00:04:02,400 | 1s] Nothing special, right?
+[00:04:02,401 | 00:04:04,320 | 2s] This is how amazing Photoshop is, everyone.
+[00:04:11,000 | 00:04:14,611 | 4s] Now let me also render the panel part that I had hidden.
+[00:04:22,755 | 00:04:26,830 | 4s] I paint the highlight on the surface angles where a highlight would form.
+[00:04:28,805 | 00:04:32,480 | 4s] I also express the thickness.
+[00:04:32,481 | 00:04:38,601 | 6s] I should consider the reflected light, and if there's a need for a highlight on the edges, draw it too.
+[00:04:39,640 | 00:04:44,890 | 5s] This kind of light calculation would be accurate if done in 3D, I think.
+[00:04:46,330 | 00:04:49,461 | 3s] But I think there's also appeal that comes from the clumsiness.
+[00:06:47,835 | 00:06:53,480 | 6s] Because of the video filming, I had too many programs open, so it seems my computer broke down.
+[00:06:53,481 | 00:06:54,840 | 1s] Photoshop crashed.
+[00:06:56,120 | 00:07:05,490 | 9s] Since I normally use the auto-recovery save every ten minutes, I thought I'd lose at most ten minutes, and turned Photoshop back on.
+[00:07:06,495 | 00:07:09,610 | 3s] But there was no recovery save.
+[00:07:09,611 | 00:07:10,611 | 1s] It was despairing.
+[00:07:11,455 | 00:07:15,171 | 4s] It seems I probably messed with the settings while explaining the Photoshop features.
+[00:07:16,535 | 00:07:23,161 | 7s] I turned it on to see how far I'd drawn and saved, and the really annoying part had gone away.
+[00:07:25,425 | 00:07:28,890 | 3s] I put everything down, went and ate a piece of tiramisu.
+[00:07:28,891 | 00:07:33,850 | 5s] My mental state was shattered, and I wanted to just melt away, but I have to work according to schedule.
+[00:07:35,050 | 00:07:37,450 | 2s] It seems something like this happens every quarter.
+[00:07:37,451 | 00:07:41,091 | 4s] Always back up and save, two and three times over.
+[00:07:41,615 | 00:07:47,290 | 6s] Fortunately, there was the recorded video, so I used it to recover.
+[00:07:50,005 | 00:07:54,910 | 5s] Of all things, that had to go away, so I endured the urge to curse.
+[00:07:54,911 | 00:07:56,110 | 1s] Look, I held back.
+[00:07:56,219 | 00:07:57,230 | 1s] My mouth isn't moving.
+[00:08:00,950 | 00:08:04,120 | 3s] The occasionally moving mouth is a yawn.
+[00:08:04,121 | 00:08:05,121 | 1s] Yawn.
+[00:09:07,710 | 00:09:11,310 | 4s] After all the twists and turns, I completed the recovery.
+[00:09:11,311 | 00:09:15,390 | 4s] It seems my computer did that to create an episode for me.
+[00:09:15,390 | 00:09:17,070 | 2s] How impressive.
+[00:09:17,071 | 00:09:18,830 | 2s] Once I get paid, I should change my computer first.
+[00:09:20,890 | 00:09:24,460 | 4s] I'll wrap up this chapter here.
+[00:09:24,461 | 00:09:27,781 | 3s] Once you lose your work like this, the energy drains out of you.
+[00:09:29,345 | 00:09:36,620 | 7s] In the next chapter, I'll talk about and demo all sorts of methods to raise a picture's completion.
+[00:09:37,235 | 00:09:40,140 | 3s] You'll be seeing this picture again.
+[00:09:40,141 | 00:09:41,141 | 1s] Great work.

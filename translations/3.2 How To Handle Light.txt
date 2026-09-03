@@ -1,0 +1,129 @@
+Hello, I'm Sangsoo Jeong.
+This time, based on what we learned in Chapter 3, part 1, let's set up lighting and learn about the methods and principles of applying it to a drawing.
+This time, we'll go through it with a hands-on exercise.
+First, let's set up properties like the position and color of the light source.
+We'll set up a light source using the qualities of nature.
+I'll set two light sources at this diagonal.
+It's a warm light close to white.
+And to bring out the three-dimensionality even more, I'll use a blue reflected light on the opposite side.
+So the color and light aren't too strong.
+In reality, sky light doesn't come up from below like this, but for a pictorial expression, I'll set it up this way.
+Applying this to a drawing three-dimensionally is hard.
+When I was a beginner, I was lost too.
+First, let's draw a cube.
+Based on the light I set, let's color the cube.
+It's good to use a material that has a moderate amount of diffuse reflection.
+Think of plaster of paris.
+When I ask students to draw a cube, they all draw it well.
+But what if there are several cubes?
+If there are many, can you draw them accurately?
+I drew several cubes like this.
+Now I need to color them.
+Shall we learn the principle of coloring accurately according to light?
+I drew several cubes from the side, in two dimensions.
+Since it's two-dimensional, they appear as rectangles.
+Then let's set the position of the observer and the position of the light source.
+Usually I set it to sunlight and draw, in many cases.
+If it's sunlight, you can't mark the light source's position in two dimensions.
+Because it's a hundred and fifty million kilometers away.
+But you can draw the direction the light comes from.
+Because the sun is far, the light comes at a uniform angle.
+Let's set it so it comes uniformly at a forty-five degree angle like this.
+Then let's think about where the light ray hits the box and reflects back.
+As we learned in Chapter 3, part 1, the line drawn perpendicular to the surface is called the normal. An incoming light ray, entering at an angle of incidence based on this normal, comes out as a reflected ray at an angle of reflection equal to the angle of incidence.
+Like this.
+However, since it's a material that undergoes diffuse reflection, I've arbitrarily represented the reflected ray as a circular shape.
+Let me call this a ray circle.
+The closer to the reflected ray, the stronger the light, and the farther, the weaker the light.
+Using the position where this ray circle reaches the observer, you can determine the brightness of the object.
+The closer it is to this warm color, the stronger the light the observer feels.
+You might want to consider total internal reflection too, but let's keep it simple like this.
+At this time, if the reflected ray reaches the observer directly, it becomes a highlight.
+At the very top.
+The front of the cube becomes the highlight.
+The rest doesn't get a highlight.
+If you move this ray circle around and compare, you can see the light getting weaker as you go down.
+Let's compare the top face too.
+For these three cubes on top, the observer wouldn't see the top face, right?
+Let's look at the fourth cube.
+The light hits around here in the ray circle.
+You can see the bottom cube is brighter than the one above it, because the observer's position is closer to the reflected ray.
+If we turn this into three dimensions, it gets a bit more complex, but the principle is the same, so let's recall the above and try to draw as accurately as possible.
+Once you've practiced, change the cube to a sphere and draw it.
+Unlike the cube, you can mark a highlight on every part of a sphere.
+If you draw this accurately, you'll see the highlight position gets higher the lower and closer the sphere is.
+What if, instead of sunlight coming from very far away, we switch to a nearby artificial light?
+The light can come like this.
+The position of the highlight has become more fickle.
+Light varies with intensity and angle, but you should remember it also varies with the position of the light source.
+Let's practice applying various lights to this sphere.
+Let's also look at materials.
+I've been asked a lot how to draw metal.
+Among them, especially metal with a smooth material.
+It doesn't leave the light theory we've learned so far.
+Smooth metal has a high reflectance and a relatively even surface, so it reflects surrounding objects.
+It's said to be reflected.
+Since we're people who know a certain amount about light, we'll say it reflects.
+Starting from the surrounding environment, the light reflected off the metal enters our eyes.
+Because of that, when drawing metal, you have to consider the surroundings too.
+First, let's draw a cylinder.
+Then let's set it up as if there's something around it.
+Let's assume the background is a blue world.
+First, there's the observer right in front.
+Let's place objects around it, without much meaning.
+Like this.
+If you look at this from above.
+It would look like this.
+I drew lines considering the angle of incidence and reflection for the light coming off the object.
+The fruit reflects off the cylinder and enters the observer's eyes.
+The observer, of course, gets reflected too.
+The lighting gets reflected as well.
+The mailbox gets reflected too.
+The reflected area comes out like this.
+It's become narrower than the object itself, surprisingly.
+That's why objects appear compressed left and right on a cylindrical metal surface.
+Like this.
+Let's return to three dimensions and draw the objects reflected in the cylinder.
+Stretching out the reflected surfaces.
+At this time, I'll draw without considering the Y-axis.
+Since we're not drawing a mirror, we have to mix in the metal's own color.
+I've arbitrarily mixed in a brass color.
+For the part where the light comes in, keep the bright light, and for realism, blend it naturally.
+This is the basic principle of drawing metal.
+Other materials aren't much different.
+Depending on the polish of the surface, it can reflect honestly like a mirror or smooth metal, or it can reflect only a small part, like paper or skin.
+For example, on a smooth surface, the area where light reflects is limited, but on a rough surface like this, it can appear wide.
+Spreading wide means the light energy can't concentrate in one place and scatters, so only some reaches our eyes.
+Which means the contrast of highlights, etc., also decreases.
+Let's practice the same way with various materials.
+Once you master this, you can confidently apply light to the characters we draw too.
+This is a drawing of a person, drawn by someone who doesn't understand light well, assuming the light comes down vertically.
+What is wrong?
+People who took this chapter properly will have noticed.
+The problem with this picture is that, without considering light theory, it just brightened every part facing upward, on the assumption light comes down vertically from above.
+Let's look at the side view in two dimensions.
+I've marked the points where the highlight should align.
+Shall we find the highlight?
+It's located a bit more toward the front than you'd think.
+And this chest area is blocked from light by the head.
+If you color it properly again, it looks like this.
+Coloring done with habitual and one-sided thinking builds up from the small things and makes the picture look amateurish.
+People who don't understand light often can't render recessed areas properly.
+For example, when drawing a face, people often don't know why a highlight is placed in the recessed area between the nose and the eyes.
+Highlights also form like this within recessed clothing folds.
+If you understand light, you can know the reason.
+I've shown the recessed shape in two dimensions.
+Check the position of the light, and draw the reflected ray according to the angle of incidence.
+Find where the highlight forms.
+A highlight definitely forms in the recessed area too.
+If you draw this in three dimensions, it would look like this.
+Not just raised areas, but recessed areas like this, if you understand light, you can consider them properly and draw them.
+Are these light theories important in concept art and illustration, you ask?
+Realistic light management might not be of great importance to some.
+There's a difference between knowing you're omitting it and omitting it without knowing.
+However, I've always tried to express things realistically.
+And that's what I've been teaching you.
+Just as you have to understand facial anatomy to draw character design through omission and exaggeration, I think light is the same.
+I hope you'll build on realistic light as a foundation and develop it into various styles through omission and exaggeration.
+Based on what we learned this time, next time let's place shapes with light settings on a character sketch.
+And we'll have a time to apply and color it.

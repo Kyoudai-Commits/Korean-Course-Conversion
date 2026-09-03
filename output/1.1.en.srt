@@ -1,0 +1,555 @@
+1
+00:00:04,729 --> 00:00:06,780
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:06,781 --> 00:00:13,260
+This time, we'll figure out what your weaknesses are and learn a study method to match.
+
+3
+00:00:13,261 --> 00:00:18,821
+Before you study, you need to know why you want to draw and what you're lacking.
+
+4
+00:00:19,025 --> 00:00:22,780
+Let's look back at the process you've been using to draw.
+
+5
+00:00:23,290 --> 00:00:26,300
+There are all sorts of reasons people draw.
+
+6
+00:00:26,301 --> 00:00:33,820
+Since you're a classmate taking my class, I assume you're a concept artist or illustrator, or you want to become one.
+
+7
+00:00:34,530 --> 00:00:37,860
+So let me roughly split those goals into two.
+
+8
+00:00:37,861 --> 00:00:41,620
+Becoming a concept artist, and becoming an illustrator.
+
+9
+00:00:43,255 --> 00:00:48,320
+A concept artist's job is to convey a convincing design effectively.
+
+10
+00:00:48,321 --> 00:00:51,680
+In the early stages of a project, they can also be the face of the team.
+
+11
+00:00:51,681 --> 00:01:00,041
+Through concept art, you can grasp the overall mood of a game or film, and in the early stages you take on a role in all sorts of business avenues.
+
+12
+00:01:00,160 --> 00:01:03,520
+You can even raise investment with concept art alone.
+
+13
+00:01:03,521 --> 00:01:08,240
+In other words, a single picture can be more convincing than a hundred words.
+
+14
+00:01:08,241 --> 00:01:14,570
+But if your expressive ability is lacking, the difference in persuasiveness that comes from a picture's expressiveness is enormous.
+
+15
+00:01:15,184 --> 00:01:18,170
+The same goes for an illustrator.
+
+16
+00:01:18,170 --> 00:01:23,850
+I think of illustration as pushing a picture's communicative power to the maximum through all sorts of elements.
+
+17
+00:01:23,850 --> 00:01:27,250
+That's why an illustrator's expressive ability matters even more.
+
+18
+00:01:27,834 --> 00:01:31,290
+Because you have to convey every story you want to tell with a single picture.
+
+19
+00:01:34,934 --> 00:01:44,320
+Since you have to pay attention to color, mood, design, composition, form, volume, and so many other elements, the importance of expressive ability grows even further.
+
+20
+00:01:45,739 --> 00:01:48,060
+So what is expressive ability in drawing?
+
+21
+00:01:48,060 --> 00:01:54,860
+You have to consider many elements, but I think accurate form and volume are the most important.
+
+22
+00:01:54,860 --> 00:01:58,540
+Especially, photo-realistic-style drawing aims for a believable sense of three-dimensionality.
+
+23
+00:01:58,540 --> 00:02:01,460
+People are used to seeing things three-dimensionally.
+
+24
+00:02:02,039 --> 00:02:05,340
+That's because, since birth, we've seen all sorts of things in 3D.
+
+25
+00:02:06,249 --> 00:02:14,501
+The more a picture has accurate form and looks three-dimensional, the more effectively it can convey the various stories within it.
+
+26
+00:02:14,970 --> 00:02:19,180
+So what do you need to study to get accurate form and volume?
+
+27
+00:02:19,181 --> 00:02:25,020
+Among the many aspiring artists I've observed, I found two big problems.
+
+28
+00:02:25,021 --> 00:02:27,940
+The first is neglecting line drawing.
+
+29
+00:02:28,060 --> 00:02:31,141
+They try to hide the lack of brushwork skill behind nice-looking coloring.
+
+30
+00:02:31,369 --> 00:02:35,260
+The second is passively accepting the instructor's lessons or materials.
+
+31
+00:02:39,350 --> 00:02:43,880
+In drawing, I consider line drawing to be the most basic of basics.
+
+32
+00:02:43,881 --> 00:02:54,120
+If you skip line drawing and work the so-called "paint-without-line-art" way, ask yourself whether you're really such a skilled concept artist or illustrator that you can skip the sketching stage.
+
+33
+00:02:54,121 --> 00:02:55,320
+Most people are not.
+
+34
+00:02:55,885 --> 00:03:01,361
+I've seen most people who draw this way are "making" a picture rather than "drawing" one.
+
+35
+00:03:01,644 --> 00:03:07,880
+Ask yourself whether you're overusing Liquify, or cutting things up and gluing them together as you work.
+
+36
+00:03:08,920 --> 00:03:13,720
+Realistic light, color sense, and design all look very clumsy if the form falls apart.
+
+37
+00:03:13,721 --> 00:03:16,680
+This is even more true for realistic-style pictures.
+
+38
+00:03:16,681 --> 00:03:19,320
+Brushwork really shows in line drawing.
+
+39
+00:03:19,321 --> 00:03:23,960
+If you want to draw well, practice building your form ability through line drawing.
+
+40
+00:03:23,961 --> 00:03:31,400
+If your form reads accurately from the lines alone, consider yourself about fifty to seventy percent successful.
+
+41
+00:03:31,401 --> 00:03:34,360
+Painting in shapes is the next step.
+
+42
+00:03:34,361 --> 00:03:40,340
+In realistic-style drawing, the sketching process can be simpler than in animation drawing.
+
+43
+00:03:40,341 --> 00:03:46,340
+By that I mean you don't have to cleanly ink the lines or sketch every accessory and pattern up front.
+
+44
+00:03:46,341 --> 00:03:49,620
+This also applies to design.
+
+45
+00:03:49,621 --> 00:03:53,261
+Draw big, draw simply, and draw accurately.
+
+46
+00:03:53,464 --> 00:03:58,100
+Once line drawing is mastered, you can draw with shapes and no lines.
+
+47
+00:03:58,101 --> 00:04:02,900
+But even then, sketching first gives you a much more finished result.
+
+48
+00:04:02,901 --> 00:04:06,420
+Even if you start by painting shapes, it's better to add sketching as you go.
+
+49
+00:04:07,174 --> 00:04:13,520
+Because the sharpness that lines convey is much easier to express than marking the boundary between one shape and another.
+
+50
+00:04:13,521 --> 00:04:17,161
+The clearer the boundaries between objects, the cleaner a picture looks.
+
+51
+00:04:17,735 --> 00:04:20,880
+That's why I sometimes intentionally leave lines in.
+
+52
+00:04:20,959 --> 00:04:30,121
+This is especially true in concept art, and it's more effective there because it makes it easier for 3D modelers to understand the design.
+
+53
+00:04:31,480 --> 00:04:35,770
+If you want to improve your drawing fast, you need to practice line drawing.
+
+54
+00:04:35,771 --> 00:04:43,290
+I hope you become a concept artist or illustrator who can be communicative and expressive with line drawing alone.
+
+55
+00:04:43,291 --> 00:04:48,931
+You shouldn't try to dazzle people with a picture smothered in flashy colors and brilliant light.
+
+56
+00:04:49,690 --> 00:04:52,940
+So how should you study line drawing?
+
+57
+00:04:52,941 --> 00:04:54,700
+First, draw things you like.
+
+58
+00:04:55,340 --> 00:04:58,140
+You need to get comfortable with your brush and tablet.
+
+59
+00:04:58,141 --> 00:05:02,140
+A good brush someone gave me isn't necessarily a good brush for you.
+
+60
+00:05:02,141 --> 00:05:05,221
+Try out lots of brushes and find the one that suits you.
+
+61
+00:05:05,795 --> 00:05:10,860
+Even with the same brush, how it feels can change depending on how much you zoom the canvas.
+
+62
+00:05:10,861 --> 00:05:16,940
+They say a craftsman doesn't blame his tools, but a brush that suits you makes drawing more enjoyable.
+
+63
+00:05:16,941 --> 00:05:17,941
+Once you've found your brush,
+
+64
+00:05:18,030 --> 00:05:23,790
+before you start the real picture, always loosen up your hand by doodling for at least ten minutes.
+
+65
+00:05:23,791 --> 00:05:26,750
+I usually loosen my hand by drawing skulls.
+
+66
+00:05:26,751 --> 00:05:32,910
+You could draw flowers, a puppy, or objects on your desk.
+
+67
+00:05:32,911 --> 00:05:35,630
+You could also just scribble lines back and forth.
+
+68
+00:05:35,631 --> 00:05:40,830
+At this stage you shouldn't worry about accuracy; just draw loosely as if you're playing.
+
+69
+00:05:41,630 --> 00:05:45,390
+If you get stressed before you even start, you won't be able to begin drawing at all.
+
+70
+00:05:45,391 --> 00:05:47,150
+Once you get used to it, try gesture drawing too.
+
+71
+00:05:47,860 --> 00:05:52,180
+Sometimes I'll get really into drawing a picture, as if I'm finishing it with just a sketch.
+
+72
+00:05:52,905 --> 00:05:56,500
+The important thing is that you get on friendly terms with line drawing.
+
+73
+00:05:56,501 --> 00:06:02,500
+It would also be nice to build your own "home turf" where you can draw without hesitation even on a blank canvas.
+
+74
+00:06:02,501 --> 00:06:05,810
+If coloring feels daunting, I recommend doing copy-studies of photos.
+
+75
+00:06:06,020 --> 00:06:08,740
+Do photo copy-studies, not picture copy-studies.
+
+76
+00:06:08,741 --> 00:06:11,300
+A photo is the best teacher.
+
+77
+00:06:11,301 --> 00:06:16,340
+Copy-study photos with all kinds of designs, light, people, and backgrounds.
+
+78
+00:06:16,880 --> 00:06:21,360
+Don't focus on drawing it identically; focus on understanding the principle.
+
+79
+00:06:21,361 --> 00:06:28,320
+Usually people focus on mechanically copying it exactly, and after they're done, nothing stays in their head.
+
+80
+00:06:28,321 --> 00:06:34,640
+Use the eyedropper on different parts of the photo, and observe how the value and saturation change.
+
+81
+00:06:34,641 --> 00:06:37,680
+Also convert the photo to black and white to observe it.
+
+82
+00:06:37,681 --> 00:06:39,440
+Let's observe the changes in value.
+
+83
+00:06:40,030 --> 00:06:47,901
+Unless the light is intense at the edge and creates strong value contrast, value often doesn't change that much.
+
+84
+00:06:47,995 --> 00:06:50,820
+Grasping inherent value is especially important in coloring.
+
+85
+00:06:51,380 --> 00:06:56,420
+If a picture looks muddy, check whether you used too little saturation in the shadows and midtones.
+
+86
+00:06:57,060 --> 00:07:00,770
+It's good to make the saturation of the midtones a little higher than the lighter areas.
+
+87
+00:07:02,140 --> 00:07:06,190
+When I was job hunting, I'd alternate between copy-studies and original work.
+
+88
+00:07:06,191 --> 00:07:14,670
+The good thing about this is that copy-study reduces the pain of creating, and since the result looks much more complete than your actual skill, it boosts your confidence.
+
+89
+00:07:14,671 --> 00:07:17,710
+That confidence can become the driving force for original work.
+
+90
+00:07:17,711 --> 00:07:26,030
+The reason I do two copy-studies then one original is that copy-studies take less time and energy, so the time balances out.
+
+91
+00:07:26,031 --> 00:07:29,950
+It's great to immediately apply the principles you learned from copy-study to your original work.
+
+92
+00:07:30,530 --> 00:07:33,851
+The things you learn from copy-study finally become your own.
+
+93
+00:07:35,240 --> 00:07:40,961
+So you think your sketching and coloring are solid, but your pictures aren't popular and you don't know your own style?
+
+94
+00:07:41,325 --> 00:07:43,560
+Drawing isn't all about fundamentals.
+
+95
+00:07:43,561 --> 00:07:46,200
+Fundamentals are, literally, the basics.
+
+96
+00:07:46,201 --> 00:07:49,400
+If the basics aren't in place, you can't move forward.
+
+97
+00:07:49,401 --> 00:07:52,120
+What else do you need beyond the fundamentals?
+
+98
+00:07:52,121 --> 00:07:56,120
+You need creative elements like style and design ability.
+
+99
+00:07:56,121 --> 00:07:59,400
+Design is especially important in concept art.
+
+100
+00:07:59,401 --> 00:08:02,600
+Because it's a job where you're essentially drawing for the sake of design.
+
+101
+00:08:03,830 --> 00:08:06,520
+Some people have a narrow sense of design.
+
+102
+00:08:06,521 --> 00:08:16,200
+The trait of people with a narrow sense of design is that they only watch the movies or comics they like, or they only copy the designs of the instructor or the original artist they're studying from.
+
+103
+00:08:16,445 --> 00:08:18,680
+These people need to broaden their horizons.
+
+104
+00:08:20,350 --> 00:08:24,560
+Especially in the game industry, you should be exposed to lots of different films and games.
+
+105
+00:08:24,561 --> 00:08:27,840
+Even if it's not your taste, think of it as study.
+
+106
+00:08:27,841 --> 00:08:30,681
+It's much better than studying by reading books.
+
+107
+00:08:30,830 --> 00:08:34,841
+In particular, get into popular comics, animation, films, and games.
+
+108
+00:08:35,580 --> 00:08:37,360
+There's a reason something is popular.
+
+109
+00:08:37,740 --> 00:08:40,480
+Also analyze the art of popular artists.
+
+110
+00:08:40,481 --> 00:08:43,200
+The important thing here is that I'm not saying to copy it identically.
+
+111
+00:08:43,580 --> 00:08:47,920
+Don't imitate; reference it and make it your own.
+
+112
+00:08:47,921 --> 00:08:52,570
+If it's a design, you can reference the silhouette or the color scheme.
+
+113
+00:08:52,571 --> 00:08:59,610
+Also observe how they handle the viewer's eye through concentrating and scattering detail, so you can apply it to your own work.
+
+114
+00:08:59,611 --> 00:09:03,050
+Drawing style is largely a matter of personal taste.
+
+115
+00:09:03,051 --> 00:09:09,770
+As your expressive ability improves and you get good at drawing, your own style will naturally emerge.
+
+116
+00:09:09,771 --> 00:09:16,090
+That's exactly why I emphasize fundamentals, and why you should draw because you want to.
+
+117
+00:09:16,091 --> 00:09:16,570
+However.
+
+118
+00:09:16,670 --> 00:09:22,540
+In concept art, which is a kind of commercial design, it's hard to push through with your own style.
+
+119
+00:09:22,541 --> 00:09:27,020
+It has to be universal, popular, and utterly commercial.
+
+120
+00:09:27,021 --> 00:09:31,900
+And in the vast majority of cases you have to follow the art director's established style.
+
+121
+00:09:32,300 --> 00:09:38,501
+If you want to find your own style, focus on practicing fundamentals so you can grow into many different styles.
+
+122
+00:09:41,815 --> 00:09:44,640
+Everyone studies in different ways.
+
+123
+00:09:44,640 --> 00:09:48,080
+Some read books, some watch lectures on YouTube.
+
+124
+00:09:48,081 --> 00:09:50,480
+Which medium you use doesn't matter.
+
+125
+00:09:50,481 --> 00:09:53,200
+Who the teacher is matters less than this.
+
+126
+00:09:53,605 --> 00:09:59,680
+What matters is not being passively fed information, but studying with you as the subject.
+
+127
+00:09:59,681 --> 00:10:11,440
+If you saw a good photo and decided to copy-study it, rather than seeing the photo as flat, you should think about its three-dimensional structure and reflect on why the light and color influence each other.
+
+128
+00:10:11,980 --> 00:10:17,061
+And you should draw while studying why the photographer shot it with that composition and color.
+
+129
+00:10:17,775 --> 00:10:33,800
+If you study with books and videos, you should question the theories in them, test them yourself, observe with your own eyes, or draw them out, so you truly understand what the speaker means and organize your own thoughts.
+
+130
+00:10:33,801 --> 00:10:42,520
+Furthermore, you should be able to take what you felt when you saw a great picture, photo, or design, and turn it into your own inspiration.
+
+131
+00:10:42,521 --> 00:10:45,841
+We're creators who do creative work.
+
+132
+00:10:46,010 --> 00:10:50,300
+The rote, passive study habits from your school days don't work.
+
+133
+00:10:50,301 --> 00:10:52,940
+You always have to think creatively.
+
+134
+00:10:52,941 --> 00:10:56,060
+I'm not going to impose my drawing style on you.
+
+135
+00:10:56,061 --> 00:11:01,020
+I just hope the students who take this course don't become mass-produced copycats.
+
+136
+00:11:01,021 --> 00:11:05,660
+Please develop what you learn in this class and make it your own.
+
+137
+00:11:06,060 --> 00:11:15,301
+I hope you study in a way that you do it because you want to, in a way where you're the owner, so that what you study fully becomes yours.
+
+138
+00:11:15,620 --> 00:11:24,900
+This time, we reminded ourselves of what we're lacking, and briefly looked at how to study drawing and how to work.
+
+139
+00:11:24,901 --> 00:11:28,420
+Next time, we'll look at an efficient working process.
