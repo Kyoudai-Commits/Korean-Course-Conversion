@@ -1,0 +1,151 @@
+Hello, I'm Sangsoo Jeong.
+Last time, we did the sketch of the concept art.
+This time, let's begin the coloring.
+First, here's the sketch I worked on last time.
+And I've tidied up and modified the sketch a bit.
+Since I'm the type to keep worrying once something sticks in my mind, I often fix the picture as I draw.
+Something subtly bothered me, so I made corrections here and there.
+I'll explain the reasons for the corrections before I start.
+First, I turned the body slightly and gave it a bit more overall perspective.
+It was too front-facing, so it looked less interesting.
+It's not a big correction, just overall.
+I gave it perspective like this.
+The front shoulder here.
+I raised it a little and lowered the legs a bit, a simple correction.
+Refer back to Chapter 4 for this.
+This clothing part, whether it's a coat or a gown.
+In the previous sketch, it seemed to lack some three-dimensionality, so I raised the collar.
+That way, I made it a more realistic clothing piece.
+This clothing is set to be fixed to the arm here so it doesn't fall down.
+And these translucent panels, instead of covering everything, I made them cover sparsely, to bring out a bit more of a random, fresh feel.
+And the clothing was too reminiscent of a plug suit from Evangelion, so I modified it a bit.
+And I removed these elements from the clothing.
+Once coloring progresses, the volume of the clothing will be determined.
+I judged that it'd be better to work on top of that.
+When adding patterns to clothing, I tend to consider the clothing's volume.
+In concept art work, due to time constraints, I sometimes unavoidably compose patterns flatly.
+For example, like this.
+You'd draw it like projecting a beam onto a curtain, without considering the clothing folds.
+It's very convenient and quick to work, but the volume somewhat decreases.
+Since this is a personal piece and a demo, I'll draw it while bringing out the volume.
+With a few elements reduced, it even feels simpler.
+I really like very simple designs.
+Putting aside whether it looks good, it's easy to draw.
+I still don't draw with references up.
+Right now, I need the process of envisioning my design and organizing it in my head.
+Honestly, I wanted to sketch perfectly and then color, but I'll just start at about this level.
+I thought it'd be better to show you the way I actually work in practice.
+And I'll try to refrain from speeding up the video as much as possible.
+I have the thought that I should keep talking, so I was going to speed up the parts where I'm not talking.
+But seeing is more important than talking, right?
+I've divided the layers like this.
+The more it's a top-covering element, the higher I put the layer.
+At the very back, there's the coat tail and the hair, and on top of that is the skin layer.
+There are clothing layers one and two.
+On top of that, there's the front coat tail.
+And the collar is on top of that.
+I've grouped the details here separately.
+When I turn on the details, I'll work with it temporarily off.
+I'll flexibly merge and expand these layers, but I won't explain every time.
+First, let me set the base color.
+It's good to try various things.
+Since I decided to mainly use a blue tone.
+I'll draw within a range that doesn't deviate from this.
+There's a game where you can freely change the color scheme of clothing.
+Like My Hero's Academia, or La Vie en Rose Rock... well, games like that.
+Even with the same clothing, just changing the color creates uniqueness.
+I think it's a really fun and good concept.
+We can do that while drawing.
+Since the layers are separated, we can change them easily.
+I'll apply broadly until a color I like comes out.
+Since you can subtly change it as you draw, it's no big deal.
+I don't think you need to overthink it.
+Well, let me decide on this as a moderate pick.
+First, I have to set up the light.
+I'll use my typical light setup: strong key light from the right, and a soft fill light from the opposite side.
+Let me first paint the clothing, the largest area.
+It's a desaturated bright color, so it's a hard color to handle.
+It's good to paint it moderately dark so the volume shows, but it can't be too dark.
+Naturally, since it's a white garment, considering the inherent value, it shouldn't look darker than the skin.
+So when painting a white garment, it's good for the light to come from the side or a semi-side, rather than the front, so the contrast can be strong.
+Paint considering the shape of the folds.
+Since it's too dark, I used an airbrush to brighten the top overall.
+Since it's a fitted garment, I also need to bring out the silhouette of the ribcage.
+I paint broadly.
+Since it's an overall bright garment, the contrast isn't large, so it's a bit tricky, but I need to work hard to bring out subtle contrast so the volume can be felt.
+For blending that softens the boundaries of the brush, I use the mixer brush tool.
+By releasing tension from the hand and using pen pressure to paint, I create a naturally connected volume.
+I'll hide the detail layer group and work.
+The more you paint, the more the shape takes form and the sense of volume comes alive.
+Painting the overall volume with special care is very, very important.
+When clothing has a lot of details, and you paint considering the details, you often can't pay attention to the volume.
+Since I'm not using many colors, this is a picture where I can focus even more on volume.
+I'll also bring out a sense of thickness.
+Let me turn off the line layer and check whether the volume is coming out properly.
+I'll paint the skin too, following what we learned.
+If you've learned human anatomy, you'd have grasped the form, and you'd be able to paint in line with the light.
+When coloring, you need to grasp the curvature of the surface well.
+Paint the recesses dark and establish the shape of the jaw.
+Set the shading inside the cheekbone.
+When painting skin, you should pay attention to the H of the HSB sliders. It varies with the background environment, but I set the midtones around eighteen to twenty-two, and when painting the lit areas, I move slightly to the right.
+In other words, the midtones are relatively reddish, and the bright parts have a bit of yellow mixed in.
+I'll also bring out the shape of the chest muscle.
+The armpit area, I should make it dark.
+The canvas is flat, but the person on top of it should look three-dimensional.
+Since the reflected light we set is blue, when painting the reflected light, I lower the saturation.
+Because the reflected light's color is the complement of the skin color.
+Shall we experiment?
+Here, watch the S, saturation part of the HSB sliders.
+If you mix this complement color, blue, into the skin and sample it with the eyedropper, you can see the saturation drop.
+Same for painting the lit areas, I lower the saturation.
+Because the skin loses a bit of its own color due to the light's color.
+But if it receives a very intense warm-colored light, the skin's saturation rises.
+We learned that in Chapter 3.
+In this picture, the midtones have higher saturation than the lit areas and shadows.
+It varies by material, but it's good to keep this rule as a base.
+I'll add more red on the boundaries between the lit areas and shadows, or the midtones.
+This is to express the increase in midtone saturation, the flush and lip hue, and subsurface scattering.
+I'll paint the hair in line with the light too.
+We learned the principle of the highlight ring forming on the head.
+I really don't use this color on hair, but during the demo I'm getting to use it.
+I paint considering the inherent value.
+Right now, this would be the intermediate stage here.
+I paint broadly.
+I'll paint the hands roughly too.
+The hand size looks big, so I'll shrink it a bit.
+While painting the base color like this, you can add to or modify the sketch.
+Painting the base color reveals the awkwardness of the sketch, which is good.
+So rather than just sketching continuously, it's good to alternate with this base color painting.
+I keep painting.
+I plan to make the front coat tail a somewhat semi-transparent material.
+So I'll also paint this leg part hidden behind it.
+It's good to paint it darker toward the bottom.
+The picture won't float, and it'll have stability.
+I'll draw while also bringing out the thickness of the clothing.
+Now too, I can see parts to fix, so I'm correcting the sketch.
+I wanted to create a flow of lines in a diagonal direction.
+When drawing a white garment, if the background is white, the clothing blends into the background.
+If you apply color to the background, it's easier to establish the volume.
+For concept art, you could also leave an outline to separate the white garment and white background.
+Since I plan to draw this picture close to an illustration, I'll add a background.
+There's a point to be careful about when adding a background.
+As we learned in Chapter 3, you should think of the background as environment.
+I made the top dark and the bottom bright.
+Because the character is bright on top and dark on the bottom.
+Using contrast, you can separate the character and background.
+Since the background got darker, it's good to darken the figure somewhat too.
+I lower the character's value with a curve adjustment.
+The curve adjustment shortcut is Control and M.
+If there are many layers, this work gets hard.
+I'm correcting each layer one by one.
+I desperately want to merge the layers quickly.
+Let me also do the first-pass coloring on this panel detail.
+I plan to make it a material that reflects well, like metal or a mirror.
+Since I've added color to the background, it'd be good if it washes onto this panel too.
+Sample the background color with the eyedropper and paint.
+Then, with the feeling that various objects are reflected, I'll paint a variety of colors.
+I'll also mix in complement colors a little.
+In a picture made up of similar-toned colors, which can easily get boring, this'll be a bit of a fun element and point.
+Since the details and complement contrast are all concentrated on the chest and shoulder area, the focus of attention will be clear.
+This time, we did the first-pass coloring.
+Next time, I'll continue painting.

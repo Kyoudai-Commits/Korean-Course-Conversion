@@ -1,0 +1,871 @@
+1
+00:00:02,595 --> 00:00:04,670
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:04,671 --> 00:00:08,430
+In this chapter, let's learn about light and color.
+
+3
+00:00:08,860 --> 00:00:13,310
+This time, let's talk about the theoretical content of light and color.
+
+4
+00:00:16,944 --> 00:00:19,770
+Light and color are inseparable.
+
+5
+00:00:19,771 --> 00:00:22,650
+Because there's light, there's also color.
+
+6
+00:00:22,651 --> 00:00:29,171
+Even the same object takes on red under red light, and blue under blue light.
+
+7
+00:00:29,345 --> 00:00:31,690
+It also varies depending on the material.
+
+8
+00:00:32,360 --> 00:00:37,210
+Light and color should always be in a relationship that influences each other.
+
+9
+00:00:37,211 --> 00:00:44,250
+For example, let's take a figure bathed in sunset light, cut out the person, and paste them into a clear photo.
+
+10
+00:00:44,945 --> 00:00:47,130
+They'd be floating there, all yellow and red.
+
+11
+00:00:48,655 --> 00:00:54,801
+After adjusting the color to fit the environment, it at least looks more in place.
+
+12
+00:00:55,030 --> 00:00:57,640
+This is how lighting environment affects color.
+
+13
+00:01:01,210 --> 00:01:05,180
+In a drawing, light must follow a certain rule.
+
+14
+00:01:05,181 --> 00:01:07,820
+When we draw, we set up the light.
+
+15
+00:01:08,514 --> 00:01:12,380
+If you've set up the light, you have to maintain that setting.
+
+16
+00:01:12,381 --> 00:01:18,140
+For instance, if light comes from the right on the face, it can't come from the left on the body.
+
+17
+00:01:19,444 --> 00:01:30,750
+I've seen many cases where people ignore this and draw from memory, so the face ends up with a familiar light applied, while the body doesn't match, creating a sense of disconnect between them.
+
+18
+00:01:30,751 --> 00:01:34,750
+Unless it's a special situation, always keep it unified.
+
+19
+00:01:34,751 --> 00:01:40,871
+You might think, what's the point of saying something so obvious? Surprisingly, a lot of people don't follow this well.
+
+20
+00:01:41,534 --> 00:01:44,730
+I drew a simple example here.
+
+21
+00:01:45,639 --> 00:01:47,930
+It's a drawing where light falls on a nose.
+
+22
+00:01:47,931 --> 00:01:50,410
+Many people like this lighting setup.
+
+23
+00:01:50,625 --> 00:01:54,170
+The light is coming down almost vertically.
+
+24
+00:01:54,171 --> 00:01:55,930
+Did you sense the problem?
+
+25
+00:01:55,931 --> 00:02:01,050
+The problem with this picture is that the light wasn't used consistently.
+
+26
+00:02:01,051 --> 00:02:07,370
+It's the result of combining a familiar face coloring and a familiar body coloring without a standard for light.
+
+27
+00:02:07,371 --> 00:02:13,710
+Even if it looks okay for now, my drawing skill will stay stuck here, and I won't be able to move forward.
+
+28
+00:02:13,711 --> 00:02:17,470
+There's a big difference between drawing with knowledge and drawing without it.
+
+29
+00:02:17,471 --> 00:02:21,550
+First, you need to understand why the light hits the nose this way.
+
+30
+00:02:21,551 --> 00:02:30,670
+It's a case where the light falls nearly vertically, and while the light is blocked by the hair, only the nose, which sticks out the most on the face, receives the light.
+
+31
+00:02:31,710 --> 00:02:35,470
+This kind of distinct shadow boundary can't appear on the neck.
+
+32
+00:02:35,471 --> 00:02:40,670
+For a shadow like this to form, the light would have to come in at an angle like this.
+
+33
+00:02:42,170 --> 00:02:45,941
+In that case, there's no way the nose would get that stripped-down, empty feeling.
+
+34
+00:02:47,310 --> 00:02:49,470
+The body below it is the same too.
+
+35
+00:02:49,471 --> 00:02:52,030
+It's the same light setup as the shadow I drew on the neck.
+
+36
+00:02:52,915 --> 00:02:56,471
+So the body is using a different light setup than the face.
+
+37
+00:02:56,945 --> 00:03:01,090
+I've redrawn this picture to match the light setup.
+
+38
+00:03:02,359 --> 00:03:07,770
+Even if this picture doesn't look hugely wrong, you can feel a certain disconnect somewhere.
+
+39
+00:03:07,771 --> 00:03:11,251
+Especially as the rendering progresses, it will get more pronounced.
+
+40
+00:03:11,640 --> 00:03:17,450
+Rather than this kind of habitual coloring, sometimes you need to be a bit calculated.
+
+41
+00:03:17,451 --> 00:03:20,611
+So you can draw under a variety of lighting conditions.
+
+42
+00:03:23,799 --> 00:03:27,130
+Objects have their own color and value.
+
+43
+00:03:27,131 --> 00:03:28,650
+Let's call it inherent value.
+
+44
+00:03:28,730 --> 00:03:31,290
+You have to keep this inherent value well.
+
+45
+00:03:31,291 --> 00:03:34,211
+You've probably drawn a cylinder at school or an academy.
+
+46
+00:03:35,135 --> 00:03:41,450
+They teach you that if darkness and brightness go from 0 to 10, you should cram in everything from 0 to 10.
+
+47
+00:03:41,451 --> 00:03:44,170
+That's not a good way to learn shading.
+
+48
+00:03:44,171 --> 00:03:50,010
+They're just trying to get you accustomed to extreme exercises of dark and light with a pencil, and to gradients.
+
+49
+00:03:50,011 --> 00:03:54,090
+If we apply that to our drawings, we get very bad pictures.
+
+50
+00:03:54,091 --> 00:03:57,290
+It becomes a picture with strong contrast even though it's not metal.
+
+51
+00:03:57,291 --> 00:04:03,530
+Keep the inherent value well: dark materials go dark, medium materials go medium.
+
+52
+00:04:04,280 --> 00:04:07,871
+Bright materials stay relatively bright. That's the rule.
+
+53
+00:04:08,874 --> 00:04:10,230
+It's extremely important.
+
+54
+00:04:10,231 --> 00:04:13,791
+You should always color while thinking about this inherent value.
+
+55
+00:04:14,970 --> 00:04:20,779
+It means that skin should be brighter than jeans, and a t-shirt should always look brighter than skin.
+
+56
+00:04:24,380 --> 00:04:27,550
+Light can also strengthen or weaken color.
+
+57
+00:04:27,551 --> 00:04:32,510
+For instance, if a warm-colored object receives warm-colored light, that color is reinforced.
+
+58
+00:04:32,511 --> 00:04:37,550
+Conversely, if a blue object receives warm light, the blue will look dulled.
+
+59
+00:04:37,551 --> 00:04:40,951
+You can easily observe this under a sunset sky.
+
+60
+00:04:41,395 --> 00:04:51,070
+The side receiving the red sunset light will glow yellow and red, and the opposite side will receive the blue sky light, creating bluish shadow and shade.
+
+61
+00:04:51,071 --> 00:04:52,350
+The same goes for a clear daytime.
+
+62
+00:04:52,430 --> 00:05:04,110
+A surface receiving bright, pure white light will have its color come alive vividly, while a dark surface and shadows that don't will pick up the reflected blue sky color and other surrounding colors.
+
+63
+00:05:04,111 --> 00:05:07,790
+Let's recall why shadows are blue outdoors.
+
+64
+00:05:07,791 --> 00:05:11,630
+In a snowfield, you can observe this phenomenon more clearly.
+
+65
+00:05:11,631 --> 00:05:16,270
+Under a clear blue sky, the shadows on a snowfield are blue, influenced by the sky.
+
+66
+00:05:17,150 --> 00:05:21,790
+Under an overcast sky, the shadows take on a muted color due to the influence of the cloud light.
+
+67
+00:05:22,465 --> 00:05:24,700
+Let's check with a drawing.
+
+68
+00:05:24,701 --> 00:05:26,780
+This is a drawing assuming a clear sky.
+
+69
+00:05:27,025 --> 00:05:33,100
+So, a drawing using a bright, slightly warm sun light and a blue fill light.
+
+70
+00:05:33,101 --> 00:05:36,940
+This is a drawing assuming an overcast sky.
+
+71
+00:05:36,941 --> 00:05:45,020
+Together with the object's own desaturated colors, the reflected light is also desaturated, so a low-saturation picture was completed overall.
+
+72
+00:05:45,021 --> 00:05:49,100
+I tend to mainly use the qualities of sunlight in my drawings.
+
+73
+00:05:49,101 --> 00:05:51,500
+Because it's the light most familiar to people.
+
+74
+00:05:52,235 --> 00:05:55,551
+Let's always remember the comfort that comes from familiarity.
+
+75
+00:05:56,045 --> 00:05:58,710
+On a clear day, the boundaries of shadows are distinct.
+
+76
+00:05:59,270 --> 00:06:02,550
+Because sunlight travels in a straight line.
+
+77
+00:06:02,551 --> 00:06:08,790
+Dark areas touching the sky receive the blue sky light and take on a blue tint.
+
+78
+00:06:08,791 --> 00:06:13,110
+Bright areas are so strongly lit by the sun that the blue reflected light can't exert itself.
+
+79
+00:06:14,845 --> 00:06:22,040
+To explain overcast days compared to clear days: first, the sun, the light source, gets scattered as it passes through the clouds.
+
+80
+00:06:22,041 --> 00:06:27,640
+Because of the light scattered by the clouds, the shadow boundaries become blurry and soft.
+
+81
+00:06:28,390 --> 00:06:31,560
+Because the light splits up and reaches everything evenly.
+
+82
+00:06:31,561 --> 00:06:38,040
+Since the blue sky light can't pass through the clouds, no blue reflected light forms either.
+
+83
+00:06:38,041 --> 00:06:45,960
+There are clear pros and cons: it has less impact than a strong lighting setup, but it's easier on the eyes, and there's its own melancholic atmosphere.
+
+84
+00:06:46,630 --> 00:06:55,080
+I tend not to use scattered light like on overcast days, because my taste favors clear and intense light.
+
+85
+00:06:55,081 --> 00:07:01,960
+When I work on concept art, I usually set up a strong light coming from one side and a reflected light on the opposite side.
+
+86
+00:07:02,335 --> 00:07:05,320
+The advantage of this is that the light becomes rich.
+
+87
+00:07:05,321 --> 00:07:11,080
+The more places light reaches, the more I can bring out the volume of each element.
+
+88
+00:07:11,081 --> 00:07:12,680
+I sometimes use backlight too.
+
+89
+00:07:12,770 --> 00:07:18,720
+For concept art that doubles as mood painting, I use it when I want to give the character a sense of pressure.
+
+90
+00:07:18,721 --> 00:07:27,520
+When using backlight in concept art, the strong light comes from behind the character, but even then I place a soft light in front so it doesn't get too dark.
+
+91
+00:07:30,865 --> 00:07:36,090
+Light can be expressed in various ways depending on which material it reflects off of.
+
+92
+00:07:36,091 --> 00:07:46,010
+Basically, light from a light source at an angle of incidence reaches our eyes along an angle of reflection based on the normal.
+
+93
+00:07:46,011 --> 00:07:50,531
+The normal is the line drawn perpendicular to the object.
+
+94
+00:07:50,845 --> 00:07:54,810
+If the angle of incidence changes, the angle of reflection changes too.
+
+95
+00:07:55,455 --> 00:07:58,010
+The rougher the material, the more diffuse reflection occurs.
+
+96
+00:07:58,895 --> 00:08:01,530
+Let me explain with examples.
+
+97
+00:08:01,531 --> 00:08:05,251
+The line drawn perpendicular to the surface is called the normal, right?
+
+98
+00:08:06,200 --> 00:08:14,250
+Based on this normal, the light bends, and if the surface is this rough, the light scatters.
+
+99
+00:08:14,300 --> 00:08:20,810
+You can see this in various materials, and you can see it in skin, leather, and rough metal too.
+
+100
+00:08:20,811 --> 00:08:25,530
+Skin looks smooth on the outside, but under a microscope the surface is bumpy.
+
+101
+00:08:26,655 --> 00:08:30,730
+In most materials around us, diffuse reflection occurs.
+
+102
+00:08:30,731 --> 00:08:34,531
+The light doesn't concentrate but scatters, so the contrast is relatively low.
+
+103
+00:08:35,539 --> 00:08:41,460
+Conversely, if the surface is smooth, the place the light reflects is concentrated, so the contrast looks strong.
+
+104
+00:08:41,461 --> 00:08:45,101
+Smooth metal or plastic, for example.
+
+105
+00:08:45,380 --> 00:08:50,141
+If the surface is smooth, it's easy to pinpoint the highlight.
+
+106
+00:08:52,170 --> 00:08:55,571
+If the surface is rough, it's hard to pinpoint the highlight.
+
+107
+00:08:57,365 --> 00:09:00,750
+The same goes for curved surfaces.
+
+108
+00:09:00,751 --> 00:09:07,390
+Depending on the surface material, that is, the roughness of the surface, the rendering has to differ.
+
+109
+00:09:07,391 --> 00:09:13,630
+It's like how celebrities have a glow on their face, but someone like me with dull skin doesn't.
+
+110
+00:09:13,631 --> 00:09:16,590
+Another important thing is total internal reflection.
+
+111
+00:09:16,591 --> 00:09:19,150
+It's a physics term, and it's hard.
+
+112
+00:09:19,230 --> 00:09:23,351
+The gist is that as the angle of incidence gets bigger, the reflectance gets higher.
+
+113
+00:09:24,515 --> 00:09:31,470
+As you can see, the bigger the angle of incidence, the higher the reflectance.
+
+114
+00:09:31,471 --> 00:09:34,910
+Beyond a certain angle, it totally reflects.
+
+115
+00:09:34,911 --> 00:09:37,550
+Let's do an experiment in a place with a fluorescent light.
+
+116
+00:09:39,995 --> 00:09:42,680
+There's a cute duck behind a transparent plastic sheet.
+
+117
+00:09:42,681 --> 00:09:45,601
+I took this photo under a fluorescent light.
+
+118
+00:09:45,645 --> 00:09:50,040
+The fluorescent light passes through the plastic and you can see the duck.
+
+119
+00:09:50,041 --> 00:09:54,680
+But what if you move the position to increase the angle of reflection?
+
+120
+00:09:54,681 --> 00:10:02,520
+The reflectance of the plastic rises, so the fluorescent light can't pass through and is totally reflected.
+
+121
+00:10:02,521 --> 00:10:03,720
+The duck has disappeared.
+
+122
+00:10:04,445 --> 00:10:16,120
+The reason you can see pebbles on the bottom through the clear water near the bank, but the farther you look, the more the trees, mountains, and sky around you are reflected, is also because of total internal reflection.
+
+123
+00:10:16,500 --> 00:10:22,360
+This can be used very effectively in drawings, so it's good to draw with it in mind.
+
+124
+00:10:22,361 --> 00:10:26,360
+I brought a photo where total internal reflection is clearly visible.
+
+125
+00:10:26,361 --> 00:10:38,839
+As you can see, on the near side, light passes through the water, reaches the pebbles, and reflects back, so we can see the pebbles.
+
+126
+00:10:39,900 --> 00:10:44,350
+But the farther you look, the bigger the angle of incidence of the light gets.
+
+127
+00:10:46,680 --> 00:10:53,450
+Light doesn't pass through the water but reflects, and the water surface becomes a mirror.
+
+128
+00:10:53,451 --> 00:10:56,410
+Light varies depending on the situation.
+
+129
+00:10:56,411 --> 00:11:02,531
+Let's study the light we can observe around us in our own way and apply it to our drawings.
+
+130
+00:11:05,590 --> 00:11:09,160
+I told you color is inseparable from light.
+
+131
+00:11:09,161 --> 00:11:10,520
+Light has color too.
+
+132
+00:11:11,325 --> 00:11:14,641
+In illustration, you usually unify it into one color family.
+
+133
+00:11:15,320 --> 00:11:18,840
+Depending on the color of the light, you cover the whole thing with the same color family.
+
+134
+00:11:19,560 --> 00:11:24,840
+It makes the picture feel stable and lets you focus on the elements in the picture.
+
+135
+00:11:24,841 --> 00:11:31,160
+You can also deliberately make a color pop. If there's a part that pops, the gaze naturally goes there.
+
+136
+00:11:31,161 --> 00:11:33,400
+Use it when you want to focus attention.
+
+137
+00:11:34,139 --> 00:11:38,620
+In concept art, you should refrain from giving color to the light.
+
+138
+00:11:38,621 --> 00:11:41,500
+Because 3D modelers hate it.
+
+139
+00:11:41,501 --> 00:11:44,860
+Light and color exist in the background too.
+
+140
+00:11:44,861 --> 00:11:51,020
+Usually you use a lot of white for the background, but sometimes you cover it with black or gray.
+
+141
+00:11:51,021 --> 00:11:56,060
+Here, the brightness of the character must also change according to this background color.
+
+142
+00:11:56,061 --> 00:12:01,260
+On a white background, bright, scattered reflected light generally washes over everything, so it gets brighter.
+
+143
+00:12:02,550 --> 00:12:09,441
+On a dark background, there's relatively less scattered reflected light, so it doesn't wash over.
+
+144
+00:12:10,280 --> 00:12:15,000
+I moved a picture drawn on a white background to a dark background.
+
+145
+00:12:15,080 --> 00:12:17,560
+It feels a bit like it's floating.
+
+146
+00:12:17,561 --> 00:12:24,890
+Conversely, I moved a picture drawn on a black background to a white background.
+
+147
+00:12:24,890 --> 00:12:27,210
+It's become too dark.
+
+148
+00:12:27,211 --> 00:12:33,811
+Even a meaningless plain background affects the character, so draw keeping that in mind.
+
+149
+00:12:36,965 --> 00:12:41,360
+When I design, I set the colors broadly, about two tones.
+
+150
+00:12:41,361 --> 00:12:45,520
+I set a main color and a supporting color.
+
+151
+00:12:45,521 --> 00:12:48,880
+Set it broadly first, then break it down finely.
+
+152
+00:12:48,881 --> 00:12:54,640
+I prefer about a 7 to 3 ratio: the main color is 7 and the supporting color is 3.
+
+153
+00:12:55,360 --> 00:12:57,600
+There are lots of good references around.
+
+154
+00:12:57,920 --> 00:13:06,400
+For example, a white t-shirt with jeans, gold and red, black and gold, and red and black, and so on.
+
+155
+00:13:06,930 --> 00:13:10,100
+There are familiar and effective two-tone color schemes.
+
+156
+00:13:10,101 --> 00:13:16,420
+I use value contrast in these two-tone colors, but I don't use complementary contrast much.
+
+157
+00:13:16,421 --> 00:13:21,380
+Because I think complementary contrast is a color contrast you don't often see in reality.
+
+158
+00:13:22,100 --> 00:13:26,740
+You can draw good pictures well enough without using many colors.
+
+159
+00:13:26,741 --> 00:13:31,700
+Because of that, I use complements sparingly, as a point color.
+
+160
+00:13:31,701 --> 00:13:34,260
+I don't use blue much either.
+
+161
+00:13:34,261 --> 00:13:37,480
+I've mainly designed medieval-style games.
+
+162
+00:13:37,560 --> 00:13:39,720
+They say blue pigment was expensive back then.
+
+163
+00:13:40,440 --> 00:13:44,520
+So people back then wore a lot of warm-colored clothing.
+
+164
+00:13:44,521 --> 00:13:46,520
+The East is the same too.
+
+165
+00:13:46,521 --> 00:13:51,640
+Even today, aside from jeans, I almost never wear blue clothes.
+
+166
+00:13:51,641 --> 00:13:55,480
+I recommend using colors that are familiar to our eyes.
+
+167
+00:13:55,481 --> 00:13:57,080
+So it feels real.
+
+168
+00:13:57,081 --> 00:14:01,160
+But if you use this in reverse, it's good for designing something that doesn't feel real.
+
+169
+00:14:01,830 --> 00:14:05,060
+That's one of the reasons you see a lot of blue in the sci-fi genre.
+
+170
+00:14:05,109 --> 00:14:06,109
+Ah.
+
+171
+00:14:09,045 --> 00:14:13,310
+When drawing skin, I draw with a lot of awareness of the surrounding environment.
+
+172
+00:14:13,311 --> 00:14:20,350
+If the background is dark, it means there's little light scattering around, so I draw the shadows dark.
+
+173
+00:14:20,351 --> 00:14:24,270
+If the background is bright, it's because the light is scattering.
+
+174
+00:14:24,271 --> 00:14:29,710
+I also mix a bright color of the same family into the shadows of the skin.
+
+175
+00:14:29,790 --> 00:14:36,590
+An object's color is influenced by light, so you shouldn't memorize color codes and color with them.
+
+176
+00:14:36,591 --> 00:14:39,591
+You always have to think organically and draw.
+
+177
+00:14:42,170 --> 00:14:47,260
+If the light is strong, the boundary between the lit and shadow areas can come alive in red.
+
+178
+00:14:47,340 --> 00:14:49,100
+That's called subsurface scattering.
+
+179
+00:14:49,980 --> 00:14:51,740
+Our skin is semi-translucent.
+
+180
+00:14:52,195 --> 00:14:55,740
+It's said our reflectance is only about thirty percent.
+
+181
+00:14:55,741 --> 00:14:57,740
+Most of the light gets absorbed.
+
+182
+00:14:59,100 --> 00:15:04,430
+If the light is strong, the light absorbed in the skin reflects from within.
+
+183
+00:15:06,035 --> 00:15:10,620
+Then it comes back out, and at that point it carries the color of the blood.
+
+184
+00:15:13,430 --> 00:15:15,480
+This creates this phenomenon.
+
+185
+00:15:16,760 --> 00:15:20,680
+It also serves to soften the edge of the skin.
+
+186
+00:15:20,681 --> 00:15:25,960
+Thin parts like ears or fingers can also look translucent.
+
+187
+00:15:25,961 --> 00:15:28,920
+Let's talk more about reflected light.
+
+188
+00:15:28,921 --> 00:15:32,840
+I said that light of the same family reinforces color.
+
+189
+00:15:32,841 --> 00:15:37,000
+Observe the color of a finger in the surroundings.
+
+190
+00:15:37,080 --> 00:15:41,640
+The reflected light from the face washes onto the finger, raising its saturation.
+
+191
+00:15:42,705 --> 00:15:49,349
+This phenomenon isn't limited to skin; it can appear on anything, like clothes or accessories.
+
+192
+00:15:50,030 --> 00:15:53,580
+The brighter the object, the more it's influenced by its surroundings.
+
+193
+00:15:53,581 --> 00:15:55,660
+Let's look at a photo.
+
+194
+00:15:55,661 --> 00:16:00,700
+Here you can see the blue reflected light washing over from the sky.
+
+195
+00:16:02,030 --> 00:16:05,150
+The arm is the same too.
+
+196
+00:16:05,151 --> 00:16:12,110
+Even though it's the same darkness, you can see this part is relatively less blue than this part.
+
+197
+00:16:12,111 --> 00:16:13,390
+I explained total internal reflection before.
+
+198
+00:16:14,110 --> 00:16:19,950
+If you draw the cross-section of the arm, it's like this, and the blue reflected light comes in this way.
+
+199
+00:16:21,500 --> 00:16:24,110
+Because the angle of incidence is large.
+
+200
+00:16:24,111 --> 00:16:26,110
+Clothes are the same too.
+
+201
+00:16:26,111 --> 00:16:30,190
+This part is bluer than this part.
+
+202
+00:16:30,191 --> 00:16:36,190
+And the red light reflected from the flower pattern on the clothes is washing over even the blue.
+
+203
+00:16:38,460 --> 00:16:42,910
+Inside the neck, no blue reflected light washes in.
+
+204
+00:16:42,911 --> 00:16:44,190
+Because it's blocked by the neck.
+
+205
+00:16:45,310 --> 00:16:46,750
+The inside of the legs is the same too.
+
+206
+00:16:49,240 --> 00:16:55,210
+The light scattered by the clothes makes it a bit brighter than the arm.
+
+207
+00:16:55,211 --> 00:17:02,010
+If you observe these phenomena well and apply them to your drawing, you can draw more realistically.
+
+208
+00:17:02,011 --> 00:17:06,810
+Light and color should be approached theoretically and resolved emotionally.
+
+209
+00:17:06,811 --> 00:17:17,130
+Based on theoretical study, practice realistic light and color, and on top of that, add your own taste as you find even more beautiful light and color.
+
+210
+00:17:17,999 --> 00:17:21,970
+I think the eye is important in digital drawing.
+
+211
+00:17:21,970 --> 00:17:28,369
+In hand-drawn work you can't make various attempts in one picture, but digital drawing makes that possible.
+
+212
+00:17:28,370 --> 00:17:29,490
+That's a blessing.
+
+213
+00:17:29,491 --> 00:17:37,570
+As long as you have an eye, through many coloring attempts and software adjustments, you'll be able to find the optimal light and color.
+
+214
+00:17:37,571 --> 00:17:39,890
+Take in a lot of your surroundings in daily life.
+
+215
+00:17:39,891 --> 00:17:44,290
+And I hope you'll store them in the reference warehouse in your head.
+
+216
+00:17:44,291 --> 00:17:47,010
+Then the light and color of my drawings will become rich too.
+
+217
+00:17:47,875 --> 00:17:52,270
+This time, we looked at the theoretical content of light and color.
+
+218
+00:17:52,271 --> 00:17:58,390
+Next time, we'll look at how to easily apply this light and color to a picture.

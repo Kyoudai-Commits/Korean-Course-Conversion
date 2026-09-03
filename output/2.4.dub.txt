@@ -1,0 +1,159 @@
+[00:00:04,960 | 00:00:06,000 | 1s] Hello.
+[00:00:06,000 | 00:00:14,560 | 9s] This time, using the human anatomy and simplified drawing methods we've learned so far, let's draw a trendy human body across the whole body.
+[00:00:15,770 | 00:00:20,940 | 5s] We've been practicing a realistic body based on reality.
+[00:00:20,941 | 00:00:23,740 | 3s] Is a realistic body enough?
+[00:00:23,741 | 00:00:26,460 | 3s] For example, I'm a real person.
+[00:00:26,461 | 00:00:32,220 | 6s] If I drew pictures of my face and body, or made a game with them, would it sell?
+[00:00:33,580 | 00:00:37,020 | 3s] Sadly, I don't think anyone would buy it.
+[00:00:37,021 | 00:00:40,821 | 4s] Because my body and face aren't trendy.
+[00:00:40,939 | 00:00:44,380 | 3s] So what is a trendy body?
+[00:00:44,381 | 00:00:47,740 | 3s] Trendy, in its dictionary sense, means fashionable.
+[00:00:47,741 | 00:00:50,860 | 3s] Saying a fashionable body sounds a bit odd.
+[00:00:50,861 | 00:00:59,180 | 8s] But since I do commercial art, I've worked hard to draw a body that the largest number of unspecified people would prefer.
+[00:00:59,181 | 00:01:19,800 | 21s] For example, for a man, an inverted-triangle back, a strong chest, and chocolate abs, plus long and sturdy limbs. And for a woman, a small head, a full chest, a firm waist, a wide pelvis, and long, extended limbs.
+[00:01:19,801 | 00:01:22,440 | 3s] Especially, subtle flows matter.
+[00:01:22,440 | 00:01:25,960 | 4s] Of course, personal taste is also included.
+[00:01:25,961 | 00:01:29,880 | 4s] I want to let you know upfront that I can't speak for everyone's taste.
+[00:01:33,924 | 00:01:37,600 | 4s] I've drawn what I think is a trendy, normal male body.
+[00:01:37,601 | 00:01:39,520 | 2s] Let's compare it with a bad example.
+[00:01:41,449 | 00:01:44,040 | 3s] Let me start by comparing a skinny body type.
+[00:01:44,040 | 00:01:45,240 | 1s] Can you see the difference?
+[00:01:45,240 | 00:01:49,560 | 4s] This right sketch is also based on a realistic body.
+[00:01:49,561 | 00:01:51,400 | 2s] It's a drawing of a realistically thin man.
+[00:01:52,119 | 00:01:55,560 | 3s] But being too realistic makes it less appealing.
+[00:01:55,561 | 00:01:59,640 | 4s] This sketch on the left could be called a model fit.
+[00:01:59,640 | 00:02:01,720 | 2s] Do more people prefer the left?
+[00:02:01,721 | 00:02:04,840 | 3s] Or do more people prefer the right?
+[00:02:04,841 | 00:02:08,919 | 4s] As people who do commercial design, we always have to work for the choice of the majority.
+[00:02:09,560 | 00:02:15,841 | 6s] Even if the right body type is realistic and to my taste, if the public doesn't see it that way, it's meaningless.
+[00:02:16,390 | 00:02:20,200 | 4s] That would only make sense if you were drawing just for your own satisfaction.
+[00:02:20,201 | 00:02:25,480 | 5s] For game concept art, not many people would want to play as a character like that.
+[00:02:25,481 | 00:02:28,881 | 3s] You can see that just being realistic isn't what matters.
+[00:02:29,295 | 00:02:31,000 | 2s] Let me look at other body types too.
+[00:02:31,589 | 00:02:37,240 | 6s] Even for a muscular man, you have to draw him more attractively in a drawing.
+[00:02:37,241 | 00:02:42,100 | 5s] In real life, this body type would look very sturdy and cool.
+[00:02:42,101 | 00:02:44,340 | 2s] But in a drawing, it doesn't have much competitive edge.
+[00:02:44,341 | 00:02:46,180 | 2s] Because it can be more trendy.
+[00:02:48,250 | 00:02:51,420 | 3s] In the seventies, there was a movie called The Hulk.
+[00:02:51,421 | 00:02:55,820 | 4s] The one on the right is drawn after the Hulk's body from that movie.
+[00:02:55,821 | 00:02:59,180 | 3s] It was such an old movie that I haven't seen it, but I've seen stills.
+[00:02:59,744 | 00:03:03,020 | 3s] He was an actor with an amazing body even without CGI.
+[00:03:03,021 | 00:03:08,140 | 5s] But I couldn't imagine that body appearing in a modern Hulk movie.
+[00:03:08,141 | 00:03:13,180 | 5s] Because we've gotten so used to the Hulk's body exaggerated with CGI.
+[00:03:13,181 | 00:03:21,700 | 9s] In this way, rather than being limited to just realism, we should base ourselves on reality and exaggerate the appealing elements as needed.
+[00:03:23,075 | 00:03:27,150 | 4s] For a muscular combat-ready body, you have to draw the muscle lines even more alive.
+[00:03:28,810 | 00:03:37,320 | 9s] And for a skinny body, you have to draw it cleanly so that the muscle lines stay alive while giving a sleek image.
+[00:03:41,935 | 00:03:43,880 | 2s] Is it enough to just make the body trendy?
+[00:03:43,881 | 00:03:44,120 | 0s] No.
+[00:03:44,310 | 00:03:50,120 | 6s] Since we have to capture attention with a single image, composition and perspective are important too.
+[00:03:50,121 | 00:03:53,800 | 4s] Let's learn about the composition and perspective that make a drawing attractive.
+[00:03:55,640 | 00:04:01,171 | 6s] A viewpoint can move along the X-axis, Y-axis, and depth axis like this.
+[00:04:01,959 | 00:04:07,610 | 6s] Many people draw as if zooming in from far away along the depth axis.
+[00:04:08,225 | 00:04:12,490 | 4s] For example, like a photo taken with a zoom from far away during a sports broadcast.
+[00:04:13,530 | 00:04:17,370 | 4s] Even though the person is far back, their head can look bigger.
+[00:04:17,371 | 00:04:18,810 | 1s] Because it doesn't feel like it has perspective.
+[00:04:21,655 | 00:04:26,960 | 5s] A drawing that looks like it's zoomed in from far away is easy to draw but less appealing.
+[00:04:28,310 | 00:04:33,880 | 6s] So I prefer a drawing that looks like it's zoomed out at a moderate distance.
+[00:04:34,900 | 00:04:38,161 | 3s] It's the distance of when a person actually meets another person.
+[00:04:38,845 | 00:04:43,000 | 4s] No one meets people by zooming in with a telescope from far away.
+[00:04:44,380 | 00:04:45,470 | 1s] It's the power of familiarity.
+[00:04:46,245 | 00:04:51,310 | 5s] This kind of realistic viewing distance can make a drawing more realistic.
+[00:04:52,990 | 00:04:57,200 | 4s] And next, the axis to pay attention to is the Y-axis.
+[00:04:57,201 | 00:05:00,681 | 3s] If you're a game concept artist, you should pay attention to this Y-axis.
+[00:05:00,750 | 00:05:01,840 | 1s] It's called the over-the-top view.
+[00:05:02,480 | 00:05:08,030 | 6s] There are quite a lot of games that look like they're looking down from above like this.
+[00:05:08,031 | 00:05:13,390 | 5s] When designing, there are many times you need to design so it looks effective when looked at from above like this.
+[00:05:13,470 | 00:05:15,230 | 2s] The same goes for drawing concept art.
+[00:05:16,190 | 00:05:22,990 | 7s] It's good to place the observer's viewpoint, that is, the camera position, slightly above the center of the character.
+[00:05:22,991 | 00:05:26,270 | 3s] You can show the top design in a focused way.
+[00:05:26,271 | 00:05:28,030 | 2s] The top of the foot is visible too.
+[00:05:28,031 | 00:05:30,590 | 3s] You should avoid low angles.
+[00:05:30,591 | 00:05:34,770 | 4s] Conversely, a picture that looks like it's shot from below along the Y-axis gives the character power.
+[00:05:35,600 | 00:05:37,810 | 2s] It's said to feel overwhelming.
+[00:05:37,811 | 00:05:40,210 | 2s] It's used when showing character personality.
+[00:05:41,685 | 00:05:46,190 | 5s] If the perspective exceeds this too much, you can't use it as a concept.
+[00:05:46,191 | 00:05:47,950 | 2s] Modelers hate it.
+[00:05:47,951 | 00:05:54,630 | 7s] Especially, in illustration, if you use this viewpoint and composition well, you can draw even more attractive pictures.
+[00:05:58,615 | 00:06:01,920 | 3s] Let's find out through practice.
+[00:06:01,921 | 00:06:04,640 | 3s] I've drawn a character here.
+[00:06:04,641 | 00:06:09,200 | 5s] It's a picture with almost no perspective, like it was shot zoomed in from far away.
+[00:06:10,780 | 00:06:15,191 | 4s] Let me redraw this with a trendy body and composition.
+[00:06:17,075 | 00:06:21,580 | 5s] In most cases, I draw from the head first.
+[00:06:21,581 | 00:06:23,100 | 2s] It's a habit.
+[00:06:23,101 | 00:06:29,861 | 7s] Since I prefer drawings with a lot of perspective, the face usually ends up at a low angle.
+[00:06:31,210 | 00:06:32,650 | 1s] This picture is like that too.
+[00:06:34,730 | 00:06:37,290 | 3s] I draw quickly, mainly by silhouette.
+[00:06:40,545 | 00:06:42,700 | 2s] There's nothing to think of as hard.
+[00:06:42,701 | 00:06:46,860 | 4s] The advantage of digital art is that you can make unlimited corrections.
+[00:06:46,861 | 00:06:47,900 | 1s] As long as you have the will.
+[00:07:26,460 | 00:07:30,300 | 4s] Before I knew it, the skeleton was all set.
+[00:07:30,301 | 00:07:32,380 | 2s] I go about tidying while adding flesh.
+[00:10:07,039 | 00:10:10,400 | 3s] I said it's important to exaggerate the appeal points.
+[00:10:10,670 | 00:10:14,521 | 4s] I exaggerated the overall flow like this.
+[00:10:15,000 | 00:10:17,050 | 2s] Compare it with the left character.
+[00:10:42,970 | 00:10:43,970 | 1s] If you do that.
+[00:11:13,264 | 00:11:14,650 | 1s] Let me compare the perspective.
+[00:11:16,765 | 00:11:20,481 | 4s] The left sketch has almost no perspective in it.
+[00:11:21,264 | 00:11:23,530 | 2s] It's stable but boring.
+[00:11:37,000 | 00:11:41,011 | 4s] This right picture has relatively excessive perspective.
+[00:11:49,555 | 00:11:53,461 | 4s] The top is a low angle, but the bottom is a high angle.
+[00:11:54,280 | 00:12:02,460 | 8s] If you draw like this, the picture feels more three-dimensional, and if it feels three-dimensional, the character gets lively.
+[00:12:02,461 | 00:12:04,380 | 2s] This is mainly how I've been drawing.
+[00:12:07,000 | 00:12:09,850 | 3s] Let me draw one more quickly.
+[00:12:09,851 | 00:12:14,090 | 4s] Practice drawing bodies of various body types in a trendy way.
+[00:17:46,564 | 00:17:49,470 | 3s] Shall we review the important body parts too?
+[00:17:49,471 | 00:18:00,090 | 11s] The collarbone, the sternocleidomastoid, and the pectoralis major.
+[00:18:12,640 | 00:18:18,080 | 5s] The external oblique, the latissimus dorsi, and the iliac crest.
+[00:18:23,234 | 00:18:26,620 | 3s] And the overall flow of the leg.
+[00:18:28,360 | 00:18:29,630 | 1s] I told you all that.
+[00:18:35,419 | 00:18:36,510 | 1s] And the flow of the arm.
+[00:18:39,039 | 00:18:47,680 | 9s] I said the flow of the arm and the brachioradialis, which starts at the upper arm bone and connects to the radius on the thumb side, are important.
+[00:18:53,770 | 00:18:59,610 | 6s] Let's also check the position of the navel.
+[00:18:59,611 | 00:19:01,450 | 2s] Let me do a few more.
+[00:19:01,451 | 00:19:08,810 | 7s] It might be my own taste, but I like a body that's long and slim yet firm.
+[00:19:08,811 | 00:19:11,050 | 2s] I'll also draw it while changing the body type.
+[00:23:42,870 | 00:23:49,411 | 7s] To make the lines of the body visible, I've let the arm drop away from the body to create a gap.
+[00:23:49,534 | 00:23:56,211 | 7s] In this way, you should be wary of elements colliding and design so the silhouette shows well.
+[00:24:55,480 | 00:24:58,440 | 3s] Let me do one more.
+[00:24:58,441 | 00:25:01,000 | 3s] This time, I'm going to draw a bunny girl.
+[00:25:01,001 | 00:25:05,320 | 4s] Likewise, I'll redraw the normal bunny girl on the left.
+[00:25:07,554 | 00:25:12,400 | 5s] If you ask why I copy-pasted something I'm going to fix anyway, I have nothing to say.
+[00:25:16,734 | 00:25:19,000 | 2s] This time, I'll draw it with more exaggeration.
+[00:25:19,669 | 00:25:21,560 | 2s] I'll pull the pelvis back.
+[00:25:22,364 | 00:25:24,280 | 2s] I've moved the ribcage forward.
+[00:25:28,304 | 00:25:32,600 | 4s] When I make corrections, I often use the lasso tool.
+[00:25:32,601 | 00:25:35,841 | 3s] It's not great to rely on it too much.
+[00:25:36,349 | 00:25:38,590 | 2s] But I can't tell you not to use it.
+[00:25:38,591 | 00:25:39,591 | 1s] Because it's so convenient.
+[00:25:41,155 | 00:25:42,190 | 1s] It's good for your mental health.
+[00:25:43,794 | 00:25:46,590 | 3s] With the lasso tool around, I always feel secure.
+[00:26:08,340 | 00:26:13,240 | 5s] I also draw while mirroring left and right.
+[00:26:13,241 | 00:26:17,121 | 4s] Honestly, this normal character isn't wrong.
+[00:26:18,110 | 00:26:21,120 | 3s] The point is to make it look a bit more appealing.
+[00:26:21,735 | 00:26:23,200 | 1s] Please watch while comparing.
+[00:26:25,850 | 00:26:28,860 | 3s] This is a very common pose.
+[00:26:28,861 | 00:26:30,540 | 2s] He could be holding a weapon.
+[00:26:32,124 | 00:26:36,440 | 4s] But having the arm cover the upper body like this isn't good in concept art.
+[00:26:38,009 | 00:26:44,501 | 6s] Since this picture has a simple design, and it's not going to be made into a 3D model, I drew it like this.
+[00:26:57,314 | 00:27:02,460 | 5s] This isn't a coloring chapter, but let me do a simple color and wrap up.
+[00:27:05,984 | 00:27:09,781 | 4s] I'll explain coloring in detail in a later chapter.
+[00:27:13,149 | 00:27:17,801 | 5s] I'm not going to finish it, just a first-pass color.
+[00:27:38,300 | 00:27:42,460 | 4s] After rendering the image, I merge the layers and I'm in the middle of rendering.
+[00:27:46,754 | 00:27:51,950 | 5s] Characters like this have no pain in the design, so I like that I can draw them lightly.
+[00:27:53,764 | 00:27:57,481 | 4s] How about we draw a bunny girl this evening, everyone?
+[00:28:04,989 | 00:28:08,510 | 4s] I keep rendering at a zoomed in view.
+[00:28:08,511 | 00:28:11,671 | 3s] It's important to render the whole thing.
+[00:28:14,324 | 00:28:19,630 | 5s] I didn't notice when drawing, but watching the video, the face was gradually getting weird.
+[00:28:24,094 | 00:28:28,810 | 5s] Actually, at that time too, the face kept bothering me, so I kept touching it up.
+[00:28:47,449 | 00:28:55,100 | 8s] If a face isn't pretty, you lose the urge to draw.
+[00:28:55,180 | 00:29:00,300 | 5s] If you find a part you don't like like this, boldly erase it and draw it again.
+[00:29:02,539 | 00:29:06,211 | 4s] Holding onto it just doesn't seem to give you an answer.
+[00:29:18,429 | 00:29:22,791 | 4s] I slightly turned the pose to redraw the face.
+[00:29:35,199 | 00:29:37,520 | 2s] Let me wrap up the coloring about here.
+[00:29:41,975 | 00:29:48,080 | 6s] In this chapter, we looked at an efficient figure drawing method and trendy drawing.
+[00:29:48,081 | 00:29:54,160 | 6s] Trendiness can be subjective, so I won't impose my taste on you.
+[00:29:54,161 | 00:30:00,960 | 7s] Just think of it as advice from a senior or colleague who has worked in the industry for a long time.
+[00:30:00,961 | 00:30:04,361 | 3s] In Chapter One, I talked about study methods, right?
+[00:30:04,604 | 00:30:11,720 | 7s] I hope you'll think about and judge for yourself what trendiness is, and take an active approach to learning.
+[00:30:13,134 | 00:30:20,600 | 7s] Next chapter, before character coloring, let's take time to learn about light and color.
+[00:30:20,601 | 00:30:21,601 | 1s] Great work.

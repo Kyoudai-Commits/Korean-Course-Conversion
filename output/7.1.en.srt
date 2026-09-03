@@ -1,0 +1,935 @@
+1
+00:00:05,724 --> 00:00:07,880
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:07,881 --> 00:00:12,360
+This time, let's learn about various correction methods.
+
+3
+00:00:12,440 --> 00:00:15,320
+When and why do we use correction?
+
+4
+00:00:15,321 --> 00:00:21,000
+When I'm stuck on a picture because I don't like it, I sometimes use the correction function.
+
+5
+00:00:21,001 --> 00:00:31,080
+If you look at a picture for a long time while drawing, it becomes so familiar that it's hard to figure out whether there are problems or whether there's a better direction.
+
+6
+00:00:31,081 --> 00:00:37,020
+So I tell people to look at the picture again the next day, next week, next month.
+
+7
+00:00:37,021 --> 00:00:43,301
+When you look at the picture again when it's somewhat forgotten, you can view it from a more objective perspective.
+
+8
+00:00:43,870 --> 00:00:47,760
+You can see a similar effect when you do correction.
+
+9
+00:00:47,761 --> 00:00:51,920
+Because the feel of the picture changes noticeably depending on the degree of correction.
+
+10
+00:00:53,480 --> 00:00:59,841
+I think this correction function is where the advantage of digital painting is maximized.
+
+11
+00:01:00,700 --> 00:01:08,190
+Correction is more effective in illustration than concept art, but it can be applied to concept art too, so let's study it.
+
+12
+00:01:09,614 --> 00:01:13,560
+First, let's learn about the area selection method for correction.
+
+13
+00:01:13,561 --> 00:01:19,521
+When you want to change a specific part or color, it's convenient if the layers are divided.
+
+14
+00:01:19,669 --> 00:01:24,440
+Using the layer functions we learned in the shortcut explanation time, you can easily correct it.
+
+15
+00:01:24,441 --> 00:01:28,440
+But what if the layers are merged into one like this?
+
+16
+00:01:28,441 --> 00:01:31,640
+If you want to select only a specific area within a layer.
+
+17
+00:01:31,641 --> 00:01:34,680
+You can use various area selection tools.
+
+18
+00:01:34,680 --> 00:01:46,240
+You can use the lasso tool or the magic wand tool I mentioned earlier.
+
+19
+00:01:46,241 --> 00:01:51,360
+But the method I often use is this color range selection function.
+
+20
+00:01:52,959 --> 00:01:57,150
+If you open the color range window, it changes to an eyedropper-shaped cursor like this.
+
+21
+00:01:58,359 --> 00:02:02,450
+Click the color you want to select in the picture.
+
+22
+00:02:06,454 --> 00:02:12,960
+Here, adjusting the tolerance lets you set how similar colors to the one you selected a moment ago are also selected.
+
+23
+00:02:14,359 --> 00:02:21,411
+For the range, you can set the range of selection based on the position you clicked a moment ago.
+
+24
+00:02:23,795 --> 00:02:28,380
+Changing the selection area preview like this makes it easier to view.
+
+25
+00:02:32,440 --> 00:02:33,930
+There are pros and cons to this.
+
+26
+00:02:33,931 --> 00:02:38,650
+First, to talk about the downside: it's hard to select only the area you want.
+
+27
+00:02:38,651 --> 00:02:42,090
+Because it pulls in all colors of a similar family.
+
+28
+00:02:42,091 --> 00:02:45,971
+You can adjust it somewhat with the tolerance.
+
+29
+00:02:46,624 --> 00:02:52,661
+The advantage is that, since it selects all similar colors, you can correct while maintaining unity.
+
+30
+00:02:53,480 --> 00:03:01,000
+After selecting like this, you duplicate the selection area, then do the correction.
+
+31
+00:03:01,001 --> 00:03:02,360
+You keep the original.
+
+32
+00:03:04,620 --> 00:03:09,660
+Let me do a correction as an example.
+
+33
+00:03:09,661 --> 00:03:12,060
+Only the selected area can be corrected like this.
+
+34
+00:03:16,140 --> 00:03:19,980
+After selecting like this, you can correct in various ways.
+
+35
+00:03:20,225 --> 00:03:23,621
+Let me go through the corrections I often use, one by one.
+
+36
+00:03:27,825 --> 00:03:32,490
+First, let's closely look at the curve correction I've used often in previous chapters.
+
+37
+00:03:33,505 --> 00:03:36,330
+Let's first look at the graph.
+
+38
+00:03:36,410 --> 00:03:39,290
+Here there's a part labeled input.
+
+39
+00:03:39,291 --> 00:03:48,410
+This input axis represents the brightness and darkness of the original state, and this output axis represents the brightness and darkness after correction.
+
+40
+00:03:48,411 --> 00:04:06,601
+For example, assuming the axis range is 0 to 255, if you raise the middle part like this, it means the brightness of the part corresponding to 127 in the input appears changed to 196 in the output.
+
+41
+00:04:06,964 --> 00:04:13,360
+I only raised the middle part here, but you can see the other parts come up along with it.
+
+42
+00:04:13,361 --> 00:04:18,160
+In this way, this graph is always transformed into the shape of a curve, so it's called curve correction.
+
+43
+00:04:19,930 --> 00:04:25,900
+And these bar graphs represent the value distribution of the picture.
+
+44
+00:04:26,015 --> 00:04:33,141
+This picture is mostly midtones overall, so the graphs are centered like this.
+
+45
+00:04:35,560 --> 00:04:37,640
+Let me also look at it with another picture.
+
+46
+00:04:38,205 --> 00:04:42,321
+This picture's contrast is distributed on the high side overall.
+
+47
+00:04:43,575 --> 00:04:46,880
+Here, there are relatively many midtones and dark tones.
+
+48
+00:04:46,881 --> 00:04:52,480
+That's because the scales, which take up a large area here, are in the midtones and dark tones.
+
+49
+00:04:54,245 --> 00:04:59,280
+And I don't touch these two endpoints much.
+
+50
+00:04:59,281 --> 00:05:04,480
+Forcibly unifying the value loses a lot of information.
+
+51
+00:05:04,481 --> 00:05:08,240
+For example, after raising this left endpoint up.
+
+52
+00:05:10,230 --> 00:05:17,761
+If you press OK and turn the curve correction on again, you can see that all the information in the dark area on this left side is lost.
+
+53
+00:05:19,710 --> 00:05:23,280
+However, I sometimes use it when drawing backgrounds.
+
+54
+00:05:23,281 --> 00:05:33,920
+To give a sense of atmospheric perspective, I remove the darkest area so the darkest part of the background doesn't get darker than the darkest part of the character.
+
+55
+00:05:39,980 --> 00:05:48,860
+In this way, you can correct RGB all at once, or you can correct them separately.
+
+56
+00:05:48,861 --> 00:05:56,581
+For example, if I leave it on red and do curve correction, I can only adjust the red tone.
+
+57
+00:06:01,070 --> 00:06:05,861
+If I raise only the middle part, only the midtones become red.
+
+58
+00:06:19,585 --> 00:06:24,300
+For this curve correction, I usually use an S-curve correction.
+
+59
+00:06:24,301 --> 00:06:33,221
+You can keep the midtones and make the bright tones brighter and the dark parts darker, to raise the contrast.
+
+60
+00:06:38,415 --> 00:06:41,400
+A correction like raising the middle like a mountain, like this.
+
+61
+00:06:43,990 --> 00:06:46,200
+I sometimes use that too.
+
+62
+00:06:46,201 --> 00:06:51,400
+Keeping the overall contrast but bringing out the midtones so the picture has stability.
+
+63
+00:07:03,790 --> 00:07:17,191
+Besides this, there are various value correction methods like brightness and contrast, and levels, but I recommend curve correction, which is intuitive and can make detailed corrections.
+
+64
+00:07:21,335 --> 00:07:24,000
+Next is hue and saturation correction.
+
+65
+00:07:24,001 --> 00:07:26,080
+The shortcut is Control and U.
+
+66
+00:07:26,300 --> 00:07:36,281
+When you open this correction window, the familiar HSV sliders appear, and with these you correct the layer or the selected area within the layer.
+
+67
+00:07:37,150 --> 00:07:41,120
+If you move the hue slider, it corrects based on the current hue.
+
+68
+00:07:43,525 --> 00:07:47,561
+For example, this red line, if you move it to the right.
+
+69
+00:07:48,300 --> 00:07:54,821
+It changes to yellow, green, and then blue in order.
+
+70
+00:07:55,825 --> 00:08:02,531
+If you check the colorize button here and try it, it changes based on the hue in the slider.
+
+71
+00:08:03,710 --> 00:08:07,241
+It's good to use it together with the area selection function we learned before.
+
+72
+00:08:08,305 --> 00:08:10,410
+Shall we try it?
+
+73
+00:08:10,411 --> 00:08:13,571
+Let me change this red color to a different color.
+
+74
+00:08:15,000 --> 00:08:18,810
+Open the color range window, click this part.
+
+75
+00:08:21,190 --> 00:08:24,140
+Adjust the tolerance, and press OK.
+
+76
+00:08:25,495 --> 00:08:31,120
+Duplicate the layer, press Control and U, and adjust the slider.
+
+77
+00:08:33,880 --> 00:08:38,169
+You can easily change the color, right?
+
+78
+00:08:38,170 --> 00:08:42,770
+Since I don't want to change the skin color, I'll erase it.
+
+79
+00:08:49,340 --> 00:08:52,030
+I also sometimes use the color balance function.
+
+80
+00:08:52,031 --> 00:08:53,310
+It's Control and B.
+
+81
+00:08:54,755 --> 00:08:59,390
+You can correct the highlights, midtones, and shadows separately.
+
+82
+00:08:59,390 --> 00:09:01,230
+Shall we try it?
+
+83
+00:09:01,359 --> 00:09:07,950
+If you click the highlights like this and move the slider, it corrects mainly the bright parts.
+
+84
+00:09:08,140 --> 00:09:13,550
+Conversely, if you click the shadows and try it, it corrects mainly the dark areas, right?
+
+85
+00:09:15,350 --> 00:09:25,281
+This can be used effectively on the pictures with the lighting setup I said I use often: warm key light, cool fill light, or reflected light.
+
+86
+00:09:26,030 --> 00:09:38,791
+Move the slider toward warm colors like yellow and red for the bright areas, and toward cool colors like cyan and blue for the dark areas.
+
+87
+00:09:39,710 --> 00:09:49,881
+If you do that, the bright parts, that is, the parts receiving the key light, get their warm tone alive, and the dark parts receive the blue reflected light.
+
+88
+00:09:59,719 --> 00:10:00,720
+And the cool tone comes alive.
+
+89
+00:10:00,721 --> 00:10:03,040
+Next is the color lookup function.
+
+90
+00:10:03,041 --> 00:10:07,241
+There's no shortcut, so you click to use it.
+
+91
+00:10:08,120 --> 00:10:11,770
+I don't know why it's called the color lookup function.
+
+92
+00:10:11,771 --> 00:10:16,410
+It's a function I learned when I worked on Riot's splash art.
+
+93
+00:10:16,411 --> 00:10:18,970
+A lot of people use photo filter apps, right?
+
+94
+00:10:18,971 --> 00:10:21,690
+You can think of it as a similar function.
+
+95
+00:10:21,691 --> 00:10:24,931
+It's better for illustration work than character key art.
+
+96
+00:10:26,710 --> 00:10:31,760
+Anyway, if you look at the top item here, there are various presets.
+
+97
+00:10:33,260 --> 00:10:34,260
+Let me change it.
+
+98
+00:10:36,275 --> 00:10:37,900
+There are various feels.
+
+99
+00:10:48,515 --> 00:10:51,390
+I'm a bit drawn to this feel.
+
+100
+00:10:51,391 --> 00:10:56,590
+But using it as-is is too much and clumsy.
+
+101
+00:10:56,591 --> 00:10:59,431
+When that happens, there's a function we can use.
+
+102
+00:11:03,735 --> 00:11:06,560
+That's turning it into a correction layer.
+
+103
+00:11:06,561 --> 00:11:15,040
+If you click the circle button in the layers panel here, there's the same color lookup button.
+
+104
+00:11:15,041 --> 00:11:16,041
+Click this.
+
+105
+00:11:17,180 --> 00:11:23,230
+If you select the same preset, you can see it changes.
+
+106
+00:11:27,420 --> 00:11:31,111
+Since it's been turned into a layer, through opacity adjustment.
+
+107
+00:11:32,280 --> 00:11:36,090
+You can give a difference in degree.
+
+108
+00:11:36,091 --> 00:11:37,850
+So natural correction is possible.
+
+109
+00:11:39,055 --> 00:11:43,610
+Since you can also do masking, even more natural correction becomes possible.
+
+110
+00:11:43,611 --> 00:11:52,860
+If you look at the square part of this layers panel, it's all white, which means the correction property of this layer is applied to all areas.
+
+111
+00:11:54,270 --> 00:12:02,560
+If you activate the brush, select black or a gray of your desired density from the color picker, and paint.
+
+112
+00:12:08,220 --> 00:12:12,951
+You can see the darkened part is excluded from the correction.
+
+113
+00:12:22,885 --> 00:12:26,601
+Conversely, the whitened part is re-applied with the correction.
+
+114
+00:12:27,475 --> 00:12:29,580
+Using an airbrush would be natural, right?
+
+115
+00:12:29,581 --> 00:12:34,980
+Other corrections can likewise be turned into layers.
+
+116
+00:12:46,755 --> 00:12:54,270
+Here, if you hold Alt and hover the cursor between the correction layer and a layer, this icon appears.
+
+117
+00:12:54,670 --> 00:12:58,990
+If you click at that time, the correction is applied only to that layer below.
+
+118
+00:13:00,195 --> 00:13:03,950
+Let me try it with another picture.
+
+119
+00:13:04,030 --> 00:13:11,870
+If I want to apply this correction layer only to this layer below, hold Alt and click between the layers.
+
+120
+00:13:16,670 --> 00:13:20,840
+Group the layers, and likewise hold Alt.
+
+121
+00:13:22,300 --> 00:13:29,550
+If you click between the correction layer and the group file, the correction is applied only to the grouped layers.
+
+122
+00:13:31,640 --> 00:13:36,890
+I hope you'll use these functions well and operate the correction functions smartly.
+
+123
+00:13:38,565 --> 00:13:43,200
+Besides these Photoshop correction functions, there are also ways to add light with a brush, and so on.
+
+124
+00:13:46,085 --> 00:13:50,640
+You paint using brushes like an airbrush.
+
+125
+00:13:50,720 --> 00:13:52,400
+You can use a standard layer like this.
+
+126
+00:13:53,695 --> 00:13:58,300
+Or you can use various layer properties to give a light feeling.
+
+127
+00:13:59,830 --> 00:14:02,920
+Naturally, you'd paint the parts that should shine.
+
+128
+00:14:02,921 --> 00:14:06,241
+This also isn't good if you paint it just anywhere like this.
+
+129
+00:14:06,840 --> 00:14:10,771
+It's good to use it only on the parts you want to emphasize.
+
+130
+00:14:20,910 --> 00:14:28,910
+Like this.
+
+131
+00:14:28,911 --> 00:14:30,990
+How should you do correction?
+
+132
+00:14:31,070 --> 00:14:36,951
+The purpose of these correction functions is to bring out the points of the picture you've expressed.
+
+133
+00:14:37,715 --> 00:14:45,020
+If this high-density metal is the point, it's good to correct it so this part stands out better and looks shiny.
+
+134
+00:14:46,520 --> 00:14:51,530
+And you can also try changing this intense red to be more vivid.
+
+135
+00:14:54,810 --> 00:14:58,220
+Then let me organize the purpose of correction.
+
+136
+00:14:58,221 --> 00:15:02,181
+One, for clarity and gaze concentration on the part that will be the point.
+
+137
+00:15:02,735 --> 00:15:06,780
+Two, to separate object from object.
+
+138
+00:15:06,781 --> 00:15:08,860
+Three, for varied colors.
+
+139
+00:15:11,770 --> 00:15:21,500
+For number one, gaze concentration on the part that will be the point, the number one correction is an extension of the concentrate and release work.
+
+140
+00:15:21,501 --> 00:15:26,220
+Naturally, you'd want to make the concentrated part stand out.
+
+141
+00:15:26,221 --> 00:15:30,940
+Usually, I make one layer and add light with an airbrush, doing a lot of that work.
+
+142
+00:15:32,145 --> 00:15:35,450
+It's especially effective on these metals.
+
+143
+00:15:35,451 --> 00:15:39,450
+If the light is strong, you can also do this correction on the skin.
+
+144
+00:15:39,451 --> 00:15:42,730
+Also, the atmosphere reflects light too.
+
+145
+00:15:42,731 --> 00:15:45,370
+Usually, on the part you want to emphasize.
+
+146
+00:15:46,805 --> 00:15:49,470
+I design it so light reaches it.
+
+147
+00:15:49,471 --> 00:15:52,871
+If you broadly apply it with an airbrush on the side the light comes from, like this.
+
+148
+00:15:55,320 --> 00:15:59,971
+You can get the effect of making the light feeling rich.
+
+149
+00:16:01,210 --> 00:16:05,540
+You can even more bring out the part you want to emphasize.
+
+150
+00:16:08,415 --> 00:16:11,891
+I use an airbrush for these tasks too.
+
+151
+00:16:13,085 --> 00:16:17,011
+But I mainly use this soft texture brush here.
+
+152
+00:16:18,915 --> 00:16:24,030
+Because with an airbrush, the brush mark doesn't remain, so it can be a bit boring at times.
+
+153
+00:16:30,170 --> 00:16:38,460
+For number two, separating object from object. This is also one of the parts I consider important when drawing.
+
+154
+00:16:38,461 --> 00:16:58,810
+On a flat canvas, the overlap between objects like this can be an element that somewhat reduces the three-dimensionality.
+
+155
+00:16:58,811 --> 00:17:05,690
+I draw to avoid overlapping as much as possible, but obsessively avoiding overlap when placing them is also strange.
+
+156
+00:17:05,691 --> 00:17:09,690
+I mean, a character can't be keeping their arms spread out.
+
+157
+00:17:09,691 --> 00:17:11,450
+In cases where the arm overlaps like this, I do this.
+
+158
+00:17:12,229 --> 00:17:13,670
+I separate the layer of the arm.
+
+159
+00:17:18,139 --> 00:17:21,230
+And add light to the below naturally.
+
+160
+00:17:32,080 --> 00:17:40,080
+This part here is the same too.
+
+161
+00:17:40,081 --> 00:17:47,801
+Even though it's a black cape, using a blue mist, I took action so the body's silhouette comes alive.
+
+162
+00:17:48,784 --> 00:17:57,130
+The overlapping part of the weapon and the hat above it was likewise painted with a blue airbrush to correct it.
+
+163
+00:17:57,131 --> 00:17:59,050
+The separation between objects is important.
+
+164
+00:17:59,699 --> 00:18:04,090
+You can do it with design, or with posing.
+
+165
+00:18:04,091 --> 00:18:09,610
+If objects unavoidably overlap, you have to separate them with post-correction like this.
+
+166
+00:18:14,144 --> 00:18:21,141
+For number three, varied colors. This is what I think is Photoshop's most amazing ability.
+
+167
+00:18:22,294 --> 00:18:34,400
+Even if I habitually draw using only this area here, by using the correction function I can create color values in areas I didn't use.
+
+168
+00:18:34,401 --> 00:18:37,040
+I can easily create colors I didn't have.
+
+169
+00:18:38,639 --> 00:18:44,530
+Imagine you discover a piece of clothing with a design you really like at a clothing store.
+
+170
+00:18:44,531 --> 00:18:47,810
+But the color you like is discontinued.
+
+171
+00:18:47,811 --> 00:18:49,890
+You'd turn around.
+
+172
+00:18:49,891 --> 00:18:52,050
+You also try dyeing at the hair salon.
+
+173
+00:18:52,051 --> 00:18:57,570
+I bleached multiple times and dyed it, but I didn't get the color I wanted.
+
+174
+00:18:57,571 --> 00:19:01,890
+By the time the hair was as damaged as it was going to get, they told me I couldn't re-dye it.
+
+175
+00:19:01,891 --> 00:19:07,570
+But in digital drawing, you can freely change colors for free, without limit.
+
+176
+00:19:08,514 --> 00:19:10,220
+Until you get the color you want.
+
+177
+00:19:11,080 --> 00:19:15,100
+Whether it'll be pretty to other people is a question after that.
+
+178
+00:19:16,484 --> 00:19:21,040
+Just because I dye my hair like a celebrity doesn't mean I'll become as cool as a celebrity.
+
+179
+00:19:21,734 --> 00:19:23,920
+So the base is important.
+
+180
+00:19:23,921 --> 00:19:30,304
+That's the reason I tell beginners to refrain from using the correction function when doing practice or copy-study.
+
+181
+00:19:31,855 --> 00:19:35,960
+Now let's look at a real-world example.
+
+182
+00:19:35,961 --> 00:19:38,920
+What kind of correction did this picture get?
+
+183
+00:19:38,921 --> 00:19:42,161
+In illustration, the family of colors is important, I said.
+
+184
+00:19:42,629 --> 00:19:52,280
+This picture unifies this blue tone, and does a correction that separates only the point-colored skin and the purple marbles.
+
+185
+00:19:52,281 --> 00:19:59,281
+As a result, the overall tone is unified and the point elements could stand out more.
+
+186
+00:20:00,534 --> 00:20:08,880
+This picture uses backlight, and I wanted to create a very strong highlight through the effect of total internal reflection.
+
+187
+00:20:08,960 --> 00:20:11,760
+Especially on this hair and shoulder area.
+
+188
+00:20:11,761 --> 00:20:15,690
+As a result, I could concentrate the gaze toward the face.
+
+189
+00:20:18,354 --> 00:20:22,460
+And this picture wasn't originally planned with this pink tint from the start.
+
+190
+00:20:23,794 --> 00:20:26,700
+Originally, since it's a gumiho, I dressed it in white traditional clothes.
+
+191
+00:20:27,964 --> 00:20:33,800
+And receiving yellow moonlight, it was a picture that was overall yellow and bright in feeling.
+
+192
+00:20:33,801 --> 00:20:42,600
+Since the fox was white, the clothes white, the skin white, and the hair white, the picture really looked boring.
+
+193
+00:20:42,601 --> 00:20:45,800
+The picture from that time isn't saved, so I'm sorry I can't show it to you.
+
+194
+00:20:45,801 --> 00:20:51,720
+Anyway, thinking like that, I couldn't go further, and I started touching the correction function.
+
+195
+00:20:51,721 --> 00:20:56,680
+As I fiddled with the correction here and there, the colors became varied, and I began to see a path.
+
+196
+00:20:57,909 --> 00:20:59,960
+Then I drew a few more days and finished it.
+
+197
+00:21:00,709 --> 00:21:04,760
+In this way, the correction function can also be used in the middle stage of a picture.
+
+198
+00:21:06,144 --> 00:21:14,350
+As a side note, this picture is a picture I drew when I was twenty-four, and after nine years, I've retouched it a bit now.
+
+199
+00:21:16,194 --> 00:21:22,151
+As you can see, I balanced the left and right with a transform.
+
+200
+00:21:23,830 --> 00:21:26,680
+And slightly improved the clarity.
+
+201
+00:21:26,681 --> 00:21:30,520
+When I was twenty-four, I drew without glasses.
+
+202
+00:21:30,521 --> 00:21:34,200
+It's fun to see the difference caused by glasses.
+
+203
+00:21:34,201 --> 00:21:37,521
+And I said you should bring out the point elements even more.
+
+204
+00:21:37,719 --> 00:21:44,321
+Through the color correction explained this time, I made the overall pink tone stand out even more.
+
+205
+00:21:45,340 --> 00:21:50,830
+Through various modifications and corrections, I think the picture became a bit more stable.
+
+206
+00:21:52,300 --> 00:21:59,260
+What do you think?
+
+207
+00:21:59,261 --> 00:22:02,620
+Then how can this picture be corrected?
+
+208
+00:22:02,621 --> 00:22:09,980
+Because I focused on drawing elements I hadn't drawn often, the planning wasn't thorough, so I don't like it.
+
+209
+00:22:09,981 --> 00:22:13,221
+I should at least use correction to bring the picture to life a bit.
+
+210
+00:22:14,484 --> 00:22:19,110
+If it were me, here, to bring out the point panels.
+
+211
+00:22:30,999 --> 00:22:32,700
+Add light and raise the background contrast.
+
+212
+00:22:58,819 --> 00:22:59,820
+And separate it from the character.
+
+213
+00:22:59,821 --> 00:23:04,261
+And bring out the blue tone of the darkness and shadows.
+
+214
+00:23:06,330 --> 00:23:10,501
+And mix a bit of warm color into the light-receiving side.
+
+215
+00:23:12,674 --> 00:23:17,790
+So I could add interest to the uniform white tone that could look boring.
+
+216
+00:24:07,479 --> 00:24:11,530
+We've learned about various correction functions and methods.
+
+217
+00:24:11,531 --> 00:24:18,531
+These correction functions are like seasoning that makes a well-drawn picture look even better.
+
+218
+00:24:20,574 --> 00:24:28,211
+As commercial artists, we need to make our pictures sell a bit better.
+
+219
+00:24:29,444 --> 00:24:35,561
+If you're an active illustrator, you should work hard to get even one more like.
+
+220
+00:24:36,975 --> 00:24:42,760
+Correction functions play the role of turning an eighty-point picture into an eighty-two.
+
+221
+00:24:42,761 --> 00:24:48,440
+But used wrongly, an eighty-point picture could become a seventy.
+
+222
+00:24:48,441 --> 00:24:52,600
+Also, correcting a fifty-point picture can't turn it into a ninety.
+
+223
+00:24:53,879 --> 00:24:58,810
+The purpose of correction is to make a picture a bit more pleasing.
+
+224
+00:24:58,811 --> 00:25:01,210
+The base has to be good for correction to shine too.
+
+225
+00:25:02,459 --> 00:25:06,990
+I compared the correction function to black bean sauce over fried rice.
+
+226
+00:25:06,991 --> 00:25:10,231
+These days, it's hard to find really delicious fried rice.
+
+227
+00:25:10,429 --> 00:25:12,350
+It's called oil rice.
+
+228
+00:25:12,350 --> 00:25:14,590
+Since I like Chinese food, I eat it often.
+
+229
+00:25:15,364 --> 00:25:22,910
+It's a fried rice of oil-soaked rice topped with black bean sauce, sold for nine thousand won, and it really feels like betrayal sometimes.
+
+230
+00:25:22,911 --> 00:25:30,270
+It's less of a cost for ingredients and quick to make, which is good, but you can't build a regular customer.
+
+231
+00:25:30,271 --> 00:25:33,010
+Really well-made fried rice is delicious even just eating the rice.
+
+232
+00:25:34,354 --> 00:25:40,741
+I should work hard to draw the base picture beautifully, without relying on the correction function.
+
+233
+00:25:42,684 --> 00:25:47,960
+This time, we talked about various correction methods and how to use them.
+
+234
+00:25:47,960 --> 00:25:52,280
+Next time, let's talk about using various Photoshop functions.

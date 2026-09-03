@@ -1,0 +1,515 @@
+1
+00:00:06,499 --> 00:00:08,760
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:08,761 --> 00:00:12,161
+Last time, we got this far with the first-pass coloring.
+
+3
+00:00:13,725 --> 00:00:21,320
+Before proceeding further, let me briefly cover the glazing coloring method from Chapter 3, part 3, as a review.
+
+4
+00:00:22,945 --> 00:00:27,900
+First, for comparison, I'll shrink the picture I drew last time and put it up next to me.
+
+5
+00:00:29,320 --> 00:00:32,561
+Then I'll color it with glazing from the start.
+
+6
+00:00:35,840 --> 00:00:43,840
+First, let me lay down the base color as a single color.
+
+7
+00:00:43,841 --> 00:00:50,281
+Then, after rendering it in grayscale, I'll composite the base color layer using the layer property.
+
+8
+00:00:56,835 --> 00:00:59,150
+I said inherent value is important.
+
+9
+00:00:59,151 --> 00:01:02,990
+Before dividing the value steps, let me set the inherent value first.
+
+10
+00:01:04,834 --> 00:01:09,310
+Since there's already a base color set, setting the inherent value isn't hard.
+
+11
+00:01:10,869 --> 00:01:17,560
+It's easier to just convert the base color to grayscale, but for the sake of learning, I painted it like this.
+
+12
+00:01:23,294 --> 00:01:27,171
+Now I'll render it in grayscale.
+
+13
+00:01:41,774 --> 00:01:43,790
+I've done about five minutes.
+
+14
+00:01:44,674 --> 00:01:49,940
+Now let me raise the base color layer by changing its property to color.
+
+15
+00:02:03,184 --> 00:02:10,770
+The clothing seems too dark, so I'll brighten the grayscale layer of the clothing a bit.
+
+16
+00:02:19,165 --> 00:02:20,040
+How is it?
+
+17
+00:02:20,041 --> 00:02:23,080
+The first-pass coloring finished too simply.
+
+18
+00:02:23,510 --> 00:02:28,040
+The advantage of this glazing coloring method is that you can work fast.
+
+19
+00:02:28,041 --> 00:02:34,360
+However, there's the difficulty of having to keep the inherent value, so for beginners it may not be very effective.
+
+20
+00:02:35,744 --> 00:02:39,100
+Let me compare by breaking the inherent value.
+
+21
+00:02:39,101 --> 00:02:43,420
+I'll unify the inherent value of all layers using curve adjustment.
+
+22
+00:02:53,384 --> 00:02:54,280
+How is it?
+
+23
+00:02:54,281 --> 00:02:55,960
+The value's all broken now.
+
+24
+00:02:57,135 --> 00:03:03,160
+If you decide to color with glazing, you have to work with the mindset of keeping that inherent value at least.
+
+25
+00:03:12,964 --> 00:03:16,280
+This time, let me do the painting a bit more finely.
+
+26
+00:03:17,374 --> 00:03:21,251
+First, I'll bring up the duplicate view and put it to the side.
+
+27
+00:03:58,915 --> 00:04:03,150
+I'm tidying up the details of the clothing.
+
+28
+00:04:03,151 --> 00:04:08,270
+Even with the same color clothing, if you bring out this kind of thickness like this, it can look like a different material.
+
+29
+00:04:10,015 --> 00:04:14,890
+With a slight touch, the cloth-material clothing has turned into a material with a bit of cushion.
+
+30
+00:04:43,005 --> 00:04:47,400
+Since I split the layers, I could paint easily.
+
+31
+00:04:47,401 --> 00:04:48,760
+There are pros and cons.
+
+32
+00:04:48,761 --> 00:04:52,280
+I'm the type who merges layers as it gets to the later stages.
+
+33
+00:04:52,655 --> 00:04:57,000
+But since I've split them well, I'll try to paint as much as possible without merging.
+
+34
+00:04:59,775 --> 00:05:03,571
+I need to paint well aligned with the curvature of the body.
+
+35
+00:06:27,050 --> 00:06:31,340
+I'll also work on the face rendering, which I had applied carelessly.
+
+36
+00:06:31,341 --> 00:06:37,580
+Rather than trying to draw a pretty face, I tend to try to draw an accurate face.
+
+37
+00:06:37,581 --> 00:06:41,100
+Because I can't ignore the appeal that comes from realistic facial anatomy.
+
+38
+00:06:41,980 --> 00:06:44,620
+Have you heard of the uncanny valley effect?
+
+39
+00:06:44,621 --> 00:06:54,700
+It's the phenomenon where as an object becomes more similar to a person, liking rises, but from a certain point it starts to look strange and unpleasant.
+
+40
+00:06:54,701 --> 00:07:02,840
+For example, dolls or humanoid robots are likable, but clumsily human-like zombies or ghosts look unpleasant.
+
+41
+00:07:02,841 --> 00:07:07,560
+In realistic-style drawing, realistic human depiction is very, very important.
+
+42
+00:07:07,561 --> 00:07:12,360
+In the past, when drawing a smiling face, I didn't draw the nasolabial folds, or other things.
+
+43
+00:07:13,165 --> 00:07:17,880
+Because I thought nasolabial folds are usually a factor that lowers the beauty.
+
+44
+00:07:18,040 --> 00:07:23,000
+But drawing like that, the face somehow looked unpleasant and strange.
+
+45
+00:07:23,001 --> 00:07:28,080
+These days, drawing with attention to human anatomy, I express all those parts too.
+
+46
+00:08:22,175 --> 00:08:26,010
+I keep rendering.
+
+47
+00:08:26,490 --> 00:08:26,490
+A sci-fi style.
+
+48
+00:08:26,491 --> 00:08:31,130
+Since it's a sci-fi style design, I plan to make the clothing a material with a very slight reflectance.
+
+49
+00:08:56,529 --> 00:08:57,530
+That's why I'm giving it contrast.
+
+50
+00:08:57,531 --> 00:09:01,450
+Shall we re-examine why the left part is brighter than the right part?
+
+51
+00:09:02,500 --> 00:09:06,790
+If you took Chapter 3, you'd have noticed right away.
+
+52
+00:09:06,791 --> 00:09:10,351
+I've drawn a simple top-down view of this character.
+
+53
+00:09:10,715 --> 00:09:11,990
+The light is coming from this side.
+
+54
+00:09:13,695 --> 00:09:22,531
+The left part receives more light and reflects more toward me, so I drew it brighter.
+
+55
+00:10:43,905 --> 00:10:50,780
+Because I usually sketch very briefly, after drawing to this extent, I delete the sketch layer and work.
+
+56
+00:10:51,640 --> 00:10:56,220
+But this time, since it's a sketch with a fair amount of detail rendering, it's a waste to get rid of it.
+
+57
+00:10:57,100 --> 00:10:59,500
+I'll composite it into each color layer.
+
+58
+00:11:00,865 --> 00:11:03,420
+We learned the layer shortcut in Chapter 3.
+
+59
+00:11:03,740 --> 00:11:06,300
+I won't mention it separately.
+
+60
+00:11:06,301 --> 00:11:12,981
+For each color layer, I select the object and copy just that part of the sketch and merge it in.
+
+61
+00:11:14,815 --> 00:11:19,850
+Honestly, there's not much difference between deleting the sketch layer and merging it like this.
+
+62
+00:11:19,851 --> 00:11:27,130
+Because for the minimal rendering for 3D modeling, leftover sketch lines aren't a flaw.
+
+63
+00:11:27,131 --> 00:11:35,610
+And in illustration, since every part of the picture gets painted over in the end, the sketch lines naturally disappear.
+
+64
+00:11:35,611 --> 00:11:39,930
+The more you paint over, the more the sketch lines disappear and the picture looks more realistic.
+
+65
+00:11:45,980 --> 00:11:49,550
+It's good to save as you work, in the middle.
+
+66
+00:11:49,551 --> 00:11:53,630
+I've already made four files from this picture.
+
+67
+00:11:53,631 --> 00:12:03,150
+Once after sketching, once after overhauling the sketch, once at the first-pass coloring last time, and this is the file for the current picture.
+
+68
+00:12:03,151 --> 00:12:09,390
+It also has the meaning of backup, but saving in the middle like this lets you compare and analyze.
+
+69
+00:12:09,391 --> 00:12:12,430
+A picture doesn't always only go forward.
+
+70
+00:12:12,431 --> 00:12:14,670
+It can go sideways, or even backward.
+
+71
+00:12:15,560 --> 00:12:21,530
+If you only keep looking at this picture, you have no way of knowing whether you're going sideways or backward.
+
+72
+00:12:21,531 --> 00:12:24,330
+So you need a point of comparison.
+
+73
+00:12:24,331 --> 00:12:36,730
+Compare with the picture I drew a few hours ago, or yesterday's picture, and bring back the parts where the previous picture was better, keep what to keep, and improve it.
+
+74
+00:12:36,731 --> 00:12:41,530
+Likewise, I also leave multiple face layers.
+
+75
+00:12:41,610 --> 00:12:48,431
+If I'm happily drawing along, then compare with the previous one and think the earlier face was better, I can easily revert to it.
+
+76
+00:12:53,660 --> 00:12:57,900
+I keep rendering.
+
+77
+00:12:57,901 --> 00:13:02,380
+These are things I've explained many times, so I don't have much to say.
+
+78
+00:13:02,381 --> 00:13:09,420
+As a side note, people usually say I speed up the video except for the parts I'm talking about during demos.
+
+79
+00:13:09,421 --> 00:13:16,700
+But before filming the class, I did a survey, and there were many comments wanting to watch a video without speeding up.
+
+80
+00:13:17,925 --> 00:13:27,641
+I'm not super fast with my hands, and I have a lot of trial and error while drawing, so if I film with no speeding up, it's too boring from the viewer's perspective.
+
+81
+00:13:27,710 --> 00:13:34,281
+So I thought a lot, and figured maybe I could compromise with about a two or three times speed.
+
+82
+00:13:56,165 --> 00:13:59,200
+I work on the face rendering in between too.
+
+83
+00:13:59,201 --> 00:14:03,360
+It's important to render the whole thing evenly.
+
+84
+00:14:03,361 --> 00:14:06,320
+I draw trying various brushes too.
+
+85
+00:14:06,321 --> 00:14:11,840
+As you use various brushes, you'll figure out the brush that suits each situation.
+
+86
+00:14:11,841 --> 00:14:15,120
+You'll find that brush very naturally.
+
+87
+00:14:15,121 --> 00:14:23,680
+While you should be able to draw with just one default brush, that's the basic idea, and there's no need to use just one brush.
+
+88
+00:14:23,681 --> 00:14:25,920
+It's good to use them flexibly.
+
+89
+00:14:28,055 --> 00:14:32,480
+I remember in the past, coveting other people's brushes and collecting them.
+
+90
+00:14:32,481 --> 00:14:36,320
+I thought if I used that artist's brush, I could draw like that artist.
+
+91
+00:14:37,150 --> 00:14:39,200
+But that's not the case.
+
+92
+00:14:39,201 --> 00:14:45,520
+Going into a famous chef's kitchen and cooking doesn't make my food as delicious as a first-rate chef's food.
+
+93
+00:14:46,460 --> 00:14:51,040
+In the end, whatever brush I use, pictures at my level come out.
+
+94
+00:14:52,465 --> 00:14:56,250
+Then what standard should I use to collect brushes?
+
+95
+00:14:56,251 --> 00:15:00,410
+As I said before, the brush that suits me is good, of course.
+
+96
+00:15:00,411 --> 00:15:09,530
+Draw with a new brush, and if it feels good, if it feels like the picture is coming out well, collect that brush.
+
+97
+00:15:09,531 --> 00:15:15,770
+It's not really that the picture comes out well because of the brush, but so you can keep going with that good feeling.
+
+98
+00:15:18,085 --> 00:15:23,120
+To talk more about brushes, everyone exerts a different amount of hand strength when gripping a pen.
+
+99
+00:15:23,925 --> 00:15:30,000
+In the past, when I was a job seeker, I used a very weak pressure level, so I drew exerting a lot of hand strength.
+
+100
+00:15:30,001 --> 00:15:32,640
+It was to the point my fingers were crushed.
+
+101
+00:15:33,919 --> 00:15:39,721
+Since I was young, I didn't know better, but now I've set it up so that even a little force produces a thick line.
+
+102
+00:15:40,920 --> 00:15:45,050
+I recommend holding the pen lightly and using it, if only for the sake of your wrists.
+
+103
+00:19:19,739 --> 00:19:23,321
+If needed, I add to the sketch as I paint.
+
+104
+00:19:23,964 --> 00:19:25,320
+I explained this many times.
+
+105
+00:19:26,069 --> 00:19:30,440
+These sketch lines will be erased as I paint, so you don't have to worry about them.
+
+106
+00:19:32,379 --> 00:19:35,941
+Honestly, even if sketch lines remain, they have their own charm.
+
+107
+00:19:37,294 --> 00:19:44,805
+Due to the nature of digital drawing, it's easy to draw pictures without human touch, and you can think of it as a bit of humanity.
+
+108
+00:19:45,919 --> 00:19:50,160
+These days, I tend to leave more sketch lines.
+
+109
+00:19:50,161 --> 00:19:51,520
+It has charm as a picture.
+
+110
+00:23:59,949 --> 00:24:04,000
+Painting a large area like this is quite a hassle.
+
+111
+00:24:04,001 --> 00:24:07,280
+Too much touch can also look messy.
+
+112
+00:24:07,281 --> 00:24:11,120
+Among the provided brushes, soft brushes can show their power at this time.
+
+113
+00:24:12,175 --> 00:24:17,671
+It's good to set the direction of the folds with line drawing, then layer it in with a soft brush.
+
+114
+00:24:20,139 --> 00:24:26,951
+When drawing folds in clothing, grasp the meeting points and let them fall naturally in the direction of gravity.
+
+115
+00:24:28,354 --> 00:24:32,190
+This is easier said than done; drawing naturally is really hard.
+
+116
+00:24:33,529 --> 00:24:36,380
+At this time, the best thing is copy-study.
+
+117
+00:24:36,381 --> 00:24:43,820
+For example, if you hit a wall drawing clothing folds in this picture, find a photo of someone wearing a gown and draw it.
+
+118
+00:24:44,864 --> 00:24:50,820
+After simply grasping the characteristics of the folds, come back to my picture and apply them.
+
+119
+00:24:51,774 --> 00:24:55,411
+In my working method, I never draw with the reference up next to me.
+
+120
+00:24:55,879 --> 00:24:57,530
+Copy-study is something you do separately.
+
+121
+00:29:33,069 --> 00:29:36,160
+I'll also clean up the boundaries.
+
+122
+00:29:36,161 --> 00:29:41,600
+When I draw, I think it's important to cleanly separate the boundaries between surfaces.
+
+123
+00:29:42,940 --> 00:29:45,020
+Line drawing makes that easy.
+
+124
+00:29:46,569 --> 00:29:50,340
+Even without lines, it's good to split the boundaries sharply.
+
+125
+00:30:28,600 --> 00:30:30,760
+This is how I finished the first-pass work.
+
+126
+00:30:32,284 --> 00:30:36,600
+From now on, it won't differ much from what the finished picture will look like.
+
+127
+00:30:36,601 --> 00:30:38,840
+This is the start of boring work.
+
+128
+00:30:39,350 --> 00:30:41,160
+They say you draw a picture with your glutes.
+
+129
+00:30:42,059 --> 00:30:45,681
+Let me plant my glutes firmly and I'll see you next time.

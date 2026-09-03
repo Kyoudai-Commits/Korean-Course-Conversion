@@ -1,0 +1,159 @@
+Hello.
+This time, using the human anatomy and simplified drawing methods we've learned so far, let's draw a trendy human body across the whole body.
+We've been practicing a realistic body based on reality.
+Is a realistic body enough?
+For example, I'm a real person.
+If I drew pictures of my face and body, or made a game with them, would it sell?
+Sadly, I don't think anyone would buy it.
+Because my body and face aren't trendy.
+So what is a trendy body?
+Trendy, in its dictionary sense, means fashionable.
+Saying a fashionable body sounds a bit odd.
+But since I do commercial art, I've worked hard to draw a body that the largest number of unspecified people would prefer.
+For example, for a man, an inverted-triangle back, a strong chest, and chocolate abs, plus long and sturdy limbs. And for a woman, a small head, a full chest, a firm waist, a wide pelvis, and long, extended limbs.
+Especially, subtle flows matter.
+Of course, personal taste is also included.
+I want to let you know upfront that I can't speak for everyone's taste.
+I've drawn what I think is a trendy, normal male body.
+Let's compare it with a bad example.
+Let me start by comparing a skinny body type.
+Can you see the difference?
+This right sketch is also based on a realistic body.
+It's a drawing of a realistically thin man.
+But being too realistic makes it less appealing.
+This sketch on the left could be called a model fit.
+Do more people prefer the left?
+Or do more people prefer the right?
+As people who do commercial design, we always have to work for the choice of the majority.
+Even if the right body type is realistic and to my taste, if the public doesn't see it that way, it's meaningless.
+That would only make sense if you were drawing just for your own satisfaction.
+For game concept art, not many people would want to play as a character like that.
+You can see that just being realistic isn't what matters.
+Let me look at other body types too.
+Even for a muscular man, you have to draw him more attractively in a drawing.
+In real life, this body type would look very sturdy and cool.
+But in a drawing, it doesn't have much competitive edge.
+Because it can be more trendy.
+In the seventies, there was a movie called The Hulk.
+The one on the right is drawn after the Hulk's body from that movie.
+It was such an old movie that I haven't seen it, but I've seen stills.
+He was an actor with an amazing body even without CGI.
+But I couldn't imagine that body appearing in a modern Hulk movie.
+Because we've gotten so used to the Hulk's body exaggerated with CGI.
+In this way, rather than being limited to just realism, we should base ourselves on reality and exaggerate the appealing elements as needed.
+For a muscular combat-ready body, you have to draw the muscle lines even more alive.
+And for a skinny body, you have to draw it cleanly so that the muscle lines stay alive while giving a sleek image.
+Is it enough to just make the body trendy?
+No.
+Since we have to capture attention with a single image, composition and perspective are important too.
+Let's learn about the composition and perspective that make a drawing attractive.
+A viewpoint can move along the X-axis, Y-axis, and depth axis like this.
+Many people draw as if zooming in from far away along the depth axis.
+For example, like a photo taken with a zoom from far away during a sports broadcast.
+Even though the person is far back, their head can look bigger.
+Because it doesn't feel like it has perspective.
+A drawing that looks like it's zoomed in from far away is easy to draw but less appealing.
+So I prefer a drawing that looks like it's zoomed out at a moderate distance.
+It's the distance of when a person actually meets another person.
+No one meets people by zooming in with a telescope from far away.
+It's the power of familiarity.
+This kind of realistic viewing distance can make a drawing more realistic.
+And next, the axis to pay attention to is the Y-axis.
+If you're a game concept artist, you should pay attention to this Y-axis.
+It's called the over-the-top view.
+There are quite a lot of games that look like they're looking down from above like this.
+When designing, there are many times you need to design so it looks effective when looked at from above like this.
+The same goes for drawing concept art.
+It's good to place the observer's viewpoint, that is, the camera position, slightly above the center of the character.
+You can show the top design in a focused way.
+The top of the foot is visible too.
+You should avoid low angles.
+Conversely, a picture that looks like it's shot from below along the Y-axis gives the character power.
+It's said to feel overwhelming.
+It's used when showing character personality.
+If the perspective exceeds this too much, you can't use it as a concept.
+Modelers hate it.
+Especially, in illustration, if you use this viewpoint and composition well, you can draw even more attractive pictures.
+Let's find out through practice.
+I've drawn a character here.
+It's a picture with almost no perspective, like it was shot zoomed in from far away.
+Let me redraw this with a trendy body and composition.
+In most cases, I draw from the head first.
+It's a habit.
+Since I prefer drawings with a lot of perspective, the face usually ends up at a low angle.
+This picture is like that too.
+I draw quickly, mainly by silhouette.
+There's nothing to think of as hard.
+The advantage of digital art is that you can make unlimited corrections.
+As long as you have the will.
+Before I knew it, the skeleton was all set.
+I go about tidying while adding flesh.
+I said it's important to exaggerate the appeal points.
+I exaggerated the overall flow like this.
+Compare it with the left character.
+If you do that.
+Let me compare the perspective.
+The left sketch has almost no perspective in it.
+It's stable but boring.
+This right picture has relatively excessive perspective.
+The top is a low angle, but the bottom is a high angle.
+If you draw like this, the picture feels more three-dimensional, and if it feels three-dimensional, the character gets lively.
+This is mainly how I've been drawing.
+Let me draw one more quickly.
+Practice drawing bodies of various body types in a trendy way.
+Shall we review the important body parts too?
+The collarbone, the sternocleidomastoid, and the pectoralis major.
+The external oblique, the latissimus dorsi, and the iliac crest.
+And the overall flow of the leg.
+I told you all that.
+And the flow of the arm.
+I said the flow of the arm and the brachioradialis, which starts at the upper arm bone and connects to the radius on the thumb side, are important.
+Let's also check the position of the navel.
+Let me do a few more.
+It might be my own taste, but I like a body that's long and slim yet firm.
+I'll also draw it while changing the body type.
+To make the lines of the body visible, I've let the arm drop away from the body to create a gap.
+In this way, you should be wary of elements colliding and design so the silhouette shows well.
+Let me do one more.
+This time, I'm going to draw a bunny girl.
+Likewise, I'll redraw the normal bunny girl on the left.
+If you ask why I copy-pasted something I'm going to fix anyway, I have nothing to say.
+This time, I'll draw it with more exaggeration.
+I'll pull the pelvis back.
+I've moved the ribcage forward.
+When I make corrections, I often use the lasso tool.
+It's not great to rely on it too much.
+But I can't tell you not to use it.
+Because it's so convenient.
+It's good for your mental health.
+With the lasso tool around, I always feel secure.
+I also draw while mirroring left and right.
+Honestly, this normal character isn't wrong.
+The point is to make it look a bit more appealing.
+Please watch while comparing.
+This is a very common pose.
+He could be holding a weapon.
+But having the arm cover the upper body like this isn't good in concept art.
+Since this picture has a simple design, and it's not going to be made into a 3D model, I drew it like this.
+This isn't a coloring chapter, but let me do a simple color and wrap up.
+I'll explain coloring in detail in a later chapter.
+I'm not going to finish it, just a first-pass color.
+After rendering the image, I merge the layers and I'm in the middle of rendering.
+Characters like this have no pain in the design, so I like that I can draw them lightly.
+How about we draw a bunny girl this evening, everyone?
+I keep rendering at a zoomed in view.
+It's important to render the whole thing.
+I didn't notice when drawing, but watching the video, the face was gradually getting weird.
+Actually, at that time too, the face kept bothering me, so I kept touching it up.
+If a face isn't pretty, you lose the urge to draw.
+If you find a part you don't like like this, boldly erase it and draw it again.
+Holding onto it just doesn't seem to give you an answer.
+I slightly turned the pose to redraw the face.
+Let me wrap up the coloring about here.
+In this chapter, we looked at an efficient figure drawing method and trendy drawing.
+Trendiness can be subjective, so I won't impose my taste on you.
+Just think of it as advice from a senior or colleague who has worked in the industry for a long time.
+In Chapter One, I talked about study methods, right?
+I hope you'll think about and judge for yourself what trendiness is, and take an active approach to learning.
+Next chapter, before character coloring, let's take time to learn about light and color.
+Great work.

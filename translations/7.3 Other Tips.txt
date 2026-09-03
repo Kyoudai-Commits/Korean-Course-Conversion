@@ -1,0 +1,169 @@
+Hello, I'm Sangsoo Jeong.
+This time, let's talk about various tips for when you draw.
+Actually, they're nothing grand.
+I'll just share short tips about things I couldn't cover while teaching.
+I always told you to save often while drawing.
+Not just overwriting the same file, but saving the drawing at different times.
+I save every one or two hours.
+That way, the intermediate process of my drawing remains.
+It's also good when I look back and analyze it after finishing a piece.
+Or I can post the process on my social media later to show what I've achieved.
+If people are curious about my work process, you could say I'm a decently successful painter.
+What I'll talk about today is a slightly different subject.
+Through the work process left behind like this, you can make your drawing even better.
+Mechanical analog watches, people don't really use them these days.
+They have value as a metal object, but in terms of accuracy, they can't hold a candle to digital watches.
+No matter how precisely a mechanical watch is made, over a long time errors accumulate and the time becomes inaccurate.
+The reason I bring this up is that even if you think you're drawing well, as time goes by your drawing changes, for better or worse.
+I said this before.
+If you keep looking at your drawing, you forget whether you're going in the right direction.
+And if you have a comparison target, like the drawing from a few hours ago, you can reduce the errors that creep in over time.
+If you compare like this and think the current drawing is clearly better, just keep going.
+But if you think the past drawing is better, of course you should go back to the past.
+If you do it this way, on the assumption that you have a discerning eye, your drawing will have no choice but to go in a good direction.
+And you develop that discerning eye through lots of appreciation.
+When you compare the old and the current and can't tell which one is better, what do you do?
+Especially with faces.
+In that case, there's a simple method. I combine the past with the present.
+If you do that, in most cases a more plausible drawing will come out.
+Let me tell you why.
+When you do a rough sketch, you like the drawing, but the more you make it concrete, the worse the feeling gets compared to the rough sketch. You've probably experienced this a lot.
+I've experienced it a lot too.
+That's because, in the process of correcting the uncertainty that appears in a rough sketch in your head, you unconsciously imagine it in a better direction.
+It's like looking at a foggy bathroom mirror and thinking, "Oh, that's not bad."
+If you overlap the past drawing and the current drawing by adjusting the opacity, the uncertainty reappears.
+We use our imagination again, and our drawing gets the chance and strength to go in a better direction.
+If you've seen posts about an idol group's average face, or the average Korean face, you probably found them better looking and prettier than expected.
+Why is that?
+Just search the internet for "average face" right now, and so many attractive faces come up.
+You think, "This is the average."
+They're surprisingly so attractive.
+Psychologists discovered through experiments that people found faces more attractive the more they were averaged: four faces rather than two, eight rather than four, sixteen rather than eight, and so on.
+In the first chapter, I told you that ordinariness can become a weapon.
+The more a person's face is combined in different ways, the closer it gets to the average, and an average face is familiar to us, and familiarity means likability.
+And depending on that likability, we feel even greater attraction.
+Shall we try it as an example?
+Looking at this drawing now, the version I drew later seems to have a better face.
+So let me try compositing them.
+After compositing, how is it?
+It got a little blurry, but I think the feeling got better.
+Here I should revive the sharpness through retouching and refine it.
+Of course, after retouching, I need to compare this version again.
+Keep repeating until I'm satisfied.
+You can also use it when doing concept art.
+Let me composite this drawing here.
+I took it out like this and attached it to match the positions of the eyes and nose.
+Then I lower the opacity and adjust the value with a curve.
+And I match the color too.
+How is it?
+With a new comparison target like this, there's also a fun of picking and choosing.
+The more drawings you make, the more face references you've drawn, so there'll be more material to composite.
+But you must not composite other people's drawings or photos.
+Absolutely not.
+However, even if it's your own drawing, don't just take it from somewhere else and composite it.
+Only use it when you composite a past version of the same drawing.
+I said that when you draw, you need to bring out the sense of volume well.
+It's no different when drawing weapons.
+Weapons are usually drawn facing forward like this.
+It's easy to draw, and it's efficient for making sheets for 3D work.
+However, in a drawing, a weapon facing forward like this becomes a factor that lowers the sense of volume.
+You should avoid it as much as possible in illustrations.
+There's no need to completely avoid it, but first design it facing forward and draw it.
+Then make a few modifications, turn the angle, apply it, and arrange it.
+Shall we do it?
+Let me rotate this weapon a little like this.
+Turn on free transform.
+Use warp to give it a slightly turned feel.
+But using it like this as-is is a bit awkward, right?
+Grasp the volume well.
+Cut out the needed parts.
+Since it's turned like this, this side will be more visible, right?
+Move it so this side is more visible.
+This side will be barely visible.
+Move it so it's just barely visible like this.
+Fill it in with free transform.
+You can also use the warp tool.
+And this side will also be seen very small, right?
+I'll fix this side too.
+I'll fix this side as well.
+The work process itself isn't hard, but grasping the volume well is important.
+Let me do this part the same way.
+If I do that.
+If you do it like this, you can easily rotate it.
+If you compare, it changed like this.
+If you fit this to the character now, you can give a sense of volume to the drawing effectively without spending much time.
+The method of saving a sketch drawn on the background layer is a very easy method that isn't hard at all.
+There's a method commonly known as masking, but there's an even easier method.
+Click the Channels panel.
+Hold Control and click the RGB channel preview.
+In this state, load the selection, then create a layer.
+Then just fill in the paint.
+It's been separated.
+Many people worry about how to handle the line of sight when drawing.
+There's no right answer, but I'll show you a way to draw it without being awkward.
+The pupils can move freely at my will.
+If you want to look to the right, you move to the right; if you want to look to the left, you move to the left.
+That's obvious.
+Then I just need to roll only the pupils in the direction I want to look, right?
+No.
+If you only roll your eyes, we call that a "side-eye," meaning rolling only the eyes.
+In general, when we look somewhere, our head also moves.
+You need to express that in the drawing too.
+When expressing a normal line of sight, it's good to naturally move the head along with the gaze.
+At this point, if the eyes are fixed and only the head turns, it's very awkward.
+Moving only the pupils is possible in specific situations.
+When you need emotions like primness or slyness, that is.
+In a drawing that doesn't need such emotions, you shouldn't move only the pupils.
+Let me confirm with the drawing.
+You can see that the head slightly turns along with the direction of the gaze like this.
+To give this character a prim aloofness, I didn't turn the head much.
+To express this character's slyness, I likewise didn't turn the head much.
+The eyes also deliberately try to look aloof.
+This drawing is likewise to express a slight primness, so I didn't turn the head much.
+In this drawing, the head naturally turns along with the gaze.
+Since your drawing can become clumsy from such small things, you need to draw carefully.
+Other than this, I wanted to talk about various tips, but they're all on the internet.
+So I'll show you a demonstration of drawing the back view and wrap up.
+As usual, I start with a sketch.
+When drawing the back view, especially, you need to make sure the design is clearly visible.
+So to make the sleeve edge visible, I stretched the arm out.
+But actually, I didn't draw the sleeve edge.
+Since it's not for sheet work, I only drew the body.
+Following the simplified sketch method, I draw the body roughly.
+For the sketch, I only do the minimal rendering needed.
+When designing the back view, just think of it as naturally extending the front view and draw.
+If you want to give it a twist of charm where the front and back differ, I really wouldn't stop you.
+If you think that's effective, that is.
+I keep sketching along.
+Personally, since I don't have to draw the face, I feel less burdened drawing the back view.
+And there's already a design here.
+Usually when doing sheet work, I finish the back view work in about an hour or two.
+This time, I'll do it the way I normally work.
+I won't use many layers.
+I lay down the base color.
+I'll do all the coloring on one layer.
+I'll only do simple value rendering too.
+But I shouldn't draw the hair.
+Because the back design needs to be visible.
+If the hair shape has a special design, I should draw it separately on the side.
+Now let me merge the layers and proceed.
+When I do sheet work, I draw while keeping the line as much as possible.
+That way the design shows better.
+And it takes less time.
+From here on, I'll just keep rendering.
+Since I already explained all of this, there's not much to explain.
+Think of it as a blueprint that shows the design, and paint briefly without straining.
+Through this chapter and up to now, I've shared my know-how through various demonstrations.
+I tried to share with you as much as I knew. How was it?
+It was a class for intermediate students, but I think I mainly tried to share what I wanted to.
+The content might be hard for some and already familiar for others.
+For those who found it hard, I'd say I've created goals for you to learn going forward.
+For those who already know, I hope it gave you the confidence that drawing isn't such a big deal.
+Actually, I think even a five-year-old has things you can learn from.
+There will be a difference in degree, but I don't think there's nothing to learn from this class.
+I just hope you got your money's worth for your precious cost.
+I wonder if I did too much, but whatever, it's already been filmed. If I make a new class later, please buy it again too. I'll study hard and think about whether there's anything more I can share. Thank you, everyone.
+This drawing is going to be cut off abruptly midway.
+Let me say goodbye in advance.
+In the next chapter, we'll have a talk about mindset, like mind maps, and a Q&A session.
+Good work, everyone.

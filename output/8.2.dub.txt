@@ -1,0 +1,159 @@
+[00:00:05,934 | 00:00:08,119 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:08,120 | 00:00:12,200 | 4s] This time, let's talk about surviving as a professional.
+[00:00:12,201 | 00:00:15,560 | 3s] Usually, a person who gets paid for their work is called a professional.
+[00:00:15,561 | 00:00:20,440 | 5s] Once drawing becomes your job rather than a hobby, of course a sense of responsibility comes with it.
+[00:00:20,441 | 00:00:21,960 | 2s] It should.
+[00:00:21,961 | 00:00:26,920 | 5s] Also, to keep from falling behind, you have to put in twice the effort of those who draw as a hobby.
+[00:00:26,921 | 00:00:31,560 | 5s] In other words, unlike when you draw as a hobby, the weight of responsibility and achievement grows.
+[00:00:31,561 | 00:00:35,400 | 4s] So some people say that drawing is most enjoyable when you leave it as a hobby.
+[00:00:36,245 | 00:00:40,880 | 5s] That's not a wrong thing to say, depending on what standard you think of "enjoyment" by.
+[00:00:40,881 | 00:00:48,480 | 8s] If you find it enjoyable to spend time drawing casually, then you'd keep it a hobby, but those of you watching this class probably won't.
+[00:00:48,481 | 00:00:53,840 | 5s] After all, this class isn't for people who draw as a hobby.
+[00:00:53,841 | 00:00:57,120 | 3s] Then responsibility and achievement would become important.
+[00:00:57,121 | 00:00:58,720 | 2s] Is that too much of a cliche?
+[00:00:58,721 | 00:01:00,880 | 2s] But there's no other way to put it.
+[00:01:02,280 | 00:01:06,040 | 4s] What is the responsibility of a professional who draws?
+[00:01:06,040 | 00:01:16,360 | 10s] Let's say A, who vaguely started drawing because she just wanted to get good at drawing, and B, who started drawing because he wanted to create game characters, are both working at the same company.
+[00:01:16,361 | 00:01:19,000 | 3s] A has no interest in the company's work.
+[00:01:19,001 | 00:01:27,320 | 8s] A wants to draw pretty, cool characters, but the higher-ups keep telling her to draw weapons and put together concept sheets.
+[00:01:27,320 | 00:01:30,561 | 3s] Annoyed by all of it, A does personal work on the sly at the company.
+[00:01:30,844 | 00:01:32,280 | 1s] Her drawing is really excellent.
+[00:01:33,559 | 00:01:42,410 | 9s] B consults with 3D modelers, effects artists, animators, and so on, and faithfully does the work assigned to him as a member of the game development team.
+[00:01:42,411 | 00:01:44,890 | 2s] He finds making the game enjoyable.
+[00:01:45,289 | 00:01:47,450 | 2s] His drawing is ordinary.
+[00:01:47,451 | 00:01:52,090 | 5s] Here, of course, B would have a sense of responsibility as a professional.
+[00:01:52,094 | 00:01:56,570 | 4s] If it were me, I'd give B a higher performance score.
+[00:01:56,571 | 00:01:59,450 | 3s] Naturally, his salary will go up.
+[00:01:59,451 | 00:02:05,530 | 6s] In the end, a professional's sense of responsibility is directly tied to money, which is the very meaning of being a professional.
+[00:02:05,531 | 00:02:14,170 | 9s] In a structure where someone commissions you, you draw for them, and you get paid, working alone as a professional is meaningless.
+[00:02:14,730 | 00:02:19,450 | 5s] Because drawing to fit the client's needs comes first.
+[00:02:19,451 | 00:02:21,530 | 2s] You can't just draw whatever you want.
+[00:02:22,940 | 00:02:28,110 | 5s] If you want to succeed by drawing only what you want to draw, you'd have to become an independent artist.
+[00:02:28,111 | 00:02:36,830 | 9s] You'd actively promote on social media, sell your work somewhere like Patreon, or hold exhibitions.
+[00:02:36,831 | 00:02:41,390 | 5s] But then why do people who just want to draw well try to get hired by game companies?
+[00:02:42,940 | 00:02:45,790 | 3s] What's your goal?
+[00:02:45,791 | 00:02:48,030 | 2s] Is it that you want to make games well?
+[00:02:48,031 | 00:02:50,750 | 3s] Is it that you want to become an artist?
+[00:02:50,751 | 00:02:56,990 | 6s] We've talked a lot about the purpose of drawing, but we've never talked about the goal.
+[00:02:56,991 | 00:03:01,790 | 5s] Actually, my goal was to become famous through my drawings and make my name known.
+[00:03:01,870 | 00:03:03,950 | 2s] Because of a certain rapper, it's gotten quite difficult.
+[00:03:05,150 | 00:03:10,590 | 5s] I was a concept artist, but when I got home, I only practiced illustration.
+[00:03:10,591 | 00:03:13,490 | 3s] The reason most of my personal work is illustrations is connected to that.
+[00:03:14,535 | 00:03:18,850 | 4s] I couldn't really say that drawing concept art was my life goal.
+[00:03:20,055 | 00:03:28,800 | 9s] I feel a bit sorry saying this to people who work hard because they genuinely love concept art, but the reason I got hired in concept art is that it was the conventional path.
+[00:03:29,765 | 00:03:41,760 | 12s] However, once I started working in a company and saw my drawings get turned into 3D, move, make sounds, have effects attached, and run around in a game, I gradually started to get interested.
+[00:03:41,761 | 00:03:47,801 | 6s] As the work grew familiar and I thought, "I'd like to release a game someday," ten years have passed doing that work.
+[00:03:48,920 | 00:04:02,010 | 13s] My story has gotten a bit long. Anyway, my goal wasn't to make my name known through games, but through drawings, so it was awkward for me to call myself a game developer.
+[00:04:02,011 | 00:04:06,250 | 4s] I think there are many people with the same concern as me.
+[00:04:06,251 | 00:04:13,530 | 7s] I know that most of the classmates taking this concept art class are aiming for game concept art.
+[00:04:13,531 | 00:04:16,570 | 3s] Those who aren't, just listen with one ear and let it go in one ear and out the other.
+[00:04:16,571 | 00:04:22,290 | 6s] Seriously think about whether you're going into game concept art because you really love making games.
+[00:04:23,855 | 00:04:27,320 | 3s] Actually, even if you think about it, not much will change.
+[00:04:27,321 | 00:04:36,840 | 10s] Because in Korea, the game industry makes far more money than other industries, and among the jobs you can get through drawing, the salary is also good.
+[00:04:38,140 | 00:04:45,390 | 7s] After about a year or two of working yourself to the bone, a time will definitely come when you feel confused about your identity as a drawing person.
+[00:04:45,391 | 00:04:52,510 | 7s] That is, whether I want to succeed as an artist or succeed as a game developer.
+[00:04:52,511 | 00:04:55,310 | 3s] What's your goal?
+[00:04:55,311 | 00:05:01,470 | 6s] If you've been studying vaguely because you wanted to draw well, from now on, think about it once.
+[00:05:01,471 | 00:05:06,350 | 5s] If you're going to be a professional, then if you intend to be a professional, you need to have a clear goal.
+[00:05:07,800 | 00:05:18,090 | 10s] The growth stages for those with a game-developer mindset will progress in order of concept artist, team lead, art director, and project director.
+[00:05:18,091 | 00:05:25,450 | 7s] Each role has different work, so you can't compare their importance, but if you're talking about the hierarchy, it'd be this order.
+[00:05:26,250 | 00:05:30,890 | 5s] The higher the position, the less often you'll draw.
+[00:05:30,891 | 00:05:34,970 | 4s] By the time you reach art director or project director, you basically don't draw anymore.
+[00:05:34,971 | 00:05:36,170 | 1s] You just give orders.
+[00:05:37,655 | 00:05:44,320 | 7s] The growth stage for those with an artist mindset would be becoming an illustrator specialist.
+[00:05:44,321 | 00:05:45,520 | 1s] It's very simple.
+[00:05:46,110 | 00:05:50,160 | 4s] And it will be a very, very hard road.
+[00:05:50,161 | 00:05:58,240 | 8s] Making money from your drawings on their own, without going through a platform or medium like games, is even harder.
+[00:05:58,241 | 00:06:02,880 | 5s] How much money have you spent in your life buying art?
+[00:06:02,881 | 00:06:06,521 | 4s] There are probably many who have never bought a piece of art.
+[00:06:06,680 | 00:06:17,320 | 11s] At most, you'd buy an illustration that's collectible in a game, buy one at an exhibition, or buy a printed illustration at a festival.
+[00:06:17,321 | 00:06:21,560 | 4s] In other words, it's hard to open a consumer's wallet under normal circumstances.
+[00:06:21,561 | 00:06:24,760 | 3s] So people step into the industry.
+[00:06:24,761 | 00:06:28,920 | 4s] There are industries like games, webtoons, and movies.
+[00:06:28,921 | 00:06:34,641 | 6s] Anyway, this illustrator profession has far less demand in the industry than concept artist.
+[00:06:35,240 | 00:06:37,960 | 3s] It's a red ocean within a red ocean.
+[00:06:37,961 | 00:06:42,920 | 5s] So usually, many people start out as a concept artist like me.
+[00:06:44,225 | 00:06:48,350 | 4s] Which path would you all choose?
+[00:06:48,351 | 00:06:52,590 | 4s] I said that drawing reasonably well isn't that hard.
+[00:06:52,591 | 00:06:55,070 | 2s] But the path as a professional is hard.
+[00:06:56,375 | 00:07:02,720 | 6s] Think about how much harder you want to work and to what level you want to rise.
+[00:07:02,721 | 00:07:09,920 | 7s] If you want to draw moderately, get a moderate salary, and live a moderate life, that's not bad either.
+[00:07:09,921 | 00:07:14,560 | 5s] I don't want to weigh in on your subjective happiness.
+[00:07:14,561 | 00:07:21,840 | 7s] If you want to rise to a higher level and compete with people in the top ranks, then a rugged path unfolds again.
+[00:07:23,130 | 00:07:29,420 | 6s] From here on, the difference in achievement will determine your value as a professional.
+[00:07:29,421 | 00:07:39,340 | 10s] As a concept artist, the best achievement would be the game or movie you're like the concept for becoming a success in the entertainment market.
+[00:07:40,330 | 00:07:50,860 | 11s] As an art artist, I think the best achievement would be communicating directly with consumers and being recognized, without going through an entertainment medium.
+[00:07:50,861 | 00:07:51,861 | 1s] Communication and recognition.
+[00:07:52,340 | 00:07:55,741 | 3s] I said earlier that I focus on raising your value.
+[00:07:56,235 | 00:08:03,380 | 7s] But I can only show you the way; to raise your value, it's important to promote yourself.
+[00:08:03,381 | 00:08:07,780 | 4s] You have to publicize your drawings and let people know that you worked on the concept art.
+[00:08:08,480 | 00:08:11,300 | 3s] No one is going to package you for free.
+[00:08:11,301 | 00:08:14,980 | 4s] You need to focus on packaging yourself well and raising your value.
+[00:08:16,020 | 00:08:20,500 | 4s] That's why I actively encourage artists to be active on social media.
+[00:08:21,520 | 00:08:23,680 | 2s] Don't draw in hiding.
+[00:08:23,681 | 00:08:34,720 | 11s] Professionals in other creative fields use every means available to promote themselves, but artists in particular tend to draw in hiding.
+[00:08:34,721 | 00:08:37,440 | 3s] You say doing your job well at the company is enough?
+[00:08:37,441 | 00:08:40,320 | 3s] The company doesn't care about your value.
+[00:08:40,321 | 00:08:42,559 | 2s] You have to survive on your own.
+[00:08:42,560 | 00:08:45,600 | 3s] I'm absolutely not saying to be negligent about your company work.
+[00:08:45,601 | 00:08:48,320 | 3s] You have to separate your studies from your life.
+[00:08:48,321 | 00:08:49,440 | 1s] If you're an illustrator,
+[00:08:49,555 | 00:08:58,540 | 9s] If you're a concept artist, find the time to draw personal illustrations or personal concept work and post them on social media.
+[00:08:58,541 | 00:09:02,580 | 4s] That'll promote you automatically and raise your value.
+[00:09:06,940 | 00:09:10,350 | 3s] I've been talking about theories quite broadly.
+[00:09:10,351 | 00:09:13,390 | 3s] Let me also talk about something a bit more blunt.
+[00:09:13,439 | 00:09:17,310 | 4s] The subtitle of this session is how to survive as a professional, right?
+[00:09:17,311 | 00:09:19,230 | 2s] What does it mean to be "alive"?
+[00:09:19,231 | 00:09:22,870 | 4s] It means a state where you're exercising influence.
+[00:09:23,100 | 00:09:25,470 | 2s] Why do you need to survive?
+[00:09:25,471 | 00:09:32,190 | 7s] Well, there are nice words like "duty" and the like, but what modern society needs most and what really hits home is money.
+[00:09:32,191 | 00:09:35,710 | 4s] It's about making a living, so how much do professionals actually earn?
+[00:09:35,735 | 00:09:40,030 | 4s] Let me talk about how much you earn on which path.
+[00:09:40,031 | 00:09:43,870 | 4s] I'm in the game industry, so I'll tell you based on the game industry.
+[00:09:45,125 | 00:09:54,041 | 9s] First, if you get hired as a game concept artist, it varies by company, but the starting salary is as low as around fifteen million won per year.
+[00:09:54,080 | 00:09:58,480 | 4s] And the higher the rank and role, the more you get paid.
+[00:09:58,481 | 00:10:07,040 | 9s] In Korea, for character concept artists, the annual salary is usually capped at around eighty million to one hundred million won.
+[00:10:07,041 | 00:10:12,201 | 5s] To go above that, you have to climb to team lead, art director, or project director.
+[00:10:13,285 | 00:10:17,680 | 4s] For illustrators, I've almost never seen game companies hire them separately.
+[00:10:18,695 | 00:10:22,160 | 3s] Concept artists do it in parallel, or something like that.
+[00:10:22,161 | 00:10:25,920 | 4s] So you can consider the salary level to be the same.
+[00:10:25,921 | 00:10:30,880 | 5s] However, if you work as a freelancer, the cost side is different.
+[00:10:30,881 | 00:10:50,970 | 20s] Usually, concept artists price their work around one million to two and a half million won per concept, while illustrations have a huge range, from a million won per piece up to over ten million, depending on the workload and the artist's value.
+[00:10:50,971 | 00:10:54,250 | 3s] As a freelancer, where do you get your commissions from?
+[00:10:54,251 | 00:10:57,050 | 3s] You hear talk about connections a lot.
+[00:10:57,051 | 00:11:00,810 | 4s] Like that saying that getting a job is all about connections, that kind of talk.
+[00:11:00,811 | 00:11:03,050 | 2s] I'm kind of an introvert, so I don't have connections.
+[00:11:03,051 | 00:11:07,770 | 5s] In my case, I was contacted almost entirely through social media.
+[00:11:07,771 | 00:11:09,850 | 2s] I said it's important to promote yourself.
+[00:11:10,640 | 00:11:15,940 | 5s] Diligently post your drawings on your social media, like arranging flowers in a vase.
+[00:11:15,941 | 00:11:24,020 | 8s] Once your portfolio flower bouquet becomes beautiful, the bees and butterflies will come carrying money pollen.
+[00:11:24,021 | 00:11:28,580 | 5s] If you do freelance work, the speed of your hands also becomes incredibly important.
+[00:11:28,581 | 00:11:32,500 | 4s] Because if your work speed is fast, you can take on more commissions in the same amount of time.
+[00:11:34,070 | 00:11:46,680 | 13s] If you're an illustrator, you can post your unreleased works on a crowdfunding site like Patreon and get support, or post work videos on YouTube to earn income.
+[00:11:46,681 | 00:11:54,360 | 8s] The range is enormous, from people who are famous like celebrities to people who have no supporters at all.
+[00:11:54,361 | 00:12:01,560 | 7s] You have to pay attention not just to the art, but also to fan management, video management, and many other elements.
+[00:12:01,561 | 00:12:02,600 | 1s] I haven't done it, so
+[00:12:02,720 | 00:12:09,561 | 7s] I don't fully understand that effort, but just drawing is already hard enough, so I think it's amazing.
+[00:12:10,545 | 00:12:14,010 | 3s] If you have the ability, you could also teach.
+[00:12:14,011 | 00:12:20,131 | 6s] There are offline classes, and after the COVID pandemic, online classes have become the trend.
+[00:12:20,545 | 00:12:23,180 | 3s] This is an industry secret, so don't spread it around.
+[00:12:23,181 | 00:12:32,700 | 10s] The split varies by academy, but it ranges from 60% for the academy and 40% for the instructor, to 20% for the academy and 80% for the instructor.
+[00:12:32,701 | 00:12:40,181 | 7s] Online courses are free from rent, computer and machine costs, electricity bills, and so on, so the ratio is a bit better.
+[00:12:41,320 | 00:12:44,881 | 4s] In my case, I worked as an academy instructor for about four months.
+[00:12:45,320 | 00:12:56,120 | 11s] Because I'm really bad at multitasking and not great at speaking, I don't know what the students thought of me back then, but I feel I wasn't able to teach them properly, so I'm really sorry.
+[00:12:56,121 | 00:13:00,760 | 5s] Aside from drawing skill, I think teaching ability is really important.
+[00:13:00,761 | 00:13:09,440 | 9s] In Class101, I teach by recording, so I can give you more information and demonstrations than I did in those four months, which is great.
+[00:13:11,205 | 00:13:21,600 | 10s] Anyway, people like this who speak well, draw well, and explain well don't even need to work at a company; they make a living working only at academies, earning money without being jealous of anyone.
+[00:13:21,601 | 00:13:24,080 | 2s] These days there are a lot of multi-talented people.
+[00:13:24,190 | 00:13:26,880 | 3s] Those kinds of people seem to do well.
+[00:13:26,881 | 00:13:27,881 | 1s] I'm envious.
+[00:13:28,700 | 00:13:31,230 | 3s] Learning English would also be good.
+[00:13:31,231 | 00:13:36,510 | 5s] I mainly receive commissions through ArtStation, and they all come in English.
+[00:13:36,590 | 00:13:43,031 | 6s] These days translation tools are quite good, but if you learn one foreign language, it'll be a real weapon.
+[00:13:44,150 | 00:13:48,600 | 4s] This time we talked about living your life as a professional.
+[00:13:48,601 | 00:13:52,040 | 3s] There are so, so many capable people in the world.
+[00:13:52,041 | 00:14:02,280 | 10s] Think about whether you'll compete with those people just moderately, fall behind moderately, and survive, or push forward and take the lead.
+[00:14:02,281 | 00:14:10,280 | 8s] If you want to take the lead, also think about what competitiveness you'll build compared to those people.
+[00:14:10,281 | 00:14:13,240 | 3s] What your weapon is and how you'll use it.
+[00:14:13,300 | 00:14:16,941 | 4s] I hope this becomes a chance for you to seriously think about it.
+[00:14:17,655 | 00:14:21,480 | 4s] Next time, we'll have a Q&A session.

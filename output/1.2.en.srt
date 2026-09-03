@@ -1,0 +1,231 @@
+1
+00:00:05,505 --> 00:00:06,140
+Hello.
+
+2
+00:00:06,141 --> 00:00:07,500
+I'm Sangsoo Jeong.
+
+3
+00:00:07,501 --> 00:00:13,580
+This time, I'd like to talk about what I consider an efficient working process.
+
+4
+00:00:13,581 --> 00:00:16,620
+How do you all start a picture?
+
+5
+00:00:16,621 --> 00:00:19,540
+Like a lot of people, I start with line drawing.
+
+6
+00:00:19,625 --> 00:00:22,741
+Some of you probably start with the so-called "avoid line art" approach, painting shapes directly.
+
+7
+00:00:23,020 --> 00:00:27,141
+As I said in Chapter 1, part 1, line drawing is important.
+
+8
+00:00:27,780 --> 00:00:34,300
+I firmly believe that just because you're aiming for a realistic or semi-realistic style, you should never neglect line drawing.
+
+9
+00:00:35,375 --> 00:00:51,080
+Even painters who do traditional painting, like oil or watercolor, mostly start a picture with line drawing. Just because the sketch doesn't show in the finished piece doesn't mean you should skip it and go straight to painting shapes because it's faster.
+
+10
+00:00:51,081 --> 00:00:55,880
+Here, line drawing doesn't mean cleanly inking the lines.
+
+11
+00:00:55,960 --> 00:01:02,600
+I like to do a brief sketch like this, then draw the picture. I recommend this method to you.
+
+12
+00:01:03,490 --> 00:01:06,980
+Line drawing acts as a navigator for the picture.
+
+13
+00:01:06,980 --> 00:01:14,020
+When you set a navigator and drive, line drawing lets you make fewer mistakes and draw something that actually looks like a real picture.
+
+14
+00:01:14,021 --> 00:01:18,740
+And if you go down the wrong path, you can draw a new line to correct your direction.
+
+15
+00:01:18,740 --> 00:01:23,700
+I usually do a brief sketch focused on form and silhouette.
+
+16
+00:01:23,701 --> 00:01:26,980
+Then I lay down a base color and try out the color.
+
+17
+00:01:26,981 --> 00:01:30,369
+When you've split things into layers, it's fun to test different colors.
+
+18
+00:01:31,144 --> 00:01:36,180
+After that, along with an overall light setup, I start roughly describing the form.
+
+19
+00:01:36,184 --> 00:01:40,100
+Once it's progressed a certain amount, I reduce the layers to a minimum and get into the rendering.
+
+20
+00:01:40,609 --> 00:01:48,580
+This is my basic first-pass working process, and I repeat it whenever I add things like weapons, outfits, or accessories.
+
+21
+00:01:50,839 --> 00:01:55,530
+At this first-pass stage, without the detail, you get the sense of volume and the overall mood.
+
+22
+00:01:55,929 --> 00:02:01,130
+If you shrink it down at this point, it doesn't look much different from the finished piece.
+
+23
+00:02:01,131 --> 00:02:04,890
+The difference in final quality is decided right here.
+
+24
+00:02:04,970 --> 00:02:12,570
+The reason this is efficient is that you can quickly nail the silhouette and mood without worrying about fine details.
+
+25
+00:02:13,164 --> 00:02:18,010
+If you do this first pass well, adding detail later feels less burdensome.
+
+26
+00:02:18,011 --> 00:02:19,370
+Because the foundation is solid.
+
+27
+00:02:19,924 --> 00:02:23,671
+And it's easy to fix if the detail you've stacked up doesn't sit right.
+
+28
+00:02:24,790 --> 00:02:31,400
+Imagine sketching and working on every detail all at once: accessories, patterns, weapons, everything.
+
+29
+00:02:31,401 --> 00:02:34,840
+It's hard to get the overall volume, and hard to fix things.
+
+30
+00:02:34,841 --> 00:02:41,480
+The design, which you should keep flexibly adjusting and refining as you work, gets trapped inside the sketch.
+
+31
+00:02:41,481 --> 00:02:48,280
+If the work is commission-based, whether company work, freelance, or commissions, this becomes an even bigger problem.
+
+32
+00:02:48,281 --> 00:02:52,600
+Because you often have to adjust the picture to fit the client's design.
+
+33
+00:02:53,260 --> 00:03:00,540
+If you do a solid base first pass, you can branch out in many directions, so the burden is much lighter.
+
+34
+00:03:00,541 --> 00:03:05,580
+In concept art, a first pass that lets you branch in many directions has lots of benefits.
+
+35
+00:03:05,581 --> 00:03:08,780
+You can quickly show a design mood with the first pass alone.
+
+36
+00:03:09,559 --> 00:03:13,340
+You can try out lots of design options, like playing from selection.
+
+37
+00:03:13,740 --> 00:03:16,940
+If the job needs variations, it also cuts down your working time.
+
+38
+00:03:17,640 --> 00:03:21,381
+Design with accurate form and volume communicates well.
+
+39
+00:03:21,960 --> 00:03:25,240
+So how much should you sketch?
+
+40
+00:03:25,241 --> 00:03:29,320
+I'll cover that in a later chapter, but let me touch on it briefly.
+
+41
+00:03:29,321 --> 00:03:31,720
+I usually do a very simple sketch.
+
+42
+00:03:32,230 --> 00:03:35,361
+The minimum sketch needed to support the form.
+
+43
+00:03:35,670 --> 00:03:38,600
+Sometimes I don't even draw the eyes, nose, or mouth.
+
+44
+00:03:38,601 --> 00:03:45,320
+But that's only to save time. I recommend sketching a bit more precisely, even if it's brief.
+
+45
+00:03:45,321 --> 00:03:48,600
+I'm not talking about detail in the sketch itself.
+
+46
+00:03:48,601 --> 00:03:52,700
+In my process, detail is added in the later stages.
+
+47
+00:03:52,701 --> 00:03:57,980
+The sketch focuses on accurate form and silhouette rather than detail.
+
+48
+00:03:57,981 --> 00:04:00,620
+Start big, finish detailed.
+
+49
+00:04:00,621 --> 00:04:04,060
+That's a statement that runs through the whole process.
+
+50
+00:04:04,061 --> 00:04:08,220
+Rendering body muscles, you also start from the big and move to the small.
+
+51
+00:04:08,221 --> 00:04:11,740
+Start with a big brush and finish with a small brush.
+
+52
+00:04:11,820 --> 00:04:15,420
+You decide the big framework of the design and then think about fine detail.
+
+53
+00:04:16,020 --> 00:04:19,621
+Catch the big flow first, then draw the fine bits.
+
+54
+00:04:19,990 --> 00:04:21,480
+Always remember.
+
+55
+00:04:21,481 --> 00:04:23,880
+Start big, finish detailed.
+
+56
+00:04:23,960 --> 00:04:26,721
+That will make your work efficient.
+
+57
+00:04:27,400 --> 00:04:32,040
+This time, we talked about an efficient working process.
+
+58
+00:04:32,041 --> 00:04:38,520
+Next time, before we get into the real work, we'll look at setting up your working environment and the brushes I use.

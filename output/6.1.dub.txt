@@ -1,0 +1,189 @@
+[00:00:05,689 | 00:00:07,820 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:07,821 | 00:00:13,100 | 5s] This time, let's learn about a method of adding shadows that brings out liveliness.
+[00:00:14,360 | 00:00:21,370 | 7s] The reason I made a separate detailed lecture about shadows alone is that I value shadows very highly when I work.
+[00:00:22,725 | 00:00:26,240 | 4s] Shall we start by learning the definition of shadow?
+[00:00:26,241 | 00:00:29,120 | 3s] Here's the dictionary definition.
+[00:00:29,280 | 00:00:29,920 | 1s] It's simple.
+[00:00:30,080 | 00:00:35,680 | 6s] The part that appears dark because light is blocked and cut off by an object is called a shadow.
+[00:00:35,681 | 00:00:39,001 | 3s] Depending on the type of light, the appearance of the shadow can change.
+[00:00:40,285 | 00:00:41,480 | 1s] Let me give an example.
+[00:00:41,529 | 00:00:43,320 | 2s] You can largely divide it into three types.
+[00:00:44,855 | 00:00:50,720 | 6s] Light with direct travel, like sunlight, has a clear shadow boundary.
+[00:00:52,485 | 00:00:53,600 | 1s] We learned about that in Chapter 3.
+[00:00:56,080 | 00:00:57,080 | 1s] This one.
+[00:00:58,360 | 00:01:05,370 | 7s] For diffusely reflected scattered light, the shadow boundary can blur depending on how scattered it is.
+[00:01:05,371 | 00:01:10,490 | 5s] Sunlight that passed through clouds, or light reflected off a surface that undergoes diffuse reflection, are examples.
+[00:01:12,175 | 00:01:19,360 | 7s] And third, if the object and the object the shadow lands on are far apart, the shadow can blur too.
+[00:01:21,529 | 00:01:27,861 | 6s] Even when there are multiple light sources, like a light fixture with several bulbs, they overlap and can blur.
+[00:01:29,534 | 00:01:36,810 | 7s] In the case of type two, you can't produce a clear shadow, so I don't use it much in my drawings.
+[00:01:36,811 | 00:01:43,290 | 6s] So I mainly use the characteristics of types one and three.
+[00:01:43,291 | 00:01:47,290 | 4s] In this lesson, you'll learn how to draw this shadow in actual practice.
+[00:01:48,570 | 00:01:52,540 | 4s] What method should you use to add shadows?
+[00:01:52,541 | 00:01:54,060 | 2s] Let me draw a cube.
+[00:01:54,625 | 00:01:57,740 | 3s] Then decide the position of the light source.
+[00:01:57,741 | 00:02:04,860 | 7s] Imagine light coming from very far away, at a slight diagonal angle from the direct side.
+[00:02:04,860 | 00:02:08,501 | 4s] Think of it as sunlight, very far outside the frame.
+[00:02:09,685 | 00:02:14,780 | 5s] Following the vertex where the shadow forms, draw the light's angle.
+[00:02:19,959 | 00:02:24,410 | 4s] And following the floor point, draw the light's direction.
+[00:02:26,109 | 00:02:30,921 | 5s] Mark a point where the direction line and the angle line meet.
+[00:02:32,970 | 00:02:40,851 | 8s] And connect them, and you can indicate the shape of the shadow.
+[00:02:44,325 | 00:02:49,360 | 5s] What if the light comes not from the direct side, but a bit from the front?
+[00:02:49,361 | 00:02:53,401 | 4s] Draw the light's angle the same way, and draw the light's direction.
+[00:02:54,589 | 00:02:59,481 | 5s] The direction line passing through the vertices on each corner.
+[00:03:02,329 | 00:03:05,660 | 3s] And mark the point where the angle line meets.
+[00:03:18,415 | 00:03:21,541 | 3s] Connect them, and you can draw the shadow shape the same way.
+[00:03:25,665 | 00:03:29,020 | 3s] What if the light source is inside the frame?
+[00:03:29,021 | 00:03:34,620 | 6s] Drop a vertical line from the light source to determine its position.
+[00:03:34,621 | 00:03:37,260 | 3s] Mark the floor point like this.
+[00:03:37,310 | 00:03:41,461 | 4s] Think of determining the height and position of a streetlight.
+[00:03:41,950 | 00:03:45,461 | 4s] Since the streetlight is behind, the shadow will be in front, right?
+[00:03:46,195 | 00:03:48,300 | 2s] Indicate the light source's angle.
+[00:03:52,829 | 00:03:56,921 | 4s] Since the light source is close, the angles aren't parallel.
+[00:03:57,910 | 00:04:01,521 | 4s] Draw them radially, starting from the light source.
+[00:04:02,549 | 00:04:05,240 | 3s] The direction is the same.
+[00:04:05,241 | 00:04:06,760 | 2s] Starting from the floor point.
+[00:04:08,149 | 00:04:11,480 | 3s] Draw them radially.
+[00:04:11,481 | 00:04:15,441 | 4s] Then mark points and connect them the same way.
+[00:04:16,305 | 00:04:19,891 | 4s] It's gotten a bit more complex, but it's drawable.
+[00:04:20,510 | 00:04:23,200 | 3s] What if one more light source is added?
+[00:04:23,201 | 00:04:24,960 | 2s] Draw it the same way.
+[00:04:33,155 | 00:04:34,590 | 1s] Add one more streetlight.
+[00:04:34,591 | 00:04:36,350 | 2s] Draw the angles and directions.
+[00:04:38,640 | 00:04:44,681 | 6s] Mark points, connect them, and it can be drawn like this.
+[00:04:46,070 | 00:04:51,320 | 5s] The part blocked by both light sources will be the darkest, of course.
+[00:04:53,975 | 00:04:58,480 | 5s] What happens if perspective is applied here too?
+[00:04:58,640 | 00:05:04,160 | 6s] A vanishing point forms for the light source, and a vanishing point forms for the shadow's direction too.
+[00:05:05,765 | 00:05:08,160 | 2s] My head really starts to hurt.
+[00:05:08,161 | 00:05:11,321 | 3s] And on top of that, we're doing this with a cube right now.
+[00:05:11,360 | 00:05:14,681 | 3s] A character isn't made of cubes.
+[00:05:14,960 | 00:05:18,601 | 4s] The clothing or body on which shadows form aren't flat planes either.
+[00:05:18,950 | 00:05:22,800 | 4s] Just because you've figured out this construction method, can you apply it to a drawing?
+[00:05:25,695 | 00:05:33,690 | 8s] This shadow construction method, of drawing the light's angle lines and direction lines that we've done so far, is completely useless in actual practice.
+[00:05:35,480 | 00:05:37,690 | 2s] Then why did I draw all this?
+[00:05:37,691 | 00:05:39,770 | 2s] Well, it was to say that I at least know it.
+[00:05:41,340 | 00:05:46,590 | 5s] In all my years of drawing, I've never once constructed shadow with angle lines like this.
+[00:05:46,750 | 00:05:52,030 | 5s] Drawing shadows with construction on a character key art is practically impossible.
+[00:05:52,031 | 00:05:57,550 | 6s] For a background key art, maybe, but when drawing a character picture, I think it's completely worthless.
+[00:05:57,551 | 00:06:01,950 | 4s] Let me just touch on the theory briefly and get to the real subject.
+[00:06:01,951 | 00:06:22,270 | 20s] I especially find it useful to think of a picture as three-dimensional in my head when drawing shadows.
+[00:06:22,271 | 00:06:23,790 | 2s] Let me bring back the cube.
+[00:06:23,900 | 00:06:26,030 | 2s] Then decide the direction of the light.
+[00:06:27,580 | 00:06:31,191 | 4s] Then try making this into 3D in your head.
+[00:06:31,640 | 00:06:36,130 | 4s] For explanation, I've visualized it in 3D.
+[00:06:38,110 | 00:06:39,920 | 2s] We learned the definition of shadow, right?
+[00:06:40,240 | 00:06:43,840 | 4s] I said it's the part that gets dark because light is blocked by an object.
+[00:06:44,590 | 00:06:48,361 | 4s] Let me think about the blocked part of this cube.
+[00:06:48,400 | 00:06:50,400 | 2s] When viewed from the direction the light comes from.
+[00:06:52,625 | 00:06:56,770 | 4s] The part of the cube that's hidden is the shadow.
+[00:07:00,270 | 00:07:10,110 | 10s] Coming back to the picture with this, I'll mark this hidden part.
+[00:07:27,480 | 00:07:29,320 | 2s] The shadow is complete.
+[00:07:29,485 | 00:07:31,320 | 2s] You might feel this is hard.
+[00:07:31,321 | 00:07:33,160 | 2s] But it's not hard.
+[00:07:33,161 | 00:07:38,680 | 6s] The reason it feels hard is the thought of, can I really express that accurately?
+[00:07:38,681 | 00:07:43,800 | 5s] This method is, of course, far less accurate than when you constructed it.
+[00:07:43,801 | 00:07:50,001 | 6s] Especially the more angular and simple the shape, the more the shadow-forming part is flat, the less accurate it seems.
+[00:07:51,550 | 00:07:58,720 | 7s] In character key art, many shapes of various forms are freely tangled together, so even if it's not quite accurate, it's not a flaw.
+[00:08:00,120 | 00:08:04,451 | 4s] I don't know if this'll be a good example, but when doing hard-surface rendering.
+[00:08:05,235 | 00:08:13,900 | 9s] Rather than this block-letter style, cursive is better. In block letters, if someone makes a mistake, it shows a lot, but in cursive, it shows less.
+[00:08:15,230 | 00:08:19,360 | 4s] As an example, I wrote something in card-style lettering.
+[00:08:19,361 | 00:08:30,201 | 11s] Swapping a few cards here, the block letters get weird, whereas this free-spirited writing doesn't show the gaps even after swapping a few cards.
+[00:08:32,890 | 00:08:34,299 | 1s] Think of it simply.
+[00:08:34,769 | 00:08:41,100 | 6s] It's fine even if it's off a little bit here and there.
+[00:08:45,405 | 00:08:46,600 | 1s] Really.
+[00:08:46,601 | 00:08:48,520 | 2s] At least, I've done it this way.
+[00:08:53,530 | 00:08:54,780 | 1s] Let me do one more.
+[00:08:54,835 | 00:08:56,620 | 2s] This time not with a cube.
+[00:08:57,850 | 00:09:01,260 | 3s] Let me do it with a sphere and a cone shape.
+[00:09:01,261 | 00:09:02,540 | 1s] Decide the direction of the light.
+[00:09:04,915 | 00:09:08,380 | 3s] Try making it 3D in your head.
+[00:09:08,381 | 00:09:11,020 | 3s] Let me show what that looks like in a drawing.
+[00:09:14,910 | 00:09:20,000 | 5s] There's a floor like this, and there's a sphere like this.
+[00:09:20,001 | 00:09:21,600 | 2s] And a cone shape.
+[00:09:26,270 | 00:09:34,270 | 8s] It'd be positioned like this.
+[00:09:34,271 | 00:09:36,030 | 2s] Now find the hidden part.
+[00:09:45,130 | 00:09:52,970 | 8s] Here, this part, and the floor surface.
+[00:10:07,130 | 00:10:09,820 | 3s] It can be expressed like this.
+[00:10:09,821 | 00:10:11,260 | 1s] Now if I paint here.
+[00:10:41,719 | 00:10:42,720 | 1s] The shadow will be complete, right?
+[00:10:42,721 | 00:10:46,361 | 4s] Let me do it once more, assuming the floor isn't flat.
+[00:10:46,450 | 00:10:48,850 | 2s] Use the same method.
+[00:10:48,851 | 00:10:54,450 | 6s] Imagine the view from the direction the light comes, grasp the shadow's position.
+[00:10:57,400 | 00:10:58,400 | 1s] Then draw.
+[00:11:18,280 | 00:11:21,811 | 4s] If I paint here, the shadow's complete, right?
+[00:11:38,645 | 00:11:41,760 | 3s] Even just seventy percent accuracy is good enough.
+[00:11:41,761 | 00:11:47,920 | 6s] What's the advantage of this method? You can look at the picture three-dimensionally.
+[00:11:47,921 | 00:11:52,041 | 4s] Because the step of forming it into 3D in your head is essential.
+[00:11:52,590 | 00:11:57,120 | 5s] Your ability to grasp form and create volume can only improve.
+[00:12:03,710 | 00:12:06,190 | 2s] Shall we get into the real thing?
+[00:12:06,191 | 00:12:08,430 | 2s] This time, I'll mark the shadow on a face.
+[00:12:08,431 | 00:12:11,070 | 3s] I've drawn a face for the demo.
+[00:12:11,071 | 00:12:16,270 | 5s] Constructing and drawing shadows on a complex face shape like this would be hard, right?
+[00:12:16,271 | 00:12:19,751 | 3s] I'll draw the shadow the way I recommend.
+[00:12:20,670 | 00:12:26,080 | 5s] After deciding the light direction, I drew the view from the direction the light comes.
+[00:12:30,085 | 00:12:35,520 | 5s] This view from the light direction, of course, there's no need to draw it in actual practice.
+[00:12:36,160 | 00:12:38,960 | 3s] Because you can form it in your head.
+[00:12:39,010 | 00:12:41,120 | 2s] I drew it to explain.
+[00:12:41,121 | 00:12:44,761 | 4s] It's hard at first, but I really hope you'll master it.
+[00:12:44,960 | 00:12:46,160 | 1s] It's really, really useful.
+[00:12:50,480 | 00:12:59,481 | 9s] Let me identify and mark the hidden parts.
+[00:13:30,449 | 00:13:31,450 | 1s] This side of the face is almost entirely hidden.
+[00:13:31,451 | 00:13:32,451 | 1s] Under the lip too.
+[00:13:33,800 | 00:13:41,320 | 8s] Likely hidden.
+[00:13:41,321 | 00:13:42,321 | 1s] And this part here.
+[00:13:43,830 | 00:13:46,760 | 3s] You can see this part, so I'll mark it.
+[00:13:51,760 | 00:13:59,360 | 8s] The philtrum will be partially hidden too.
+[00:13:59,361 | 00:14:01,440 | 2s] This side of the lip is almost invisible.
+[00:14:07,760 | 00:14:12,960 | 5s] The opposite lip is invisible too.
+[00:14:12,961 | 00:14:15,680 | 3s] The lower lip will be hidden too.
+[00:14:30,510 | 00:14:37,790 | 7s] I'll also express the sternocleidomastoid here.
+[00:14:37,791 | 00:14:38,791 | 1s] Like this.
+[00:14:59,960 | 00:15:07,960 | 8s] You can see this part.
+[00:15:07,961 | 00:15:09,960 | 2s] And the other side is almost entirely hidden.
+[00:15:16,360 | 00:15:24,360 | 8s] For the neck, only this part is visible.
+[00:15:24,361 | 00:15:26,040 | 2s] This opposite side is hidden too.
+[00:15:29,100 | 00:15:30,100 | 1s] Right?
+[00:15:32,595 | 00:15:35,740 | 3s] The forehead will only be visible up to here.
+[00:15:38,750 | 00:15:41,200 | 2s] Like this.
+[00:15:41,201 | 00:15:46,640 | 5s] Now, just painting only these marked parts dark will make a surprisingly decent face come out.
+[00:16:52,510 | 00:16:54,990 | 2s] Let me duplicate and darken it.
+[00:17:09,444 | 00:17:13,271 | 4s] Now, even just merging this and doing some blending.
+[00:17:32,679 | 00:17:33,680 | 1s] It'll look decent.
+[00:17:33,681 | 00:17:36,800 | 3s] Now if I add more detailed value.
+[00:17:39,605 | 00:17:41,070 | 1s] The face rendering is complete.
+[00:18:18,274 | 00:18:19,274 | 1s] Not hard, right?
+[00:18:28,804 | 00:18:32,160 | 3s] Let me try once more with a different light direction.
+[00:18:43,339 | 00:18:47,210 | 4s] It's a commonly used light direction.
+[00:18:47,290 | 00:18:49,210 | 2s] Let's do it the same way.
+[00:18:59,204 | 00:19:00,560 | 1s] The light is coming from this side.
+[00:19:27,200 | 00:19:28,200 | 1s] If you do that.
+[00:20:57,669 | 00:21:00,000 | 2s] Duplicate and darken.
+[00:21:31,679 | 00:21:32,680 | 1s] Likewise, do some blending too.
+[00:21:32,681 | 00:21:36,040 | 3s] Let me also add some detailed value.
+[00:22:04,994 | 00:22:07,710 | 3s] Here, this part was missed.
+[00:22:07,711 | 00:22:08,711 | 1s] Let me add it in.
+[00:22:26,914 | 00:22:35,390 | 8s] You can add the face shadow easily.
+[00:22:35,391 | 00:22:38,791 | 3s] There's something to be careful about when expressing shadows.
+[00:22:39,100 | 00:22:46,110 | 7s] Assuming there's one light, even if the hidden parts overlap, you shouldn't draw the shadows overlapping.
+[00:22:46,111 | 00:22:56,510 | 10s] For example, adding the shadow caused by this box onto the shadow caused by a marble, the shadows shouldn't overlap like this.
+[00:22:58,999 | 00:23:00,090 | 1s] It should be like this.
+[00:23:01,584 | 00:23:06,890 | 5s] Also, you should refrain from drawing shadows using a multiply layer.
+[00:23:12,330 | 00:23:20,330 | 8s] Shadows aren't multiplied on top of light.
+[00:23:20,330 | 00:23:24,490 | 4s] Since we're not computers, being moderately accurate is good enough.
+[00:23:24,491 | 00:23:30,611 | 6s] Let me apply shadows to the picture we drew in Chapter 5, using what we've learned.
+[00:24:20,629 | 00:24:24,241 | 4s] I'll indicate the outline of the shadow with line drawing.
+[00:24:53,884 | 00:24:57,761 | 4s] I'll express the shadow in line with the indicated line drawing.
+[00:25:10,009 | 00:25:13,820 | 4s] I said I value shadows.
+[00:25:14,944 | 00:25:18,341 | 3s] Because I value light and want to handle it well.
+[00:25:20,189 | 00:25:24,960 | 5s] Just because you paint light into a picture doesn't mean light actually comes out.
+[00:25:24,961 | 00:25:32,960 | 8s] If your picture doesn't feel lit, don't paint light on using a dodge or layer property. Try finding the darkness instead.
+[00:25:34,459 | 00:25:39,070 | 5s] Just as darkness has presence because light exists, light has presence because darkness exists.
+[00:25:40,109 | 00:25:43,671 | 4s] You can know light exists because of shadow.
+[00:25:45,659 | 00:25:51,070 | 5s] When designing too, there has to be a simple part for the detailed part to shine.
+[00:25:51,071 | 00:25:54,910 | 4s] In a field of blue roses, a single red rose catches your eye.
+[00:25:57,344 | 00:26:00,540 | 3s] The elements of a picture are always relative.
+[00:26:00,541 | 00:26:03,861 | 3s] I hope you'll keep that in mind and work.
+[00:26:35,929 | 00:26:38,590 | 3s] I spent about ten minutes adding shadows.
+[00:26:39,069 | 00:26:40,350 | 1s] Let me compare.
+[00:26:43,254 | 00:26:46,441 | 3s] Even though I hardly spent any time, the three-dimensionality is more alive.
+[00:26:49,309 | 00:26:52,880 | 4s] We've learned about shadows up to this point.
+[00:26:52,880 | 00:26:57,280 | 4s] Next time, let's look at a method of drawing that brings out the material of the picture.

@@ -1,0 +1,151 @@
+[00:00:05,474 | 00:00:07,710 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:07,710 | 00:00:10,590 | 3s] Last time, we did the sketch of the concept art.
+[00:00:11,020 | 00:00:14,390 | 3s] This time, let's begin the coloring.
+[00:00:14,895 | 00:00:18,200 | 3s] First, here's the sketch I worked on last time.
+[00:00:18,201 | 00:00:22,001 | 4s] And I've tidied up and modified the sketch a bit.
+[00:00:22,200 | 00:00:28,520 | 6s] Since I'm the type to keep worrying once something sticks in my mind, I often fix the picture as I draw.
+[00:00:28,521 | 00:00:32,759 | 4s] Something subtly bothered me, so I made corrections here and there.
+[00:00:32,760 | 00:00:35,921 | 3s] I'll explain the reasons for the corrections before I start.
+[00:00:36,390 | 00:00:42,680 | 6s] First, I turned the body slightly and gave it a bit more overall perspective.
+[00:00:42,681 | 00:00:44,680 | 2s] It was too front-facing, so it looked less interesting.
+[00:00:44,930 | 00:00:48,260 | 3s] It's not a big correction, just overall.
+[00:00:53,530 | 00:00:54,860 | 1s] I gave it perspective like this.
+[00:00:59,159 | 00:01:00,220 | 1s] The front shoulder here.
+[00:01:02,085 | 00:01:07,840 | 6s] I raised it a little and lowered the legs a bit, a simple correction.
+[00:01:08,589 | 00:01:10,960 | 2s] Refer back to Chapter 4 for this.
+[00:01:13,589 | 00:01:16,600 | 3s] This clothing part, whether it's a coat or a gown.
+[00:01:17,979 | 00:01:23,230 | 5s] In the previous sketch, it seemed to lack some three-dimensionality, so I raised the collar.
+[00:01:25,179 | 00:01:29,790 | 5s] That way, I made it a more realistic clothing piece.
+[00:01:29,791 | 00:01:35,070 | 5s] This clothing is set to be fixed to the arm here so it doesn't fall down.
+[00:01:37,109 | 00:01:49,281 | 12s] And these translucent panels, instead of covering everything, I made them cover sparsely, to bring out a bit more of a random, fresh feel.
+[00:01:50,574 | 00:01:57,921 | 7s] And the clothing was too reminiscent of a plug suit from Evangelion, so I modified it a bit.
+[00:01:58,914 | 00:02:03,630 | 5s] And I removed these elements from the clothing.
+[00:02:03,631 | 00:02:07,230 | 4s] Once coloring progresses, the volume of the clothing will be determined.
+[00:02:07,230 | 00:02:11,431 | 4s] I judged that it'd be better to work on top of that.
+[00:02:11,899 | 00:02:16,590 | 5s] When adding patterns to clothing, I tend to consider the clothing's volume.
+[00:02:16,591 | 00:02:22,311 | 6s] In concept art work, due to time constraints, I sometimes unavoidably compose patterns flatly.
+[00:02:25,340 | 00:02:33,340 | 8s] For example, like this.
+[00:02:33,341 | 00:02:37,500 | 4s] You'd draw it like projecting a beam onto a curtain, without considering the clothing folds.
+[00:02:38,225 | 00:02:44,060 | 6s] It's very convenient and quick to work, but the volume somewhat decreases.
+[00:02:44,730 | 00:02:49,900 | 5s] Since this is a personal piece and a demo, I'll draw it while bringing out the volume.
+[00:02:52,444 | 00:02:56,490 | 4s] With a few elements reduced, it even feels simpler.
+[00:02:56,491 | 00:02:59,130 | 3s] I really like very simple designs.
+[00:02:59,131 | 00:03:03,011 | 4s] Putting aside whether it looks good, it's easy to draw.
+[00:03:04,224 | 00:03:06,990 | 3s] I still don't draw with references up.
+[00:03:06,991 | 00:03:11,550 | 5s] Right now, I need the process of envisioning my design and organizing it in my head.
+[00:03:12,760 | 00:03:18,291 | 6s] Honestly, I wanted to sketch perfectly and then color, but I'll just start at about this level.
+[00:03:18,650 | 00:03:24,451 | 6s] I thought it'd be better to show you the way I actually work in practice.
+[00:03:24,575 | 00:03:28,131 | 4s] And I'll try to refrain from speeding up the video as much as possible.
+[00:03:28,250 | 00:03:33,651 | 5s] I have the thought that I should keep talking, so I was going to speed up the parts where I'm not talking.
+[00:03:33,695 | 00:03:35,690 | 2s] But seeing is more important than talking, right?
+[00:03:38,095 | 00:03:39,800 | 2s] I've divided the layers like this.
+[00:03:40,149 | 00:03:43,841 | 4s] The more it's a top-covering element, the higher I put the layer.
+[00:03:45,954 | 00:03:51,950 | 6s] At the very back, there's the coat tail and the hair, and on top of that is the skin layer.
+[00:03:54,364 | 00:03:58,360 | 4s] There are clothing layers one and two.
+[00:03:58,361 | 00:04:00,120 | 2s] On top of that, there's the front coat tail.
+[00:04:03,825 | 00:04:07,450 | 4s] And the collar is on top of that.
+[00:04:09,445 | 00:04:13,520 | 4s] I've grouped the details here separately.
+[00:04:13,521 | 00:04:17,360 | 4s] When I turn on the details, I'll work with it temporarily off.
+[00:04:17,361 | 00:04:24,320 | 7s] I'll flexibly merge and expand these layers, but I won't explain every time.
+[00:04:29,690 | 00:04:32,860 | 3s] First, let me set the base color.
+[00:04:32,861 | 00:04:34,300 | 1s] It's good to try various things.
+[00:04:36,790 | 00:04:39,640 | 3s] Since I decided to mainly use a blue tone.
+[00:04:41,150 | 00:04:45,560 | 4s] I'll draw within a range that doesn't deviate from this.
+[00:04:59,425 | 00:05:03,900 | 4s] There's a game where you can freely change the color scheme of clothing.
+[00:05:03,901 | 00:05:08,620 | 5s] Like My Hero's Academia, or La Vie en Rose Rock... well, games like that.
+[00:05:08,621 | 00:05:12,780 | 4s] Even with the same clothing, just changing the color creates uniqueness.
+[00:05:12,781 | 00:05:16,380 | 4s] I think it's a really fun and good concept.
+[00:05:16,381 | 00:05:19,580 | 3s] We can do that while drawing.
+[00:05:19,581 | 00:05:22,821 | 3s] Since the layers are separated, we can change them easily.
+[00:06:04,690 | 00:06:09,280 | 5s] I'll apply broadly until a color I like comes out.
+[00:06:17,980 | 00:06:23,320 | 5s] Since you can subtly change it as you draw, it's no big deal.
+[00:06:24,835 | 00:06:27,710 | 3s] I don't think you need to overthink it.
+[00:06:33,610 | 00:06:41,050 | 7s] Well, let me decide on this as a moderate pick.
+[00:06:41,051 | 00:06:42,730 | 2s] First, I have to set up the light.
+[00:06:42,760 | 00:06:52,570 | 10s] I'll use my typical light setup: strong key light from the right, and a soft fill light from the opposite side.
+[00:06:54,410 | 00:06:57,690 | 3s] Let me first paint the clothing, the largest area.
+[00:06:59,660 | 00:07:04,380 | 5s] It's a desaturated bright color, so it's a hard color to handle.
+[00:07:04,381 | 00:07:11,381 | 7s] It's good to paint it moderately dark so the volume shows, but it can't be too dark.
+[00:07:12,080 | 00:07:19,161 | 7s] Naturally, since it's a white garment, considering the inherent value, it shouldn't look darker than the skin.
+[00:07:19,800 | 00:07:28,010 | 8s] So when painting a white garment, it's good for the light to come from the side or a semi-side, rather than the front, so the contrast can be strong.
+[00:07:37,150 | 00:07:39,520 | 2s] Paint considering the shape of the folds.
+[00:07:55,580 | 00:08:02,041 | 6s] Since it's too dark, I used an airbrush to brighten the top overall.
+[00:08:17,335 | 00:08:20,960 | 4s] Since it's a fitted garment, I also need to bring out the silhouette of the ribcage.
+[00:08:22,200 | 00:08:27,210 | 5s] I paint broadly.
+[00:08:27,215 | 00:08:37,170 | 10s] Since it's an overall bright garment, the contrast isn't large, so it's a bit tricky, but I need to work hard to bring out subtle contrast so the volume can be felt.
+[00:08:50,110 | 00:08:56,151 | 6s] For blending that softens the boundaries of the brush, I use the mixer brush tool.
+[00:09:24,885 | 00:09:31,751 | 7s] By releasing tension from the hand and using pen pressure to paint, I create a naturally connected volume.
+[00:10:03,165 | 00:10:06,721 | 4s] I'll hide the detail layer group and work.
+[00:10:51,735 | 00:10:56,041 | 4s] The more you paint, the more the shape takes form and the sense of volume comes alive.
+[00:11:00,520 | 00:11:05,320 | 5s] Painting the overall volume with special care is very, very important.
+[00:11:05,780 | 00:11:13,320 | 8s] When clothing has a lot of details, and you paint considering the details, you often can't pay attention to the volume.
+[00:11:13,321 | 00:11:17,560 | 4s] Since I'm not using many colors, this is a picture where I can focus even more on volume.
+[00:12:17,180 | 00:12:21,070 | 4s] I'll also bring out a sense of thickness.
+[00:12:21,071 | 00:12:24,830 | 4s] Let me turn off the line layer and check whether the volume is coming out properly.
+[00:12:27,525 | 00:12:30,720 | 3s] I'll paint the skin too, following what we learned.
+[00:12:31,230 | 00:12:38,080 | 7s] If you've learned human anatomy, you'd have grasped the form, and you'd be able to paint in line with the light.
+[00:12:38,081 | 00:12:42,041 | 4s] When coloring, you need to grasp the curvature of the surface well.
+[00:12:43,820 | 00:12:50,181 | 6s] Paint the recesses dark and establish the shape of the jaw.
+[00:12:52,975 | 00:12:57,800 | 5s] Set the shading inside the cheekbone.
+[00:12:57,801 | 00:13:13,000 | 15s] When painting skin, you should pay attention to the H of the HSB sliders. It varies with the background environment, but I set the midtones around eighteen to twenty-two, and when painting the lit areas, I move slightly to the right.
+[00:13:13,001 | 00:13:18,680 | 6s] In other words, the midtones are relatively reddish, and the bright parts have a bit of yellow mixed in.
+[00:13:20,250 | 00:13:23,260 | 3s] I'll also bring out the shape of the chest muscle.
+[00:13:23,261 | 00:13:25,260 | 2s] The armpit area, I should make it dark.
+[00:13:27,450 | 00:13:32,620 | 5s] The canvas is flat, but the person on top of it should look three-dimensional.
+[00:13:35,635 | 00:13:42,501 | 7s] Since the reflected light we set is blue, when painting the reflected light, I lower the saturation.
+[00:13:43,740 | 00:13:47,710 | 4s] Because the reflected light's color is the complement of the skin color.
+[00:13:47,711 | 00:13:50,110 | 2s] Shall we experiment?
+[00:13:50,111 | 00:13:55,431 | 5s] Here, watch the S, saturation part of the HSB sliders.
+[00:13:55,880 | 00:14:03,240 | 7s] If you mix this complement color, blue, into the skin and sample it with the eyedropper, you can see the saturation drop.
+[00:14:06,810 | 00:14:11,141 | 4s] Same for painting the lit areas, I lower the saturation.
+[00:14:11,900 | 00:14:16,190 | 4s] Because the skin loses a bit of its own color due to the light's color.
+[00:14:17,285 | 00:14:23,310 | 6s] But if it receives a very intense warm-colored light, the skin's saturation rises.
+[00:14:23,311 | 00:14:24,430 | 1s] We learned that in Chapter 3.
+[00:14:26,085 | 00:14:30,960 | 5s] In this picture, the midtones have higher saturation than the lit areas and shadows.
+[00:14:33,240 | 00:14:37,610 | 4s] It varies by material, but it's good to keep this rule as a base.
+[00:14:39,770 | 00:14:44,940 | 5s] I'll add more red on the boundaries between the lit areas and shadows, or the midtones.
+[00:14:46,520 | 00:14:53,811 | 7s] This is to express the increase in midtone saturation, the flush and lip hue, and subsurface scattering.
+[00:15:09,080 | 00:15:14,760 | 6s] I'll paint the hair in line with the light too.
+[00:15:14,761 | 00:15:18,001 | 3s] We learned the principle of the highlight ring forming on the head.
+[00:15:18,445 | 00:15:24,120 | 6s] I really don't use this color on hair, but during the demo I'm getting to use it.
+[00:15:24,121 | 00:15:26,360 | 2s] I paint considering the inherent value.
+[00:15:27,740 | 00:15:31,310 | 4s] Right now, this would be the intermediate stage here.
+[00:15:54,049 | 00:15:55,050 | 1s] I paint broadly.
+[00:15:55,051 | 00:15:57,130 | 2s] I'll paint the hands roughly too.
+[00:16:09,445 | 00:16:13,081 | 4s] The hand size looks big, so I'll shrink it a bit.
+[00:16:14,780 | 00:16:19,390 | 5s] While painting the base color like this, you can add to or modify the sketch.
+[00:16:19,925 | 00:16:24,350 | 4s] Painting the base color reveals the awkwardness of the sketch, which is good.
+[00:16:24,351 | 00:16:28,750 | 4s] So rather than just sketching continuously, it's good to alternate with this base color painting.
+[00:16:34,140 | 00:16:37,790 | 4s] I keep painting.
+[00:16:37,791 | 00:16:43,070 | 5s] I plan to make the front coat tail a somewhat semi-transparent material.
+[00:16:43,071 | 00:16:47,031 | 4s] So I'll also paint this leg part hidden behind it.
+[00:17:09,534 | 00:17:13,210 | 4s] It's good to paint it darker toward the bottom.
+[00:17:13,211 | 00:17:16,930 | 4s] The picture won't float, and it'll have stability.
+[00:17:25,444 | 00:17:28,240 | 3s] I'll draw while also bringing out the thickness of the clothing.
+[00:17:49,854 | 00:17:54,250 | 4s] Now too, I can see parts to fix, so I'm correcting the sketch.
+[00:17:58,649 | 00:18:01,861 | 3s] I wanted to create a flow of lines in a diagonal direction.
+[00:18:26,224 | 00:18:30,570 | 4s] When drawing a white garment, if the background is white, the clothing blends into the background.
+[00:18:32,409 | 00:18:36,101 | 4s] If you apply color to the background, it's easier to establish the volume.
+[00:18:37,365 | 00:18:42,590 | 5s] For concept art, you could also leave an outline to separate the white garment and white background.
+[00:18:44,169 | 00:18:48,650 | 4s] Since I plan to draw this picture close to an illustration, I'll add a background.
+[00:18:51,739 | 00:18:53,790 | 2s] There's a point to be careful about when adding a background.
+[00:18:54,539 | 00:18:59,390 | 5s] As we learned in Chapter 3, you should think of the background as environment.
+[00:18:59,470 | 00:19:03,630 | 4s] I made the top dark and the bottom bright.
+[00:19:03,710 | 00:19:08,190 | 4s] Because the character is bright on top and dark on the bottom.
+[00:19:08,191 | 00:19:11,689 | 3s] Using contrast, you can separate the character and background.
+[00:19:14,169 | 00:19:18,620 | 4s] Since the background got darker, it's good to darken the figure somewhat too.
+[00:19:18,621 | 00:19:21,820 | 3s] I lower the character's value with a curve adjustment.
+[00:19:21,821 | 00:19:24,060 | 2s] The curve adjustment shortcut is Control and M.
+[00:19:25,529 | 00:19:27,820 | 2s] If there are many layers, this work gets hard.
+[00:19:28,544 | 00:19:31,461 | 3s] I'm correcting each layer one by one.
+[00:19:32,469 | 00:19:35,681 | 3s] I desperately want to merge the layers quickly.
+[00:20:06,274 | 00:20:10,590 | 4s] Let me also do the first-pass coloring on this panel detail.
+[00:20:10,591 | 00:20:13,991 | 3s] I plan to make it a material that reflects well, like metal or a mirror.
+[00:20:15,419 | 00:20:20,350 | 5s] Since I've added color to the background, it'd be good if it washes onto this panel too.
+[00:20:20,351 | 00:20:23,511 | 3s] Sample the background color with the eyedropper and paint.
+[00:20:24,889 | 00:20:28,940 | 4s] Then, with the feeling that various objects are reflected, I'll paint a variety of colors.
+[00:20:31,694 | 00:20:35,480 | 4s] I'll also mix in complement colors a little.
+[00:20:35,481 | 00:20:41,720 | 6s] In a picture made up of similar-toned colors, which can easily get boring, this'll be a bit of a fun element and point.
+[00:20:43,215 | 00:20:49,281 | 6s] Since the details and complement contrast are all concentrated on the chest and shoulder area, the focus of attention will be clear.
+[00:21:15,739 | 00:21:19,550 | 4s] This time, we did the first-pass coloring.
+[00:21:19,550 | 00:21:21,870 | 2s] Next time, I'll continue painting.

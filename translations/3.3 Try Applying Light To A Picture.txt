@@ -1,0 +1,155 @@
+Hello.
+This time, based on what we learned in Chapters 3, parts 1 and 2, let's look at the methods and principles of applying light to a picture.
+First, to help with understanding, I've made some spheres in 3D.
+There's a version without reflected light and a version with it.
+The two light sources come from the upper left, and I've placed the reflected light on the lower right.
+These spheres will be the guide for the light.
+According to what we learned last time, the position of the highlight etc. changes depending on the position of the sphere, and the position of the light source or the observer.
+For this session, I'll set it so they don't change, for convenience.
+To add a bit more explanation, things like the highlight position changing with the light source position are better applied when drawing a background with large changes in the phase, rather than a character with relatively small changes.
+For the demonstration, I've brought a simple character key art sketch.
+I'll place the guide sphere off to the side.
+First, I've used it as a sphere with no reflected light.
+For the character, I've used the materials we use a lot: skin, cloth, leather, and metal, appropriately.
+Let me color it using what we've learned.
+First, let me lay down the base color like this and convert it to grayscale.
+I'll determine the inherent value for each object and start.
+They get brighter in the order of skin, metal, leather, then cloth.
+As coloring progresses, I have to not break this inherent value.
+Let's color the skin.
+I'll work in grayscale to match the color of the sphere.
+Usually I don't use the glazing method at all because I don't feel its merit, but to help understand light, I'll proceed in a way similar to the glazing light approach.
+I'll let you know upfront that coloring this way in practice is inefficient.
+I'll look at the angle and light amount of each face of this sphere, which has no reflected light, and apply it to the skin.
+An understanding of the human form is essential.
+Grasp the faces of the human body broadly, substitute them into the sphere, measure the strength of the shading, and paint it.
+I won't consider the inherent value.
+It'd be skin of the same material as the sphere.
+Find where the faces of the human body and the faces of the sphere align, and it's easy to sample with the eyedropper and paint.
+Split the faces broadly, into big chunks.
+Divide the areas like this and substitute them into the sphere.
+Then repeat the painting.
+In practice, this sphere needs to exist in your head.
+Not just a sphere, but a sphere of skin material.
+If that's the case, you won't need to use the glazing method like this.
+Because you can paint right away.
+For the face, split the faces too, recalling the facial anatomy we learned.
+Let me put the shadow only on the neck.
+If you've split the faces broadly and painted, blend them naturally.
+Using the mixer brush tool makes it easy.
+There are several ways to blend.
+There's the method of weakening the pen pressure and extracting with the eyedropper while mixing, and the method of mixing with the mixer brush tool like this.
+Just do whichever way is comfortable for you.
+When blending like this, you have to not break the faces we've split too much.
+Usually, when doing glazing, you paint like this and cover the color using an overlay layer etc.
+But without considering the inherent value I mentioned earlier and last time, it will become a bad picture.
+For comparison, I've duplicated layers and left them.
+This new layer will be corrected to match the skin's inherent value.
+Skin isn't as high-contrast as you'd think.
+Press Control and M to open the curve window and adjust it.
+If you set from bright to dark as one, two, three, four, and five, raise the middle part, three.
+And lower two and four a bit so the midtones widen.
+I raised five and lowered one a bit so the dark doesn't become too dark and the highlight doesn't pop too much.
+It now has an inherent value similar to the skin tone.
+Let me overlay the skin color on top of this.
+Change the layer property to overlay and check it.
+The skin first pass is done.
+Not hard, right?
+Let's also apply the reflected light.
+Let me go back to grayscale and swap the sphere with reflected light in, and paint while setting it.
+You shouldn't paint the parts where the reflected light is blocked.
+It's these parts.
+The body blocks it, so the reflected light can't reach.
+The reflected light reflecting off the body can form.
+But for now, I'll only consider the reflected light coming from the reflected light source, not the reflected light scattered from the skin.
+If you turn on the overlay layer, it becomes skin with the reflected light applied.
+To go into deeper coloring, you'd have to consider the color of this reflected light, the shift in the skin's hue, subsurface scattering, and so on.
+I'll cover deeper coloring in a later chapter.
+You can draw other parts with the same principle.
+For cloth, it has even less contrast than skin, so the highlight forms less.
+So even though it's drawn as the same material as the sphere, substituted into the sphere, you absolutely have to reduce the contrast through correction.
+I lowered the bright parts considerably with curve adjustment.
+And raised the dark parts a lot too.
+Likewise, raise an overlay layer to add color.
+For leather, it's good to have just a little bit more contrast than skin.
+Do the same curve correction on it.
+Raise an overlay layer.
+It looked too high in contrast, so I adjusted it again.
+Metal has the strongest contrast.
+I'm drawing without considering reflected objects.
+Along with the value contrast of the material, I draw with the inherent value in mind too.
+Now that I know this value application principle, instead of glazing, let me color again while controlling hue and value together.
+Naturally, it's important to draw while recalling the inherent value for each material.
+I enjoy this task the most.
+Compared to the total work time, it takes less than five percent of the time, but I feel like almost fifty percent of the completion gets packed in.
+The further into the later stages you go, the less the picture changes relative to the time you put in.
+It's tiring and hard work.
+Within a month, my classmates will be working this happily too.
+Enjoy it.
+Because the hard part is ahead.
+I told you earlier that this first-pass coloring is the most important.
+It determines the completion.
+The client's confirmation of the coloring draft also happens in this process.
+Should I say it's decided here whether the picture becomes a golden spoon or a black spoon?
+Even if it becomes a black spoon in this process, a good picture can still come out, but the reality is that a golden spoon is easy to succeed at, while a black spoon requires blood, sweat, and tears.
+Because of that, when I.
+If I don't like the picture, I go back to this stage, redo the light setup, and enter the first-pass coloring.
+To be reborn as a golden spoon.
+In reality it's impossible, but in drawing it's possible.
+On the premise that the sketch and base color are laid down, this first pass takes ten minutes.
+It's a low-pressure amount of time.
+Because of that, you can make various attempts.
+The mood of a picture changes a lot depending on the light.
+Let me do a first-pass coloring using the light spheres.
+For metal, as we learned last time, work thinking there's something around it.
+Be sure to put the light source and observer, and it'd be good to set just one or two more things.
+It'd be great to consider the character's body or clothes too.
+This accessory on the forearm is cylindrical in shape.
+Since we learned how to paint cylindrical metal last time, you can draw it without much difficulty.
+It happens to be tilted to match the position of the light source, so the highlight is very visible.
+I'll paint the highlight.
+Then I'll paint the reflected color of the clothes here.
+And I'll paint the observer too.
+It'd be facing front, right?
+And since the background and floor are a light gray.
+I'll mix it with the metal's own slight orange tint and paint a bright color.
+If you sample the background with the eyedropper and adjust the pen pressure and paint, it'll mix into a natural color.
+Shall we look at the other side too?
+Here it's largely blocked by clothes, so I'll paint it dark.
+And this bracelet on the other side is cylindrical too.
+For the right part here, I'll paint the reflected light.
+For this middle part, it faces the ground, and judging by the angle, it's quite far from the ground.
+The farther away, the weaker the light.
+I'll paint the reflected light lightly.
+And this left part is projected from the skin.
+I'll apply that color.
+The rest of the metal can be drawn through this kind of calculation.
+What about hair?
+The head, broadly speaking, is a sphere shape, so why does a ring-shaped highlight form?
+I've drawn a head to explain.
+I think many of you have drawn this ring-shaped highlight.
+Let me approach it theoretically.
+A person's head isn't just a sphere shape.
+It's countless strands of hair gathered together to form a sphere shape.
+To help understanding, I made a model in 3D again.
+I made it assuming the hair is in eight lumps.
+Where do the highlights form?
+They form in two places here.
+Because the surface is bumpy.
+What happens if the hair is spread to sixteen lumps?
+There are more highlights now.
+Shall we look at thirty-two lumps?
+There are more, right?
+What happens if there are countless strands of hair?
+It becomes a ring shape.
+That's why a ring-shaped highlight forms on a person's hair.
+In this way, if you have a high understanding of the surface material of an object and of light, you can draw a realistic picture well without even referencing a photo.
+The more you know about light, the harder it gets, but I think you don't have to be too afraid of it.
+It's good to be accurate, but it doesn't have to be perfect.
+As long as it's not clumsy.
+Because drawing a good-looking picture comes first.
+Even with a moderate understanding like mine, you can make a living drawing pictures.
+My only wish is that the light in the pictures of my classmates who take this class won't be clumsy.
+In this chapter, we learned about light and color.
+From the next chapter, we'll begin character concept art in earnest.
+Great work.

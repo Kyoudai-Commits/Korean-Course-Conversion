@@ -1,0 +1,189 @@
+Hello, I'm Sangsoo Jeong.
+This time, let's learn about a method of adding shadows that brings out liveliness.
+The reason I made a separate detailed lecture about shadows alone is that I value shadows very highly when I work.
+Shall we start by learning the definition of shadow?
+Here's the dictionary definition.
+It's simple.
+The part that appears dark because light is blocked and cut off by an object is called a shadow.
+Depending on the type of light, the appearance of the shadow can change.
+Let me give an example.
+You can largely divide it into three types.
+Light with direct travel, like sunlight, has a clear shadow boundary.
+We learned about that in Chapter 3.
+This one.
+For diffusely reflected scattered light, the shadow boundary can blur depending on how scattered it is.
+Sunlight that passed through clouds, or light reflected off a surface that undergoes diffuse reflection, are examples.
+And third, if the object and the object the shadow lands on are far apart, the shadow can blur too.
+Even when there are multiple light sources, like a light fixture with several bulbs, they overlap and can blur.
+In the case of type two, you can't produce a clear shadow, so I don't use it much in my drawings.
+So I mainly use the characteristics of types one and three.
+In this lesson, you'll learn how to draw this shadow in actual practice.
+What method should you use to add shadows?
+Let me draw a cube.
+Then decide the position of the light source.
+Imagine light coming from very far away, at a slight diagonal angle from the direct side.
+Think of it as sunlight, very far outside the frame.
+Following the vertex where the shadow forms, draw the light's angle.
+And following the floor point, draw the light's direction.
+Mark a point where the direction line and the angle line meet.
+And connect them, and you can indicate the shape of the shadow.
+What if the light comes not from the direct side, but a bit from the front?
+Draw the light's angle the same way, and draw the light's direction.
+The direction line passing through the vertices on each corner.
+And mark the point where the angle line meets.
+Connect them, and you can draw the shadow shape the same way.
+What if the light source is inside the frame?
+Drop a vertical line from the light source to determine its position.
+Mark the floor point like this.
+Think of determining the height and position of a streetlight.
+Since the streetlight is behind, the shadow will be in front, right?
+Indicate the light source's angle.
+Since the light source is close, the angles aren't parallel.
+Draw them radially, starting from the light source.
+The direction is the same.
+Starting from the floor point.
+Draw them radially.
+Then mark points and connect them the same way.
+It's gotten a bit more complex, but it's drawable.
+What if one more light source is added?
+Draw it the same way.
+Add one more streetlight.
+Draw the angles and directions.
+Mark points, connect them, and it can be drawn like this.
+The part blocked by both light sources will be the darkest, of course.
+What happens if perspective is applied here too?
+A vanishing point forms for the light source, and a vanishing point forms for the shadow's direction too.
+My head really starts to hurt.
+And on top of that, we're doing this with a cube right now.
+A character isn't made of cubes.
+The clothing or body on which shadows form aren't flat planes either.
+Just because you've figured out this construction method, can you apply it to a drawing?
+This shadow construction method, of drawing the light's angle lines and direction lines that we've done so far, is completely useless in actual practice.
+Then why did I draw all this?
+Well, it was to say that I at least know it.
+In all my years of drawing, I've never once constructed shadow with angle lines like this.
+Drawing shadows with construction on a character key art is practically impossible.
+For a background key art, maybe, but when drawing a character picture, I think it's completely worthless.
+Let me just touch on the theory briefly and get to the real subject.
+I especially find it useful to think of a picture as three-dimensional in my head when drawing shadows.
+Let me bring back the cube.
+Then decide the direction of the light.
+Then try making this into 3D in your head.
+For explanation, I've visualized it in 3D.
+We learned the definition of shadow, right?
+I said it's the part that gets dark because light is blocked by an object.
+Let me think about the blocked part of this cube.
+When viewed from the direction the light comes from.
+The part of the cube that's hidden is the shadow.
+Coming back to the picture with this, I'll mark this hidden part.
+The shadow is complete.
+You might feel this is hard.
+But it's not hard.
+The reason it feels hard is the thought of, can I really express that accurately?
+This method is, of course, far less accurate than when you constructed it.
+Especially the more angular and simple the shape, the more the shadow-forming part is flat, the less accurate it seems.
+In character key art, many shapes of various forms are freely tangled together, so even if it's not quite accurate, it's not a flaw.
+I don't know if this'll be a good example, but when doing hard-surface rendering.
+Rather than this block-letter style, cursive is better. In block letters, if someone makes a mistake, it shows a lot, but in cursive, it shows less.
+As an example, I wrote something in card-style lettering.
+Swapping a few cards here, the block letters get weird, whereas this free-spirited writing doesn't show the gaps even after swapping a few cards.
+Think of it simply.
+It's fine even if it's off a little bit here and there.
+Really.
+At least, I've done it this way.
+Let me do one more.
+This time not with a cube.
+Let me do it with a sphere and a cone shape.
+Decide the direction of the light.
+Try making it 3D in your head.
+Let me show what that looks like in a drawing.
+There's a floor like this, and there's a sphere like this.
+And a cone shape.
+It'd be positioned like this.
+Now find the hidden part.
+Here, this part, and the floor surface.
+It can be expressed like this.
+Now if I paint here.
+The shadow will be complete, right?
+Let me do it once more, assuming the floor isn't flat.
+Use the same method.
+Imagine the view from the direction the light comes, grasp the shadow's position.
+Then draw.
+If I paint here, the shadow's complete, right?
+Even just seventy percent accuracy is good enough.
+What's the advantage of this method? You can look at the picture three-dimensionally.
+Because the step of forming it into 3D in your head is essential.
+Your ability to grasp form and create volume can only improve.
+Shall we get into the real thing?
+This time, I'll mark the shadow on a face.
+I've drawn a face for the demo.
+Constructing and drawing shadows on a complex face shape like this would be hard, right?
+I'll draw the shadow the way I recommend.
+After deciding the light direction, I drew the view from the direction the light comes.
+This view from the light direction, of course, there's no need to draw it in actual practice.
+Because you can form it in your head.
+I drew it to explain.
+It's hard at first, but I really hope you'll master it.
+It's really, really useful.
+Let me identify and mark the hidden parts.
+This side of the face is almost entirely hidden.
+Under the lip too.
+Likely hidden.
+And this part here.
+You can see this part, so I'll mark it.
+The philtrum will be partially hidden too.
+This side of the lip is almost invisible.
+The opposite lip is invisible too.
+The lower lip will be hidden too.
+I'll also express the sternocleidomastoid here.
+Like this.
+You can see this part.
+And the other side is almost entirely hidden.
+For the neck, only this part is visible.
+This opposite side is hidden too.
+Right?
+The forehead will only be visible up to here.
+Like this.
+Now, just painting only these marked parts dark will make a surprisingly decent face come out.
+Let me duplicate and darken it.
+Now, even just merging this and doing some blending.
+It'll look decent.
+Now if I add more detailed value.
+The face rendering is complete.
+Not hard, right?
+Let me try once more with a different light direction.
+It's a commonly used light direction.
+Let's do it the same way.
+The light is coming from this side.
+If you do that.
+Duplicate and darken.
+Likewise, do some blending too.
+Let me also add some detailed value.
+Here, this part was missed.
+Let me add it in.
+You can add the face shadow easily.
+There's something to be careful about when expressing shadows.
+Assuming there's one light, even if the hidden parts overlap, you shouldn't draw the shadows overlapping.
+For example, adding the shadow caused by this box onto the shadow caused by a marble, the shadows shouldn't overlap like this.
+It should be like this.
+Also, you should refrain from drawing shadows using a multiply layer.
+Shadows aren't multiplied on top of light.
+Since we're not computers, being moderately accurate is good enough.
+Let me apply shadows to the picture we drew in Chapter 5, using what we've learned.
+I'll indicate the outline of the shadow with line drawing.
+I'll express the shadow in line with the indicated line drawing.
+I said I value shadows.
+Because I value light and want to handle it well.
+Just because you paint light into a picture doesn't mean light actually comes out.
+If your picture doesn't feel lit, don't paint light on using a dodge or layer property. Try finding the darkness instead.
+Just as darkness has presence because light exists, light has presence because darkness exists.
+You can know light exists because of shadow.
+When designing too, there has to be a simple part for the detailed part to shine.
+In a field of blue roses, a single red rose catches your eye.
+The elements of a picture are always relative.
+I hope you'll keep that in mind and work.
+I spent about ten minutes adding shadows.
+Let me compare.
+Even though I hardly spent any time, the three-dimensionality is more alive.
+We've learned about shadows up to this point.
+Next time, let's look at a method of drawing that brings out the material of the picture.

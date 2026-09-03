@@ -1,0 +1,635 @@
+1
+00:00:05,934 --> 00:00:08,119
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:08,120 --> 00:00:12,200
+This time, let's talk about surviving as a professional.
+
+3
+00:00:12,201 --> 00:00:15,560
+Usually, a person who gets paid for their work is called a professional.
+
+4
+00:00:15,561 --> 00:00:20,440
+Once drawing becomes your job rather than a hobby, of course a sense of responsibility comes with it.
+
+5
+00:00:20,441 --> 00:00:21,960
+It should.
+
+6
+00:00:21,961 --> 00:00:26,920
+Also, to keep from falling behind, you have to put in twice the effort of those who draw as a hobby.
+
+7
+00:00:26,921 --> 00:00:31,560
+In other words, unlike when you draw as a hobby, the weight of responsibility and achievement grows.
+
+8
+00:00:31,561 --> 00:00:35,400
+So some people say that drawing is most enjoyable when you leave it as a hobby.
+
+9
+00:00:36,245 --> 00:00:40,880
+That's not a wrong thing to say, depending on what standard you think of "enjoyment" by.
+
+10
+00:00:40,881 --> 00:00:48,480
+If you find it enjoyable to spend time drawing casually, then you'd keep it a hobby, but those of you watching this class probably won't.
+
+11
+00:00:48,481 --> 00:00:53,840
+After all, this class isn't for people who draw as a hobby.
+
+12
+00:00:53,841 --> 00:00:57,120
+Then responsibility and achievement would become important.
+
+13
+00:00:57,121 --> 00:00:58,720
+Is that too much of a cliche?
+
+14
+00:00:58,721 --> 00:01:00,880
+But there's no other way to put it.
+
+15
+00:01:02,280 --> 00:01:06,040
+What is the responsibility of a professional who draws?
+
+16
+00:01:06,040 --> 00:01:16,360
+Let's say A, who vaguely started drawing because she just wanted to get good at drawing, and B, who started drawing because he wanted to create game characters, are both working at the same company.
+
+17
+00:01:16,361 --> 00:01:19,000
+A has no interest in the company's work.
+
+18
+00:01:19,001 --> 00:01:27,320
+A wants to draw pretty, cool characters, but the higher-ups keep telling her to draw weapons and put together concept sheets.
+
+19
+00:01:27,320 --> 00:01:30,561
+Annoyed by all of it, A does personal work on the sly at the company.
+
+20
+00:01:30,844 --> 00:01:32,280
+Her drawing is really excellent.
+
+21
+00:01:33,559 --> 00:01:42,410
+B consults with 3D modelers, effects artists, animators, and so on, and faithfully does the work assigned to him as a member of the game development team.
+
+22
+00:01:42,411 --> 00:01:44,890
+He finds making the game enjoyable.
+
+23
+00:01:45,289 --> 00:01:47,450
+His drawing is ordinary.
+
+24
+00:01:47,451 --> 00:01:52,090
+Here, of course, B would have a sense of responsibility as a professional.
+
+25
+00:01:52,094 --> 00:01:56,570
+If it were me, I'd give B a higher performance score.
+
+26
+00:01:56,571 --> 00:01:59,450
+Naturally, his salary will go up.
+
+27
+00:01:59,451 --> 00:02:05,530
+In the end, a professional's sense of responsibility is directly tied to money, which is the very meaning of being a professional.
+
+28
+00:02:05,531 --> 00:02:14,170
+In a structure where someone commissions you, you draw for them, and you get paid, working alone as a professional is meaningless.
+
+29
+00:02:14,730 --> 00:02:19,450
+Because drawing to fit the client's needs comes first.
+
+30
+00:02:19,451 --> 00:02:21,530
+You can't just draw whatever you want.
+
+31
+00:02:22,940 --> 00:02:28,110
+If you want to succeed by drawing only what you want to draw, you'd have to become an independent artist.
+
+32
+00:02:28,111 --> 00:02:36,830
+You'd actively promote on social media, sell your work somewhere like Patreon, or hold exhibitions.
+
+33
+00:02:36,831 --> 00:02:41,390
+But then why do people who just want to draw well try to get hired by game companies?
+
+34
+00:02:42,940 --> 00:02:45,790
+What's your goal?
+
+35
+00:02:45,791 --> 00:02:48,030
+Is it that you want to make games well?
+
+36
+00:02:48,031 --> 00:02:50,750
+Is it that you want to become an artist?
+
+37
+00:02:50,751 --> 00:02:56,990
+We've talked a lot about the purpose of drawing, but we've never talked about the goal.
+
+38
+00:02:56,991 --> 00:03:01,790
+Actually, my goal was to become famous through my drawings and make my name known.
+
+39
+00:03:01,870 --> 00:03:03,950
+Because of a certain rapper, it's gotten quite difficult.
+
+40
+00:03:05,150 --> 00:03:10,590
+I was a concept artist, but when I got home, I only practiced illustration.
+
+41
+00:03:10,591 --> 00:03:13,490
+The reason most of my personal work is illustrations is connected to that.
+
+42
+00:03:14,535 --> 00:03:18,850
+I couldn't really say that drawing concept art was my life goal.
+
+43
+00:03:20,055 --> 00:03:28,800
+I feel a bit sorry saying this to people who work hard because they genuinely love concept art, but the reason I got hired in concept art is that it was the conventional path.
+
+44
+00:03:29,765 --> 00:03:41,760
+However, once I started working in a company and saw my drawings get turned into 3D, move, make sounds, have effects attached, and run around in a game, I gradually started to get interested.
+
+45
+00:03:41,761 --> 00:03:47,801
+As the work grew familiar and I thought, "I'd like to release a game someday," ten years have passed doing that work.
+
+46
+00:03:48,920 --> 00:04:02,010
+My story has gotten a bit long. Anyway, my goal wasn't to make my name known through games, but through drawings, so it was awkward for me to call myself a game developer.
+
+47
+00:04:02,011 --> 00:04:06,250
+I think there are many people with the same concern as me.
+
+48
+00:04:06,251 --> 00:04:13,530
+I know that most of the classmates taking this concept art class are aiming for game concept art.
+
+49
+00:04:13,531 --> 00:04:16,570
+Those who aren't, just listen with one ear and let it go in one ear and out the other.
+
+50
+00:04:16,571 --> 00:04:22,290
+Seriously think about whether you're going into game concept art because you really love making games.
+
+51
+00:04:23,855 --> 00:04:27,320
+Actually, even if you think about it, not much will change.
+
+52
+00:04:27,321 --> 00:04:36,840
+Because in Korea, the game industry makes far more money than other industries, and among the jobs you can get through drawing, the salary is also good.
+
+53
+00:04:38,140 --> 00:04:45,390
+After about a year or two of working yourself to the bone, a time will definitely come when you feel confused about your identity as a drawing person.
+
+54
+00:04:45,391 --> 00:04:52,510
+That is, whether I want to succeed as an artist or succeed as a game developer.
+
+55
+00:04:52,511 --> 00:04:55,310
+What's your goal?
+
+56
+00:04:55,311 --> 00:05:01,470
+If you've been studying vaguely because you wanted to draw well, from now on, think about it once.
+
+57
+00:05:01,471 --> 00:05:06,350
+If you're going to be a professional, then if you intend to be a professional, you need to have a clear goal.
+
+58
+00:05:07,800 --> 00:05:18,090
+The growth stages for those with a game-developer mindset will progress in order of concept artist, team lead, art director, and project director.
+
+59
+00:05:18,091 --> 00:05:25,450
+Each role has different work, so you can't compare their importance, but if you're talking about the hierarchy, it'd be this order.
+
+60
+00:05:26,250 --> 00:05:30,890
+The higher the position, the less often you'll draw.
+
+61
+00:05:30,891 --> 00:05:34,970
+By the time you reach art director or project director, you basically don't draw anymore.
+
+62
+00:05:34,971 --> 00:05:36,170
+You just give orders.
+
+63
+00:05:37,655 --> 00:05:44,320
+The growth stage for those with an artist mindset would be becoming an illustrator specialist.
+
+64
+00:05:44,321 --> 00:05:45,520
+It's very simple.
+
+65
+00:05:46,110 --> 00:05:50,160
+And it will be a very, very hard road.
+
+66
+00:05:50,161 --> 00:05:58,240
+Making money from your drawings on their own, without going through a platform or medium like games, is even harder.
+
+67
+00:05:58,241 --> 00:06:02,880
+How much money have you spent in your life buying art?
+
+68
+00:06:02,881 --> 00:06:06,521
+There are probably many who have never bought a piece of art.
+
+69
+00:06:06,680 --> 00:06:17,320
+At most, you'd buy an illustration that's collectible in a game, buy one at an exhibition, or buy a printed illustration at a festival.
+
+70
+00:06:17,321 --> 00:06:21,560
+In other words, it's hard to open a consumer's wallet under normal circumstances.
+
+71
+00:06:21,561 --> 00:06:24,760
+So people step into the industry.
+
+72
+00:06:24,761 --> 00:06:28,920
+There are industries like games, webtoons, and movies.
+
+73
+00:06:28,921 --> 00:06:34,641
+Anyway, this illustrator profession has far less demand in the industry than concept artist.
+
+74
+00:06:35,240 --> 00:06:37,960
+It's a red ocean within a red ocean.
+
+75
+00:06:37,961 --> 00:06:42,920
+So usually, many people start out as a concept artist like me.
+
+76
+00:06:44,225 --> 00:06:48,350
+Which path would you all choose?
+
+77
+00:06:48,351 --> 00:06:52,590
+I said that drawing reasonably well isn't that hard.
+
+78
+00:06:52,591 --> 00:06:55,070
+But the path as a professional is hard.
+
+79
+00:06:56,375 --> 00:07:02,720
+Think about how much harder you want to work and to what level you want to rise.
+
+80
+00:07:02,721 --> 00:07:09,920
+If you want to draw moderately, get a moderate salary, and live a moderate life, that's not bad either.
+
+81
+00:07:09,921 --> 00:07:14,560
+I don't want to weigh in on your subjective happiness.
+
+82
+00:07:14,561 --> 00:07:21,840
+If you want to rise to a higher level and compete with people in the top ranks, then a rugged path unfolds again.
+
+83
+00:07:23,130 --> 00:07:29,420
+From here on, the difference in achievement will determine your value as a professional.
+
+84
+00:07:29,421 --> 00:07:39,340
+As a concept artist, the best achievement would be the game or movie you're like the concept for becoming a success in the entertainment market.
+
+85
+00:07:40,330 --> 00:07:50,860
+As an art artist, I think the best achievement would be communicating directly with consumers and being recognized, without going through an entertainment medium.
+
+86
+00:07:50,861 --> 00:07:51,861
+Communication and recognition.
+
+87
+00:07:52,340 --> 00:07:55,741
+I said earlier that I focus on raising your value.
+
+88
+00:07:56,235 --> 00:08:03,380
+But I can only show you the way; to raise your value, it's important to promote yourself.
+
+89
+00:08:03,381 --> 00:08:07,780
+You have to publicize your drawings and let people know that you worked on the concept art.
+
+90
+00:08:08,480 --> 00:08:11,300
+No one is going to package you for free.
+
+91
+00:08:11,301 --> 00:08:14,980
+You need to focus on packaging yourself well and raising your value.
+
+92
+00:08:16,020 --> 00:08:20,500
+That's why I actively encourage artists to be active on social media.
+
+93
+00:08:21,520 --> 00:08:23,680
+Don't draw in hiding.
+
+94
+00:08:23,681 --> 00:08:34,720
+Professionals in other creative fields use every means available to promote themselves, but artists in particular tend to draw in hiding.
+
+95
+00:08:34,721 --> 00:08:37,440
+You say doing your job well at the company is enough?
+
+96
+00:08:37,441 --> 00:08:40,320
+The company doesn't care about your value.
+
+97
+00:08:40,321 --> 00:08:42,559
+You have to survive on your own.
+
+98
+00:08:42,560 --> 00:08:45,600
+I'm absolutely not saying to be negligent about your company work.
+
+99
+00:08:45,601 --> 00:08:48,320
+You have to separate your studies from your life.
+
+100
+00:08:48,321 --> 00:08:49,440
+If you're an illustrator,
+
+101
+00:08:49,555 --> 00:08:58,540
+If you're a concept artist, find the time to draw personal illustrations or personal concept work and post them on social media.
+
+102
+00:08:58,541 --> 00:09:02,580
+That'll promote you automatically and raise your value.
+
+103
+00:09:06,940 --> 00:09:10,350
+I've been talking about theories quite broadly.
+
+104
+00:09:10,351 --> 00:09:13,390
+Let me also talk about something a bit more blunt.
+
+105
+00:09:13,439 --> 00:09:17,310
+The subtitle of this session is how to survive as a professional, right?
+
+106
+00:09:17,311 --> 00:09:19,230
+What does it mean to be "alive"?
+
+107
+00:09:19,231 --> 00:09:22,870
+It means a state where you're exercising influence.
+
+108
+00:09:23,100 --> 00:09:25,470
+Why do you need to survive?
+
+109
+00:09:25,471 --> 00:09:32,190
+Well, there are nice words like "duty" and the like, but what modern society needs most and what really hits home is money.
+
+110
+00:09:32,191 --> 00:09:35,710
+It's about making a living, so how much do professionals actually earn?
+
+111
+00:09:35,735 --> 00:09:40,030
+Let me talk about how much you earn on which path.
+
+112
+00:09:40,031 --> 00:09:43,870
+I'm in the game industry, so I'll tell you based on the game industry.
+
+113
+00:09:45,125 --> 00:09:54,041
+First, if you get hired as a game concept artist, it varies by company, but the starting salary is as low as around fifteen million won per year.
+
+114
+00:09:54,080 --> 00:09:58,480
+And the higher the rank and role, the more you get paid.
+
+115
+00:09:58,481 --> 00:10:07,040
+In Korea, for character concept artists, the annual salary is usually capped at around eighty million to one hundred million won.
+
+116
+00:10:07,041 --> 00:10:12,201
+To go above that, you have to climb to team lead, art director, or project director.
+
+117
+00:10:13,285 --> 00:10:17,680
+For illustrators, I've almost never seen game companies hire them separately.
+
+118
+00:10:18,695 --> 00:10:22,160
+Concept artists do it in parallel, or something like that.
+
+119
+00:10:22,161 --> 00:10:25,920
+So you can consider the salary level to be the same.
+
+120
+00:10:25,921 --> 00:10:30,880
+However, if you work as a freelancer, the cost side is different.
+
+121
+00:10:30,881 --> 00:10:50,970
+Usually, concept artists price their work around one million to two and a half million won per concept, while illustrations have a huge range, from a million won per piece up to over ten million, depending on the workload and the artist's value.
+
+122
+00:10:50,971 --> 00:10:54,250
+As a freelancer, where do you get your commissions from?
+
+123
+00:10:54,251 --> 00:10:57,050
+You hear talk about connections a lot.
+
+124
+00:10:57,051 --> 00:11:00,810
+Like that saying that getting a job is all about connections, that kind of talk.
+
+125
+00:11:00,811 --> 00:11:03,050
+I'm kind of an introvert, so I don't have connections.
+
+126
+00:11:03,051 --> 00:11:07,770
+In my case, I was contacted almost entirely through social media.
+
+127
+00:11:07,771 --> 00:11:09,850
+I said it's important to promote yourself.
+
+128
+00:11:10,640 --> 00:11:15,940
+Diligently post your drawings on your social media, like arranging flowers in a vase.
+
+129
+00:11:15,941 --> 00:11:24,020
+Once your portfolio flower bouquet becomes beautiful, the bees and butterflies will come carrying money pollen.
+
+130
+00:11:24,021 --> 00:11:28,580
+If you do freelance work, the speed of your hands also becomes incredibly important.
+
+131
+00:11:28,581 --> 00:11:32,500
+Because if your work speed is fast, you can take on more commissions in the same amount of time.
+
+132
+00:11:34,070 --> 00:11:46,680
+If you're an illustrator, you can post your unreleased works on a crowdfunding site like Patreon and get support, or post work videos on YouTube to earn income.
+
+133
+00:11:46,681 --> 00:11:54,360
+The range is enormous, from people who are famous like celebrities to people who have no supporters at all.
+
+134
+00:11:54,361 --> 00:12:01,560
+You have to pay attention not just to the art, but also to fan management, video management, and many other elements.
+
+135
+00:12:01,561 --> 00:12:02,600
+I haven't done it, so
+
+136
+00:12:02,720 --> 00:12:09,561
+I don't fully understand that effort, but just drawing is already hard enough, so I think it's amazing.
+
+137
+00:12:10,545 --> 00:12:14,010
+If you have the ability, you could also teach.
+
+138
+00:12:14,011 --> 00:12:20,131
+There are offline classes, and after the COVID pandemic, online classes have become the trend.
+
+139
+00:12:20,545 --> 00:12:23,180
+This is an industry secret, so don't spread it around.
+
+140
+00:12:23,181 --> 00:12:32,700
+The split varies by academy, but it ranges from 60% for the academy and 40% for the instructor, to 20% for the academy and 80% for the instructor.
+
+141
+00:12:32,701 --> 00:12:40,181
+Online courses are free from rent, computer and machine costs, electricity bills, and so on, so the ratio is a bit better.
+
+142
+00:12:41,320 --> 00:12:44,881
+In my case, I worked as an academy instructor for about four months.
+
+143
+00:12:45,320 --> 00:12:56,120
+Because I'm really bad at multitasking and not great at speaking, I don't know what the students thought of me back then, but I feel I wasn't able to teach them properly, so I'm really sorry.
+
+144
+00:12:56,121 --> 00:13:00,760
+Aside from drawing skill, I think teaching ability is really important.
+
+145
+00:13:00,761 --> 00:13:09,440
+In Class101, I teach by recording, so I can give you more information and demonstrations than I did in those four months, which is great.
+
+146
+00:13:11,205 --> 00:13:21,600
+Anyway, people like this who speak well, draw well, and explain well don't even need to work at a company; they make a living working only at academies, earning money without being jealous of anyone.
+
+147
+00:13:21,601 --> 00:13:24,080
+These days there are a lot of multi-talented people.
+
+148
+00:13:24,190 --> 00:13:26,880
+Those kinds of people seem to do well.
+
+149
+00:13:26,881 --> 00:13:27,881
+I'm envious.
+
+150
+00:13:28,700 --> 00:13:31,230
+Learning English would also be good.
+
+151
+00:13:31,231 --> 00:13:36,510
+I mainly receive commissions through ArtStation, and they all come in English.
+
+152
+00:13:36,590 --> 00:13:43,031
+These days translation tools are quite good, but if you learn one foreign language, it'll be a real weapon.
+
+153
+00:13:44,150 --> 00:13:48,600
+This time we talked about living your life as a professional.
+
+154
+00:13:48,601 --> 00:13:52,040
+There are so, so many capable people in the world.
+
+155
+00:13:52,041 --> 00:14:02,280
+Think about whether you'll compete with those people just moderately, fall behind moderately, and survive, or push forward and take the lead.
+
+156
+00:14:02,281 --> 00:14:10,280
+If you want to take the lead, also think about what competitiveness you'll build compared to those people.
+
+157
+00:14:10,281 --> 00:14:13,240
+What your weapon is and how you'll use it.
+
+158
+00:14:13,300 --> 00:14:16,941
+I hope this becomes a chance for you to seriously think about it.
+
+159
+00:14:17,655 --> 00:14:21,480
+Next time, we'll have a Q&A session.

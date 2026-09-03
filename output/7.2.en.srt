@@ -1,0 +1,1119 @@
+1
+00:00:03,585 --> 00:00:05,740
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:05,741 --> 00:00:10,860
+This time, let's learn about how to use Photoshop functions.
+
+3
+00:00:10,861 --> 00:00:14,261
+You can think of it as a continuation of last time.
+
+4
+00:00:18,615 --> 00:00:23,120
+First, let me go through the functions I often use, one by one.
+
+5
+00:00:23,121 --> 00:00:26,720
+First, there's the blur effect function.
+
+6
+00:00:26,721 --> 00:00:32,521
+There are various blur effect functions, but in concept art I don't use them much.
+
+7
+00:00:33,210 --> 00:00:37,100
+The one I use most is this Gaussian blur effect.
+
+8
+00:00:37,101 --> 00:00:40,380
+It's a simple function, so it's easy to use.
+
+9
+00:00:40,381 --> 00:00:45,020
+You can blur the background to give a depth-of-field effect like this.
+
+10
+00:00:48,705 --> 00:00:52,700
+Also, after duplicating an object like this, apply a Gaussian blur effect.
+
+11
+00:00:54,060 --> 00:01:01,260
+And change the layer property.
+
+12
+00:01:03,470 --> 00:01:10,590
+You can easily give a glow effect.
+
+13
+00:01:10,591 --> 00:01:12,350
+And the motion blur effect too.
+
+14
+00:01:13,614 --> 00:01:16,680
+It's a function I sometimes use.
+
+15
+00:01:16,681 --> 00:01:18,760
+It gives a blur effect in a set direction.
+
+16
+00:01:29,474 --> 00:01:34,190
+You can give an afterimage effect to something moving fast or a cape fluttering.
+
+17
+00:01:37,369 --> 00:01:43,340
+The radial blur effect, I use occasionally too.
+
+18
+00:01:43,341 --> 00:01:45,340
+If you actually use it, you get the feel for it.
+
+19
+00:01:47,960 --> 00:01:54,051
+It's similar to motion blur, but blurs radially around the center like this.
+
+20
+00:01:57,949 --> 00:02:01,840
+It's good when you want to give the effect of light spreading out in all directions from one place.
+
+21
+00:02:06,649 --> 00:02:09,500
+And there's the liquify that many people use.
+
+22
+00:02:11,070 --> 00:02:12,070
+Let me take a look at it.
+
+23
+00:02:14,484 --> 00:02:18,041
+Since many people use it, I'll briefly go over it.
+
+24
+00:02:21,390 --> 00:02:27,591
+You can push things like this, or restore them.
+
+25
+00:02:31,095 --> 00:02:34,480
+You can smooth out the parts you modified like this.
+
+26
+00:02:35,984 --> 00:02:39,450
+And you can change them too.
+
+27
+00:02:39,451 --> 00:02:42,211
+You can also rotate it like a vortex shape like this.
+
+28
+00:02:50,990 --> 00:02:58,990
+You can make it concave or convex.
+
+29
+00:02:59,070 --> 00:03:03,790
+This liquify is what I think of as Photoshop's secret weapon of a function.
+
+30
+00:03:03,791 --> 00:03:06,270
+But this secret weapon is like a double-edged sword, you know.
+
+31
+00:03:07,100 --> 00:03:10,750
+Should I say that using the secret weapon also deals a blow to me?
+
+32
+00:03:10,751 --> 00:03:17,271
+This function is so good and convenient that I've seen many cases of people making pictures with it.
+
+33
+00:03:19,670 --> 00:03:26,520
+These Photoshop functions should be used only to the extent of giving a little help to my picture.
+
+34
+00:03:26,600 --> 00:03:39,000
+If you think you can't draw without this function, can't finish, or the result is terrible if it's absent, then you should think that you've been studying drawing wrong.
+
+35
+00:03:39,001 --> 00:03:44,520
+If you think that as long as the result is good, that's fine, I won't stop you.
+
+36
+00:03:44,521 --> 00:03:53,241
+Anyway, even when using these functions, you need to grasp the human form or the shape of the object well to use them accurately.
+
+37
+00:03:54,355 --> 00:04:04,540
+If you fiddle around here and there without a firm idea of how to fix it, it's easy to lose the sense of whether it's really doing well or not.
+
+38
+00:04:04,541 --> 00:04:14,140
+At least when studying, let's set aside this liquify for a while, and if there's a part of the picture that needs fixing, practice by erasing and redrawing it.
+
+39
+00:04:15,825 --> 00:04:19,529
+I keep getting the urge to teach, which is a bit uncomfortable for me, too.
+
+40
+00:04:19,530 --> 00:04:20,089
+What can I do?
+
+41
+00:04:20,090 --> 00:04:22,490
+I'm the instructor, you know.
+
+42
+00:04:22,491 --> 00:04:26,131
+Anyway, this liquify has a fun feature.
+
+43
+00:04:28,380 --> 00:04:36,350
+If you draw a face properly, and thankfully Photoshop recognizes it as a face, there's a feature you can use.
+
+44
+00:04:36,430 --> 00:04:48,070
+You can move eye size, eye level, width, tilt, and nose height like this, right?
+
+45
+00:04:49,980 --> 00:04:53,550
+The width of the mouth, smile.
+
+46
+00:04:55,395 --> 00:04:56,140
+It's really strange.
+
+47
+00:04:56,141 --> 00:05:04,460
+Lips, lip width, height, and so on, you can adjust them in this much detail.
+
+48
+00:05:09,210 --> 00:05:10,940
+I don't use it, but it's fun.
+
+49
+00:05:10,941 --> 00:05:14,341
+It feels like customizing in a game, I'd say.
+
+50
+00:05:18,520 --> 00:05:22,650
+I'd like to introduce a feature I've recently discovered and use a lot.
+
+51
+00:05:22,651 --> 00:05:25,210
+It's this filter gallery.
+
+52
+00:05:25,370 --> 00:05:28,690
+Students and aspiring artists, press the back button.
+
+53
+00:05:29,055 --> 00:05:33,850
+If you use this at the completion stage of a picture, the filter shows a lot.
+
+54
+00:05:37,080 --> 00:05:45,050
+But if you use it in the middle and retouch, you can bring in only the good feel of the filter and use it naturally in my own style.
+
+55
+00:05:46,395 --> 00:05:48,320
+Let me click each one like this.
+
+56
+00:05:52,165 --> 00:05:53,520
+How do these feel to you?
+
+57
+00:05:57,910 --> 00:06:03,800
+For something like this, the look changes drastically, and the clothing takes on a metal feel.
+
+58
+00:06:03,801 --> 00:06:06,881
+What I often use is this poster edges filter.
+
+59
+00:06:08,030 --> 00:06:12,000
+Lines form at each boundary like this, making the picture very sharp.
+
+60
+00:06:14,040 --> 00:06:15,930
+The contrast becomes very strong too.
+
+61
+00:06:15,931 --> 00:06:17,530
+The picture looks a bit sturdier.
+
+62
+00:06:17,531 --> 00:06:20,010
+It's a filter I use a lot these days.
+
+63
+00:06:20,011 --> 00:06:21,770
+Rather than using it as-is.
+
+64
+00:06:30,390 --> 00:06:33,240
+Duplicate the layer, apply the filter.
+
+65
+00:06:36,990 --> 00:06:44,361
+Lower the opacity to about twenty percent, merge, and it can be applied subtly.
+
+66
+00:06:44,950 --> 00:06:47,000
+From this state, continue drawing the picture.
+
+67
+00:06:48,285 --> 00:06:49,640
+Let me see an example.
+
+68
+00:06:53,015 --> 00:06:58,780
+After applying this filter gallery to this picture and lowering the opacity.
+
+69
+00:07:02,245 --> 00:07:04,880
+Let me compare.
+
+70
+00:07:04,960 --> 00:07:09,440
+A picture that had been drawn a bit blurry has become sharp and well defined.
+
+71
+00:07:09,441 --> 00:07:13,120
+So I thought the feel got better.
+
+72
+00:07:13,121 --> 00:07:17,840
+In this way, using the filter gallery to find a new feel is also fun.
+
+73
+00:07:21,795 --> 00:07:24,750
+Just boil it a bit more like this and it'll be complete.
+
+74
+00:07:27,160 --> 00:07:30,410
+There are various other functions too.
+
+75
+00:07:31,430 --> 00:07:32,730
+Shall we go through them one by one?
+
+76
+00:07:41,390 --> 00:07:45,110
+For something like this, bring out the brush-mark feel.
+
+77
+00:07:46,590 --> 00:07:49,040
+And apply it.
+
+78
+00:07:49,041 --> 00:07:59,481
+If I emphasize it once more, if you use the filter gallery like this, you must mix in my painting style through retouching.
+
+79
+00:08:01,445 --> 00:08:05,920
+So it's good to use it in the early-to-mid stage rather than the final stage of a picture.
+
+80
+00:08:09,925 --> 00:08:17,200
+We looked at Photoshop functions as seasoning that turns an eighty-point picture into an eighty-five.
+
+81
+00:08:18,465 --> 00:08:22,700
+This is unrelated to the basic stuff, so please take it as a careful reference.
+
+82
+00:08:27,055 --> 00:08:31,160
+Let's also learn about a method to increase the sharpness of a picture.
+
+83
+00:08:31,161 --> 00:08:36,840
+If you go to the filter sharpen effect, there are various sharpen effect functions.
+
+84
+00:08:38,300 --> 00:08:46,670
+You can use the function that the program automatically sharpens like this, but it's hard to create the sharpness I want.
+
+85
+00:08:47,990 --> 00:08:54,920
+For the sharpness I want, I use this unsharp mask.
+
+86
+00:08:54,921 --> 00:09:11,720
+To briefly explain the principle of sharpening a picture: the boundaries between objects with large value differences, that is, for example, the boundary between this hand and the coat, or the boundary between the coat and background, you could say.
+
+87
+00:09:11,721 --> 00:09:16,120
+It increases the contrast of these boundaries to make them more distinct.
+
+88
+00:09:17,245 --> 00:09:20,840
+Let me look at the unsharp mask.
+
+89
+00:09:20,841 --> 00:09:24,721
+Here, this amount determines how much to increase the contrast.
+
+90
+00:09:26,620 --> 00:09:36,990
+If you set it to a hundred percent, the dark pixels of the boundary are a hundred percent darker, and the bright pixels are a hundred percent brighter.
+
+91
+00:09:39,375 --> 00:09:42,120
+Meaning it gives a hundred percent contrast.
+
+92
+00:09:43,565 --> 00:09:44,565
+The radius is.
+
+93
+00:09:45,685 --> 00:09:49,230
+It sets the radius of this boundary.
+
+94
+00:09:49,231 --> 00:09:54,590
+That is, it determines how many pixels around the boundary to apply it to.
+
+95
+00:09:57,155 --> 00:10:01,870
+If you raise this to the maximum, it creates the effect of adjusting the whole picture's levels.
+
+96
+00:10:04,405 --> 00:10:09,031
+This threshold is the value that sets the tolerance of the boundary.
+
+97
+00:10:09,890 --> 00:10:17,281
+A boundary with a value difference lower than the level value set here won't get this sharpen effect.
+
+98
+00:10:18,360 --> 00:10:24,330
+The lower this value, the more the sharpen effect will apply to all parts that appear to be boundaries.
+
+99
+00:10:26,750 --> 00:10:40,640
+Let's set aside such hard-to-understand content. I usually use an amount of about fifty to a hundred percent, a radius of one to five pixels, and a threshold of about one to ten levels.
+
+100
+00:10:41,955 --> 00:10:47,870
+Adjusting it like this and comparing, you can see the picture gets a bit sharper.
+
+101
+00:10:51,190 --> 00:10:53,640
+You can also do it another way.
+
+102
+00:10:53,641 --> 00:10:56,801
+The method I'll introduce from now is better.
+
+103
+00:10:57,765 --> 00:11:02,320
+Duplicate the picture, filter, other.
+
+104
+00:11:03,745 --> 00:11:05,180
+Click high pass.
+
+105
+00:11:06,300 --> 00:11:12,220
+Then adjust the radius value to the point where the outline is visible.
+
+106
+00:11:15,000 --> 00:11:20,051
+Press OK, then change the layer property to overlay.
+
+107
+00:11:21,795 --> 00:11:25,511
+If you try it, you can see it gets sharper.
+
+108
+00:11:26,639 --> 00:11:32,240
+Since it's been made into a layer, you can adjust the sharpness through opacity.
+
+109
+00:11:36,250 --> 00:11:41,461
+Also, you can adjust it while changing the layer property.
+
+110
+00:11:48,615 --> 00:11:53,120
+You can sharpen a pattern reference that isn't sharp, like this.
+
+111
+00:12:04,510 --> 00:12:09,550
+When you draw concept art or illustration, you often have to draw patterns.
+
+112
+00:12:09,551 --> 00:12:13,550
+Patterns often easily raise the density of a picture.
+
+113
+00:12:13,551 --> 00:12:16,711
+There are various ways to insert patterns.
+
+114
+00:12:18,140 --> 00:12:26,750
+There's the method of drawing directly onto the clothing, the method of compositing photo references, and the method of drawing a pattern and compositing it.
+
+115
+00:12:26,751 --> 00:12:32,510
+The method of drawing directly onto the clothing was introduced in the clothing chapter when we drew the clothing's grid pattern.
+
+116
+00:12:33,285 --> 00:12:45,870
+It's a method used when drawing simple patterns, and its advantage is that, compared to the other methods, it can be drawn naturally to match my art style and the clothing folds.
+
+117
+00:12:45,871 --> 00:12:50,830
+The downside is that for complex patterns, you need huge time and effort.
+
+118
+00:12:53,125 --> 00:13:02,560
+The method of compositing a photo is the fastest, but you have to find the pattern you want, and there are copyright issues too.
+
+119
+00:13:02,561 --> 00:13:06,640
+Depending on the photo, you may need to make it into a pattern.
+
+120
+00:13:06,641 --> 00:13:14,240
+The method of drawing a pattern and compositing it has the advantage of cutting time compared to directly drawing it on the clothing.
+
+121
+00:13:14,241 --> 00:13:17,520
+You can draw the pattern you want.
+
+122
+00:13:17,521 --> 00:13:21,240
+However, drawing the pattern takes considerable time.
+
+123
+00:13:21,605 --> 00:13:25,600
+And if you can't composite it to match the folds, the naturalness somewhat decreases.
+
+124
+00:13:27,375 --> 00:13:30,440
+Let me briefly go through each one.
+
+125
+00:13:30,441 --> 00:13:33,960
+The method of drawing directly onto the clothing was explained in Chapter 5.
+
+126
+00:13:36,360 --> 00:13:42,680
+I draw the pattern really honestly.
+
+127
+00:13:42,681 --> 00:13:43,960
+Establish the big lines.
+
+128
+00:13:45,470 --> 00:13:47,760
+Then go into the detail.
+
+129
+00:14:19,820 --> 00:14:24,720
+The advantage of this is naturalness, but the downside is it takes too long.
+
+130
+00:14:32,865 --> 00:14:34,460
+Here you also have to do the coloring.
+
+131
+00:14:37,580 --> 00:14:44,140
+For photo composition, you bring in a pattern photo you want like this, correct it, then composite it.
+
+132
+00:14:44,141 --> 00:14:51,140
+Usually pattern references only exist in part like this, so you need to make it into a pattern and widen it.
+
+133
+00:14:51,610 --> 00:14:53,740
+Let me duplicate it once and widen it.
+
+134
+00:14:58,910 --> 00:15:03,440
+All sorts of seams don't connect.
+
+135
+00:15:03,520 --> 00:15:06,480
+Let me learn how to make them connect.
+
+136
+00:15:06,481 --> 00:15:09,520
+First, you have to analyze this pattern.
+
+137
+00:15:09,521 --> 00:15:10,521
+Here, at the very top.
+
+138
+00:15:12,865 --> 00:15:13,865
+The cut-off part.
+
+139
+00:15:43,235 --> 00:15:47,301
+Let me figure out where on the lower part this corresponds to.
+
+140
+00:15:48,890 --> 00:15:52,060
+When I duplicate the layer and overlap them.
+
+141
+00:15:57,445 --> 00:16:02,041
+I'll change the layer property to see it well.
+
+142
+00:16:04,485 --> 00:16:08,121
+Placing it here, where the pattern overlaps and connects.
+
+143
+00:16:09,630 --> 00:16:10,630
+It's here, right?
+
+144
+00:16:11,710 --> 00:16:13,440
+Then, after holding Control.
+
+145
+00:16:15,095 --> 00:16:18,841
+If you click the layer, the overlapping part gets selected.
+
+146
+00:16:20,975 --> 00:16:25,240
+Turn off the layer, and you can see this selected part. I'll erase it here.
+
+147
+00:16:26,990 --> 00:16:33,070
+And if you connect it, it naturally connects.
+
+148
+00:16:59,509 --> 00:17:00,510
+For the vertical, do it the same way.
+
+149
+00:17:00,511 --> 00:17:02,590
+This completes the pattern reference.
+
+150
+00:17:05,749 --> 00:17:09,079
+After connecting it all the way, you just composite it.
+
+151
+00:17:15,069 --> 00:17:16,319
+Shall we do one more?
+
+152
+00:17:16,320 --> 00:17:19,359
+This time, let's try a bit harder reference.
+
+153
+00:17:19,360 --> 00:17:24,720
+A pattern shot like this often doesn't connect when you put them together.
+
+154
+00:17:28,219 --> 00:17:35,070
+There's this value difference too. The top is bright and the bottom is dark.
+
+155
+00:17:35,070 --> 00:17:39,630
+After grasping the pattern, let's extract only the part we need.
+
+156
+00:17:41,269 --> 00:17:47,121
+Looking at it, this and this are the same pattern.
+
+157
+00:17:48,594 --> 00:17:53,100
+And this and this are also the same pattern.
+
+158
+00:17:54,964 --> 00:17:58,110
+Well, this and this are also the same.
+
+159
+00:17:58,111 --> 00:18:02,110
+Since a pattern is a repetition of the same design, that means.
+
+160
+00:18:15,909 --> 00:18:16,910
+We only need about this much of the pattern.
+
+161
+00:18:16,911 --> 00:18:17,911
+Cut this part out.
+
+162
+00:18:21,340 --> 00:18:23,790
+Copy it, flip it, and paste it.
+
+163
+00:18:26,084 --> 00:18:29,710
+Then a left-right identical pattern is complete, right?
+
+164
+00:18:29,711 --> 00:18:33,991
+And here too, cut the middle the same way.
+
+165
+00:18:46,654 --> 00:18:51,130
+And this, here and here are the same pattern.
+
+166
+00:18:51,374 --> 00:18:52,810
+So we don't need half of it.
+
+167
+00:18:55,899 --> 00:19:00,350
+The cut-off part here is around here.
+
+168
+00:19:01,420 --> 00:19:02,420
+The flower shape.
+
+169
+00:19:03,504 --> 00:19:08,211
+It's the same here below. I'll remove this part.
+
+170
+00:19:09,689 --> 00:19:12,780
+This completes the pattern.
+
+171
+00:19:12,780 --> 00:19:16,620
+Copy, flip again, and paste.
+
+172
+00:19:18,709 --> 00:19:24,840
+If you connect this pattern, you can confirm it connects naturally.
+
+173
+00:19:31,524 --> 00:19:35,200
+In this way, you can complete a pattern reference.
+
+174
+00:19:35,201 --> 00:19:38,880
+Let me extract from an even harder photo.
+
+175
+00:19:38,881 --> 00:19:40,800
+Rotate it to about ninety degrees for working.
+
+176
+00:19:52,514 --> 00:19:54,110
+Check the cut-off part.
+
+177
+00:19:56,169 --> 00:19:57,550
+I'll cut the top here.
+
+178
+00:20:02,429 --> 00:20:05,881
+Looking at where this cut-off part corresponds below.
+
+179
+00:20:07,549 --> 00:20:09,520
+It's around here.
+
+180
+00:20:09,521 --> 00:20:10,521
+I'll cut here too.
+
+181
+00:20:10,960 --> 00:20:11,960
+And.
+
+182
+00:20:13,584 --> 00:20:16,620
+Cut here too.
+
+183
+00:20:16,621 --> 00:20:17,621
+We don't need this here, right?
+
+184
+00:20:19,709 --> 00:20:24,160
+And since this is left-right symmetric, I'll cut again based on here.
+
+185
+00:20:26,169 --> 00:20:30,821
+Then in the end, only this part remains as what's needed.
+
+186
+00:20:32,739 --> 00:20:39,351
+Right, let me duplicate only this and check once.
+
+187
+00:20:46,280 --> 00:20:51,960
+You can see it connects naturally.
+
+188
+00:20:52,040 --> 00:20:53,400
+For the part that doesn't connect.
+
+189
+00:20:55,799 --> 00:20:58,970
+Erase it the same way.
+
+190
+00:21:01,149 --> 00:21:05,641
+This way, it connects naturally.
+
+191
+00:21:08,484 --> 00:21:12,800
+And if there's a value difference like this and it doesn't connect.
+
+192
+00:21:14,649 --> 00:21:18,060
+You can just brighten it with the dodge tool.
+
+193
+00:21:38,309 --> 00:21:39,310
+It connects naturally.
+
+194
+00:21:39,311 --> 00:21:42,151
+This is how easily you can make a pattern reference.
+
+195
+00:21:43,239 --> 00:21:47,720
+Now let me apply the pattern reference I made to the clothing.
+
+196
+00:21:47,721 --> 00:21:57,480
+When inserting a pattern, to avoid breaking the inherent value and color of the clothing, I mainly use this high pass function.
+
+197
+00:21:59,029 --> 00:22:01,240
+Click it.
+
+198
+00:22:01,241 --> 00:22:10,001
+It strips away the pattern's color, leaving only the raised and recessed feel, so it can be applied more naturally.
+
+199
+00:22:15,100 --> 00:22:23,751
+After correcting with the high pass function, composite it with a property like overlay.
+
+200
+00:22:38,014 --> 00:22:41,690
+Soft light is fine too.
+
+201
+00:22:41,691 --> 00:22:45,210
+These small continuous patterns aren't hard.
+
+202
+00:22:45,259 --> 00:22:47,610
+Just paste it.
+
+203
+00:22:47,611 --> 00:22:50,890
+In Chapter 6, part 1 I explained the card-section example.
+
+204
+00:22:51,614 --> 00:22:57,290
+A free-spirited pattern like this doesn't show much misalignment even if it doesn't match the folds or perspective.
+
+205
+00:22:58,549 --> 00:23:03,320
+So when drawing concept art, I sometimes just paste it flat like this.
+
+206
+00:23:04,919 --> 00:23:08,170
+When drawing an illustration, it's a bit more complex.
+
+207
+00:23:08,171 --> 00:23:12,970
+If you want to be ambitious, you draw these patterns one by one to match the folds.
+
+208
+00:23:14,594 --> 00:23:18,030
+Or, draw a grid like this.
+
+209
+00:23:20,669 --> 00:23:23,760
+There's also a method of inserting them one by one.
+
+210
+00:23:23,761 --> 00:23:25,600
+Cut to match the grid shape.
+
+211
+00:23:30,709 --> 00:23:43,400
+Cut using the lasso like this, then insert with the warp function.
+
+212
+00:24:03,204 --> 00:24:05,840
+Doing it like this, you wonder what you're doing.
+
+213
+00:24:06,694 --> 00:24:10,560
+So it's good to use the method appropriate to each occasion.
+
+214
+00:24:12,569 --> 00:24:19,020
+When you need to draw directly on clothing or draw a pattern to make, the deliberation really grows.
+
+215
+00:24:19,021 --> 00:24:22,620
+If the pattern is too complex, it's hard to draw in.
+
+216
+00:24:22,621 --> 00:24:30,860
+Especially patterns that go on local areas, you can't even see what pattern it is anyway, so you wonder whether I should put in this much effort.
+
+217
+00:24:30,861 --> 00:24:34,380
+When drawing weapons, you especially draw a lot of patterns.
+
+218
+00:24:34,381 --> 00:24:40,340
+I want to introduce a method of drawing patterns that I've enjoyed using, that's easy, and effective.
+
+219
+00:24:41,609 --> 00:24:43,530
+These are weapons I've drawn.
+
+220
+00:24:43,531 --> 00:24:52,250
+There are various weapons like this, but if you look closely, you can see they use some of the same patterns.
+
+221
+00:24:54,649 --> 00:24:56,380
+Let me try drawing this.
+
+222
+00:25:00,864 --> 00:25:03,580
+First, let me draw it as a band shape.
+
+223
+00:25:14,320 --> 00:25:19,840
+You can use it in the same place, like in a dream.
+
+224
+00:25:19,841 --> 00:25:21,280
+Draw the big lines like this.
+
+225
+00:25:23,280 --> 00:25:30,560
+Then split it.
+
+226
+00:25:30,560 --> 00:25:32,480
+It's simple.
+
+227
+00:25:32,640 --> 00:25:34,320
+You just keep splitting it.
+
+228
+00:25:34,479 --> 00:25:39,680
+And since I'll use it as a repeating pattern, I'll cut out only the needed part.
+
+229
+00:26:07,240 --> 00:26:13,160
+I'll only draw this part and connect it.
+
+230
+00:26:13,161 --> 00:26:17,720
+If I duplicate and flip it, it'll split once more, right?
+
+231
+00:26:17,899 --> 00:26:19,800
+Just keep subdividing it like this.
+
+232
+00:26:21,370 --> 00:26:24,981
+You don't have to think of the pattern shape as hard.
+
+233
+00:26:30,380 --> 00:26:38,940
+Usually people draw a lot of patterns using natural things like leaves or bird wings.
+
+234
+00:26:46,914 --> 00:26:49,991
+I'll try drawing a pattern using a leaf.
+
+235
+00:27:05,024 --> 00:27:09,340
+Just draw it as if you're filling in the empty spaces.
+
+236
+00:28:08,764 --> 00:28:10,920
+Here, this goes in.
+
+237
+00:28:10,921 --> 00:28:12,760
+Copy and paste it.
+
+238
+00:28:30,839 --> 00:28:33,320
+And here, this will go in.
+
+239
+00:28:33,321 --> 00:28:35,960
+Likewise, copy and paste it.
+
+240
+00:29:41,444 --> 00:29:46,720
+If you prepare a pattern drawn like this, you can use it in various places.
+
+241
+00:29:48,434 --> 00:29:51,420
+It's also easy when painting.
+
+242
+00:29:51,421 --> 00:29:52,780
+Just paint part of it.
+
+243
+00:29:58,594 --> 00:30:00,430
+And connect it in the border, since you just need to do that.
+
+244
+00:30:26,590 --> 00:30:27,590
+If you do that.
+
+245
+00:31:27,794 --> 00:31:29,470
+Not hard, right?
+
+246
+00:31:29,471 --> 00:31:34,071
+While I'm at it, let me change it to metal and draw it.
+
+247
+00:31:50,239 --> 00:31:52,240
+I think it'll feel like this.
+
+248
+00:31:52,241 --> 00:31:54,800
+The reason the inside is darker is.
+
+249
+00:31:56,919 --> 00:32:00,211
+When metal gets old like this, grime builds up inside.
+
+250
+00:32:02,484 --> 00:32:06,441
+Especially the part touching this pattern will accumulate a lot of grime.
+
+251
+00:32:10,429 --> 00:32:14,921
+So the boundary of this pattern becomes dark and dirty.
+
+252
+00:32:21,800 --> 00:32:28,481
+An easier way to do this is to duplicate this pattern.
+
+253
+00:32:29,979 --> 00:32:34,950
+Use the Gaussian blur we learned earlier.
+
+254
+00:32:42,440 --> 00:32:50,440
+Then just paint it darker.
+
+255
+00:32:50,441 --> 00:32:51,441
+If you do this.
+
+256
+00:33:05,459 --> 00:33:06,460
+The boundary of the pattern becomes darker.
+
+257
+00:33:06,461 --> 00:33:08,140
+After that, just render it.
+
+258
+00:33:12,355 --> 00:33:13,310
+It's not hard.
+
+259
+00:33:13,310 --> 00:33:15,790
+Because you only paint this part partially.
+
+260
+00:33:52,049 --> 00:33:53,100
+Duplicate the needed part and connect it.
+
+261
+00:34:33,390 --> 00:34:34,440
+Not hard, right?
+
+262
+00:34:34,441 --> 00:34:35,719
+After rendering like this.
+
+263
+00:34:36,949 --> 00:34:42,961
+Just apply it and paste it into the picture.
+
+264
+00:34:53,049 --> 00:34:56,821
+If you make a lot of these and collect them, it'll be convenient when drawing.
+
+265
+00:35:01,395 --> 00:35:05,340
+When drawing patterns or weapons, you can use the symmetry function.
+
+266
+00:35:05,420 --> 00:35:07,100
+Click the butterfly button here.
+
+267
+00:35:08,414 --> 00:35:12,261
+If you click the vertical line here, a vertical line appears like this.
+
+268
+00:35:13,589 --> 00:35:18,040
+If you paint with a brush here, you can draw a left-right symmetric picture like this.
+
+269
+00:35:23,870 --> 00:35:32,871
+Well, it's good when drawing weapons or patterns like this.
+
+270
+00:35:42,084 --> 00:35:50,640
+You can easily draw this kind of complex pattern too.
+
+271
+00:35:56,509 --> 00:36:03,200
+It'd be good to draw something like this and put it in the center of the cape's back, or somewhere like that.
+
+272
+00:36:09,240 --> 00:36:14,090
+When drawing a face straight-on, you absolutely must not use this symmetry function.
+
+273
+00:36:15,710 --> 00:36:18,880
+A person's face isn't left-right symmetric.
+
+274
+00:36:18,881 --> 00:36:22,480
+Even though it isn't symmetric, it's natural.
+
+275
+00:36:22,481 --> 00:36:29,440
+People usually prefer a natural feel over an artificial-feeling face.
+
+276
+00:36:29,441 --> 00:36:33,640
+And it doesn't help improve my drawing skill at all.
+
+277
+00:36:34,845 --> 00:36:39,400
+Drawing while appropriately balancing it with my own hand is much better.
+
+278
+00:36:41,370 --> 00:36:45,900
+We've learned about various Photoshop functions and how to use them.
+
+279
+00:36:45,901 --> 00:36:53,180
+I hope you'll use these functions appropriately and smartly to raise the completion of your pictures.
+
+280
+00:36:53,181 --> 00:36:57,740
+Next time, let's talk about other tips I can share.

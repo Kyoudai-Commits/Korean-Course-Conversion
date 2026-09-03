@@ -1,0 +1,643 @@
+1
+00:00:05,659 --> 00:00:08,029
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:08,030 --> 00:00:13,550
+This time, let's learn about how to find detail in a picture and finishing.
+
+3
+00:00:15,075 --> 00:00:19,550
+In a picture, detail refers to small design elements.
+
+4
+00:00:19,551 --> 00:00:27,870
+For example, high-density patterns, or density expressed by using various materials and colors.
+
+5
+00:00:27,950 --> 00:00:35,310
+Also, beyond design, elements for the overall completion of a picture can be called detail.
+
+6
+00:00:35,311 --> 00:00:43,070
+For example, the design of lighting or the flow of the gaze, the placement of contrast, facial expression, hand gesture, pose.
+
+7
+00:00:43,770 --> 00:00:48,810
+A tidy outline, an appropriate crop, and so on.
+
+8
+00:00:48,811 --> 00:00:59,011
+This can be expressed as high density, this can be expressed as a well-done design, and this can be expressed as a good finish.
+
+9
+00:01:01,125 --> 00:01:09,280
+Among these, this one is early-stage work, so I'll set it aside and look at the other two.
+
+10
+00:01:10,490 --> 00:01:14,940
+So far, I've emphasized drawing big and drawing finely.
+
+11
+00:01:14,941 --> 00:01:20,540
+I taught that you should render by big masses and then do detail work.
+
+12
+00:01:20,541 --> 00:01:24,181
+This detail rendering can raise the density of the picture.
+
+13
+00:01:27,364 --> 00:01:30,400
+First, let's learn about the density of a picture.
+
+14
+00:01:30,401 --> 00:01:34,800
+Why do I think density is important?
+
+15
+00:01:34,801 --> 00:01:46,000
+If the overall look or mood of a picture draws the consumer's gaze, then high-density rendering can keep the gaze in the picture a bit longer.
+
+16
+00:01:46,001 --> 00:01:49,120
+However, raising density should also be done well.
+
+17
+00:01:49,200 --> 00:01:50,480
+How can you do it?
+
+18
+00:01:51,919 --> 00:01:55,920
+When designing, we learned to concentrate and release.
+
+19
+00:01:55,921 --> 00:01:59,840
+The parts where you need to give density aren't much different.
+
+20
+00:01:59,920 --> 00:02:03,840
+That's why design and density are always connected.
+
+21
+00:02:03,841 --> 00:02:07,600
+Density makes the gaze concentrate.
+
+22
+00:02:07,601 --> 00:02:14,240
+If the picture is high-density overall, there'd be too many places for the eyes to rest here and there.
+
+23
+00:02:14,241 --> 00:02:18,041
+You'd get tired easily and want to scroll down quickly.
+
+24
+00:02:19,000 --> 00:02:20,490
+Then the answer is out.
+
+25
+00:02:21,054 --> 00:02:27,090
+In character key art, you can think of giving density to the parts where you concentrate the design.
+
+26
+00:02:28,804 --> 00:02:32,681
+First, let me look at the parts in my pictures where I attended to density.
+
+27
+00:02:33,614 --> 00:02:38,000
+In these pictures, I gave density to the helmet here.
+
+28
+00:02:38,700 --> 00:02:42,780
+The gaze can concentrate toward the face.
+
+29
+00:02:42,781 --> 00:02:51,820
+These aren't designs I created, but the reason I wanted to use these designs in my picture is this density that concentrates on the face.
+
+30
+00:02:53,404 --> 00:03:00,680
+The time taken to draw this detail part exceeds thirty percent of the whole process.
+
+31
+00:03:00,681 --> 00:03:03,720
+I wouldn't waste time for no reason.
+
+32
+00:03:03,721 --> 00:03:12,760
+If you imagine this detail gone, the picture would lose its power.
+
+33
+00:03:12,761 --> 00:03:16,120
+Since it's a concept art class, let's look at it with concept art.
+
+34
+00:03:16,121 --> 00:03:22,401
+This character is a game character for which we agreed to concentrate the detail and silhouette on the lower body.
+
+35
+00:03:22,839 --> 00:03:27,770
+This character especially concentrates density toward the pelvis here.
+
+36
+00:03:27,771 --> 00:03:32,330
+You can see the rest has just enough detail to naturally support it.
+
+37
+00:03:34,459 --> 00:03:40,590
+This character has detail extremely concentrated on the neck and shoulders.
+
+38
+00:03:40,591 --> 00:03:46,510
+In fact, this character was designed this way because only the upper body would appear in the game.
+
+39
+00:03:46,511 --> 00:03:50,270
+In this way, depending on the purpose, the parts where you need to tighten density can differ.
+
+40
+00:03:52,089 --> 00:04:00,540
+Here, this character is the same too. It uses yellow metal only on the neck and shoulder area to give a point and density.
+
+41
+00:04:03,204 --> 00:04:07,200
+As you can see, this character also concentrates all the upper-body detail.
+
+42
+00:04:11,055 --> 00:04:18,839
+Density should be established by setting the scope of concentrate and release like this, then working on it.
+
+43
+00:04:20,695 --> 00:04:24,880
+You can concentrate density this way, in various ways.
+
+44
+00:04:24,881 --> 00:04:30,880
+It can be done by size, by density, or by color difference.
+
+45
+00:04:32,035 --> 00:04:42,750
+How much to concentrate and how much to release varies by situation, but the one thing you must keep is that you shouldn't give density evenly across the whole thing.
+
+46
+00:04:42,751 --> 00:04:44,270
+Let's look at a bad example.
+
+47
+00:04:47,025 --> 00:04:50,410
+The sizes shouldn't be uniform.
+
+48
+00:04:50,411 --> 00:04:54,250
+You shouldn't give density everywhere.
+
+49
+00:04:54,251 --> 00:04:58,970
+Point colors shouldn't pop out in every place.
+
+50
+00:04:58,971 --> 00:05:04,810
+This is not just for clothing design, but also for illustration composition.
+
+51
+00:05:04,811 --> 00:05:10,931
+This class is a concept art class, but let me briefly talk about illustration too.
+
+52
+00:05:12,355 --> 00:05:20,670
+This gumiho illustration naturally concentrated all the density in the center, to direct the gaze to the character.
+
+53
+00:05:24,570 --> 00:05:32,821
+By creating a flow that spreads out from the center, the gaze can naturally concentrate.
+
+54
+00:05:33,640 --> 00:05:40,200
+The objects at the outside blend into the background, so they don't steal the gaze much.
+
+55
+00:05:43,745 --> 00:05:45,580
+This picture is the same too.
+
+56
+00:05:45,581 --> 00:05:52,501
+It's overall blue-toned, but only the skin is shown in a complement color, concentrating the gaze.
+
+57
+00:05:57,500 --> 00:06:06,030
+The purple of these marbles could also be a point color, but I painted it so it doesn't pop out too much toward the outside.
+
+58
+00:06:09,980 --> 00:06:13,550
+This Widowmaker painting is the same principle.
+
+59
+00:06:13,551 --> 00:06:24,510
+When I decided to sit this character in this chair, and first considered the color and design, the most important factor was that I mustn't disperse the gaze.
+
+60
+00:06:26,010 --> 00:06:31,180
+What are the concentrated and released parts of this character?
+
+61
+00:06:31,181 --> 00:06:41,950
+I didn't design it, but if I analyze it, first would be this skin tone and the purple top tone.
+
+62
+00:06:44,675 --> 00:06:50,350
+The red lens of the visor here could be a point too.
+
+63
+00:06:50,351 --> 00:06:58,711
+Anyway, the point elements of the upper body are mostly concentrated, and I also wanted the gaze to go to the face.
+
+64
+00:06:59,960 --> 00:07:03,050
+The released part is the dark part.
+
+65
+00:07:03,130 --> 00:07:08,131
+It's the dark clothing parts and the coat part like this.
+
+66
+00:07:12,195 --> 00:07:18,510
+So I likewise put this dark grayish color on the chair too.
+
+67
+00:07:18,511 --> 00:07:31,500
+As a result, the gaze concentrates only toward this character's skin here, and I designed it so the gaze can flow naturally like a gradient.
+
+68
+00:07:34,070 --> 00:07:42,040
+In this process, the red lens of the visor doesn't help the gaze concentrate, so I drew it to have as little presence as possible.
+
+69
+00:07:44,670 --> 00:07:53,671
+This picture collides various colors and value contrasts.
+
+70
+00:07:56,035 --> 00:08:00,670
+Reducing contrast toward the outside.
+
+71
+00:08:02,760 --> 00:08:07,880
+Concentrating the gaze on this side.
+
+72
+00:08:07,881 --> 00:08:09,560
+And through various designs.
+
+73
+00:08:12,245 --> 00:08:16,631
+Creating this flow of gaze.
+
+74
+00:08:22,805 --> 00:08:27,111
+If the belt of this uniform were hanging down, say.
+
+75
+00:08:28,469 --> 00:08:30,200
+It'd become an element that breaks the flow.
+
+76
+00:08:33,380 --> 00:08:34,440
+It wouldn't be good.
+
+77
+00:08:35,685 --> 00:08:38,920
+Anyway, in this way, you can create density with light too.
+
+78
+00:08:40,190 --> 00:08:46,240
+This picture is the design of illustrator Okku, drawn in my own style.
+
+79
+00:08:46,241 --> 00:08:57,870
+Looking at this picture, it uses the characteristics of backlight, that is, total internal reflection, to draw out the concentration of the gaze.
+
+80
+00:08:57,871 --> 00:08:59,630
+We learned about total internal reflection.
+
+81
+00:09:00,780 --> 00:09:12,270
+In this way, density brings about concentration of the gaze, and concentration of the gaze lets you appreciate the picture longer and makes it stay in the viewer's memory for a long time.
+
+82
+00:09:18,435 --> 00:09:25,230
+We've learned about the importance and method of density, so let's learn how to work it.
+
+83
+00:09:25,231 --> 00:09:29,630
+I said I first start by simply grasping the masses.
+
+84
+00:09:29,631 --> 00:09:33,950
+I have a plan for density, but I haven't drawn it yet.
+
+85
+00:09:33,951 --> 00:09:37,870
+Because I think it's good to create the masses, then carve them out.
+
+86
+00:09:39,320 --> 00:09:42,890
+You don't hang a picture frame before applying the wallpaper.
+
+87
+00:09:42,891 --> 00:09:46,490
+You don't apply eyeshadow before base makeup.
+
+88
+00:09:46,491 --> 00:09:51,150
+After grasping the masses, I draw the details or patterns with lines.
+
+89
+00:09:53,500 --> 00:09:56,750
+You can also paste photos, but I don't like that.
+
+90
+00:09:56,751 --> 00:10:01,390
+For the method of pasting photos, take a matte painting lecture.
+
+91
+00:10:01,391 --> 00:10:05,150
+Anyway, since I've decided to draw, it'll be the start of another boring task.
+
+92
+00:10:06,390 --> 00:10:13,240
+This is a pattern based on historical accuracy, so it was less difficult, but if you try to create something original, the pain begins.
+
+93
+00:10:13,241 --> 00:10:16,481
+At this time, we can reference photo materials.
+
+94
+00:10:17,530 --> 00:10:22,060
+What's really important here is that I told you not to put up references from the start.
+
+95
+00:10:23,100 --> 00:10:26,380
+You need to have a plan for the pattern to some extent.
+
+96
+00:10:26,381 --> 00:10:30,021
+That, like, what nuance I'll draw the pattern in.
+
+97
+00:10:30,760 --> 00:10:31,760
+For example.
+
+98
+00:10:33,750 --> 00:10:40,520
+If you want to draw a dragon statue like this, first draw it as much as you can within your ability.
+
+99
+00:10:40,521 --> 00:10:44,721
+After that, look up dragon statues.
+
+100
+00:10:45,110 --> 00:10:50,680
+It's not like you find some random pattern, think it looks cool, put it up and copy it.
+
+101
+00:10:53,709 --> 00:10:58,025
+After drawing the sketch lines, lay down the base color broadly like this.
+
+102
+00:11:02,550 --> 00:11:03,960
+Then you'd render the value.
+
+103
+00:11:07,670 --> 00:11:09,560
+And do correction too.
+
+104
+00:11:12,990 --> 00:11:17,721
+Complete it through the process of adding and refining detail.
+
+105
+00:11:21,975 --> 00:11:31,840
+The time this pattern-insertion work takes is important and difficult, accounting for thirty to fifty percent of the whole process.
+
+106
+00:11:31,841 --> 00:11:35,600
+It's important to plant your glutes firmly and draw with patience.
+
+107
+00:11:38,750 --> 00:11:46,240
+Even if you render the released parts less, it's good to render the parts you decided to give density to, clearly and cleanly.
+
+108
+00:11:50,680 --> 00:11:54,330
+Now let's also talk about finishing a picture.
+
+109
+00:11:54,410 --> 00:11:57,731
+If you worked hard on a picture but the finish is sloppy, that's not good, right?
+
+110
+00:11:58,490 --> 00:12:02,250
+Correction helps with finishing.
+
+111
+00:12:02,251 --> 00:12:05,331
+We'll cover correction in a later chapter.
+
+112
+00:12:06,390 --> 00:12:08,040
+How do you crop?
+
+113
+00:12:08,041 --> 00:12:11,960
+In the case of concept art, most pictures are tall, top to bottom.
+
+114
+00:12:11,961 --> 00:12:15,240
+I tend to cut the top and bottom as much as possible.
+
+115
+00:12:15,241 --> 00:12:19,041
+So the character looks big when displayed on a monitor.
+
+116
+00:12:20,375 --> 00:12:25,961
+That said, you shouldn't crop so much that you leave no breathing room.
+
+117
+00:12:32,080 --> 00:12:40,880
+In illustration, you often focus on the grid lines divided by threes.
+
+118
+00:12:45,295 --> 00:12:50,200
+An image with transparency in the background, so-called cutout, we call it.
+
+119
+00:12:50,201 --> 00:12:53,160
+It's a word derived from Japanese.
+
+120
+00:12:53,240 --> 00:13:03,720
+If you need to use a cutout image like this, you need to cleanly tidy the image's outline and remove brush marks.
+
+121
+00:13:03,721 --> 00:13:08,161
+Try changing the background to black and a clear primary color family.
+
+122
+00:13:11,875 --> 00:13:16,350
+It's good to check.
+
+123
+00:13:16,351 --> 00:13:19,870
+Let's also talk about resizing a picture.
+
+124
+00:13:19,871 --> 00:13:29,450
+For ease of work, you usually work at a large size.
+
+125
+00:13:29,451 --> 00:13:31,530
+But resizing is sometimes necessary.
+
+126
+00:13:33,850 --> 00:13:45,461
+When uploading to the web, being forcibly resized is unavoidable, but when sending your work to someone else, it's good to limit the height so the picture appears on screen without resizing.
+
+127
+00:13:46,885 --> 00:13:51,840
+Because in a viewer, if it's forcibly resized, the quality breaks.
+
+128
+00:13:51,841 --> 00:13:56,000
+So I usually resize to match the screen resolution.
+
+129
+00:13:56,001 --> 00:14:09,120
+When I worked at a company, the staff were issued 2560 by 1440 resolution monitors, so I set the height below 1440.
+
+130
+00:14:10,550 --> 00:14:17,160
+Then, when I open the file, I can see the picture clearly without resizing.
+
+131
+00:14:19,610 --> 00:14:28,620
+When saving a picture, you can use various extensions, but commonly used are JPEG and PNG.
+
+132
+00:14:28,700 --> 00:14:31,980
+PNG has no loss compared to JPEG.
+
+133
+00:14:31,981 --> 00:14:39,580
+Unless it's a special case, this PNG has a larger file size, but I want to save as close to the original as possible.
+
+134
+00:14:39,581 --> 00:14:43,301
+If you want to use transparency, you should save as PNG.
+
+135
+00:14:44,920 --> 00:14:48,771
+If the picture needs to reduce file size for the web.
+
+136
+00:14:49,880 --> 00:14:53,450
+This JPEG isn't a bad choice either.
+
+137
+00:14:54,910 --> 00:15:01,481
+And regardless of file size, if you want to save the original without compression, save as BMP.
+
+138
+00:15:07,155 --> 00:15:08,460
+The explanation got long.
+
+139
+00:15:08,510 --> 00:15:11,781
+Based on what we've learned, let's begin finishing the picture.
+
+140
+00:15:12,755 --> 00:15:18,140
+I'll intensively render the face and shoulder areas where I was trying to reduce density.
+
+141
+00:15:18,141 --> 00:15:23,100
+Simply, you just need to invest as much as half the time you've drawn so far.
+
+142
+00:15:23,101 --> 00:15:27,340
+I said I spend thirty to fifty percent of the whole process on density rendering.
+
+143
+00:15:29,289 --> 00:15:30,730
+Of course, it's boring.
+
+144
+00:15:30,731 --> 00:15:37,290
+But you can think that, for my own worth, this amount of time investment is well worth doing.
+
+145
+00:15:37,370 --> 00:15:42,250
+I drew this picture about five hours, so wouldn't sketching like this... well, drawing it a couple more hours be fine?
+
+146
+00:15:44,145 --> 00:15:46,490
+I wanted to do it while watching YouTube, but I held back.
+
+147
+00:15:47,425 --> 00:15:50,691
+Drawing while filming isn't easy.
+
+148
+00:15:51,775 --> 00:15:54,090
+Honestly, I don't like the picture.
+
+149
+00:15:54,091 --> 00:15:59,210
+Normally I'd redraw it, but since I've already filmed this video, I can't help it.
+
+150
+00:16:00,540 --> 00:16:07,111
+I want to revisit the concept and design of this picture later and redraw it thoroughly.
+
+151
+00:19:58,459 --> 00:20:05,221
+I accidentally failed to film about twenty minutes of video, but anyway I did the rendering this way.
+
+152
+00:20:07,555 --> 00:20:09,790
+Rendering is a battle against time.
+
+153
+00:20:09,791 --> 00:20:15,790
+I've rendered up to this point, but that's not to say there's no more room to draw.
+
+154
+00:20:15,791 --> 00:20:19,650
+In concept art, honestly, this level is enough.
+
+155
+00:20:20,225 --> 00:20:24,750
+Because you can explain the detailed design in a design sheet.
+
+156
+00:20:24,751 --> 00:20:32,110
+When you work at a company or do this kind of commercial work, there come times when you have to stop detailed rendering at the right moment.
+
+157
+00:20:32,111 --> 00:20:36,430
+Even if my artistic mindset rises up and makes me want to render even harder.
+
+158
+00:20:36,919 --> 00:20:40,090
+In a work context, the schedule is more important.
+
+159
+00:20:40,091 --> 00:20:42,410
+You need to allocate time well and work.
+
+160
+00:20:44,919 --> 00:20:48,970
+This time, we learned about the meaning of detail.
+
+161
+00:20:48,970 --> 00:20:53,210
+Next time, let's learn about various correction methods for a picture.

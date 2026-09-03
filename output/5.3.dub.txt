@@ -1,0 +1,128 @@
+[00:00:07,959 | 00:00:10,120 | 2s] Hello, I'm Sangsoo Jeong.
+[00:00:10,121 | 00:00:13,560 | 3s] Starting this time, we'll begin the detailed rendering.
+[00:00:13,561 | 00:00:17,960 | 4s] First, let's do the skin rendering of the face and hands in this picture.
+[00:00:20,600 | 00:00:26,970 | 6s] For reference, I split the parts for the lecture, but it's right to work evenly across the whole thing.
+[00:00:28,510 | 00:00:31,961 | 3s] To render in detail, let me increase the picture size a bit.
+[00:00:33,585 | 00:00:38,371 | 5s] Around seven to eight thousand is appropriate, based on height.
+[00:00:44,970 | 00:00:50,090 | 5s] Let me zoom in and begin rendering.
+[00:00:50,091 | 00:00:54,650 | 5s] I drew up to last time and came back after sleeping, and looked at the picture again.
+[00:00:54,651 | 00:00:57,891 | 3s] The moment I saw it, I wanted to move the face a bit to the right.
+[00:00:58,280 | 00:01:00,570 | 2s] So I moved it.
+[00:01:00,571 | 00:01:04,010 | 3s] When you look at it after some time has passed, what to do suddenly becomes apparent.
+[00:01:05,234 | 00:01:08,661 | 3s] If you send the picture to your smartphone and look at it, it also looks different.
+[00:01:09,869 | 00:01:14,110 | 4s] That's one of the methods I often use to see the picture from a different perspective.
+[00:01:36,959 | 00:01:37,960 | 1s] Let me render with lines.
+[00:01:37,961 | 00:01:41,000 | 3s] The nose seems a bit too high, so I'll lower it.
+[00:01:41,001 | 00:01:43,800 | 3s] In cases like this, the clone stamp tool is convenient.
+[00:01:45,425 | 00:01:47,610 | 2s] The shortcut is S.
+[00:01:47,611 | 00:01:54,611 | 7s] After selecting the clone tool, hold Alt and click the nose. The part you clicked now becomes a stamp source.
+[00:01:56,539 | 00:01:59,750 | 3s] Release Alt, go down a little, and paint.
+[00:01:59,979 | 00:02:01,870 | 2s] This way you can move it easily.
+[00:02:07,715 | 00:02:11,710 | 4s] I keep rendering.
+[00:02:11,711 | 00:02:17,511 | 6s] When rendering a woman's face, I tend to use a soft brush rather than a hard one.
+[00:02:18,524 | 00:02:21,521 | 3s] It's good to render a female face surface softly.
+[00:02:58,204 | 00:03:02,401 | 4s] After carving the stone, the face got a bit small, so I made it bigger.
+[00:03:08,534 | 00:03:11,680 | 3s] Let me begin rendering the eyes, nose, and mouth.
+[00:03:11,681 | 00:03:16,800 | 5s] Since the big masses are established, just drawing in the lines makes it look decent.
+[00:03:22,390 | 00:03:24,920 | 3s] I'll paint the pupils later.
+[00:03:24,921 | 00:03:26,120 | 1s] Like applying makeup as a point.
+[00:03:44,094 | 00:03:46,410 | 2s] There are so many layers, my hands are really busy.
+[00:04:19,670 | 00:04:21,850 | 2s] I establish the flow of the hair.
+[00:04:21,851 | 00:04:22,970 | 1s] With lines, of course.
+[00:04:44,560 | 00:04:49,600 | 5s] I'll render the ears too.
+[00:04:49,680 | 00:04:54,720 | 5s] Since it's a full-body drawing, in cases like the left where the whole body is visible, things like ears aren't very visible.
+[00:05:11,700 | 00:05:12,750 | 1s] Just paint it enough to know there are ears.
+[00:05:12,751 | 00:05:14,990 | 2s] Let me render the highlights on the hair.
+[00:05:16,565 | 00:05:23,911 | 7s] You can render with a brush like this, but rubbing it with the mixer brush tool like this is easier and more efficient.
+[00:05:38,590 | 00:05:42,000 | 3s] Let me zoom in and render a bit more.
+[00:05:42,001 | 00:05:43,760 | 2s] I'm drawing with a very thin brush.
+[00:05:46,225 | 00:05:51,610 | 5s] Even if you draw on the face like a doodle like this, if you look at the left side, you can't even tell.
+[00:05:51,611 | 00:05:54,931 | 3s] Think of it as lines that plan the coloring.
+[00:05:56,950 | 00:06:01,160 | 4s] Referencing these lines, add more paint.
+[00:06:01,161 | 00:06:04,881 | 4s] If you keep repeating this process, at some point it'll be finished.
+[00:06:46,065 | 00:06:49,891 | 4s] The face is too front-facing, so I wanted to turn it just a little.
+[00:06:51,505 | 00:06:55,330 | 4s] This time, I use the clone stamp tool I used earlier.
+[00:06:56,485 | 00:07:01,200 | 5s] Click while holding Alt, then move it a bit and paint.
+[00:07:01,201 | 00:07:03,600 | 2s] It moved subtly.
+[00:07:03,601 | 00:07:06,640 | 3s] There's another method I often use too.
+[00:07:06,641 | 00:07:08,800 | 2s] I duplicate the face with the lasso tool.
+[00:07:12,410 | 00:07:15,900 | 3s] This selected part gets duplicated.
+[00:07:15,901 | 00:07:22,620 | 7s] But the problem with this is the boundary is too sharp, so when I move it, the boundary isn't natural.
+[00:07:23,105 | 00:07:25,780 | 3s] Let me tell you how to solve this.
+[00:07:26,725 | 00:07:31,440 | 5s] Go back to lasso selection, right-click, and click Feather.
+[00:07:35,770 | 00:07:37,500 | 2s] It says feather radius.
+[00:07:37,501 | 00:07:40,981 | 3s] The higher this number, the softer the boundary becomes when selected.
+[00:07:42,295 | 00:07:45,840 | 4s] Let me try it.
+[00:07:45,841 | 00:07:47,120 | 1s] It changed too softly.
+[00:08:00,980 | 00:08:02,030 | 1s] Let me compare while decreasing the number.
+[00:08:02,031 | 00:08:07,790 | 6s] It differs by picture size, but for a local area like this, it'd be good to use around five to ten.
+[00:08:07,791 | 00:08:09,310 | 2s] You can see the boundary got softer, right?
+[00:08:11,125 | 00:08:14,710 | 4s] After duplicating like this, use the arrow keys to move it.
+[00:08:26,780 | 00:08:30,190 | 3s] Move the eyebrow the same way.
+[00:08:37,050 | 00:08:41,100 | 4s] Shall we compare?
+[00:08:41,179 | 00:08:44,460 | 3s] The face turned a bit, just as I wanted.
+[00:08:44,461 | 00:08:45,461 | 1s] Great.
+[00:09:16,430 | 00:09:19,390 | 3s] I keep rendering.
+[00:09:19,391 | 00:09:20,590 | 1s] A bit S.F.T.
+[00:09:20,591 | 00:09:22,430 | 2s] In that style, I drew this on the jaw, like this.
+[00:09:23,770 | 00:09:29,861 | 6s] Rather than holding onto this face rendering constantly, it's good to render it in the middle, as you draw the picture.
+[00:09:49,635 | 00:09:52,750 | 3s] I'll also render the hands.
+[00:09:52,751 | 00:09:55,470 | 3s] Zooming in, the sketch isn't tidied up.
+[00:09:56,005 | 00:09:57,070 | 1s] Let me tidy it up.
+[00:10:01,020 | 00:10:05,150 | 4s] For the hand, it's good to draw while referencing my own hand each time.
+[00:10:05,151 | 00:10:13,390 | 8s] At this time too, rather than taking a photo and drawing it exactly, it's better for learning to look briefly, draw, look briefly, draw.
+[00:10:13,391 | 00:10:17,390 | 4s] And while referencing my own hand, I need to beautify it.
+[00:10:17,470 | 00:10:25,310 | 8s] I often reference my own hand, so there were times when even drawing a woman, it came out like a man's hand.
+[00:10:25,311 | 00:10:26,311 | 1s] You have to be careful.
+[00:11:26,815 | 00:11:30,970 | 4s] The hand, like the face, has an expression.
+[00:11:30,971 | 00:11:35,050 | 4s] Before drawing the pose, I told you to act out the pose with your own body.
+[00:11:35,849 | 00:11:37,930 | 2s] The hand is the same too.
+[00:11:37,931 | 00:11:42,570 | 5s] The feeling in the hand's expression is just as important as the feeling from the facial expression.
+[00:11:47,555 | 00:11:51,390 | 4s] Do you know the character Scarlet Witch from the Marvel Cinematic Universe?
+[00:11:52,670 | 00:11:56,281 | 4s] The hand gestures when she uses magic are detailed and flashy.
+[00:11:57,240 | 00:12:01,770 | 5s] I hear she received training from a choreographer separately for the character's expression.
+[00:12:01,771 | 00:12:03,530 | 2s] Because they valued the hand's expression.
+[00:12:07,830 | 00:12:11,761 | 4s] I too draw while valuing the hand's expression.
+[00:13:35,290 | 00:13:39,020 | 4s] I'm redrawing because I don't like the hand.
+[00:13:39,100 | 00:13:45,900 | 7s] When modifying a picture like this, I also maintain the process of sketching, base color, and coloring consistently.
+[00:13:49,775 | 00:13:54,840 | 5s] Why do I put the ring finger and pinky together like this?
+[00:13:54,841 | 00:13:59,400 | 5s] Should I say I'm applying the concentrate and release approach to the hand too?
+[00:13:59,401 | 00:14:05,560 | 6s] Or, if all five fingers are spread apart, it might look too wrinkled.
+[00:14:05,561 | 00:14:11,201 | 6s] I get the feeling an alien visiting Earth would think human hands look very wrinkled.
+[00:14:12,945 | 00:14:16,691 | 4s] I draw them with a long, extended feel.
+[00:15:00,270 | 00:15:02,860 | 3s] Long nails help with the finger length.
+[00:15:28,220 | 00:15:29,220 | 1s] If you do that.
+[00:15:57,985 | 00:15:59,820 | 2s] I keep rendering.
+[00:16:04,090 | 00:16:07,411 | 3s] Once the hand has progressed a bit, let's look at the face again.
+[00:16:08,600 | 00:16:13,210 | 5s] Looking after time has passed like this, you might see points to fix.
+[00:16:13,240 | 00:16:14,810 | 2s] I'll continue with more.
+[00:16:16,465 | 00:16:19,370 | 3s] I don't draw with the thought of finishing.
+[00:16:19,371 | 00:16:23,130 | 4s] From my experience, I keep touching the face until right before the picture is complete.
+[00:16:24,540 | 00:16:28,990 | 4s] Even after completion, if I see a strange part, I take it out again and fix it.
+[00:16:34,110 | 00:16:37,641 | 4s] Without much explanation, I'll keep rendering the face and hands.
+[00:21:43,855 | 00:21:47,770 | 4s] I'll also render the armpit area.
+[00:21:47,771 | 00:21:51,971 | 4s] Think of it as rendering the two muscles, the biceps and the chest muscle.
+[00:21:53,979 | 00:21:56,300 | 2s] If you know the muscle forms, it's not hard.
+[00:22:32,059 | 00:22:33,060 | 1s] Hmm.
+[00:22:54,689 | 00:22:58,141 | 3s] Let me render the hair a bit more too.
+[00:23:00,319 | 00:23:04,460 | 4s] For the flowing hair expression, paint so there's value contrast.
+[00:23:06,254 | 00:23:11,160 | 5s] If you've grasped the head's shape and characteristics, you can draw this easily too.
+[00:23:12,444 | 00:23:17,400 | 5s] As I mentioned earlier, expressing the broad grain with the mixer brush tool makes it easier.
+[00:23:27,739 | 00:23:32,220 | 4s] Drawing these fine hairs too can make it look even more realistic.
+[00:24:24,524 | 00:24:28,780 | 4s] The face seemed a bit red, so I slightly adjusted the hue.
+[00:24:30,870 | 00:24:33,960 | 3s] I'll open the hue and saturation window and make adjustments.
+[00:24:33,960 | 00:24:35,720 | 2s] The shortcut is Control and U.
+[00:24:37,399 | 00:24:40,611 | 3s] I moved the hue part a bit to the right.
+[00:24:41,529 | 00:24:44,170 | 3s] Compared, there's a subtle difference.
+[00:26:05,659 | 00:26:10,620 | 5s] This brush I'm using now is one I said I used a lot in the past.
+[00:26:10,621 | 00:26:12,780 | 2s] It's a brush that leaves grain, like drawing with charcoal.
+[00:26:13,794 | 00:26:18,460 | 5s] I'm using it like cleaning the surface with a water-moistened brush when sculpting.
+[00:26:20,694 | 00:26:35,440 | 15s] It's also good for getting rid of harsh leftover sketch marks.
+[00:26:35,441 | 00:26:38,480 | 3s] This is how I did the skin rendering.
+[00:26:38,481 | 00:26:42,720 | 4s] Honestly, if you keep digging, you can render endlessly.
+[00:26:42,721 | 00:26:48,560 | 6s] Concept art is really a battle against time, so you can't hold onto it indefinitely, but even so, like this.
+[00:26:48,689 | 00:26:51,641 | 3s] This way, a rendering that ends within an hour is no burden.
+[00:26:52,600 | 00:26:58,090 | 5s] In the case of an illustration, you'd hold onto it for hours or even days.
+[00:26:58,091 | 00:27:01,731 | 4s] You'd draw considering every line and every touch.
+[00:27:02,749 | 00:27:08,870 | 6s] It's good to grasp the purpose of the picture and decide how far to render, then do it.
+[00:27:31,579 | 00:27:35,381 | 4s] Next time, we'll get into the detailed rendering of the clothing.

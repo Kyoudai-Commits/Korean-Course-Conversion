@@ -1,0 +1,204 @@
+Hello.
+This time, we'll look at setting up your working environment.
+First, I only use Photoshop in my class.
+There are lots of drawing programs, but the main reason I use Photoshop is that it's versatile and especially well-suited for coloring.
+Its correction features are great too.
+When you buy Photoshop, Adobe offers several plans, and there's one called Photoshop Single App that I think a lot of people buy.
+I got tricked into buying that at first too.
+The apps included differ by plan, but since we only need Photoshop, you should just buy the Photography plan, which is about eleven thousand won a month.
+I'm using version Creative Cloud 2022.
+With a version that's too old, I can't properly use the brushes I use, so I'd recommend updating.
+For the tool, I use a tablet.
+Up until two years ago I used an Intuos 3.
+I bought it when I first started drawing and used it for about ten years.
+I thought about replacing it if it broke, but I used it as a cutting board and handled it roughly, and it was so sturdy it never broke.
+It wasn't a vertical one, by the way.
+Now I use an Intuos Pro.
+The pressure levels are higher, so I can make more precise pressure adjustments.
+These days I draw with a relaxed hand, so the Intuos Pro, which has higher pressure levels, suits me well.
+If you end up getting hired by a company, they almost always issue you a Wacom tablet, so it's good to get used to one, and I'd recommend it.
+For monitors, I use the Dell UltraSharp series.
+It's a dual-monitor setup.
+If you're doing digital drawing, having at least dual monitors is essential.
+For the sub monitor, if you rotate it vertically using the pivot feature, it helps when drawing tall concept art.
+Here's my Photoshop screen layout.
+I use the Korean version.
+The navigator isn't strictly necessary, but I habitually keep it on.
+I also habitually zoom in and out by clicking with the mouse.
+The feature I think is important is this color picker, which uses HSB sliders.
+From top to bottom, you can adjust hue, saturation, and value.
+This color picker is effective for the relative use of color I'll explain later.
+Then there's the layers panel. Since the navigator and color picker don't take up much space, I make the layers panel the biggest.
+Next is the History panel.
+It's good for comparing a picture before and after, and it lets you go back in time without pressing Control and Z many times.
+If you check the box at the front, your work history is saved, and when you use the History brush, it recalls the saved state over the area you brush.
+This is something I use often, so do get familiar with it.
+Then there's the brushes panel.
+I've set mine so it just shows the brush stroke shapes.
+The reason is that it lets me see all the brushes at a glance.
+You can configure it whichever way is comfortable for you.
+If you press Arrange, or use the New Window key, you can duplicate the picture you're working on and display it.
+I resize the duplicated window so I can see the whole picture, and put it on my second monitor.
+And if you press the Flip Horizontal button, you can mirror just that window horizontally.
+If you test it, you can see it updates in real time.
+Since it's important to see the whole picture, I always keep this up while I work.
+Now let's look at keyboard shortcuts.
+These are shortcuts you probably already know, but let me quickly go through them.
+First, B is the brush tool.
+E is the eraser tool.
+The left bracket key reduces the size of the brush or eraser.
+The right bracket key increases it, and vice versa.
+For the eyedropper, with the brush selected, hold Alt and click on a color area.
+That way you can also pick a color from anywhere on the canvas.
+Next is the Lasso tool.
+It's also called the lasso tool, and you use it with the L key.
+If you hold Shift, it adds to your selection; if you hold Alt, it subtracts instead.
+Press Shift and L to activate the Polygonal Lasso tool, which lets you select jagged regions.
+Press Shift and L once more to activate the Magnetic Lasso tool.
+Next, M is the Marquee tool, the rectangular marquee.
+As the name says, it selects in a rectangular shape.
+Then when you press Control and T, the Free Transform tool activates.
+If you right-click, you'll find all sorts of options.
+It's good to try them out one by one.
+Like this.
+You can adjust it this way and that.
+In particular, there's a feature called Warp that I use a lot.
+You can flip it horizontally.
+You can also flip it vertically.
+And it can rotate too.
+If you hold R and drag, the screen rotates.
+Press the Escape key to return to normal.
+If you hold the spacebar and drag, the screen moves.
+The slash key locks the layer.
+See how the padlock icon toggles on and off here?
+When this icon is active, you can only paint within that layer.
+It's similar to the mask feature, right?
+It's something I use often.
+Control and J duplicates the layer.
+See, it's been duplicated.
+Control and E is the key to merge layers.
+Select two or more layers and press Control and E and they merge into one.
+There's also a feature to select just the objects inside a layer.
+Hold Control and click the layer thumbnail in the layers panel.
+Then only the objects in that layer get selected.
+I use this a lot too.
+After making a selection, press Control and J to copy just the selected area into a new layer.
+After selecting, press Control, Shift, and J to cut and paste.
+It disappears from the lower layer, see.
+It's moved to a new layer.
+If you want to copy multiple layers within a selection at once, press Control, Shift, and C, and only the selected region is copied.
+When you paste, you can see the entire selected area copied, regardless of the layers.
+Since I use layer functions flexibly and often, it's good to learn them.
+F5 brings up the brush settings panel.
+If it's grayed out, select the brush or eraser tool and it becomes active.
+Control and S is the save shortcut.
+It saves the current work to the current file name, overwriting it.
+If you press Alt, Control, and S, you can save in many different formats.
+This is the Mixer Brush tool.
+I use it a lot when blending colors.
+Originally C was the crop shortcut, but I reassigned it myself.
+To change it, go to Edit, then Keyboard Shortcuts.
+Then click on the tool.
+Scroll down and you'll see the Mixer Brush tool.
+Click it, type C, and press Accept.
+And since C was originally assigned to crop, scroll back up.
+Delete all the shortcut keys for the crop-related functions.
+The flip-horizontal shortcut is really important.
+Even though it's a very important key, it has no default shortcut.
+That's why I assigned it to Control and G.
+The way to do it is: Edit, then Keyboard Shortcuts, then Application Menus.
+Click on the Image menu and scroll down, and there's Flip Canvas Horizontal.
+Click it, type Control and G, and press Accept.
+The flip-horizontal function is one I use all the time.
+They say the two hemispheres of the brain are used differently.
+Because you focus on one side, the picture can look off when flipped, and this lets you get rid of that effect.
+By flipping a picture you've grown used to, it lets you see it from a fresh perspective.
+I use very few shortcuts, personally.
+Maybe because I hated studying so much, I really dislike memorizing things.
+I didn't memorize the other features because I hardly use them.
+To put it nicely, the shortcuts I use are like my compact, real-world shortcut set.
+There are a couple of things to set up in Preferences.
+Go to the File Handling tab in Preferences.
+Check Automatically Save Recovery Information Every and set the interval.
+I have mine set to ten minutes.
+This way, if Photoshop suddenly crashes or your computer turns off, when you relaunch Photoshop it loads the most recent recovery file saved every ten minutes.
+It's like insurance.
+Everyone should have a little insurance, right?
+Then go to the Performance tab and set the History States to anywhere from 100 to 300, depending on your computer's performance.
+That increases the amount of work history that gets stored.
+So if you make a mistake or don't like the picture, you can go further back in time, right?
+Next is the Scratch Disks.
+SSDs or HDDs help play a role similar to flash memory.
+I check all the storage devices I own.
+The first is the brush I mainly use for line drawing.
+I'll draw a pear as an example.
+It's a brush with a pencil feel.
+I also use it when coloring.
+This picture was drawn mainly with this brush.
+The next brush is a round brush with a texture applied to it.
+I use it for broad strokes.
+The third brush is the same as the previous one, but with a smaller texture size.
+The fourth brush is the third brush with only the color jitter removed.
+Can you see the difference?
+Honestly, there's not much difference.
+These second, third, and fourth brushes are like brothers.
+I use them interchangeably for similar purposes.
+The fifth brush is just a brush, nothing special.
+The sixth brush is one I used a lot in the past.
+This picture was drawn mainly with this brush.
+You can see the brush grain, right?
+Since it's a brush with a fixed grain direction, I use it while rotating it like this.
+Used this way, it gives a charcoal drawing feel.
+It's not as much as before, but I still use it sometimes.
+Next is the airbrush.
+Since it's such a well-known and much-used brush, I'll skip explaining it.
+The eighth brush is a relatively soft brush.
+I use it as a stand-in for the airbrush.
+It has a slight texture so it's not boring.
+The ninth brush is one I sometimes use when coloring.
+I mainly use it as a Mixer Brush, and it has a nice soft spreading feel.
+The tenth brush is a very rough-feeling brush.
+I don't use it much; it's best for local areas.
+If you use this kind of brush a lot, your picture gets messy.
+The eleventh brush also has a textured feel.
+I use it very rarely.
+The twelfth brush is one I briefly used for sketching in the past.
+Now that I use the first brush, I don't use it much.
+The thirteenth brush is a type that blends color well, so it's good for coloring.
+It has texture, but among textured brushes it's relatively soft.
+The fourteenth brush is an airbrush with texture applied.
+I use this one very rarely too.
+Next is an explanation of the Mixer Brush tool.
+I changed its shortcut to C.
+The tool is different, but the brush is the same.
+I mainly use this ninth brush.
+It blends the color picked by the eyedropper with the color on the canvas.
+Depending on the brush, it blends strongly or weakly.
+It's good to try it in various ways.
+Let me continue the apple a bit more using various brushes.
+About seventy percent of my use is the brushes in the first row, and about thirty percent is the second row.
+I hardly use the third row.
+You might covet the brushes I use, but finding the brushes that suit you comes first.
+Honestly, brushes are just a helper.
+You should be able to draw a picture with the default brushes alone.
+But if using various brushes has helped you find the joy of drawing, then I'm fine with that.
+What's your working environment like?
+I'm currently a freelancer, so I work at home, and I have a separate work room.
+I really dislike someone talking next to me or watching me when I work.
+I'm used to working in a secluded space.
+If you prefer working in a secluded space like me, you'll run into issues when you work at a company.
+At the company, I sat in a corner seat and wallpapered my desk with IKEA wood grain to keep myself separated from the surroundings.
+That was only possible thanks to my boss's consideration.
+Now I can do it because I'm a freelancer.
+I was lucky, but I can't say I overcame the need for isolation.
+If you're thinking of getting hired, you need to get used to working in shared spaces.
+It'd be good to go to a studio where you can work with other people, or try live streaming on Discord or YouTube.
+When I work, I sometimes watch videos or listen to music.
+When the early stages require creative thinking, I don't watch or listen.
+During the later rendering work, which has become repetitive labor by now, I watch or listen to stave off boredom.
+Without coffee I feel anxious, and I always keep snacks stocked.
+These days I sometimes work with my puppy beside me.
+I think good drawing comes from a psychologically safe working environment.
+Within the given situation, try to build the working environment that suits you best.
+This time, we looked at setting up your working environment and how to manage brushes.
+Next chapter, we'll look at trendy and efficient figure drawing.

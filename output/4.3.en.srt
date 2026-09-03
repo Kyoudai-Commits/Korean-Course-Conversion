@@ -1,0 +1,467 @@
+1
+00:00:05,479 --> 00:00:07,560
+Hello, I'm Sangsoo Jeong.
+
+2
+00:00:07,561 --> 00:00:13,320
+This time, let's do the sketch, the first stage of concept art practice.
+
+3
+00:00:13,321 --> 00:00:18,200
+First, here's the planning document we briefly made last time.
+
+4
+00:00:18,201 --> 00:00:28,120
+To quickly go over it: gender is female, age is twenty to thirtyish, class is magic, era is future fantasy, and the value and hue is a bright blue tone.
+
+5
+00:00:28,121 --> 00:00:33,480
+And for what to concentrate on, I'll use a cape and coat to give the silhouette.
+
+6
+00:00:33,481 --> 00:00:39,960
+The keyword, drawn out from a clean and simple design, was polygons, transparency, and light.
+
+7
+00:00:41,445 --> 00:00:46,160
+And I mentioned that I'd borrow from the healer concept I drew.
+
+8
+00:00:47,045 --> 00:00:49,120
+And I gathered a few references.
+
+9
+00:00:49,310 --> 00:00:54,480
+I mainly want to use this material where polygon shapes fold.
+
+10
+00:00:54,481 --> 00:00:56,560
+And I'd like the light to come out like this too.
+
+11
+00:00:56,640 --> 00:00:58,480
+I'm not sure if it'll be expressed well.
+
+12
+00:00:58,481 --> 00:01:02,041
+Once you've appreciated the references a bit, you get into the work.
+
+13
+00:01:03,205 --> 00:01:06,480
+Without any stiff explanation, let's get right to it.
+
+14
+00:01:06,560 --> 00:01:09,600
+Naturally, you have to draw the human body first.
+
+15
+00:01:09,601 --> 00:01:11,920
+I draw the human body carefully.
+
+16
+00:01:18,464 --> 00:01:23,020
+I don't tidy up well, and my surroundings are always messy.
+
+17
+00:01:23,021 --> 00:01:25,340
+You can see that in the picture too.
+
+18
+00:01:25,341 --> 00:01:27,580
+I can't draw clean lines either.
+
+19
+00:01:27,581 --> 00:01:32,860
+And I have a quick temper, so I often put color before the lines are even organized.
+
+20
+00:01:33,020 --> 00:01:36,540
+For a sketch, I do tend to only do the parts that are really needed.
+
+21
+00:01:36,541 --> 00:01:42,661
+Still, since it's a demo picture, let me draw it a little more in detail than usual and start.
+
+22
+00:01:50,429 --> 00:01:57,440
+When drawing the human body, I said you should draw thinking about the slope of the shoulders and pelvis.
+
+23
+00:01:57,441 --> 00:01:58,441
+Let me check.
+
+24
+00:02:03,044 --> 00:02:06,560
+It's working well.
+
+25
+00:02:06,561 --> 00:02:14,000
+This picture, like the healer concept I've been showing, I'll draw in a pose that's visible to the camera.
+
+26
+00:02:14,001 --> 00:02:20,960
+Actually, as I mentioned in Chapter 3, I'm not good at working when someone's watching me.
+
+27
+00:02:20,961 --> 00:02:25,760
+Drawing while recording feels like dozens of people are watching next to me.
+
+28
+00:02:25,761 --> 00:02:26,800
+Honestly, it's a lot of pressure.
+
+29
+00:02:27,310 --> 00:02:30,880
+So I decided to demo with a familiar picture I've drawn many times.
+
+30
+00:02:31,774 --> 00:02:36,330
+And since I can't multitask, I'm recording first and explaining after.
+
+31
+00:02:42,780 --> 00:02:50,430
+Anyway, a tip when posing is to think of yourself as an actor and actually act out the pose with your body.
+
+32
+00:02:50,431 --> 00:03:01,550
+For example, if you're drawing a psychopath character, think as if you really are a psychopath, or think of the psychopath acting you see in movies and express it with your body.
+
+33
+00:03:01,551 --> 00:03:07,470
+What you have to be careful of here is that an overly exaggerated pose is unsuitable for concept art.
+
+34
+00:03:07,471 --> 00:03:10,590
+You can show character personality through facial expression and pose.
+
+35
+00:03:11,010 --> 00:03:16,290
+But you must not hide or obscure the design with an exaggerated pose and composition.
+
+36
+00:03:18,244 --> 00:03:25,040
+The reason I like this pose is, should I say its presence is alive because it stretches out in all directions, up, down, left, right?
+
+37
+00:03:25,041 --> 00:03:27,280
+That's why it's a composition and pose I often use.
+
+38
+00:03:29,445 --> 00:03:33,161
+While progressing the human body somewhat, I also envision the clothing along with it.
+
+39
+00:03:36,360 --> 00:03:41,800
+If you gathered references and appreciated them a lot, inspiration will have come up naturally.
+
+40
+00:03:41,801 --> 00:03:45,960
+At the very least, you'll have a direction for how to start.
+
+41
+00:03:45,961 --> 00:03:48,040
+Let me start the design lightly.
+
+42
+00:03:49,765 --> 00:03:51,840
+I said the silhouette is important.
+
+43
+00:03:51,841 --> 00:03:55,520
+Design it broadly, focusing on the silhouette.
+
+44
+00:03:55,521 --> 00:03:57,760
+Don't consider the details.
+
+45
+00:03:57,761 --> 00:04:04,521
+Silhouettes can be inspired by uniforms or long coats I've always thought looked cool.
+
+46
+00:04:04,910 --> 00:04:09,920
+Work so it's not excessive, like something that exists in reality, like something out of a movie.
+
+47
+00:04:11,190 --> 00:04:15,960
+It's good to compose it simply and basically.
+
+48
+00:04:15,960 --> 00:04:21,640
+I've liked slightly loose cardigans or oversized fits.
+
+49
+00:04:21,641 --> 00:04:25,320
+You can see that reflected in my drawings too.
+
+50
+00:04:25,321 --> 00:04:28,641
+So it's good to start from what exists in reality.
+
+51
+00:04:30,910 --> 00:04:35,520
+For example, let me assume I'm drawing a male character wearing medieval armor.
+
+52
+00:04:35,521 --> 00:04:45,920
+There'd be differences by era, but the commonly known full plate is a composition of body, arm, leg armor, etc., worn over chainmail.
+
+53
+00:04:45,921 --> 00:04:47,680
+The composition doesn't deviate from the big framework.
+
+54
+00:04:48,400 --> 00:04:55,280
+So I design with a basic composition, then modify it.
+
+55
+00:04:55,360 --> 00:05:00,480
+As a side note, unless the client makes a special request, I don't make multiple options.
+
+56
+00:05:01,175 --> 00:05:08,850
+I think focusing on one picture and designing it is much better in terms of cost.
+
+57
+00:05:08,851 --> 00:05:11,170
+If you miss the mark, just do one more.
+
+58
+00:05:11,220 --> 00:05:18,130
+I don't think you need to draw four, five, even ten options from the start.
+
+59
+00:05:18,131 --> 00:05:19,730
+Well, that's my opinion.
+
+60
+00:05:19,731 --> 00:05:21,410
+But if your boss says to do it, you have to.
+
+61
+00:05:33,505 --> 00:05:37,420
+Let me also flip left and right, and shrink the size.
+
+62
+00:05:37,421 --> 00:05:40,220
+You'll see some part that looks off.
+
+63
+00:05:40,495 --> 00:05:43,781
+The leg looks weird, so I'm erasing and redrawing it.
+
+64
+00:05:44,805 --> 00:05:49,600
+If you think some part looks off, the chances it really is off are high.
+
+65
+00:05:49,601 --> 00:05:55,920
+If you think, eh, this is probably fine, the chances that it's not fine are high.
+
+66
+00:05:55,921 --> 00:05:57,520
+Really amazing, right?
+
+67
+00:05:57,521 --> 00:05:59,920
+I've always done that.
+
+68
+00:05:59,921 --> 00:06:04,960
+Doing that, I get obsessive too, and there were times I'd spend the whole day just on the face.
+
+69
+00:06:06,360 --> 00:06:08,410
+But honestly, no answer comes out.
+
+70
+00:06:09,260 --> 00:06:15,690
+The best method is to look at it the next day, the day after, and the day after that.
+
+71
+00:06:15,691 --> 00:06:19,690
+As I draw, I take breaks, play games, and go on the internet.
+
+72
+00:06:21,020 --> 00:06:25,950
+Is that a freelancer's privilege?
+
+73
+00:06:25,951 --> 00:06:32,110
+At least after a few tens of minutes, or a few hours, when you look again, you'll see the parts you missed.
+
+74
+00:06:32,111 --> 00:06:39,710
+Doing that, sometimes you do a major overhaul, and it eats up a lot of time too, but the picture gets that much better.
+
+75
+00:06:39,711 --> 00:06:44,350
+I tend to think, even when drawing one picture, let me do it properly.
+
+76
+00:06:44,351 --> 00:06:48,750
+Rather than several pictures that are fifty or seventy percent of my ability.
+
+77
+00:06:49,100 --> 00:06:56,710
+I think drawing one picture that's a hundred or a hundred and ten percent of my ability helps my value more.
+
+78
+00:06:57,850 --> 00:07:02,300
+Once the silhouette is somewhat established, let me roughly set the details too.
+
+79
+00:07:03,260 --> 00:07:11,580
+Rather than focusing on line precision, it's important to work big, with the feeling of envisioning the upcoming work.
+
+80
+00:07:11,581 --> 00:07:20,140
+New inspiration felt from simple and rough lines can combine with the inspiration I already have, producing yet another inspiration.
+
+81
+00:07:21,790 --> 00:07:28,880
+When drawing a pattern like this, it's important not to break the flow and volume of the clothing.
+
+82
+00:07:28,881 --> 00:07:32,521
+It can look too simple and flat.
+
+83
+00:07:33,715 --> 00:07:38,300
+In the current case, I need to bring out the feeling of curling into the body.
+
+84
+00:07:53,125 --> 00:07:55,120
+I'll draw the details.
+
+85
+00:07:56,085 --> 00:07:59,641
+These polygon elements will be applied throughout.
+
+86
+00:08:05,685 --> 00:08:09,390
+What's important when designing is continuity.
+
+87
+00:08:09,391 --> 00:08:13,790
+Use the elements you used in one place in another place.
+
+88
+00:08:13,791 --> 00:08:14,830
+Continuously.
+
+89
+00:08:17,240 --> 00:08:24,170
+Intentionally clashing different elements to draw the eye is also good, but I don't enjoy it.
+
+90
+00:08:24,171 --> 00:08:28,730
+So I keep the design keywords to one or two, simply.
+
+91
+00:08:34,200 --> 00:08:40,330
+I'll concentrate all the design elements on the upper body and the collar part, which is a collection of triangles.
+
+92
+00:08:40,331 --> 00:08:43,571
+I'll draw the rest only enough to support the upper body.
+
+93
+00:08:53,400 --> 00:08:56,490
+I keep drawing the pattern.
+
+94
+00:08:57,935 --> 00:09:01,610
+I have to draw considering the clothing folds; it's hard.
+
+95
+00:09:01,611 --> 00:09:03,930
+I think I'll suffer a lot while coloring.
+
+96
+00:09:06,200 --> 00:09:10,170
+While coloring, I'll need to build up the volume and redraw the pattern.
+
+97
+00:09:21,779 --> 00:09:22,780
+So I'll just draw it moderately.
+
+98
+00:09:22,781 --> 00:09:25,580
+I keep drawing while tidying up.
+
+99
+00:10:05,985 --> 00:10:09,621
+Once it's somewhat progressed, I'll lay down the base color.
+
+100
+00:10:10,565 --> 00:10:13,840
+I'm not going to go into coloring like this.
+
+101
+00:10:13,841 --> 00:10:22,761
+With color laid behind like this rather than a white canvas, you can feel the volume more than just lines, so awkward parts are easier to spot.
+
+102
+00:10:24,700 --> 00:10:27,870
+I've put up a duplicate view to see the whole thing.
+
+103
+00:10:31,605 --> 00:10:35,469
+I explained how to bring that up back in Chapter 3.
+
+104
+00:10:38,195 --> 00:10:41,541
+I'll split the layers to make coloring easier.
+
+105
+00:10:42,250 --> 00:10:46,780
+The more a part is layered on top in the picture, the higher its layer should be.
+
+106
+00:11:30,899 --> 00:11:31,900
+I'll also apply the color I envisioned.
+
+107
+00:11:31,901 --> 00:11:33,500
+I'll tidy up the lines again.
+
+108
+00:11:34,000 --> 00:11:40,960
+Create one layer under the sketch layer, apply white, then adjust the opacity so the lines are visible.
+
+109
+00:11:42,970 --> 00:11:46,380
+I gradually firm up the design.
+
+110
+00:11:46,381 --> 00:11:49,740
+It's not much different from the working process of coloring.
+
+111
+00:11:49,741 --> 00:11:52,860
+You'll keep seeing this view from now on.
+
+112
+00:11:52,861 --> 00:11:57,660
+It'll be a repeated process of drawing lines, painting, drawing lines, painting.
+
+113
+00:12:33,660 --> 00:12:37,861
+I've spent about thirty to forty minutes on this sketch.
+
+114
+00:12:38,910 --> 00:12:49,920
+Usually I draw for hours, but thinking what if it's boring to watch, how if the video gets too long, I drew a bit hurriedly.
+
+115
+00:12:49,921 --> 00:12:55,881
+I recommend that you sketch with more time, pondering and envisioning deeply.
+
+116
+00:12:58,225 --> 00:13:02,650
+Next chapter, we'll work hard to color this picture.
+
+117
+00:13:03,535 --> 00:13:04,535
+Thank you.

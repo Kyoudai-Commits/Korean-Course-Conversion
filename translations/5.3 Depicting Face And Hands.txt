@@ -1,0 +1,128 @@
+Hello, I'm Sangsoo Jeong.
+Starting this time, we'll begin the detailed rendering.
+First, let's do the skin rendering of the face and hands in this picture.
+For reference, I split the parts for the lecture, but it's right to work evenly across the whole thing.
+To render in detail, let me increase the picture size a bit.
+Around seven to eight thousand is appropriate, based on height.
+Let me zoom in and begin rendering.
+I drew up to last time and came back after sleeping, and looked at the picture again.
+The moment I saw it, I wanted to move the face a bit to the right.
+So I moved it.
+When you look at it after some time has passed, what to do suddenly becomes apparent.
+If you send the picture to your smartphone and look at it, it also looks different.
+That's one of the methods I often use to see the picture from a different perspective.
+Let me render with lines.
+The nose seems a bit too high, so I'll lower it.
+In cases like this, the clone stamp tool is convenient.
+The shortcut is S.
+After selecting the clone tool, hold Alt and click the nose. The part you clicked now becomes a stamp source.
+Release Alt, go down a little, and paint.
+This way you can move it easily.
+I keep rendering.
+When rendering a woman's face, I tend to use a soft brush rather than a hard one.
+It's good to render a female face surface softly.
+After carving the stone, the face got a bit small, so I made it bigger.
+Let me begin rendering the eyes, nose, and mouth.
+Since the big masses are established, just drawing in the lines makes it look decent.
+I'll paint the pupils later.
+Like applying makeup as a point.
+There are so many layers, my hands are really busy.
+I establish the flow of the hair.
+With lines, of course.
+I'll render the ears too.
+Since it's a full-body drawing, in cases like the left where the whole body is visible, things like ears aren't very visible.
+Just paint it enough to know there are ears.
+Let me render the highlights on the hair.
+You can render with a brush like this, but rubbing it with the mixer brush tool like this is easier and more efficient.
+Let me zoom in and render a bit more.
+I'm drawing with a very thin brush.
+Even if you draw on the face like a doodle like this, if you look at the left side, you can't even tell.
+Think of it as lines that plan the coloring.
+Referencing these lines, add more paint.
+If you keep repeating this process, at some point it'll be finished.
+The face is too front-facing, so I wanted to turn it just a little.
+This time, I use the clone stamp tool I used earlier.
+Click while holding Alt, then move it a bit and paint.
+It moved subtly.
+There's another method I often use too.
+I duplicate the face with the lasso tool.
+This selected part gets duplicated.
+But the problem with this is the boundary is too sharp, so when I move it, the boundary isn't natural.
+Let me tell you how to solve this.
+Go back to lasso selection, right-click, and click Feather.
+It says feather radius.
+The higher this number, the softer the boundary becomes when selected.
+Let me try it.
+It changed too softly.
+Let me compare while decreasing the number.
+It differs by picture size, but for a local area like this, it'd be good to use around five to ten.
+You can see the boundary got softer, right?
+After duplicating like this, use the arrow keys to move it.
+Move the eyebrow the same way.
+Shall we compare?
+The face turned a bit, just as I wanted.
+Great.
+I keep rendering.
+A bit S.F.T.
+In that style, I drew this on the jaw, like this.
+Rather than holding onto this face rendering constantly, it's good to render it in the middle, as you draw the picture.
+I'll also render the hands.
+Zooming in, the sketch isn't tidied up.
+Let me tidy it up.
+For the hand, it's good to draw while referencing my own hand each time.
+At this time too, rather than taking a photo and drawing it exactly, it's better for learning to look briefly, draw, look briefly, draw.
+And while referencing my own hand, I need to beautify it.
+I often reference my own hand, so there were times when even drawing a woman, it came out like a man's hand.
+You have to be careful.
+The hand, like the face, has an expression.
+Before drawing the pose, I told you to act out the pose with your own body.
+The hand is the same too.
+The feeling in the hand's expression is just as important as the feeling from the facial expression.
+Do you know the character Scarlet Witch from the Marvel Cinematic Universe?
+The hand gestures when she uses magic are detailed and flashy.
+I hear she received training from a choreographer separately for the character's expression.
+Because they valued the hand's expression.
+I too draw while valuing the hand's expression.
+I'm redrawing because I don't like the hand.
+When modifying a picture like this, I also maintain the process of sketching, base color, and coloring consistently.
+Why do I put the ring finger and pinky together like this?
+Should I say I'm applying the concentrate and release approach to the hand too?
+Or, if all five fingers are spread apart, it might look too wrinkled.
+I get the feeling an alien visiting Earth would think human hands look very wrinkled.
+I draw them with a long, extended feel.
+Long nails help with the finger length.
+If you do that.
+I keep rendering.
+Once the hand has progressed a bit, let's look at the face again.
+Looking after time has passed like this, you might see points to fix.
+I'll continue with more.
+I don't draw with the thought of finishing.
+From my experience, I keep touching the face until right before the picture is complete.
+Even after completion, if I see a strange part, I take it out again and fix it.
+Without much explanation, I'll keep rendering the face and hands.
+I'll also render the armpit area.
+Think of it as rendering the two muscles, the biceps and the chest muscle.
+If you know the muscle forms, it's not hard.
+Hmm.
+Let me render the hair a bit more too.
+For the flowing hair expression, paint so there's value contrast.
+If you've grasped the head's shape and characteristics, you can draw this easily too.
+As I mentioned earlier, expressing the broad grain with the mixer brush tool makes it easier.
+Drawing these fine hairs too can make it look even more realistic.
+The face seemed a bit red, so I slightly adjusted the hue.
+I'll open the hue and saturation window and make adjustments.
+The shortcut is Control and U.
+I moved the hue part a bit to the right.
+Compared, there's a subtle difference.
+This brush I'm using now is one I said I used a lot in the past.
+It's a brush that leaves grain, like drawing with charcoal.
+I'm using it like cleaning the surface with a water-moistened brush when sculpting.
+It's also good for getting rid of harsh leftover sketch marks.
+This is how I did the skin rendering.
+Honestly, if you keep digging, you can render endlessly.
+Concept art is really a battle against time, so you can't hold onto it indefinitely, but even so, like this.
+This way, a rendering that ends within an hour is no burden.
+In the case of an illustration, you'd hold onto it for hours or even days.
+You'd draw considering every line and every touch.
+It's good to grasp the purpose of the picture and decide how far to render, then do it.
+Next time, we'll get into the detailed rendering of the clothing.

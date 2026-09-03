@@ -1,0 +1,167 @@
+Hello, I'm Sangsoo Jeong.
+This time, let's learn about expression methods according to material.
+You can think of it as an in-depth version of Chapter 3.
+There are various elements that make a material look different.
+Let me divide them roughly into four.
+Number one, the roughness of the surface. Number two, reflectance and transmittance. Number three, inherent color. Number four, the inherent form that appears due to the material.
+Shall we go through each one?
+Number one, the roughness of the surface. In Chapter 3 we briefly learned about material characteristics according to light.
+We briefly learned that the reflection of light changes depending on the roughness of the surface.
+To say it again, if the roughness is close to zero, the light reflects very honestly.
+Reflecting honestly means the image clearly forms, like smooth metal or a mirror.
+Conversely, if the roughness is high, the light can't align and scatters.
+Like the surface of paper or leather.
+Varying the surface roughness lets you express various materials when painting.
+Even the same metal, depending on its polish.
+It can sparkle like a mirror, or it can blur softly like this.
+And depending on the crafting detail, it can look different too.
+Let's talk about number two, reflectance and transmittance.
+The higher an object's reflectance, the more light it reflects.
+It'd be like this, right?
+That's obvious.
+For reflection, there's specular reflection and diffuse reflection.
+The element by which we perceive an object's color is diffuse reflection off the surface.
+If this diffuse reflectance becomes infinitely high, the object looks white.
+Because if it reflects all the colors of visible light, it appears white.
+You know the three primary colors of light, right?
+When all colors of light mix, it looks white.
+Conversely, if the reflectance becomes infinitely low, it can't reflect any light, so the object would look black.
+Since there's no light coming to the eyes, it's just dark.
+However, a material with perfectly zero reflectance doesn't exist, at least on Earth.
+Because of that, even when depicting a black object, you can add value shading.
+Like this.
+And black materials hardly undergo diffuse reflection, but depending on polish, specular reflection can occur.
+For example, a material like black shoes can show strong highlights like this, depending on the polish and how much it's coated.
+In this way, white and black follow reflectance, but they also need different rendering depending on the material composition.
+For example, a mirror has over ninety percent reflectance.
+But why doesn't it look white?
+It's related to number one, the roughness of the surface.
+An object that feels white always has a rough surface.
+You can take white paper or white leather as examples.
+Only when light scatters and diffuse reflection occurs does it finally look white.
+A mirror surface isn't rough, so it doesn't scatter the light, with respect to the incident ray.
+It reflects the light symmetrically.
+We call this specular reflection.
+Because of that, it doesn't look white, but lets the incident light be seen by our eyes as is.
+However, a mirror is actually behind transparent glass.
+A metal material is coated on it.
+Glass can't reflect light.
+It transmits it, and this is transmittance.
+Usually glass has about ninety percent transmittance.
+A mirror's reflectance is taken care of by the metal material coated behind the glass.
+The reason I'm explaining this transmittance is because the skin we draw a lot has high transmittance.
+You should know that the color we know as skin is actually the collection of the muscles, ligaments, blood vessels, and fat wrapped by the skin.
+Many illustrators work hard to draw transparent skin.
+Especially, they carefully consider subsurface scattering.
+We also learned that even a transparent object like this reflects light if the angle of incidence exceeds a certain angle.
+That's called total internal reflection.
+Don't misunderstand; it's a different concept from specular reflection.
+The angle at which total internal reflection occurs also differs depending on the material, but considering that too makes my head hurt too much, so just think of it moderately.
+Depending on this transmittance, when drawing glass, you can distinguish between glass with strong transmittance and glass with weak transmittance.
+Colored glass naturally has lower transmittance, of course.
+And glass with a roughened surface also has lower transmittance and undergoes diffuse reflection, so it looks blurry and white.
+Steamy glass works on a similar principle too.
+Anyway, if you draw while thinking about this reflectance and transmittance, material can become more varied.
+Considering this point.
+Even if you cover it all with similar colors, you can paint it so it looks like different materials.
+So that, though similar in color, they can look like different materials.
+You can paint it.
+Let me paint an object.
+What is inherent color, color?
+It's related to that electromagnetic wave range we commonly call visible light.
+Think of the rainbow colors; it's simple.
+An object absorbs part of this electromagnetic wave range and reflects part of it.
+In this way, a red object only reflects the red visible light range, so it looks red, and blue reflects only the blue range, so it's blue.
+Also, an object's inherent color is closely related to inherent value.
+I said metal has high reflectance. When it's pure white metal, that is, like silver.
+It has the highest reflectance, and colored metal, like copper or gold, has somewhat lower reflectance.
+For the inherent value of colors, this yellow is the highest.
+And blue is the lowest.
+In this way, painting the brightest yellow and the brightest blue.
+And converting to grayscale reveals it.
+There's a difference in value.
+The reason this inherent value according to color is important is because the material can look different depending on the object's value.
+For example, even when drawing a picture with various metals mixed together, it's important to understand the material and color characteristics and draw.
+If the polish is similar, then naturally a silver ornament will be brighter than a copper ornament.
+You should be able to grasp and draw this well.
+Number four, the inherent form that appears due to the material.
+Every material has a form we imagine.
+If you're told to draw a water droplet, you'll naturally draw it smooth and round.
+If you draw a metal weapon, you'll draw it very sharp and pointed.
+Imagine a knife made of charcoal.
+It can't be sharp; it's blunt and bumpy.
+Also think about the difference in form between a ball made of metal and a ball made of leather.
+A metal ball is stamped with a press, so it has no visible seams.
+But a leather ball is made by joining several pieces, so the seams are visible.
+That's the reason I said in Chapter 5's explanation that when drawing clothing, you should draw the seam lines well.
+In this way, even with reflectance and color where the material is hard to tell apart, just through this kind of form rendering.
+It lets you identify the material.
+Giving it a poked-dotted form makes it look like a soft, thick material.
+It's important to render the surface material well, but it's also important to grasp the material characteristics and draw the form.
+I gave a boring theoretical talk.
+The theoretical talk about material is important, but I think most of you want to see the painting skill.
+So I'll draw directly.
+Let me draw with materials commonly used in pictures.
+First, metal. In that chapter I drew smooth metal.
+Let me draw without much explanation.
+Next, let me express bumpy, rough metal.
+Using a brush to draw a rough surface like this.
+And what makes this process easy is custom brushes.
+Good for cutting down time, right?
+I'm drawing with a custom brush.
+Now let's draw leather.
+It has lower reflectance than metal, so the contrast isn't strong.
+There are many kinds of leather, but I mostly draw moderately coated leather.
+Untreated leather doesn't have much shine.
+That's the result of polishing or coating.
+Following the inherent form of the material, expressing the leather's seam lines and texture is great.
+Leather that's heavily polished and coated, like shoes, is drawn with a shine.
+Depending on the polish of the leather, the highlight can get even stronger.
+For cloth, highlights barely form, and it's not hard.
+However, you need to draw considering the folds well.
+For folds, grasp the meeting points and the direction of gravity, then draw.
+Natural folds add to the realistic appeal of a drawing.
+Approaching it theoretically is good, but mastering it through copy-study is better.
+Following the shadow method we learned, let's also add shadows.
+Because there's no color, it looks boring.
+So.
+Let me change the light to warm and the darkness to cool.
+It's the light color I often use.
+Let me also add a bit of color to the background.
+Let me change this cloth I just drew into various materials.
+First, let me change it to a transparent material.
+When expressing a transparent material like this, I tend to use the layer property, lower the opacity, and retouch.
+This way, you can easily create that transparent feel.
+Also, for highly transparent materials like vinyl, most light transmits, and only the highlight shows.
+So you just need to draw the highlight.
+An easy way is to render it roughly in the shape of vinyl, then raise the contrast and use the screen layer property among layer properties.
+Since it's a vinyl material, it can't be rough, of course.
+I'm smoothing it out.
+Then change it to the screen property.
+Since vinyl also isn't a hundred percent transmittance, I laid a bit of white underneath.
+Not hard, right?
+And should I call it a hologram material?
+When expressing this kind of rainbow material, you can also use Photoshop features.
+Let me create it using the curve tool.
+I said I'd create it.
+This method of using Photoshop features is not something I recommend to aspiring artists who are actively studying drawing.
+Only professionals making money from drawing should watch it secretly.
+I adjust the graph of the curve tool here and there.
+Until I get the feel I want.
+It came out interestingly.
+Nice.
+If you use the curve tool well, you can easily express various materials.
+Aspiring artists, press the back button quickly.
+Using the method of making transparent and hologram materials, I'll actually apply it to the picture we drew in Chapter 5.
+Using Photoshop features like this, you can so easily create various materials like hologram.
+However, for harmony with the picture, retouching is absolutely necessary.
+I was worried because it's a design that could be polarizing.
+Still, having drawn a picture of a material I hadn't drawn before, it's been great learning for me too.
+I hope it helps you too.
+Using curve adjustment for material rendering like this, you shouldn't overuse it.
+You end up relying on this method, and in the end, you can't render without it.
+Use it when you can draw it yourself.
+Also, if you use it too much, the picture loses its center.
+Through moderate use and retouching, I should be able to continue in the direction I set my navigation and was heading.
+This time, I explained various materials and how to draw them.
+Next time, let's discuss detail rendering and finishing the picture.

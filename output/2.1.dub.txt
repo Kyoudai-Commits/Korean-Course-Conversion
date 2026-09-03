@@ -1,0 +1,127 @@
+[00:00:05,750 | 00:00:06,520 | 1s] Hello.
+[00:00:06,520 | 00:00:11,560 | 5s] This chapter, we'll learn about efficient and trendy figure drawing.
+[00:00:11,561 | 00:00:15,640 | 4s] For the first lesson, let's look at how to draw faces.
+[00:00:15,641 | 00:00:18,440 | 3s] Before we begin, let me give you a few notes.
+[00:00:18,441 | 00:00:23,800 | 5s] I won't be supplying materials like unnecessarily detailed anatomy references.
+[00:00:23,801 | 00:00:25,560 | 2s] Honestly, I don't know that much either.
+[00:00:25,561 | 00:00:27,960 | 2s] There's a lot of better material on the internet.
+[00:00:27,961 | 00:00:33,080 | 5s] In this class, we'll only go over the essential bones and muscles.
+[00:00:34,300 | 00:00:38,670 | 4s] You don't have to copy-study the materials I provide.
+[00:00:38,671 | 00:00:42,830 | 4s] I just drew them to explain things, so you can understand them just by looking.
+[00:00:42,831 | 00:00:44,830 | 2s] Focus on grasping the shapes.
+[00:00:44,831 | 00:00:45,831 | 1s] And then practice.
+[00:00:46,670 | 00:00:50,750 | 4s] It's fine to copy-study, but don't copy-study mechanically and without meaning.
+[00:00:50,751 | 00:00:54,270 | 4s] I'll upload all the materials I've drawn.
+[00:00:54,271 | 00:00:57,550 | 3s] The face is the most important part of the human body.
+[00:00:57,630 | 00:01:02,990 | 5s] It's so important that I'd say the quality of the face accounts for more than half the quality of a drawing.
+[00:01:03,835 | 00:01:08,470 | 5s] Even if the design is mediocre, sometimes it won't catch the eye because of the face.
+[00:01:08,471 | 00:01:11,430 | 3s] And this applies to your pictures too.
+[00:01:11,430 | 00:01:15,030 | 4s] That's not to say you should obsess over only the face, though.
+[00:01:15,031 | 00:01:19,590 | 5s] It determines the first impression of a drawing, so I hope you'll treat it as important.
+[00:01:19,591 | 00:01:22,720 | 3s] When you practice faces, first grasp the shape of the skull.
+[00:01:23,324 | 00:01:29,270 | 6s] No matter how well you draw the eyes, nose, and mouth, if you can't place them to fit the skull's shape, the drawing feels clumsy.
+[00:01:29,270 | 00:01:31,110 | 2s] In bad cases, it can even give an unpleasant feeling.
+[00:01:32,009 | 00:01:40,490 | 8s] Just as a building is sturdy when its rebar structure is sturdy, there's a big difference between drawing a face while knowing the skull's shape and drawing one without knowing it.
+[00:01:40,491 | 00:01:44,410 | 4s] I mentioned earlier that shape is especially important in realism-style drawing.
+[00:01:44,411 | 00:01:48,330 | 4s] I recommend looking at photos of skulls online and copying them.
+[00:01:49,654 | 00:01:51,760 | 2s] I've drawn a skull here.
+[00:01:51,761 | 00:01:54,400 | 3s] And I've simplified it into angular shapes.
+[00:01:54,879 | 00:01:57,200 | 2s] The face isn't as flat as you'd think.
+[00:01:57,419 | 00:02:02,480 | 5s] The more you bring out these curved surfaces, the more realistic the face can look.
+[00:02:02,481 | 00:02:04,720 | 2s] We'll also examine the finer curves.
+[00:02:04,721 | 00:02:11,680 | 7s] Because the face is made of small muscles, even when muscle and flesh cover it, the skull's shape shows through on the outside.
+[00:02:11,681 | 00:02:14,800 | 3s] Especially, let's focus on the shape of the eye sockets and the cheekbones.
+[00:02:15,200 | 00:02:21,000 | 6s] This part I've painted red is what I consider especially important when drawing a face.
+[00:02:21,001 | 00:02:24,120 | 3s] Once you've grasped the skull's shape, let's add flesh.
+[00:02:24,121 | 00:02:29,320 | 5s] Apply the same approach you use when studying the body, starting broad and gradually getting finer.
+[00:02:29,321 | 00:02:33,480 | 4s] Study the big shapes first, then the finer muscles.
+[00:02:33,481 | 00:02:35,800 | 2s] There's a large eyeball inside the eye socket.
+[00:02:35,801 | 00:02:37,720 | 2s] The eyeball is bigger than you'd think.
+[00:02:37,800 | 00:02:39,080 | 1s] It's big enough to fill the eye socket.
+[00:02:40,019 | 00:02:43,400 | 3s] When you add the flesh, it looks like this.
+[00:02:43,401 | 00:02:45,720 | 2s] Compare it with the face sketch on the left.
+[00:02:46,295 | 00:02:52,841 | 7s] What matters here is that the curve of the eyeball also affects the curve of the final face surface.
+[00:02:53,640 | 00:02:56,600 | 3s] I've always kept this in mind while drawing.
+[00:02:56,924 | 00:03:00,321 | 3s] It's good to observe by comparing with real photos of people.
+[00:03:04,055 | 00:03:07,481 | 3s] I've been drawing the structure around the eyes from various angles.
+[00:03:07,760 | 00:03:13,721 | 6s] If you completely master this complex structure, you'll be able to draw more realistic faces.
+[00:03:15,020 | 00:03:18,060 | 3s] I've drawn an incorrect example and a correct example.
+[00:03:19,445 | 00:03:22,750 | 3s] If you look closely at this red part, it isn't as dark as you'd think.
+[00:03:22,751 | 00:03:24,190 | 1s] Compare them.
+[00:03:24,191 | 00:03:29,550 | 5s] The part marked in green should be the darkest in most lighting situations.
+[00:03:31,055 | 00:03:35,560 | 5s] Try to understand the curve and angle of the surface around the eyes and apply them to your drawing.
+[00:03:41,079 | 00:03:49,290 | 8s] The nose and mouth are made up of many muscles and cartilage joining together into a complex structure, making them one of the hardest parts for beginners to draw.
+[00:03:49,291 | 00:03:52,371 | 3s] Study this drawing where the shape is emphasized.
+[00:03:53,715 | 00:03:58,620 | 5s] It's good to think of the nose as three masses when drawing it.
+[00:03:58,621 | 00:04:01,500 | 3s] It's also nice to express the curve beside the nose.
+[00:04:01,501 | 00:04:06,821 | 5s] If you overdo it, it becomes nasolabial folds, but if you express it well, it also makes the drawing look realistic.
+[00:04:07,424 | 00:04:09,740 | 2s] It's the same with the philtrum.
+[00:04:09,741 | 00:04:14,460 | 5s] There's actually a procedure called a noble lift that raises the philtrum and the bridge of the nose.
+[00:04:14,461 | 00:04:18,661 | 4s] If you draw this area as if it's slightly raised, the image looks more refined.
+[00:04:20,350 | 00:04:25,080 | 5s] The upper lip can be divided into two main masses.
+[00:04:25,530 | 00:04:28,220 | 3s] It's important to draw the center of the lips well.
+[00:04:28,860 | 00:04:31,340 | 2s] The lips aren't flat.
+[00:04:31,341 | 00:04:39,420 | 8s] This red line is what I emphasize when drawing a woman's lips, and it makes the lips look slightly curled up, as if inverted.
+[00:04:41,180 | 00:04:45,150 | 4s] The lower lip can be divided into three main parts.
+[00:04:45,151 | 00:04:50,270 | 5s] Think of it as a flat, a curve, and a flat structure.
+[00:04:50,271 | 00:04:52,030 | 2s] Flat, curve, flat.
+[00:04:53,555 | 00:04:58,780 | 5s] When people draw women, they tend not to show the curves around the mouth.
+[00:04:58,781 | 00:05:01,020 | 2s] They say it's because it makes them look thin.
+[00:05:01,021 | 00:05:04,700 | 4s] But I always make sure to express this part too.
+[00:05:04,701 | 00:05:07,100 | 2s] It makes it a bit more realistic.
+[00:05:07,101 | 00:05:08,700 | 2s] Let's check by looking at my drawings.
+[00:05:11,125 | 00:05:13,550 | 2s] I've marked them with red lines.
+[00:05:15,395 | 00:05:19,031 | 4s] It's faint, but it's definitely expressed.
+[00:05:24,350 | 00:05:31,040 | 7s] In profile, it's good when the lips don't fully close when you draw a straight line from the nose to the chin.
+[00:05:36,700 | 00:05:40,551 | 4s] When drawing ears, you also establish the big flow first, then render.
+[00:05:42,780 | 00:05:46,110 | 3s] You should draw them like a concave dish shape.
+[00:05:46,111 | 00:05:47,550 | 1s] Draw them a lot.
+[00:05:47,551 | 00:05:52,990 | 5s] For the position behind, find the center of the side-view head and place it a bit behind.
+[00:05:54,965 | 00:06:04,110 | 9s] When drawing a realistic face, you have to be unhesitating about showing the hollow beside the nose, like the nasolabial folds, the shading on the cheekbones, and the philtrum.
+[00:06:04,111 | 00:06:10,190 | 6s] You've probably seen photos where these areas are smoothed out during retouching, and they look awkward and obviously edited.
+[00:06:10,191 | 00:06:13,630 | 3s] That's far from my drawing style, which pursues naturalness.
+[00:06:13,631 | 00:06:16,910 | 3s] If expression is difficult for you, it's also good to draw an elderly person.
+[00:06:16,911 | 00:06:20,391 | 3s] You can express these things relatively easily and without hesitation.
+[00:06:24,720 | 00:06:26,880 | 2s] I have to bring up proportions.
+[00:06:26,881 | 00:06:31,760 | 5s] I don't draw by calculating proportions mathematically, but I've analyzed my own drawings in my own way.
+[00:06:31,761 | 00:06:32,960 | 1s] Let's take the front view as the baseline.
+[00:06:34,860 | 00:06:44,261 | 9s] The forehead line, the starting point of the eyebrows, the center base of the nose, and the chin line have a ratio of one to one to one.
+[00:06:46,960 | 00:06:52,440 | 5s] The horizontal length of the eye and the distance between the eyes have a one to one to one ratio too.
+[00:06:55,850 | 00:07:04,090 | 8s] When you draw a triangle connecting the center of the eyes and the center of the lips, the tip of the nose touches the two ends of the nose.
+[00:07:05,480 | 00:07:13,960 | 8s] For women, this triangle is close to equilateral, and for men it's a longer triangle top to bottom.
+[00:07:13,961 | 00:07:19,000 | 5s] That's because when I draw women, I prefer to draw the midface a bit shorter.
+[00:07:19,001 | 00:07:21,560 | 3s] It gets even shorter with a younger age.
+[00:07:21,561 | 00:07:32,280 | 11s] I draw it shorter for East Asians than Westerners, because the juvenile features that keep a child's face into adulthood are especially prominent in East Asians.
+[00:07:32,281 | 00:07:35,320 | 3s] In Korea especially, a short midface is preferred.
+[00:07:35,540 | 00:07:36,520 | 1s] That's right.
+[00:07:36,521 | 00:07:45,880 | 9s] Compared to East Asians, Westerners have deeper-set eyes, a higher nose, and a longer head shape front to back.
+[00:07:45,881 | 00:07:56,040 | 10s] Most East Asians have a shorter head shape, which is relatively flatter, with shallower eyelids, and a wider gap between the eyebrows, compared to Westerners.
+[00:07:57,265 | 00:08:03,011 | 6s] You might think a short head shape is a drawback of East Asians from an aesthetic standpoint, but it's not at all.
+[00:08:03,505 | 00:08:06,931 | 3s] There are plenty of handsome and beautiful celebrities with short head shapes.
+[00:08:07,000 | 00:08:11,210 | 4s] Let's gather photos of beautiful people from both East and West, compare them, and study.
+[00:08:15,960 | 00:08:20,650 | 5s] Now that we've learned about shape, let's look at the process of simplifying a drawing.
+[00:08:20,651 | 00:08:24,810 | 4s] From left to right, it shows the drawing getting more and more simplified.
+[00:08:25,450 | 00:08:31,530 | 6s] The picture on the far right only has the relatively important parts I've been explaining so far.
+[00:08:31,531 | 00:08:34,570 | 3s] You can quickly show just the overall shape.
+[00:08:34,571 | 00:08:38,409 | 4s] The shapes of the eyes, nose, and mouth get established as you color.
+[00:08:38,410 | 00:08:41,130 | 3s] You could call it a sketch specialized for coloring.
+[00:08:41,535 | 00:08:43,929 | 2s] Let me show you through an example.
+[00:09:09,230 | 00:09:12,160 | 3s] You sketch while thinking about the skull's structure.
+[00:09:12,161 | 00:09:14,880 | 3s] You determine the positions of the eye sockets, mouth, and ears.
+[00:09:15,765 | 00:09:18,560 | 3s] The lines don't need to be clean.
+[00:09:18,561 | 00:09:21,040 | 2s] You draw while keeping the face proportions in mind.
+[00:09:25,530 | 00:09:26,780 | 1s] You lay down the base color.
+[00:09:26,781 | 00:09:30,220 | 3s] You can start dark or start light.
+[00:09:30,221 | 00:09:31,580 | 1s] There's no set rule.
+[00:09:31,581 | 00:09:36,300 | 5s] What matters is that you build it up broadly with simple surfaces of about two tones.
+[00:09:36,301 | 00:09:38,940 | 3s] It resembles the process of sculpting.
+[00:09:38,941 | 00:09:41,861 | 3s] You draw with the idea of adding flesh a bit at a time.
+[00:09:42,310 | 00:09:45,541 | 3s] You gradually make the brush smaller to do finer rendering.
+[00:09:50,725 | 00:09:53,040 | 2s] Then you add line drawing on top.
+[00:09:54,325 | 00:09:58,800 | 4s] This way, you can get through the early stages quickly.
+[00:09:58,801 | 00:10:03,360 | 5s] Light, color, and detailed coloring will be covered in later chapters.
+[00:10:03,361 | 00:10:06,080 | 3s] Let's focus on the big masses.
+[00:10:06,081 | 00:10:08,240 | 2s] Let's work on faces in a variety of compositions.
+[00:27:41,179 | 00:27:45,950 | 5s] This time, we learned about facial anatomy and the simplified drawing process.
+[00:27:45,950 | 00:27:49,790 | 4s] Next time, we'll learn about the anatomy of the torso and the simplified drawing process.
+[00:27:50,190 | 00:27:51,190 | 1s] Great work.

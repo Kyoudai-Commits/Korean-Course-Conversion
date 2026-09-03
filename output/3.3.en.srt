@@ -1,0 +1,619 @@
+1
+00:00:04,515 --> 00:00:05,390
+Hello.
+
+2
+00:00:05,391 --> 00:00:14,510
+This time, based on what we learned in Chapters 3, parts 1 and 2, let's look at the methods and principles of applying light to a picture.
+
+3
+00:00:14,511 --> 00:00:18,270
+First, to help with understanding, I've made some spheres in 3D.
+
+4
+00:00:18,271 --> 00:00:21,710
+There's a version without reflected light and a version with it.
+
+5
+00:00:21,711 --> 00:00:30,430
+The two light sources come from the upper left, and I've placed the reflected light on the lower right.
+
+6
+00:00:30,431 --> 00:00:34,390
+These spheres will be the guide for the light.
+
+7
+00:00:34,585 --> 00:00:44,210
+According to what we learned last time, the position of the highlight etc. changes depending on the position of the sphere, and the position of the light source or the observer.
+
+8
+00:00:44,290 --> 00:00:47,771
+For this session, I'll set it so they don't change, for convenience.
+
+9
+00:00:48,105 --> 00:01:00,491
+To add a bit more explanation, things like the highlight position changing with the light source position are better applied when drawing a background with large changes in the phase, rather than a character with relatively small changes.
+
+10
+00:01:03,535 --> 00:01:07,400
+For the demonstration, I've brought a simple character key art sketch.
+
+11
+00:01:07,401 --> 00:01:10,200
+I'll place the guide sphere off to the side.
+
+12
+00:01:10,201 --> 00:01:12,680
+First, I've used it as a sphere with no reflected light.
+
+13
+00:01:12,840 --> 00:01:20,600
+For the character, I've used the materials we use a lot: skin, cloth, leather, and metal, appropriately.
+
+14
+00:01:20,601 --> 00:01:24,440
+Let me color it using what we've learned.
+
+15
+00:01:24,441 --> 00:01:31,400
+First, let me lay down the base color like this and convert it to grayscale.
+
+16
+00:01:31,400 --> 00:01:34,920
+I'll determine the inherent value for each object and start.
+
+17
+00:01:34,920 --> 00:01:40,920
+They get brighter in the order of skin, metal, leather, then cloth.
+
+18
+00:01:40,921 --> 00:01:45,560
+As coloring progresses, I have to not break this inherent value.
+
+19
+00:01:45,561 --> 00:01:47,720
+Let's color the skin.
+
+20
+00:01:47,720 --> 00:01:51,000
+I'll work in grayscale to match the color of the sphere.
+
+21
+00:01:51,001 --> 00:01:59,480
+Usually I don't use the glazing method at all because I don't feel its merit, but to help understand light, I'll proceed in a way similar to the glazing light approach.
+
+22
+00:02:00,044 --> 00:02:04,520
+I'll let you know upfront that coloring this way in practice is inefficient.
+
+23
+00:02:05,619 --> 00:02:10,759
+I'll look at the angle and light amount of each face of this sphere, which has no reflected light, and apply it to the skin.
+
+24
+00:02:12,015 --> 00:02:15,521
+An understanding of the human form is essential.
+
+25
+00:02:16,410 --> 00:02:23,781
+Grasp the faces of the human body broadly, substitute them into the sphere, measure the strength of the shading, and paint it.
+
+26
+00:02:24,570 --> 00:02:29,580
+I won't consider the inherent value.
+
+27
+00:02:29,581 --> 00:02:31,740
+It'd be skin of the same material as the sphere.
+
+28
+00:02:40,570 --> 00:02:48,220
+Find where the faces of the human body and the faces of the sphere align, and it's easy to sample with the eyedropper and paint.
+
+29
+00:02:48,221 --> 00:02:49,820
+Split the faces broadly, into big chunks.
+
+30
+00:02:51,320 --> 00:02:55,171
+Divide the areas like this and substitute them into the sphere.
+
+31
+00:02:55,505 --> 00:02:57,530
+Then repeat the painting.
+
+32
+00:02:59,030 --> 00:03:02,801
+In practice, this sphere needs to exist in your head.
+
+33
+00:03:03,634 --> 00:03:07,900
+Not just a sphere, but a sphere of skin material.
+
+34
+00:03:07,901 --> 00:03:12,380
+If that's the case, you won't need to use the glazing method like this.
+
+35
+00:03:12,381 --> 00:03:14,140
+Because you can paint right away.
+
+36
+00:03:40,510 --> 00:03:44,800
+For the face, split the faces too, recalling the facial anatomy we learned.
+
+37
+00:03:46,010 --> 00:03:49,020
+Let me put the shadow only on the neck.
+
+38
+00:04:22,010 --> 00:04:27,660
+If you've split the faces broadly and painted, blend them naturally.
+
+39
+00:04:27,661 --> 00:04:29,740
+Using the mixer brush tool makes it easy.
+
+40
+00:04:41,525 --> 00:04:44,670
+There are several ways to blend.
+
+41
+00:04:44,671 --> 00:04:53,710
+There's the method of weakening the pen pressure and extracting with the eyedropper while mixing, and the method of mixing with the mixer brush tool like this.
+
+42
+00:04:53,711 --> 00:04:55,710
+Just do whichever way is comfortable for you.
+
+43
+00:04:57,555 --> 00:05:02,700
+When blending like this, you have to not break the faces we've split too much.
+
+44
+00:05:44,380 --> 00:05:50,220
+Usually, when doing glazing, you paint like this and cover the color using an overlay layer etc.
+
+45
+00:05:50,221 --> 00:05:57,660
+But without considering the inherent value I mentioned earlier and last time, it will become a bad picture.
+
+46
+00:05:57,661 --> 00:06:01,701
+For comparison, I've duplicated layers and left them.
+
+47
+00:06:02,115 --> 00:06:05,980
+This new layer will be corrected to match the skin's inherent value.
+
+48
+00:06:06,570 --> 00:06:10,620
+Skin isn't as high-contrast as you'd think.
+
+49
+00:06:10,621 --> 00:06:13,500
+Press Control and M to open the curve window and adjust it.
+
+50
+00:06:13,890 --> 00:06:21,220
+If you set from bright to dark as one, two, three, four, and five, raise the middle part, three.
+
+51
+00:06:22,615 --> 00:06:27,680
+And lower two and four a bit so the midtones widen.
+
+52
+00:06:29,230 --> 00:06:39,310
+I raised five and lowered one a bit so the dark doesn't become too dark and the highlight doesn't pop too much.
+
+53
+00:06:41,555 --> 00:06:45,340
+It now has an inherent value similar to the skin tone.
+
+54
+00:06:45,341 --> 00:06:49,861
+Let me overlay the skin color on top of this.
+
+55
+00:06:57,820 --> 00:07:01,750
+Change the layer property to overlay and check it.
+
+56
+00:07:02,625 --> 00:07:04,460
+The skin first pass is done.
+
+57
+00:07:04,461 --> 00:07:05,900
+Not hard, right?
+
+58
+00:07:05,901 --> 00:07:08,620
+Let's also apply the reflected light.
+
+59
+00:07:08,621 --> 00:07:15,781
+Let me go back to grayscale and swap the sphere with reflected light in, and paint while setting it.
+
+60
+00:07:47,315 --> 00:07:50,300
+You shouldn't paint the parts where the reflected light is blocked.
+
+61
+00:07:50,301 --> 00:07:51,500
+It's these parts.
+
+62
+00:07:51,501 --> 00:07:54,220
+The body blocks it, so the reflected light can't reach.
+
+63
+00:07:54,221 --> 00:07:57,260
+The reflected light reflecting off the body can form.
+
+64
+00:07:57,261 --> 00:08:04,940
+But for now, I'll only consider the reflected light coming from the reflected light source, not the reflected light scattered from the skin.
+
+65
+00:08:04,941 --> 00:08:08,300
+If you turn on the overlay layer, it becomes skin with the reflected light applied.
+
+66
+00:08:09,680 --> 00:08:18,080
+To go into deeper coloring, you'd have to consider the color of this reflected light, the shift in the skin's hue, subsurface scattering, and so on.
+
+67
+00:08:18,081 --> 00:08:21,641
+I'll cover deeper coloring in a later chapter.
+
+68
+00:08:23,095 --> 00:08:27,040
+You can draw other parts with the same principle.
+
+69
+00:08:27,041 --> 00:08:33,200
+For cloth, it has even less contrast than skin, so the highlight forms less.
+
+70
+00:08:33,201 --> 00:08:40,880
+So even though it's drawn as the same material as the sphere, substituted into the sphere, you absolutely have to reduce the contrast through correction.
+
+71
+00:09:49,540 --> 00:09:53,690
+I lowered the bright parts considerably with curve adjustment.
+
+72
+00:09:53,691 --> 00:09:54,810
+And raised the dark parts a lot too.
+
+73
+00:10:02,305 --> 00:10:05,860
+Likewise, raise an overlay layer to add color.
+
+74
+00:10:13,615 --> 00:10:18,360
+For leather, it's good to have just a little bit more contrast than skin.
+
+75
+00:10:54,339 --> 00:10:55,340
+Do the same curve correction on it.
+
+76
+00:11:02,410 --> 00:11:04,300
+Raise an overlay layer.
+
+77
+00:11:15,655 --> 00:11:20,201
+It looked too high in contrast, so I adjusted it again.
+
+78
+00:11:47,639 --> 00:11:48,640
+Metal has the strongest contrast.
+
+79
+00:11:48,641 --> 00:11:51,961
+I'm drawing without considering reflected objects.
+
+80
+00:12:18,250 --> 00:12:23,080
+Along with the value contrast of the material, I draw with the inherent value in mind too.
+
+81
+00:12:50,445 --> 00:12:58,700
+Now that I know this value application principle, instead of glazing, let me color again while controlling hue and value together.
+
+82
+00:12:58,701 --> 00:13:03,260
+Naturally, it's important to draw while recalling the inherent value for each material.
+
+83
+00:13:04,840 --> 00:13:07,560
+I enjoy this task the most.
+
+84
+00:13:07,561 --> 00:13:16,760
+Compared to the total work time, it takes less than five percent of the time, but I feel like almost fifty percent of the completion gets packed in.
+
+85
+00:13:16,761 --> 00:13:21,080
+The further into the later stages you go, the less the picture changes relative to the time you put in.
+
+86
+00:13:21,081 --> 00:13:23,480
+It's tiring and hard work.
+
+87
+00:13:23,481 --> 00:13:28,840
+Within a month, my classmates will be working this happily too.
+
+88
+00:13:28,841 --> 00:13:29,400
+Enjoy it.
+
+89
+00:13:29,401 --> 00:13:30,520
+Because the hard part is ahead.
+
+90
+00:13:32,090 --> 00:13:36,060
+I told you earlier that this first-pass coloring is the most important.
+
+91
+00:13:36,061 --> 00:13:38,220
+It determines the completion.
+
+92
+00:13:38,221 --> 00:13:43,340
+The client's confirmation of the coloring draft also happens in this process.
+
+93
+00:13:44,515 --> 00:13:49,660
+Should I say it's decided here whether the picture becomes a golden spoon or a black spoon?
+
+94
+00:13:49,661 --> 00:13:59,900
+Even if it becomes a black spoon in this process, a good picture can still come out, but the reality is that a golden spoon is easy to succeed at, while a black spoon requires blood, sweat, and tears.
+
+95
+00:13:59,901 --> 00:14:00,901
+Because of that, when I.
+
+96
+00:14:00,990 --> 00:14:08,240
+If I don't like the picture, I go back to this stage, redo the light setup, and enter the first-pass coloring.
+
+97
+00:14:08,241 --> 00:14:10,480
+To be reborn as a golden spoon.
+
+98
+00:14:10,481 --> 00:14:13,881
+In reality it's impossible, but in drawing it's possible.
+
+99
+00:15:12,410 --> 00:15:17,420
+On the premise that the sketch and base color are laid down, this first pass takes ten minutes.
+
+100
+00:15:17,795 --> 00:15:19,500
+It's a low-pressure amount of time.
+
+101
+00:15:19,501 --> 00:15:21,740
+Because of that, you can make various attempts.
+
+102
+00:15:22,250 --> 00:15:25,500
+The mood of a picture changes a lot depending on the light.
+
+103
+00:15:25,501 --> 00:15:28,821
+Let me do a first-pass coloring using the light spheres.
+
+104
+00:15:31,870 --> 00:15:37,440
+For metal, as we learned last time, work thinking there's something around it.
+
+105
+00:15:37,441 --> 00:15:43,040
+Be sure to put the light source and observer, and it'd be good to set just one or two more things.
+
+106
+00:15:43,150 --> 00:15:46,441
+It'd be great to consider the character's body or clothes too.
+
+107
+00:15:50,620 --> 00:15:54,510
+This accessory on the forearm is cylindrical in shape.
+
+108
+00:15:54,511 --> 00:16:00,270
+Since we learned how to paint cylindrical metal last time, you can draw it without much difficulty.
+
+109
+00:16:00,271 --> 00:16:04,990
+It happens to be tilted to match the position of the light source, so the highlight is very visible.
+
+110
+00:16:08,250 --> 00:16:16,250
+I'll paint the highlight.
+
+111
+00:16:16,251 --> 00:16:19,130
+Then I'll paint the reflected color of the clothes here.
+
+112
+00:16:26,250 --> 00:16:29,130
+And I'll paint the observer too.
+
+113
+00:16:29,131 --> 00:16:30,131
+It'd be facing front, right?
+
+114
+00:16:35,870 --> 00:16:39,440
+And since the background and floor are a light gray.
+
+115
+00:16:40,790 --> 00:16:44,561
+I'll mix it with the metal's own slight orange tint and paint a bright color.
+
+116
+00:16:46,270 --> 00:16:52,121
+If you sample the background with the eyedropper and adjust the pen pressure and paint, it'll mix into a natural color.
+
+117
+00:17:03,870 --> 00:17:08,190
+Shall we look at the other side too?
+
+118
+00:17:08,191 --> 00:17:12,471
+Here it's largely blocked by clothes, so I'll paint it dark.
+
+119
+00:17:20,669 --> 00:17:24,840
+And this bracelet on the other side is cylindrical too.
+
+120
+00:17:30,464 --> 00:17:33,660
+For the right part here, I'll paint the reflected light.
+
+121
+00:17:35,874 --> 00:17:42,350
+For this middle part, it faces the ground, and judging by the angle, it's quite far from the ground.
+
+122
+00:17:42,351 --> 00:17:44,990
+The farther away, the weaker the light.
+
+123
+00:17:44,991 --> 00:17:46,910
+I'll paint the reflected light lightly.
+
+124
+00:18:11,324 --> 00:18:14,600
+And this left part is projected from the skin.
+
+125
+00:18:16,620 --> 00:18:23,020
+I'll apply that color.
+
+126
+00:18:23,021 --> 00:18:26,901
+The rest of the metal can be drawn through this kind of calculation.
+
+127
+00:19:04,479 --> 00:19:06,000
+What about hair?
+
+128
+00:19:06,000 --> 00:19:11,040
+The head, broadly speaking, is a sphere shape, so why does a ring-shaped highlight form?
+
+129
+00:19:11,041 --> 00:19:12,960
+I've drawn a head to explain.
+
+130
+00:19:14,749 --> 00:19:18,560
+I think many of you have drawn this ring-shaped highlight.
+
+131
+00:19:20,469 --> 00:19:22,920
+Let me approach it theoretically.
+
+132
+00:19:22,921 --> 00:19:25,640
+A person's head isn't just a sphere shape.
+
+133
+00:19:25,641 --> 00:19:29,720
+It's countless strands of hair gathered together to form a sphere shape.
+
+134
+00:19:31,024 --> 00:19:34,451
+To help understanding, I made a model in 3D again.
+
+135
+00:19:34,894 --> 00:19:40,010
+I made it assuming the hair is in eight lumps.
+
+136
+00:19:40,011 --> 00:19:42,490
+Where do the highlights form?
+
+137
+00:19:42,491 --> 00:19:43,850
+They form in two places here.
+
+138
+00:19:45,495 --> 00:19:48,720
+Because the surface is bumpy.
+
+139
+00:19:48,721 --> 00:19:53,200
+What happens if the hair is spread to sixteen lumps?
+
+140
+00:19:53,201 --> 00:19:54,880
+There are more highlights now.
+
+141
+00:19:57,124 --> 00:19:59,360
+Shall we look at thirty-two lumps?
+
+142
+00:19:59,361 --> 00:20:00,361
+There are more, right?
+
+143
+00:20:01,959 --> 00:20:05,080
+What happens if there are countless strands of hair?
+
+144
+00:20:05,081 --> 00:20:06,200
+It becomes a ring shape.
+
+145
+00:20:07,429 --> 00:20:11,400
+That's why a ring-shaped highlight forms on a person's hair.
+
+146
+00:20:12,569 --> 00:20:23,340
+In this way, if you have a high understanding of the surface material of an object and of light, you can draw a realistic picture well without even referencing a photo.
+
+147
+00:20:23,340 --> 00:20:29,180
+The more you know about light, the harder it gets, but I think you don't have to be too afraid of it.
+
+148
+00:20:29,181 --> 00:20:32,821
+It's good to be accurate, but it doesn't have to be perfect.
+
+149
+00:20:32,860 --> 00:20:35,180
+As long as it's not clumsy.
+
+150
+00:20:35,181 --> 00:20:38,380
+Because drawing a good-looking picture comes first.
+
+151
+00:20:38,381 --> 00:20:42,460
+Even with a moderate understanding like mine, you can make a living drawing pictures.
+
+152
+00:20:43,294 --> 00:20:49,560
+My only wish is that the light in the pictures of my classmates who take this class won't be clumsy.
+
+153
+00:20:51,100 --> 00:20:55,150
+In this chapter, we learned about light and color.
+
+154
+00:20:55,150 --> 00:21:00,350
+From the next chapter, we'll begin character concept art in earnest.
+
+155
+00:21:00,351 --> 00:21:01,351
+Great work.
