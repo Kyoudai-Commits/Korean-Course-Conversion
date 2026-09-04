@@ -1,0 +1,14 @@
+# <Course title>
+- ID:
+- Language / dialect / register:
+- Instructor (name as it should appear in English; pronunciation hint for TTS):
+- Discipline:
+- Software / tools (confirmed / suspected):
+- Lesson structure (if known):
+- Core concepts the instructor keeps returning to:
+- Course-specific vocabulary (source → preferred English):
+- Homonym / ASR traps specific to this course:
+- Voice notes (how the instructor talks; what to preserve):
+- Known references (other artists, works, books, tools):
+- Open questions / verify:
+- Glossary file: glossaries/<id>.tsv (accumulated, evidence-based)
